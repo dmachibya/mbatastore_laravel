@@ -102,13 +102,17 @@ class SystemConfigResource extends JsonResource
       ] : null,
       "active_languages" => ListHelper::availableLocales()->pluck('language', 'code')->toArray(),
 
-      "smart_form_id_for_customer_registration_form" => $this->smart_form_id_for_customer_registration_form,
+      // "smart_form_id_for_customer_registration_form" => $this->smart_form_id_for_customer_registration_form,
+      "smart_form_id_for_customer_registration_form" => "2",
       "show_customer_terms_and_conditions" => $this->show_customer_terms_and_conditions,
       "show_vendor_terms_and_conditions" => $this->show_vendor_terms_and_conditions,
       "smart_form_id_for_vendor_additional_info" => $this->smart_form_id_for_vendor_additional_info,
-      'smart_form_id_for_selling_page' => $this->smart_form_id_for_selling_page,
-      'smart_form_id_for_contact_us_page' => $this->smart_form_id_for_contact_us_page,
-      'publicly_show_affiliate_commission' => $this->publicly_show_affiliate_commission,
+      'smart_form_id_for_selling_page' => "3",
+      // 'smart_form_id_for_selling_page' => $this->smart_form_id_for_selling_page,
+      'smart_form_id_for_contact_us_page' => "4",
+      // 'smart_form_id_for_contact_us_page' => $this->smart_form_id_for_contact_us_page,
+      // 'publicly_show_affiliate_commission' => $this->publicly_show_affiliate_commission,
+      'publicly_show_affiliate_commission' => false,
     ];
   }
 }

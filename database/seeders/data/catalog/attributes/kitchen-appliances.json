@@ -1,0 +1,4 @@
+{
+  "Material": ["Plastic", "Stainless Steel", "Aluminum", "Ceramic"],
+  "Capacity": ["1.5L", "2.5L", "3.5L", "5L"]
+}

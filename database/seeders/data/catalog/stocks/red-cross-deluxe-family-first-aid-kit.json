@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Red Cross Deluxe Family First Aid Kit - Comprehensive First Aid Supplies",
+    "slug": "red-cross-deluxe-family-first-aid-kit-comprehensive-first-aid-supplies",
+    "sku": "RC-DFK-2024-001",
+    "description": "The Red Cross Deluxe Family First Aid Kit provides a wide range of first aid supplies to address minor injuries and emergencies. This deluxe kit features an assortment of bandages, antiseptics, ointments, and medical tools including a digital thermometer, splint, and more. The durable case is organized for easy access, and the included first aid book offers essential information for handling various emergencies. Perfect for home use, family vacations, or outdoor adventures, this first aid kit ensures you are prepared for any situation. Its comprehensive selection of items and detailed instructions make it an excellent choice for family safety.",
+    "price": 54.99,
+    "offer_price": 46.99,
+    "key_features": [
+      "Deluxe First Aid Supplies",
+      "Includes Digital Thermometer and Splint",
+      "Comprehensive First Aid Book",
+      "Organized and Durable Case"
+    ],
+    "stock_quantity": 45,
+    "sold_quantity": 85,
+    "shipping_weight": 2.5,
+    "meta_title": "Red Cross Deluxe Family First Aid Kit - Comprehensive First Aid Supplies",
+    "meta_description": "Explore the Red Cross Deluxe Family First Aid Kit with a wide range of supplies for minor injuries and emergencies. Includes bandages, ointments, a digital thermometer, and a first aid book. Buy now at a special offer price!"
+  },
+  {
+    "title": "Red Cross Deluxe Family First Aid Kit - Essential Medical Kit for Families",
+    "slug": "red-cross-deluxe-family-first-aid-kit-essential-medical-kit-for-families",
+    "sku": "RC-DFK-2024-002",
+    "description": "Ensure your family is prepared for any emergency with the Red Cross Deluxe Family First Aid Kit. This comprehensive kit includes an extensive selection of first aid supplies such as bandages, antiseptics, ointments, and medical instruments. The kit also features a digital thermometer, a splint, and a first aid book with detailed instructions for managing a variety of injuries and emergencies. The sturdy and organized case keeps all items in place and easily accessible. Ideal for home, travel, and outdoor activities, this deluxe kit is a reliable solution for keeping your family safe and prepared.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "Extensive First Aid Supplies",
+      "Digital Thermometer and Splint Included",
+      "First Aid Book with Detailed Instructions",
+      "Sturdy and Organized Case"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 60,
+    "shipping_weight": 2.7,
+    "meta_title": "Red Cross Deluxe Family First Aid Kit - Essential Medical Kit for Families",
+    "meta_description": "Get the Red Cross Deluxe Family First Aid Kit with essential supplies for family safety. Includes bandages, a digital thermometer, a splint, and a comprehensive first aid book. Perfect for home or travel. Buy now at a discount!"
+  }
+]

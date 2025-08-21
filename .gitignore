@@ -1,0 +1,50 @@
+# Laravel & PHP
+/vendor/
+/node_modules/
+.env
+.env.*
+.phpunit.result.cache
+/storage/*.key
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# Composer
+composer.lock
+
+# Laravel IDE Helper
+.phpstorm.meta.php
+/_ide_helper.php
+/_ide_helper_models.php
+
+# NPM / Yarn
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Laravel Vapor / Envoy
+.vapor/
+.env.vapor.*
+.env.production
+.env.staging
+
+# Cache & Logs
+*.log
+*.cache
+
+# Archives
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Testing
+/tests/_output/*
+/coverage/

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Educated: A Memoir - Paperback",
+    "slug": "educated-a-memoir-paperback",
+    "sku": "EDUCATED-PB",
+    "description": "Tara Westover's 'Educated: A Memoir' is a powerful and inspiring story of a woman's journey from a remote mountain home to the halls of Cambridge University. This paperback edition offers a convenient and accessible format for readers to experience Westover's incredible transformation. Raised by survivalist parents who eschewed formal education, Westover taught herself enough to be admitted to Brigham Young University and eventually earned a PhD from Cambridge. Her memoir is a testament to the power of education and the resilience of the human spirit. It's a compelling narrative that challenges readers to consider the value of knowledge and the strength required to overcome adversity.",
+    "price": 17.99,
+    "offer_price": 15.99,
+    "key_features": [
+      "Inspiring Memoir",
+      "Journey from Isolation to Education",
+      "Power of Knowledge",
+      "Accessible Paperback Format"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 35,
+    "shipping_weight": 1.1,
+    "meta_title": "Educated: A Memoir - Paperback",
+    "meta_description": "Buy 'Educated: A Memoir' in paperback. Tara Westover's inspiring journey from a remote mountain home to earning a PhD from Cambridge."
+  },
+  {
+    "title": "Educated: A Memoir - Hardcover",
+    "slug": "educated-a-memoir-hardcover",
+    "sku": "EDUCATED-HC",
+    "description": "Discover Tara Westover's 'Educated: A Memoir' in this stunning hardcover edition. Westover's extraordinary story of self-invention takes readers from her isolated childhood in the mountains of Idaho to the prestigious halls of Cambridge University. Despite having no formal education until her late teens, Westover's determination and willpower led her to academic success and personal growth. This durable hardcover edition is perfect for collectors and those who appreciate a high-quality, long-lasting copy of this remarkable memoir. 'Educated' is a profound narrative about the transformative power of education and the resilience of the human spirit.",
+    "price": 26.99,
+    "offer_price": 23.99,
+    "key_features": [
+      "Inspiring Memoir",
+      "Journey from Isolation to Education",
+      "Power of Knowledge",
+      "Durable Hardcover Edition"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 25,
+    "shipping_weight": 1.4,
+    "meta_title": "Educated: A Memoir - Hardcover",
+    "meta_description": "Order 'Educated: A Memoir' in hardcover. Tara Westover's remarkable story of overcoming isolation and achieving academic success."
+  }
+]

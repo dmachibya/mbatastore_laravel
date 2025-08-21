@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+    "slug": "sony-wh-1000xm4-wireless-noise-canceling-headphones",
+    "brand": "Sony",
+    "model_number": "WH1000XM4/B",
+    "mpn": "WH1000XM4/B",
+    "gtin": "0027242918807",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Sony Corporation",
+    "description": "The Sony WH-1000XM4 Wireless Noise-Canceling Headphones offer the best in noise-canceling technology, providing a peaceful listening experience in any environment. Featuring Dual Noise Sensor technology and a powerful HD Noise-Canceling Processor QN1, these headphones deliver exceptional sound quality with high-resolution audio. The adaptive sound control adjusts the ambient sound settings to your activity, while the touch sensor controls allow you to pause/play/skip tracks, control volume, and answer phone calls effortlessly. With up to 30 hours of battery life, quick charging, and a comfortable over-ear design, the WH-1000XM4 headphones are perfect for long listening sessions. The Speak-to-Chat feature automatically pauses the music when you start talking, and the Multipoint Connection lets you pair two Bluetooth devices at the same time. These headphones also support voice assistants like Alexa and Google Assistant for hands-free control."
+  },
+  {
+    "name": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+    "slug": "bose-quietcomfort-35-ii-wireless-bluetooth-headphones",
+    "brand": "Bose",
+    "model_number": "789564-0010",
+    "mpn": "789564-0010",
+    "gtin": "0017817788021",
+    "gtin_type": "UPC",
+    "origin_country": "United States",
+    "manufacturer": "Bose Corporation",
+    "description": "The Bose QuietComfort 35 II Wireless Bluetooth Headphones are engineered with world-class noise cancellation, making them ideal for music, travel, and relaxation. These headphones feature a high-quality audio performance with volume-optimized EQ for balanced audio performance at any volume. The noise-rejecting dual-microphone system ensures clear calls even in noisy environments. The QC35 II headphones are Alexa-enabled for voice access to music, information, and more. With a battery life of up to 20 hours, they offer long-lasting listening sessions. The multi-function button gives you access to your phone's default virtual assistant, like Siri. The Bose Connect app helps you manage your paired devices and provides access to future updates. The lightweight materials and cushioned earcups provide maximum comfort, making these headphones perfect for all-day use."
+  }
+]

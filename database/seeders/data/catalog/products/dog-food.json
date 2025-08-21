@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Premium Grain-Free Dog Food",
+    "slug": "premium-grain-free-dog-food",
+    "brand": "Canine Gourmet",
+    "model_number": "CG-12345",
+    "mpn": "CG12345",
+    "gtin": "1234567890123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Canine Gourmet Inc.",
+    "description": "Premium Grain-Free Dog Food from Canine Gourmet is designed for the well-being of your furry friend. Our specially formulated recipe includes high-quality proteins such as chicken and beef, combined with wholesome vegetables and fruits. This dog food is free from grains, which makes it ideal for dogs with sensitivities or allergies. It also features added vitamins and minerals to support overall health, including Omega-3 and Omega-6 fatty acids for a shiny coat and healthy skin. With a rich blend of nutrients, this dog food helps maintain a healthy weight, supports digestive health, and boosts your dog's immune system. Give your dog the best nutrition with our premium grain-free dog food that your pet will love and thrive on."
+  },
+  {
+    "name": "Organic Chicken & Vegetable Dog Food",
+    "slug": "organic-chicken-vegetable-dog-food",
+    "brand": "Nature’s Best",
+    "model_number": "NB-67890",
+    "mpn": "NB67890",
+    "gtin": "0987654321098",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Nature’s Best Pet Foods",
+    "description": "Organic Chicken & Vegetable Dog Food by Nature’s Best is a premium choice for pet owners seeking a natural and nutritious diet for their dogs. Made with 100% organic chicken, this dog food is rich in high-quality protein to support muscle growth and repair. The recipe includes a balanced mix of organic vegetables like carrots, peas, and sweet potatoes, which provide essential vitamins and minerals. We use only natural ingredients without artificial preservatives, colors, or flavors. This formula supports optimal health, including a strong immune system, healthy digestion, and a shiny coat. Our dog food is carefully crafted to meet the dietary needs of dogs at all life stages, ensuring they get the best nutrition possible."
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "Clothings": {
+    "slug": "maternity-Clothing",
+    "description": "Clothing for pregnant women and baby.",
+    "subcategories": [
+      {
+        "name": "Maternity Clothing",
+        "slug": "maternity-clothing",
+        "description": "Clothing designed for comfort and style during pregnancy."
+      },
+      {
+        "name": "Baby Clothing",
+        "slug": "baby-clothing",
+        "description": "Clothing for newborns and infants."
+      }
+    ]
+  },
+  "Baby Gear": {
+    "slug": "baby-gear",
+    "description": "Essential equipment for babies.",
+    "subcategories": [
+      {
+        "name": "Strollers",
+        "slug": "strollers",
+        "description": "Wheeled devices to transport babies."
+      },
+      {
+        "name": "Car Seats",
+        "slug": "car-seats",
+        "description": "Safety seats for babies in vehicles."
+      },
+      {
+        "name": "Baby Carriers",
+        "slug": "baby-carriers",
+        "description": "Devices to carry babies on the body."
+      },
+      {
+        "name": "Baby Monitors",
+        "slug": "baby-monitors",
+        "description": "Devices to monitor babies remotely."
+      }
+    ]
+  },
+  "Feeding": {
+    "slug": "feeding",
+    "description": "Products related to feeding babies.",
+    "subcategories": [
+      {
+        "name": "Breastfeeding Supplies",
+        "slug": "breastfeeding-supplies",
+        "description": "Products to support breastfeeding mothers."
+      },
+      {
+        "name": "Bottle Feeding",
+        "slug": "bottle-feeding",
+        "description": "Bottles and accessories for feeding babies."
+      },
+      {
+        "name": "High Chairs",
+        "slug": "high-chairs",
+        "description": "Chairs designed for babies to sit at the table."
+      },
+      {
+        "name": "Baby Food",
+        "slug": "baby-food",
+        "description": "Nutritious food options for babies."
+      }
+    ]
+  },
+  "Nursery": {
+    "slug": "nursery",
+    "description": "Furniture and decor for a baby's room.",
+    "subcategories": [
+      {
+        "name": "Cribs",
+        "slug": "cribs",
+        "description": "Beds specifically designed for babies."
+      },
+      {
+        "name": "Changing Tables",
+        "slug": "changing-tables",
+        "description": "Tables designed for changing diapers."
+      },
+      {
+        "name": "Nursery Bedding",
+        "slug": "nursery-bedding",
+        "description": "Bedding sets for cribs and baby beds."
+      },
+      {
+        "name": "Nursery Decor",
+        "slug": "nursery-decor",
+        "description": "Decorative items for a baby's room."
+      }
+    ]
+  },
+  "Health and Safety": {
+    "slug": "health-and-safety",
+    "description": "Products to ensure the health and safety of babies.",
+    "subcategories": [
+      {
+        "name": "Baby Gates",
+        "slug": "baby-gates",
+        "description": "Gates to prevent babies from entering unsafe areas."
+      },
+      {
+        "name": "Safety Locks",
+        "slug": "safety-locks",
+        "description": "Locks to keep cabinets and drawers secure."
+      },
+      {
+        "name": "Health Care",
+        "slug": "health-care",
+        "description": "Products for baby health care."
+      },
+      {
+        "name": "First Aid",
+        "slug": "first-aid",
+        "description": "First aid products for babies."
+      }
+    ]
+  }
+}

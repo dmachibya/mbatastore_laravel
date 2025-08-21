@@ -1,0 +1,4 @@
+{
+  "Material": ["Resin", "Plastic", "Ceramic", "Silicone"],
+  "Tank Type": ["Freshwater", "Saltwater", "Brackish", "Reef"]
+}

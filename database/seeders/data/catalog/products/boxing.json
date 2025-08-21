@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Boxing Training Gloves",
+    "slug": "boxing-training-gloves",
+    "brand": "Knockout Gear",
+    "model_number": "KG-100",
+    "mpn": "KG-100",
+    "gtin": "3216549870123",
+    "gtin_type": "UPC",
+    "origin_country": "Thailand",
+    "manufacturer": "Knockout Gear Co.",
+    "description": "Knockout Gear's Boxing Training Gloves are designed to provide superior protection and comfort for boxers at all levels. These gloves are crafted from high-quality synthetic leather, offering durability and long-lasting performance. The multi-layer foam padding absorbs impact effectively, reducing the risk of injury during intense training sessions. The adjustable Velcro strap ensures a secure fit, while the breathable mesh palm keeps your hands cool and dry. Perfect for heavy bag work, mitt training, and sparring, these gloves are a reliable choice for any boxing workout."
+  },
+  {
+    "name": "Boxing Hand Wraps",
+    "slug": "boxing-hand-wraps",
+    "brand": "Champion Fight Gear",
+    "model_number": "CFG-200",
+    "mpn": "CFG-200",
+    "gtin": "6543210987654",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Champion Fight Gear LLC",
+    "description": "Champion Fight Gear's Boxing Hand Wraps offer essential support and protection for your hands and wrists during training. Made from a durable and elastic cotton blend, these wraps provide a snug fit that helps to stabilize your hands and reduce the risk of injuries. The 180-inch length allows for versatile wrapping techniques, while the secure Velcro closure ensures that the wraps stay in place. Available in multiple colors, these hand wraps are a must-have accessory for boxers of all skill levels."
+  }
+]

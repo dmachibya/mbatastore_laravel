@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Toyota Highlander",
+    "slug": "toyota-highlander",
+    "brand": "Toyota",
+    "model_number": "KL5DJJBB2LB014955",
+    "mpn": "KL5DJJBB2LB014955",
+    "gtin": "0888967854321",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Toyota Motor Corporation",
+    "description": "The Toyota Highlander is a versatile midsize SUV known for its spacious interior, comfortable ride, and advanced safety features. With a robust V6 engine and available all-wheel drive, the Highlander is ideal for families and adventurers alike. It offers a range of trims to suit different preferences, from the well-equipped base model to the luxurious Platinum trim. The Highlander's infotainment system is user-friendly, featuring a large touchscreen, Apple CarPlay, Android Auto, and Amazon Alexa compatibility. Its impressive safety suite includes adaptive cruise control, lane departure alert, and automatic emergency braking, making it one of the safest vehicles in its class."
+  },
+  {
+    "name": "Ford Explorer",
+    "slug": "ford-explorer",
+    "brand": "Ford",
+    "model_number": "1FM5K8F88LGA21345",
+    "mpn": "1FM5K8F88LGA21345",
+    "gtin": "0027084304332",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Ford Motor Company",
+    "description": "The Ford Explorer is a popular full-size SUV that combines powerful performance with a comfortable, tech-savvy interior. Featuring a turbocharged engine lineup, the Explorer delivers strong acceleration and towing capabilities. Its spacious cabin accommodates up to seven passengers, with plenty of cargo space for long trips. The interior is equipped with the latest technology, including the SYNC 3 infotainment system, a 10.1-inch touchscreen, and a Wi-Fi hotspot. Advanced safety features such as blind-spot monitoring, rear cross-traffic alert, and pre-collision assist provide peace of mind on every journey. The Explorer's off-road capabilities and optional all-wheel drive make it a versatile choice for any adventure."
+  },
+  {
+    "name": "Honda CR-V",
+    "slug": "honda-cr-v",
+    "brand": "Honda",
+    "model_number": "5J6RW2H58LL005084",
+    "mpn": "5J6RW2H58LL005084",
+    "gtin": "0197565443152",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Honda Motor Co., Ltd.",
+    "description": "The Honda CR-V is a compact SUV that offers a perfect blend of performance, efficiency, and practicality. Known for its reliable and fuel-efficient engine, the CR-V provides a smooth and responsive driving experience. The interior is spacious, with comfortable seating and ample cargo space, making it an excellent choice for families and commuters. The CR-V is equipped with a host of modern features, including a 7-inch touchscreen infotainment system, Apple CarPlay, Android Auto, and a premium audio system. Safety is a top priority, with standard Honda Sensing® suite of safety and driver-assistive technologies, such as collision mitigation braking, road departure mitigation, and adaptive cruise control. The CR-V's stylish design, combined with its impressive list of features, makes it a standout in the compact SUV segment."
+  }
+]

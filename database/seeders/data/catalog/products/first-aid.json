@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Johnson & Johnson All-Purpose First Aid Kit",
+    "slug": "johnson-johnson-all-purpose-first-aid-kit",
+    "brand": "Johnson & Johnson",
+    "model_number": "JJ-FAK-2024",
+    "mpn": "JJ-FAK-2024-01",
+    "gtin": "1234567890123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Johnson & Johnson",
+    "description": "The Johnson & Johnson All-Purpose First Aid Kit is a comprehensive emergency kit designed to handle a wide range of injuries and medical situations. This kit includes essential first aid supplies such as adhesive bandages, antiseptic wipes, gauze pads, adhesive tape, tweezers, scissors, and a first aid manual. The compact and durable case makes it easy to store in your home, car, or office. Each item is carefully selected to meet emergency needs, making it an excellent choice for families, travelers, and workplaces. The first aid manual provides step-by-step instructions for treating various injuries and health emergencies."
+  },
+  {
+    "name": "Red Cross Deluxe Family First Aid Kit",
+    "slug": "red-cross-deluxe-family-first-aid-kit",
+    "brand": "Red Cross",
+    "model_number": "RC-DFK-2024",
+    "mpn": "RC-DFK-2024-01",
+    "gtin": "0987654321098",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Red Cross",
+    "description": "The Red Cross Deluxe Family First Aid Kit offers a wide array of medical supplies for treating minor injuries and providing first aid in emergencies. This kit includes a variety of bandages, antiseptics, ointments, and medical instruments such as a digital thermometer, splint, and first aid book. Designed for families, this comprehensive kit ensures you are prepared for common injuries and accidents. The sturdy, organized case is perfect for home use, vacations, or outdoor activities. The included first aid book offers detailed information on handling emergencies, providing peace of mind for users."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Fedora 38 Workstation - Full Version",
+    "slug": "fedora-38-workstation-full-version",
+    "sku": "F38WS-FV",
+    "description": "Fedora 38 Workstation Full Version delivers a state-of-the-art Linux experience for developers and tech professionals. It features the GNOME 44 desktop environment, offering a clean and modern interface with enhanced productivity tools. Fedora 38 Workstation includes the latest development tools, software updates, and support for advanced hardware. This version is designed to meet the needs of developers, engineers, and power users who require a stable and powerful Linux operating system for their work. Explore a wide range of features and capabilities with Fedora 38 Workstation.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "GNOME 44 Desktop Environment",
+      "Latest Development Tools and Software",
+      "High Performance and Stability",
+      "Advanced Hardware Support"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 130,
+    "shipping_weight": 0.1,
+    "meta_title": "Fedora 38 Workstation - Full Version | Red Hat",
+    "meta_description": "Buy Fedora 38 Workstation - Full Version for the latest Linux experience with GNOME 44, development tools, and high-performance features. Ideal for developers and professionals."
+  },
+  {
+    "title": "Fedora 38 Workstation - Digital Download",
+    "slug": "fedora-38-workstation-digital-download",
+    "sku": "F38WS-DD",
+    "description": "Get Fedora 38 Workstation with this convenient digital download option. Designed for developers and power users, this version features the GNOME 44 desktop environment and includes the latest tools, software updates, and advanced hardware support. Fedora 38 Workstation offers a modern and efficient Linux environment for development and professional use. Download instantly and start exploring the latest features and capabilities of Fedora 38 Workstation. Perfect for those seeking a quick and easy installation solution.",
+    "price": 49.99,
+    "offer_price": 39.99,
+    "key_features": [
+      "Instant Digital Download",
+      "GNOME 44 Desktop Environment",
+      "Latest Development Tools and Updates",
+      "High Performance for Professional Use"
+    ],
+    "stock_quantity": 120,
+    "sold_quantity": 250,
+    "shipping_weight": 0.0,
+    "meta_title": "Fedora 38 Workstation - Digital Download | Red Hat",
+    "meta_description": "Purchase Fedora 38 Workstation - Digital Download for a modern Linux OS with GNOME 44, development tools, and high-performance features. Get it instantly for quick setup."
+  }
+]

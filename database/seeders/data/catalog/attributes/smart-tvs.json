@@ -1,0 +1,4 @@
+{
+  "Screen Type": ["QLED", "OLED", "LED"],
+  "Resolution": ["4K", "1080p", "720p"]
+}

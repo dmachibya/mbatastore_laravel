@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Adjustable Dumbbells Set",
+    "slug": "adjustable-dumbbells-set",
+    "brand": "ProForm",
+    "model_number": "PFDBL100",
+    "mpn": "PF-DBL-100",
+    "gtin": "0123456789123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "ProForm",
+    "description": "The ProForm Adjustable Dumbbells Set offers a versatile solution for strength training at home. This set includes two dumbbells with adjustable weights, ranging from 5 to 50 pounds each. Perfect for a range of exercises, including bicep curls, tricep extensions, and shoulder presses, these dumbbells are designed for both beginners and advanced users. The quick adjustment system allows you to change weights in seconds, ensuring a smooth and efficient workout experience. The ergonomic handle and compact design make these dumbbells ideal for home gyms with limited space. Constructed from high-quality steel and covered with a durable finish, the ProForm Adjustable Dumbbells are built to last and support your fitness goals over time."
+  },
+  {
+    "name": "Heavy Duty Squat Rack",
+    "slug": "heavy-duty-squat-rack",
+    "brand": "Titan Fitness",
+    "model_number": "TIT-SQR-500",
+    "mpn": "TIT-SQR-500",
+    "gtin": "0987654321098",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Titan Fitness",
+    "description": "The Titan Fitness Heavy Duty Squat Rack is the ultimate solution for serious strength training. Constructed from heavy gauge steel, this squat rack provides exceptional stability and support for your lifting routines. With adjustable safety bars and multiple height settings, it accommodates a variety of exercises, from squats and bench presses to overhead presses and pull-ups. The rack features a robust design with a high weight capacity, making it suitable for intense workouts and professional use. Its wide base ensures a stable platform for your exercises, and the built-in weight plate storage keeps your gym organized. Ideal for both home gyms and commercial fitness centers, the Titan Fitness Squat Rack is a durable and versatile addition to any strength training setup."
+  }
+]

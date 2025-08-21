@@ -1,0 +1,5 @@
+{
+  "Roof Type": ["Soft Top", "Hard Top", "Retractable Hard Top", "Targa Top"],
+  "Seating Capacity": ["2 Seats", "4 Seats", "4+ Seats"],
+  "Engine Type": ["Inline-4", "V6", "V8", "Electric"]
+}

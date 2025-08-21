@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Portrait of a Lady by Classic Drawings - Framed Print",
+    "slug": "portrait-of-a-lady-framed-print",
+    "sku": "PL-CD-2023-01",
+    "description": "Enhance your home decor with the timeless beauty of 'Portrait of a Lady' by Classic Drawings. This framed print captures the elegance and sophistication of the original pencil drawing, featuring a noblewoman with delicate facial features and intricate details in her hair and clothing. The high-quality print and elegant frame create a stunning presentation, making this artwork a perfect addition to any room. The artist's mastery of shading and fine lines is evident in every detail, bringing the portrait to life and adding a touch of classic art to your collection.",
+    "price": 129.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "High-quality print",
+      "Elegant frame",
+      "Intricate details",
+      "Timeless beauty"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 20,
+    "shipping_weight": 2.0,
+    "meta_title": "Portrait of a Lady Framed Print - Classic Drawings",
+    "meta_description": "Buy a framed print of 'Portrait of a Lady' by Classic Drawings. This high-quality print captures the elegance and intricate details of the original pencil drawing."
+  },
+  {
+    "title": "Portrait of a Lady by Classic Drawings - Canvas Print",
+    "slug": "portrait-of-a-lady-canvas-print",
+    "sku": "PL-CD-2023-02",
+    "description": "Bring the elegance of classic art into your home with this canvas print of 'Portrait of a Lady' by Classic Drawings. This high-quality reproduction captures the fine details and sophisticated beauty of the original pencil drawing, featuring a noblewoman with intricate facial features and a serene expression. The artist's exceptional skill in shading and line work is showcased in this canvas print, creating a timeless piece that enhances any decor. Ready to hang and enjoy, this artwork is perfect for those who appreciate the beauty and refinement of classic drawings.",
+    "price": 149.99,
+    "offer_price": 119.99,
+    "key_features": [
+      "High-quality canvas",
+      "Fine details",
+      "Ready to hang",
+      "Timeless elegance"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 15,
+    "shipping_weight": 2.5,
+    "meta_title": "Portrait of a Lady Canvas Print - Classic Drawings",
+    "meta_description": "Shop for a canvas print of 'Portrait of a Lady' by Classic Drawings. This high-quality reproduction captures the fine details and elegance of the original drawing."
+  }
+]

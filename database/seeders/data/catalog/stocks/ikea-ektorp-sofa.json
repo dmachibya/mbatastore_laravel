@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ikea Ektorp Sofa - White",
+    "slug": "ikea-ektorp-sofa-white",
+    "sku": "IKE-EKT-WHT",
+    "description": "The Ikea Ektorp Sofa in White is a classic and elegant addition to any living room. With its deep, soft seats and sturdy back cushions, this sofa offers superior comfort and support. The removable and washable covers make maintenance easy, ensuring your sofa always looks fresh. Built with durability in mind, the Ektorp Sofa can withstand daily use, making it ideal for families. Its timeless design and clean lines blend seamlessly with various decor styles, providing both functionality and aesthetic appeal.",
+    "price": 399.99,
+    "offer_price": 349.99,
+    "key_features": [
+      "Deep, Soft Seats",
+      "Sturdy Back Cushions",
+      "Removable and Washable Covers",
+      "Durable Construction",
+      "Timeless Design"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 75,
+    "shipping_weight": 100,
+    "meta_title": "Ikea Ektorp Sofa - White",
+    "meta_description": "Buy the Ikea Ektorp Sofa in White. Enjoy deep, soft seats, removable and washable covers, and durable construction. Ideal for families and modern living rooms."
+  },
+  {
+    "title": "Ikea Ektorp Sofa - Dark Beige",
+    "slug": "ikea-ektorp-sofa-dark-beige",
+    "sku": "IKE-EKT-DBE",
+    "description": "The Ikea Ektorp Sofa in Dark Beige offers a stylish and comfortable seating solution for any living room. Featuring deep, soft seats and sturdy back cushions, this sofa provides excellent support and relaxation. The removable and washable covers allow for easy maintenance, keeping your sofa looking new. Built to last, the Ektorp Sofa is perfect for families and can withstand daily use. Its classic design and versatile color make it a perfect fit for various decor styles, offering both elegance and practicality.",
+    "price": 399.99,
+    "offer_price": 349.99,
+    "key_features": [
+      "Deep, Soft Seats",
+      "Sturdy Back Cushions",
+      "Removable and Washable Covers",
+      "Durable Construction",
+      "Classic Design"
+    ],
+    "stock_quantity": 120,
+    "sold_quantity": 60,
+    "shipping_weight": 100,
+    "meta_title": "Ikea Ektorp Sofa - Dark Beige",
+    "meta_description": "Get the Ikea Ektorp Sofa in Dark Beige. Enjoy deep, soft seats, easy-to-maintain covers, and durable construction. Perfect for any living room decor."
+  }
+]

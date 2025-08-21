@@ -1,0 +1,10 @@
+{
+  "Engine Capacity": [
+    "50cc - 100cc",
+    "101cc - 200cc",
+    "201cc - 300cc",
+    "301cc and above"
+  ],
+  "Fuel Type": ["Petrol", "Electric", "Hybrid", "Diesel"],
+  "Brake Type": ["Disc", "Drum", "Combined", "ABS"]
+}

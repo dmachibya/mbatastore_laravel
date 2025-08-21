@@ -1,0 +1,15 @@
+{
+  "Battery Type": [
+    "Lead-Acid",
+    "AGM (Absorbent Glass Mat)",
+    "Gel",
+    "Lithium-Ion"
+  ],
+  "Battery Size": ["Group 24", "Group 35", "Group 47", "Group 65"],
+  "Cold Cranking Amps (CCA)": [
+    "300-500 CCA",
+    "500-700 CCA",
+    "700-900 CCA",
+    "900+ CCA"
+  ]
+}

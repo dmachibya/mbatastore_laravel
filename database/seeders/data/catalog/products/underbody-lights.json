@@ -1,0 +1,77 @@
+[
+  {
+    "name": "RGB LED Underbody Lights Kit",
+    "slug": "rgb-led-underbody-lights-kit",
+    "brand": "GlowRider",
+    "model_number": "GR-UB-2000",
+    "mpn": "GR-UB-2000",
+    "gtin": "850010203452",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "GlowRider",
+    "description": "The GlowRider RGB LED Underbody Lights Kit offers a vibrant, customizable lighting experience for your car. With 8000 Lumens brightness and a full spectrum of colors, you can set the mood for any occasion. Features include app control for easy adjustments, flexible strip design for a perfect fit, and durable construction for long-lasting performance.",
+    "price": 149.99,
+    "offer_price": 129.99,
+    "key_features": [
+      "RGB LED Light Type",
+      "8000 Lumens Brightness",
+      "Multi-Color Options",
+      "App Control"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 12,
+    "shipping_weight": 2.0,
+    "meta_title": "RGB LED Underbody Lights Kit | GlowRider 8000 Lumens",
+    "meta_description": "Enhance your car's appearance with the GlowRider RGB LED Underbody Lights Kit. 8000 Lumens brightness, app control, and multi-color options. Perfect for any car enthusiast!"
+  },
+  {
+    "name": "Neon Tube Underbody Lights - 4000 Lumens",
+    "slug": "neon-tube-underbody-lights-4000-lumens",
+    "brand": "NeonGlow",
+    "model_number": "NG-NT-4000",
+    "mpn": "NG-NT-4000",
+    "gtin": "850011203563",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "NeonGlow",
+    "description": "NeonGlow Neon Tube Underbody Lights provide a sleek and stylish look for your vehicle with 4000 Lumens of brightness. Available in multiple colors and featuring remote control for easy operation, these lights are perfect for adding a touch of flair to your car. The neon tubes are designed for easy installation and durable performance.",
+    "price": 99.99,
+    "offer_price": 89.99,
+    "key_features": [
+      "Neon Tube Light Type",
+      "4000 Lumens Brightness",
+      "Red, Blue, Green, White Options",
+      "Remote Control"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 10,
+    "shipping_weight": 1.8,
+    "meta_title": "Neon Tube Underbody Lights | NeonGlow 4000 Lumens",
+    "meta_description": "Get the NeonGlow Neon Tube Underbody Lights with 4000 Lumens brightness. Choose from Red, Blue, Green, or White. Remote control included for easy operation. Shop now for great deals!"
+  },
+  {
+    "name": "Single Color LED Underbody Lights - Blue",
+    "slug": "single-color-led-underbody-lights-blue",
+    "brand": "BrightShine",
+    "model_number": "BS-UC-BLUE",
+    "mpn": "BS-UC-BLUE",
+    "gtin": "850012304674",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "BrightShine",
+    "description": "BrightShine Single Color LED Underbody Lights in Blue offer a simple yet striking look for your vehicle. With 2000 Lumens of brightness and a color temperature of 6000K (Cool White), these lights provide an eye-catching appearance. The flexible strip design ensures a perfect fit under your car, and the easy installation process makes setup a breeze.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "Single Color LED Light Type",
+      "2000 Lumens Brightness",
+      "Blue Color Option",
+      "Flexible Strip Design"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 8,
+    "shipping_weight": 1.0,
+    "meta_title": "Single Color LED Underbody Lights | BrightShine Blue",
+    "meta_description": "Shop BrightShine Single Color LED Underbody Lights in Blue. 2000 Lumens brightness with a cool 6000K color temperature. Flexible strip design for easy installation. Buy now for discounts!"
+  }
+]

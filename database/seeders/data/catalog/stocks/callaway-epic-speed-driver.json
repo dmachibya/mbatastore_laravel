@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Callaway Epic Speed Driver - 9° Loft",
+    "slug": "callaway-epic-speed-driver-9-loft",
+    "sku": "CESD-9",
+    "description": "The Callaway Epic Speed Driver with a 9° loft is designed to deliver the ultimate combination of distance and forgiveness. Featuring Speed Frame technology for increased ball speeds and enhanced stability, this driver helps you achieve longer and straighter drives. The 460cc clubhead offers a large sweet spot and the adjustable weighting system allows for fine-tuning of launch conditions. Its sleek green and black design not only looks great but also performs exceptionally well. Perfect for golfers of all levels who want to enhance their driving performance.",
+    "price": 549.99,
+    "offer_price": 499.99,
+    "key_features": [
+      "9° Loft",
+      "Speed Frame technology",
+      "460cc clubhead",
+      "Adjustable weighting system"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 10,
+    "shipping_weight": 1.2,
+    "meta_title": "Callaway Epic Speed Driver - 9° Loft",
+    "meta_description": "Buy Callaway Epic Speed Driver with 9° Loft. Featuring Speed Frame technology and a 460cc clubhead for ultimate distance and forgiveness. Adjustable weighting system."
+  },
+  {
+    "title": "Callaway Epic Speed Driver - 10.5° Loft",
+    "slug": "callaway-epic-speed-driver-10-5-loft",
+    "sku": "CESD-10.5",
+    "description": "The Callaway Epic Speed Driver with a 10.5° loft is engineered for golfers who seek a balance of distance and accuracy. This driver incorporates Speed Frame technology for maximum ball speed and stability, and the 460cc clubhead ensures a large sweet spot for optimal performance. The adjustable weighting system allows you to customize your launch conditions for the best results. With its striking green and black design, this driver not only performs exceptionally but also stands out on the course. Ideal for golfers looking to improve their game with a high-performance driver.",
+    "price": 549.99,
+    "offer_price": 499.99,
+    "key_features": [
+      "10.5° Loft",
+      "Speed Frame technology",
+      "460cc clubhead",
+      "Adjustable weighting system"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 12,
+    "shipping_weight": 1.2,
+    "meta_title": "Callaway Epic Speed Driver - 10.5° Loft",
+    "meta_description": "Get the Callaway Epic Speed Driver with 10.5° Loft. Features Speed Frame technology and a 460cc clubhead for enhanced distance and accuracy. Adjustable weighting system."
+  }
+]

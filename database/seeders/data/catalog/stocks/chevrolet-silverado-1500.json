@@ -1,0 +1,59 @@
+[
+  {
+    "title": "2024 Chevrolet Silverado 1500 WT (Work Truck)",
+    "slug": "2024-chevrolet-silverado-1500-wt",
+    "sku": "CHEVY-SILVERADO-1500-WT-2024",
+    "description": "The 2024 Chevrolet Silverado 1500 WT (Work Truck) is built for durability and functionality. This base model offers a 310-hp 2.7L turbocharged engine, a high-strength steel frame, and a large cargo bed for work-related needs. The WT trim includes essential features for business and fleet use, including a 7-inch touchscreen infotainment system, a rearview camera, and advanced safety technologies.",
+    "price": 35995,
+    "offer_price": 34995,
+    "key_features": [
+      "310-hp 2.7L turbocharged engine",
+      "High-strength steel frame",
+      "7-inch touchscreen infotainment system",
+      "Rearview camera and advanced safety features"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 50,
+    "shipping_weight": "4,500 lbs",
+    "meta_title": "2024 Chevrolet Silverado 1500 WT - Durable Work Truck with Essential Features",
+    "meta_description": "Explore the 2024 Chevrolet Silverado 1500 WT with a 310-hp turbocharged engine, high-strength steel frame, and essential features for work and fleet use. Reliable and durable truck for any job."
+  },
+  {
+    "title": "2024 Chevrolet Silverado 1500 LTZ",
+    "slug": "2024-chevrolet-silverado-1500-ltz",
+    "sku": "CHEVY-SILVERADO-1500-LTZ-2024",
+    "description": "The 2024 Chevrolet Silverado 1500 LTZ combines rugged capability with premium features. It comes equipped with a 355-hp 5.3L V8 engine, leather seating, a 12.3-inch digital driver display, and advanced driver assistance technologies. This trim offers a balance of performance, comfort, and technology for both work and everyday driving.",
+    "price": 46995,
+    "offer_price": 45995,
+    "key_features": [
+      "355-hp 5.3L V8 engine",
+      "Leather seating and premium interior",
+      "12.3-inch digital driver display",
+      "Advanced driver assistance technologies"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 35,
+    "shipping_weight": "5,200 lbs",
+    "meta_title": "2024 Chevrolet Silverado 1500 LTZ - Premium Features with Powerful Performance",
+    "meta_description": "Discover the 2024 Chevrolet Silverado 1500 LTZ with a 355-hp V8 engine, leather seating, a 12.3-inch digital display, and advanced driver assistance features. A premium truck for performance and comfort."
+  },
+  {
+    "title": "2024 Chevrolet Silverado 1500 RST",
+    "slug": "2024-chevrolet-silverado-1500-rst",
+    "sku": "CHEVY-SILVERADO-1500-RST-2024",
+    "description": "The 2024 Chevrolet Silverado 1500 RST is a sportier trim with bold styling and high-performance features. It includes a 420-hp 6.2L V8 engine, blacked-out exterior accents, and a 13.4-inch touchscreen infotainment system. The RST trim offers a thrilling driving experience with enhanced performance and modern technology.",
+    "price": 52995,
+    "offer_price": 51995,
+    "key_features": [
+      "420-hp 6.2L V8 engine",
+      "Blacked-out exterior accents",
+      "13.4-inch touchscreen infotainment system",
+      "Sporty design and performance features"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 25,
+    "shipping_weight": "5,400 lbs",
+    "meta_title": "2024 Chevrolet Silverado 1500 RST - Sporty Design with Powerful Performance",
+    "meta_description": "Experience the 2024 Chevrolet Silverado 1500 RST with a 420-hp V8 engine, blacked-out accents, and a 13.4-inch touchscreen infotainment system. A sporty and high-performance truck for a dynamic driving experience."
+  }
+]

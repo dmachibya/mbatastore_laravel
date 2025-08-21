@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Handwoven Wool Rug",
+    "slug": "handwoven-wool-rug",
+    "brand": "Traditional Weavers",
+    "model_number": "TW-WR2024",
+    "mpn": "TW-001",
+    "gtin": "0123456789054",
+    "gtin_type": "EAN",
+    "origin_country": "Morocco",
+    "manufacturer": "Traditional Weavers Co.",
+    "description": "The Handwoven Wool Rug by Traditional Weavers is a masterpiece of artisanal craftsmanship. Each rug is meticulously handwoven using premium quality wool, creating a soft and durable floor covering. The intricate patterns and vibrant colors are inspired by traditional Moroccan designs, adding a touch of cultural elegance to any room. This rug is perfect for adding warmth and texture to your living space, making it a focal point of any decor. Whether placed in a living room, bedroom, or hallway, this handwoven wool rug enhances the aesthetic appeal and comfort of your home."
+  },
+  {
+    "name": "Embroidered Silk Cushion Cover",
+    "slug": "embroidered-silk-cushion-cover",
+    "brand": "Elegance Textiles",
+    "model_number": "ET-SCC2024",
+    "mpn": "ET-002",
+    "gtin": "0123456789055",
+    "gtin_type": "EAN",
+    "origin_country": "India",
+    "manufacturer": "Elegance Textiles Pvt. Ltd.",
+    "description": "The Embroidered Silk Cushion Cover by Elegance Textiles is a luxurious addition to your home decor. Crafted from the finest silk, this cushion cover features intricate embroidery that showcases traditional Indian craftsmanship. The elegant designs and rich colors add a touch of sophistication and opulence to any setting. Ideal for living rooms, bedrooms, or any space that needs a touch of luxury, this cushion cover not only enhances the visual appeal of your furnishings but also provides a soft and comfortable feel. Elevate your home decor with this exquisite embroidered silk cushion cover."
+  }
+]

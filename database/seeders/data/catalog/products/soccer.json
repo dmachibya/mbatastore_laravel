@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Adidas Performance Tango Soccer Ball",
+    "slug": "adidas-performance-tango-soccer-ball",
+    "brand": "Adidas",
+    "model_number": "AF6543",
+    "mpn": "AF6543",
+    "gtin": "0889764456751",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Adidas",
+    "description": "The Adidas Performance Tango Soccer Ball is a high-quality, durable soccer ball designed for both recreational and professional use. Made from synthetic leather, it features a seamless construction that enhances performance on the field. The Tango Soccer Ball's design is inspired by the classic Tango España ball, making it not only functional but also a stylish choice for soccer enthusiasts. It is built to withstand rigorous play and is suitable for all types of playing surfaces. Whether you're playing in a local league or just having a casual game with friends, this ball offers excellent control, durability, and accuracy."
+  },
+  {
+    "name": "Nike Premier League Strike Soccer Ball",
+    "slug": "nike-premier-league-strike-soccer-ball",
+    "brand": "Nike",
+    "model_number": "SC3101-100",
+    "mpn": "SC3101-100",
+    "gtin": "0191885293687",
+    "gtin_type": "UPC",
+    "origin_country": "Vietnam",
+    "manufacturer": "Nike",
+    "description": "The Nike Premier League Strike Soccer Ball is designed for high-performance play. Featuring a precision-engineered construction, this soccer ball delivers exceptional durability and accuracy on the field. Its bold design, inspired by the Premier League, offers excellent visibility during play. Made with a durable, textured surface and high-contrast graphics, the Premier League Strike Soccer Ball ensures better grip and control. Ideal for players of all skill levels, this ball is perfect for practice sessions, games, and training drills. Experience the same quality used in professional leagues with this top-of-the-line soccer ball."
+  }
+]

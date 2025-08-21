@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sunken Shipwreck Aquarium Ornament",
+    "slug": "sunken-shipwreck-aquarium-ornament",
+    "brand": "AquaDecor",
+    "model_number": "AD-45678",
+    "mpn": "AD45678",
+    "gtin": "8901234567890",
+    "gtin_type": "UPC",
+    "origin_country": "Germany",
+    "manufacturer": "AquaDecor Aquarium Supplies",
+    "description": "The Sunken Shipwreck Aquarium Ornament from AquaDecor is a detailed and realistic decoration for your aquarium. Made from high-quality, non-toxic resin, this ornament recreates the look of a sunken shipwreck with intricate details, including broken masts, barnacle growth, and coral formations. This piece not only enhances the visual appeal of your tank but also provides hiding spots and exploration opportunities for your aquatic pets. Suitable for both freshwater and saltwater tanks, this ornament will transform your aquarium into a captivating underwater scene."
+  },
+  {
+    "name": "Colorful Coral Reef Aquarium Decoration",
+    "slug": "colorful-coral-reef-aquarium-decoration",
+    "brand": "Oceanic Creations",
+    "model_number": "OC-98765",
+    "mpn": "OC98765",
+    "gtin": "9012345678901",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Oceanic Creations Pet Products",
+    "description": "The Colorful Coral Reef Aquarium Decoration from Oceanic Creations adds vibrant color and natural beauty to your aquarium. Constructed from safe, non-toxic materials, this decoration features a realistic coral reef design with a variety of colorful corals, anemones, and sea plants. It provides a stunning backdrop for your aquatic environment while offering hiding spots and stimulation for your fish. Perfect for both freshwater and saltwater aquariums, this reef decoration helps create a vibrant and healthy underwater habitat for your aquatic friends."
+  }
+]

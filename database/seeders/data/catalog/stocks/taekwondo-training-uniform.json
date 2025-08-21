@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Taekwondo Training Uniform - Small",
+    "slug": "taekwondo-training-uniform-small",
+    "sku": "ETA-001-S",
+    "description": "The Taekwondo Training Uniform in Small size by Elite Martial Arts is designed for young practitioners and those who prefer a snug fit. Made from high-quality, breathable cotton, this uniform offers exceptional comfort and durability for daily training. It features a traditional white gi with reinforced stitching on the jacket and pants to ensure longevity. Perfect for beginners or those looking to improve their Taekwondo skills, this uniform provides a professional look and meets all Taekwondo standards.",
+    "price": 49.99,
+    "offer_price": 39.99,
+    "key_features": [
+      "Breathable Cotton Fabric",
+      "Reinforced Stitching",
+      "Includes Belt",
+      "Available in Multiple Sizes"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 120,
+    "shipping_weight": 1.2,
+    "meta_title": "Taekwondo Training Uniform - Small | Elite Martial Arts",
+    "meta_description": "Buy the Taekwondo Training Uniform in Small size from Elite Martial Arts. Perfect for beginners, made from high-quality cotton with reinforced stitching. Get it now at a special offer price!"
+  },
+  {
+    "title": "Taekwondo Training Uniform - Medium",
+    "slug": "taekwondo-training-uniform-medium",
+    "sku": "ETA-001-M",
+    "description": "The Taekwondo Training Uniform in Medium size by Elite Martial Arts is perfect for growing practitioners and those who need a comfortable fit. Crafted from breathable cotton fabric, this uniform is designed to withstand intense training sessions. It includes a traditional white gi with reinforced stitching and a belt. Suitable for both beginners and advanced students, this uniform ensures a professional appearance and meets the rigorous standards of Taekwondo practice.",
+    "price": 49.99,
+    "offer_price": 39.99,
+    "key_features": [
+      "High-Quality Cotton Fabric",
+      "Durable Construction",
+      "Includes Belt",
+      "Available in Various Sizes"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 150,
+    "shipping_weight": 1.3,
+    "meta_title": "Taekwondo Training Uniform - Medium | Elite Martial Arts",
+    "meta_description": "Get the Taekwondo Training Uniform in Medium size from Elite Martial Arts. Ideal for practitioners, made from durable cotton fabric. Special offer available now!"
+  }
+]

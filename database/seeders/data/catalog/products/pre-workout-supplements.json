@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pre-Workout Powder - Fruit Punch",
+    "slug": "pre-workout-powder-fruit-punch",
+    "brand": "Cellucor",
+    "model_number": "CC-PW-001",
+    "mpn": "CC-PW-001",
+    "gtin": "1234567890123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Cellucor LLC",
+    "description": "Cellucor's Pre-Workout Powder in Fruit Punch flavor is a premium supplement designed to enhance your workout performance and boost energy levels. Each serving provides 200 mg of caffeine from natural sources, along with beta-alanine and citrulline malate to improve endurance, strength, and focus. The delicious Fruit Punch flavor makes this pre-workout a tasty and refreshing choice for athletes and fitness enthusiasts. Mix one scoop with water 30 minutes before your workout for a powerful energy boost and improved exercise performance."
+  },
+  {
+    "name": "Pre-Workout Powder - Blue Raspberry",
+    "slug": "pre-workout-powder-blue-raspberry",
+    "brand": "BSN",
+    "model_number": "BSN-PW-002",
+    "mpn": "BSN-PW-002",
+    "gtin": "9876543210987",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "BSN Sports Nutrition",
+    "description": "BSN's Pre-Workout Powder in Blue Raspberry flavor is formulated to help you push through your toughest workouts with increased energy and focus. This powerful pre-workout blend includes 300 mg of caffeine, along with key ingredients like beta-alanine and creatine monohydrate for enhanced strength, endurance, and muscle pump. The invigorating Blue Raspberry flavor provides a delicious and refreshing taste. For best results, mix one scoop with water 30 minutes before exercise to maximize your training sessions."
+  }
+]

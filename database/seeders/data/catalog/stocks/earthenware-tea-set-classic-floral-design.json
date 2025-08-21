@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Earthenware Tea Set - Classic Floral Design by Heritage Ceramics",
+    "slug": "earthenware-tea-set-classic-floral-design",
+    "sku": "TS-HC-2024-01",
+    "description": "Introducing the Handcrafted Earthenware Tea Set - Classic Floral Design by Heritage Ceramics. This elegant tea set features a classic floral design with hand-painted details on durable earthenware. Perfect for afternoon tea or special occasions, it includes a teapot, cups, saucers, and a sugar bowl. Each piece is handcrafted using traditional techniques, resulting in a high-quality set that adds sophistication and charm to your tea time ritual.",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "Handcrafted earthenware tea set",
+      "Classic floral design with hand-painted details",
+      "Includes teapot, cups, saucers, and sugar bowl",
+      "Perfect for afternoon tea or special occasions"
+    ],
+    "stock_quantity": 8,
+    "sold_quantity": 3,
+    "shipping_weight": 3.5,
+    "meta_title": "Handcrafted Earthenware Tea Set - Classic Floral Design by Heritage Ceramics",
+    "meta_description": "Shop the Handcrafted Earthenware Tea Set - Classic Floral Design by Heritage Ceramics. This elegant tea set features a classic floral design and is handcrafted from durable earthenware."
+  },
+  {
+    "title": "Earthenware Tea Set - Classic Floral Design - Small Size",
+    "slug": "earthenware-tea-set-classic-floral-design-small",
+    "sku": "TS-HC-2024-02",
+    "description": "Introducing the Handcrafted Earthenware Tea Set - Classic Floral Design in a smaller size by Heritage Ceramics. This elegant tea set features a classic floral design with hand-painted details on durable earthenware. Ideal for smaller tea gatherings or as a charming gift, this set includes a teapot, cups, saucers, and a sugar bowl. Handcrafted by skilled artisans, it offers sophistication and quality in a compact size.",
+    "price": 239.99,
+    "offer_price": 189.99,
+    "key_features": [
+      "Smaller size tea set for intimate gatherings",
+      "Classic floral design with hand-painted details",
+      "Handcrafted earthenware construction",
+      "Includes teapot, cups, saucers, and sugar bowl"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 5,
+    "shipping_weight": 3.0,
+    "meta_title": "Handcrafted Earthenware Tea Set - Classic Floral Design - Small Size",
+    "meta_description": "Buy the Handcrafted Earthenware Tea Set - Classic Floral Design in a smaller size. This elegant tea set features a classic floral design and is handcrafted from high-quality earthenware."
+  }
+]

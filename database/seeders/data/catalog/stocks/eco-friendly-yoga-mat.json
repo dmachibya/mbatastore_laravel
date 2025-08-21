@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Eco-Friendly Yoga Mat - Standard Size",
+    "slug": "eco-friendly-yoga-mat-standard-size",
+    "sku": "MAYM-150-001",
+    "description": "The Manduka Eco-Friendly Yoga Mat offers a high-performance, eco-conscious option for your yoga practice. Crafted from natural, non-toxic materials, this mat provides excellent cushioning and grip for a variety of yoga styles. Its non-slip surface ensures stability during your practice, while the closed-cell PVC material resists moisture and bacteria. Ideal for both beginners and experienced yogis, this mat combines comfort and environmental responsibility in one durable product.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "Eco-Friendly Natural Materials",
+      "Non-Slip Surface for Stability",
+      "Closed-Cell PVC for Moisture Resistance",
+      "Durable and High-Performance"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 90,
+    "shipping_weight": 4,
+    "meta_title": "Manduka Eco-Friendly Yoga Mat | Standard Size for Yoga and Pilates",
+    "meta_description": "Shop the Manduka Eco-Friendly Yoga Mat for a comfortable and sustainable yoga practice. Standard size with a non-slip surface and high performance. Buy now at a special offer price!"
+  },
+  {
+    "title": "Eco-Friendly Yoga Mat - Extra Thick",
+    "slug": "eco-friendly-yoga-mat-extra-thick",
+    "sku": "MAYM-150-002",
+    "description": "Upgrade your yoga practice with the Manduka Eco-Friendly Yoga Mat in Extra Thick. Offering superior cushioning and comfort, this mat is perfect for practitioners who need extra support for their poses and stretches. Made from eco-friendly materials, it features a non-slip surface and durable construction that stands up to regular use. Whether you’re new to yoga or a seasoned practitioner, this mat provides the quality and performance you need for a successful practice.",
+    "price": 69.99,
+    "offer_price": 59.99,
+    "key_features": [
+      "Extra Thick for Enhanced Comfort",
+      "Eco-Friendly and Non-Toxic Materials",
+      "Non-Slip Surface for Stability",
+      "Durable and Long-Lasting"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 70,
+    "shipping_weight": 5,
+    "meta_title": "Manduka Eco-Friendly Yoga Mat - Extra Thick | Superior Cushioning and Support",
+    "meta_description": "Explore the Manduka Eco-Friendly Yoga Mat - Extra Thick for superior cushioning and support. Ideal for all levels of yoga practice. Buy now at a discounted price!"
+  }
+]

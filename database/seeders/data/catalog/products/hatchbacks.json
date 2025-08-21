@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Toyota Corolla Hatchback",
+    "slug": "toyota-corolla-hatchback",
+    "brand": "Toyota",
+    "model_number": "MZEA12",
+    "mpn": "MZEA12",
+    "gtin": "0885170331360",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Toyota Motor Corporation",
+    "description": "The Toyota Corolla Hatchback offers a blend of dynamic styling, advanced technology, and exceptional performance. With its sporty exterior design and refined interior, the Corolla Hatchback is designed to stand out on the road. It features a 2.0L Dynamic Force engine that delivers an exhilarating driving experience while maintaining impressive fuel efficiency. The interior is equipped with advanced features such as the Toyota Safety Sense 2.0 suite, Apple CarPlay, and Android Auto compatibility, as well as a 7-inch multi-information display. The Corolla Hatchback's cargo space and versatile seating make it a practical choice for both city driving and long-distance travel."
+  },
+  {
+    "name": "Honda Civic Hatchback",
+    "slug": "honda-civic-hatchback",
+    "brand": "Honda",
+    "model_number": "FK7",
+    "mpn": "FK7",
+    "gtin": "0190133920132",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Honda Motor Co., Ltd.",
+    "description": "The Honda Civic Hatchback is a perfect combination of sporty performance, sophisticated design, and innovative technology. Its turbocharged 1.5L engine offers a thrilling driving experience, while its sleek exterior design ensures it makes a bold statement on the road. The interior is thoughtfully designed with high-quality materials and features a host of advanced technologies, including the Honda Sensing safety suite, a 7-inch touchscreen with Apple CarPlay and Android Auto, and dual-zone automatic climate control. The spacious cargo area and versatile seating configurations provide ample room for passengers and luggage, making the Civic Hatchback a versatile choice for any lifestyle."
+  },
+  {
+    "name": "Mazda3 Hatchback",
+    "slug": "mazda3-hatchback",
+    "brand": "Mazda",
+    "model_number": "BP",
+    "mpn": "BP",
+    "gtin": "0490811025334",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Mazda Motor Corporation",
+    "description": "The Mazda3 Hatchback embodies the perfect blend of performance, elegance, and cutting-edge technology. Powered by a Skyactiv-G 2.5L engine, the Mazda3 Hatchback delivers an exhilarating driving experience with exceptional handling and fuel efficiency. Its striking exterior design is complemented by a luxurious interior featuring premium materials, an 8.8-inch infotainment display, and advanced driver-assistance systems. The Mazda3 Hatchback also offers a range of connectivity options, including Apple CarPlay and Android Auto. With its spacious cargo area and comfortable seating for five, the Mazda3 Hatchback is ideal for those who seek both style and practicality in their everyday drives."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Handwoven Wool Rug by Traditional Weavers - Large",
+    "slug": "handwoven-wool-rug-large",
+    "sku": "WR-TW-2024-01",
+    "description": "Transform your living space with the Handwoven Wool Rug by Traditional Weavers. This large rug is a stunning piece of artisanal craftsmanship, meticulously handwoven from premium quality wool. The intricate patterns and vibrant colors are inspired by traditional Moroccan designs, bringing cultural elegance to your home. Soft and durable, this rug adds warmth and texture, making it a focal point of any decor. Ideal for living rooms, bedrooms, or hallways, the Handwoven Wool Rug enhances the aesthetic appeal and comfort of your space.",
+    "price": 499.99,
+    "offer_price": 399.99,
+    "key_features": [
+      "Premium quality wool",
+      "Intricate Moroccan patterns",
+      "Handwoven craftsmanship",
+      "Large size"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 2,
+    "shipping_weight": 12.0,
+    "meta_title": "Handwoven Wool Rug - Large by Traditional Weavers",
+    "meta_description": "Buy the large Handwoven Wool Rug by Traditional Weavers. This premium wool rug features intricate Moroccan patterns and handwoven craftsmanship."
+  },
+  {
+    "title": "Handwoven Wool Rug by Traditional Weavers - Medium",
+    "slug": "handwoven-wool-rug-medium",
+    "sku": "WR-TW-2024-02",
+    "description": "Enhance your home decor with the Handwoven Wool Rug by Traditional Weavers. This medium-sized rug is a beautiful example of artisanal craftsmanship, handwoven from premium quality wool. The intricate patterns and vibrant colors are inspired by traditional Moroccan designs, adding cultural elegance to your living space. Soft and durable, this rug provides warmth and texture, making it a focal point of any room. Perfect for living rooms, bedrooms, or hallways, the Handwoven Wool Rug enhances the aesthetic appeal and comfort of your home.",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "Premium quality wool",
+      "Intricate Moroccan patterns",
+      "Handwoven craftsmanship",
+      "Medium size"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 5,
+    "shipping_weight": 8.0,
+    "meta_title": "Handwoven Wool Rug - Medium by Traditional Weavers",
+    "meta_description": "Shop the medium Handwoven Wool Rug by Traditional Weavers. This premium wool rug features intricate Moroccan patterns and handwoven craftsmanship."
+  }
+]

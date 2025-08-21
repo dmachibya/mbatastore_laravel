@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rawlings Official League Baseball - Pack of 12",
+    "slug": "rawlings-official-league-baseball-pack-of-12",
+    "sku": "ROLB12",
+    "description": "The Rawlings Official League Baseball Pack of 12 is perfect for teams, leagues, or casual players who need a reliable baseball for practice or games. Each ball features a full-grain leather cover, a solid cork and rubber center, and classic red stitching for enhanced durability and performance. These baseballs are designed to withstand regular use and provide consistent performance for players of all ages. Whether you’re preparing for a game or just practicing your skills, this pack offers great value and quality for all your baseball needs.",
+    "price": 34.99,
+    "offer_price": 29.99,
+    "key_features": [
+      "Full-grain leather cover",
+      "Cork and rubber center",
+      "Classic red stitching"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 45,
+    "shipping_weight": 2.5,
+    "meta_title": "Rawlings Official League Baseball - Pack of 12",
+    "meta_description": "Buy Rawlings Official League Baseball Pack of 12. Perfect for teams and leagues with full-grain leather cover and durable construction."
+  },
+  {
+    "title": "Rawlings Official League Baseball - Single Ball",
+    "slug": "rawlings-official-league-baseball-single-ball",
+    "sku": "ROLBSB",
+    "description": "The Rawlings Official League Baseball - Single Ball is an excellent choice for players who need a high-quality baseball for practice or casual games. Made with a durable leather cover and a solid core, this baseball provides consistent performance and is built to last. Ideal for players of all ages, this baseball is a great addition to your gear for improving your skills or enjoying a game with friends. With its classic red stitching and reliable construction, the Rawlings Official League Baseball offers excellent value for individual players or small groups.",
+    "price": 3.99,
+    "offer_price": 3.49,
+    "key_features": [
+      "Full-grain leather cover",
+      "Durable construction",
+      "Classic red stitching"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 60,
+    "shipping_weight": 0.15,
+    "meta_title": "Rawlings Official League Baseball - Single Ball",
+    "meta_description": "Get the Rawlings Official League Baseball - Single Ball for practice or casual games. Durable construction with a full-grain leather cover and classic design."
+  }
+]

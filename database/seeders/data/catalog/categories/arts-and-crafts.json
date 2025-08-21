@@ -1,0 +1,174 @@
+{
+  "Painting": {
+    "slug": "painting",
+    "description": "Various techniques and styles of painting.",
+    "subcategories": [
+      {
+        "name": "Acrylic Painting",
+        "slug": "acrylic-painting",
+        "description": "Painting using fast-drying acrylic paints."
+      },
+      {
+        "name": "Watercolor Painting",
+        "slug": "watercolor-painting",
+        "description": "Painting with water-based pigments."
+      },
+      {
+        "name": "Oil Painting",
+        "slug": "oil-painting",
+        "description": "Painting with oil-based colors."
+      },
+      {
+        "name": "Digital Painting",
+        "slug": "digital-painting",
+        "description": "Creating artwork using digital tools."
+      }
+    ]
+  },
+  "Drawing": {
+    "slug": "drawing",
+    "description": "Various techniques and styles of drawing.",
+    "subcategories": [
+      {
+        "name": "Pencil Drawing",
+        "slug": "pencil-drawing",
+        "description": "Drawing using graphite pencils."
+      },
+      {
+        "name": "Ink Drawing",
+        "slug": "ink-drawing",
+        "description": "Drawing with various types of ink."
+      },
+      {
+        "name": "Digital Drawing",
+        "slug": "digital-drawing",
+        "description": "Creating drawings using digital tools."
+      }
+    ]
+  },
+  "Sculpture": {
+    "slug": "sculpture",
+    "description": "Art of creating three-dimensional forms.",
+    "subcategories": [
+      {
+        "name": "Clay Sculpture",
+        "slug": "clay-sculpture",
+        "description": "Sculpting using clay materials."
+      },
+      {
+        "name": "Wood Sculpture",
+        "slug": "wood-sculpture",
+        "description": "Creating sculptures from wood."
+      },
+      {
+        "name": "Metal Sculpture",
+        "slug": "metal-sculpture",
+        "description": "Sculpting using various metals."
+      },
+      {
+        "name": "Stone Sculpture",
+        "slug": "stone-sculpture",
+        "description": "Creating sculptures from stone."
+      }
+    ]
+  },
+  "Crafts": {
+    "slug": "crafts",
+    "description": "Various types of crafts and handmade items.",
+    "subcategories": [
+      {
+        "name": "Paper Crafts",
+        "slug": "paper-crafts",
+        "description": "Crafts made using paper materials."
+      },
+      {
+        "name": "Wood Crafts",
+        "slug": "wood-crafts",
+        "description": "Handmade items created from wood."
+      },
+      {
+        "name": "Textile Crafts",
+        "slug": "textile-crafts",
+        "description": "Crafts made from fabrics and textiles."
+      }
+    ]
+  },
+  "Printmaking": {
+    "slug": "printmaking",
+    "description": "Art of creating prints through various techniques.",
+    "subcategories": [
+      {
+        "name": "Screen Printing",
+        "slug": "screen-printing",
+        "description": "Printing technique using a woven mesh."
+      },
+      {
+        "name": "Etching",
+        "slug": "etching",
+        "description": "Printmaking method using acid to cut into a metal plate."
+      },
+      {
+        "name": "Lithography",
+        "slug": "lithography",
+        "description": "Printing technique based on oil and water repulsion."
+      },
+      {
+        "name": "Relief Printing",
+        "slug": "relief-printing",
+        "description": "Printing from raised images on a surface."
+      }
+    ]
+  },
+  "Textile Arts": {
+    "slug": "textile-arts",
+    "description": "Art forms that use plant, animal, or synthetic fibers.",
+    "subcategories": [
+      {
+        "name": "Weaving",
+        "slug": "weaving",
+        "description": "Creating fabric by interlacing threads."
+      },
+      {
+        "name": "Knitting",
+        "slug": "knitting",
+        "description": "Craft of creating fabric by interlocking loops of yarn."
+      },
+      {
+        "name": "Embroidery",
+        "slug": "embroidery",
+        "description": "Decorating fabric using needle and thread."
+      },
+      {
+        "name": "Quilting",
+        "slug": "quilting",
+        "description": "Sewing layers of fabric together to make a quilt."
+      }
+    ]
+  },
+  "Ceramics": {
+    "slug": "ceramics",
+    "description": "Art of making objects from clay and other materials.",
+    "subcategories": [
+      {
+        "name": "Pottery",
+        "slug": "pottery",
+        "description": "Making functional and decorative objects from clay."
+      },
+      {
+        "name": "Porcelain",
+        "slug": "porcelain",
+        "description": "High-quality ceramic material used for fine objects."
+      },
+      {
+        "name": "Stoneware",
+        "slug": "stoneware",
+        "description": "Durable ceramic material used for functional items."
+      },
+      {
+        "name": "Earthenware",
+        "slug": "earthenware",
+        "description": "Coarse and porous ceramic material."
+      }
+    ]
+  }
+}

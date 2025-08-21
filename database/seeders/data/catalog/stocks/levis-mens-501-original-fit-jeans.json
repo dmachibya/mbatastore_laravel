@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Levi's Men's 501 Original Fit Jeans",
+    "slug": "levis-mens-501-original-fit-jeans-01",
+    "sku": "JEANS-LV-2024-01",
+    "description": "The Levi's Men's 501 Original Fit Jeans in Blue are the epitome of classic American denim. Made from high-quality 100% cotton denim, these jeans offer a timeless look with a straight-leg cut and a regular fit that is comfortable for all-day wear. The traditional button fly, five-pocket design, and signature red tab on the back pocket make these jeans a staple in any wardrobe. Perfect for both casual and semi-formal occasions, these jeans can be paired with a variety of outfits.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "100% cotton denim for durability",
+      "Straight-leg cut with regular fit",
+      "Button fly with five-pocket styling",
+      "Iconic Levi's red tab on the back pocket"
+    ],
+    "stock_quantity": 120,
+    "sold_quantity": 50,
+    "shipping_weight": 0.8,
+    "meta_title": "Levi's Men's 501 Original Fit Jeans - Blue - Size 32",
+    "meta_description": "Shop Levi's Men's 501 Original Fit Jeans in Blue. Classic straight-leg cut with a regular fit, made from durable 100% cotton denim. Ideal for casual and semi-formal wear. Available in Size 32."
+  },
+  {
+    "title": "Levi's Men's 501 Original Fit Jeans",
+    "slug": "levis-mens-501-original-fit-jeans-2",
+    "sku": "JEANS-LV-2024-02",
+    "description": "Discover the Levi's Men's 501 Original Fit Jeans in Blue, a classic choice for every man’s wardrobe. These jeans are crafted from high-quality 100% cotton denim, providing both durability and comfort. Featuring a straight-leg cut and a regular fit through the thigh and knee, they offer a timeless, versatile look. The button fly and five-pocket design add a traditional touch, while the Levi's red tab on the back pocket ensures authenticity. Ideal for both casual and semi-formal wear.",
+    "price": 59.99,
+    "offer_price": 52.0,
+    "key_features": [
+      "High-quality 100% cotton denim",
+      "Straight-leg cut with a regular fit",
+      "Button fly and traditional five-pocket styling",
+      "Levi's red tab for authenticity"
+    ],
+    "stock_quantity": 110,
+    "sold_quantity": 55,
+    "shipping_weight": 0.85,
+    "meta_title": "Levi's Men's 501 Original Fit Jeans - Blue - Size 34",
+    "meta_description": "Shop Levi's Men's 501 Original Fit Jeans in Blue. Featuring a straight-leg cut and regular fit, made from durable 100% cotton denim. Perfect for casual and semi-formal occasions. Size 34 available."
+  }
+]

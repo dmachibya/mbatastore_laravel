@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Levi's Women's A-Line Denim Skirt",
+    "slug": "levis-womens-a-line-denim-skirt",
+    "brand": "Levi's",
+    "model_number": "LV-SKIRT-2024-01",
+    "mpn": "LV-ALS01",
+    "gtin": "5400600542361",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Levi Strauss & Co.",
+    "description": "The Levi's Women's A-Line Denim Skirt offers a classic and stylish addition to your wardrobe. This skirt features a timeless A-line silhouette that flares out from the waist, creating a flattering shape that suits a variety of body types. Made from high-quality denim, it is both durable and comfortable, with a mid-length design that reaches just above the knee. The skirt includes traditional five-pocket styling and a button-front closure with a zipper for easy wear. Perfect for casual outings or dressing up with the right accessories, this skirt is versatile and chic."
+  },
+  {
+    "name": "H&M Women's Pleated Midi Skirt",
+    "slug": "hm-womens-pleated-midi-skirt",
+    "brand": "H&M",
+    "model_number": "HM-SKIRT-2024-02",
+    "mpn": "HM-PMS02",
+    "gtin": "0730345117899",
+    "gtin_type": "EAN",
+    "origin_country": "Sweden",
+    "manufacturer": "H&M Hennes & Mauritz AB",
+    "description": "The H&M Women's Pleated Midi Skirt is a stylish and sophisticated choice for any occasion. This skirt features a flattering pleated design that adds texture and movement to the garment. The midi length falls gracefully below the knee, and the waistband is elasticized for a comfortable and adjustable fit. Made from a lightweight fabric, this skirt offers a soft and airy feel, making it perfect for both casual and formal events. The classic design is available in several colors, allowing you to choose the perfect shade for your wardrobe."
+  }
+]

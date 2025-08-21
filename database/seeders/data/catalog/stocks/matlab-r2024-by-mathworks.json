@@ -1,0 +1,40 @@
+[
+  {
+    "title": "MATLAB R2024 by MathWorks - 1 Year Subscription",
+    "slug": "matlab-r2024-by-mathworks-1-year-subscription",
+    "sku": "MATLAB-R2024-1Y",
+    "description": "MATLAB R2024 by MathWorks - 1 Year Subscription provides access to the latest version of MATLAB for one year. This subscription includes advanced tools for numerical computing, data analysis, and mathematical modeling. MATLAB R2024 features a robust set of algorithms, development environments, and visualization tools designed for engineers, scientists, and researchers. The subscription includes access to all updates and new features released during the year, offering a comprehensive solution for complex mathematical computations and simulations.",
+    "price": 249.99,
+    "offer_price": 229.99,
+    "key_features": [
+      "1 Year Subscription to MATLAB R2024",
+      "Advanced Numerical Computing and Data Analysis Tools",
+      "Access to Updates and New Features",
+      "Suitable for Engineering and Scientific Applications"
+    ],
+    "stock_quantity": 300,
+    "sold_quantity": 400,
+    "shipping_weight": 0.0,
+    "meta_title": "MATLAB R2024 by MathWorks - 1 Year Subscription | MathWorks",
+    "meta_description": "Subscribe to MATLAB R2024 for 1 year. Get advanced numerical computing tools, data analysis capabilities, and access to updates and new features for engineering and scientific applications."
+  },
+  {
+    "title": "MATLAB R2024 by MathWorks - Lifetime License",
+    "slug": "matlab-r2024-by-mathworks-lifetime-license",
+    "sku": "MATLAB-R2024-LA",
+    "description": "MATLAB R2024 by MathWorks - Lifetime License offers permanent access to the latest version of MATLAB. This one-time purchase license includes all core features for numerical computing, data analysis, and mathematical modeling. The lifetime license grants access to future updates and new features as they become available. MATLAB R2024 is equipped with advanced computational tools, development environments, and visualization options suitable for a wide range of scientific and engineering applications.",
+    "price": 999.99,
+    "offer_price": 949.99,
+    "key_features": [
+      "Lifetime License for MATLAB R2024",
+      "Permanent Access to Advanced Computational Tools",
+      "Includes Future Updates and New Features",
+      "Ideal for Long-Term Engineering and Scientific Work"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 120,
+    "shipping_weight": 0.0,
+    "meta_title": "MATLAB R2024 by MathWorks - Lifetime License | MathWorks",
+    "meta_description": "Purchase a lifetime license for MATLAB R2024. Get permanent access to advanced numerical computing tools, data analysis features, and future updates for scientific and engineering applications."
+  }
+]

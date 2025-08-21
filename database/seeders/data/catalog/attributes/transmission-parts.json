@@ -1,0 +1,10 @@
+{
+  "Transmission Type": ["Manual", "Automatic", "CVT", "Dual-Clutch"],
+  "Compatibility": [
+    "Honda Accord",
+    "Toyota Camry",
+    "Ford Mustang",
+    "Chevrolet Malibu"
+  ],
+  "Material": ["Steel", "Aluminum", "Cast Iron", "Composite"]
+}

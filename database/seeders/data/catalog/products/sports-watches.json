@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Garmin Forerunner 945",
+    "slug": "garmin-forerunner-945",
+    "brand": "Garmin",
+    "model_number": "010-02063-00",
+    "mpn": "010-02063-00",
+    "gtin": "753759211724",
+    "gtin_type": "UPC",
+    "origin_country": "Taiwan",
+    "manufacturer": "Garmin Ltd.",
+    "description": "The Garmin Forerunner 945 is a premium GPS running and triathlon smartwatch designed for serious athletes. It offers advanced performance analytics, including VO2 max, training status, and training load focus, to help you optimize your workouts. The watch features built-in maps to keep you on track during long runs and rides. With music storage, you can sync your playlists from select streaming services to enjoy music on the go. Safety and tracking features include incident detection and assistance, which sends your real-time location to emergency contacts. The Forerunner 945 also provides advanced running dynamics, Garmin Pay for contactless payments, and a battery life of up to 2 weeks in smartwatch mode."
+  },
+  {
+    "name": "Suunto 9 Baro",
+    "slug": "suunto-9-baro",
+    "brand": "Suunto",
+    "model_number": "SS050019000",
+    "mpn": "SS050019000",
+    "gtin": "04523595177790",
+    "gtin_type": "EAN",
+    "origin_country": "Finland",
+    "manufacturer": "Suunto Oy",
+    "description": "The Suunto 9 Baro is a multisport GPS watch designed for athletes who demand the best. With up to 120 hours of continuous exercise tracking, the Suunto 9 Baro uses intelligent battery modes to ensure it lasts as long as you need it to. The watch features a barometer for accurate altitude readings and weather trends, and wrist heart rate monitoring to help you stay on top of your performance. The FusedTrack algorithm combines GPS and motion sensor data to improve tracking accuracy and extend battery life. Designed for long, arduous training and racing, the Suunto 9 Baro is built to withstand the harshest conditions."
+  }
+]

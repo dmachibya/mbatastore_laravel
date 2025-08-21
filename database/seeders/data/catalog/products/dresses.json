@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Zara Women's Floral Midi Dress",
+    "slug": "zara-womens-floral-midi-dress",
+    "brand": "Zara",
+    "model_number": "ZR-DRESS-2024-01",
+    "mpn": "ZR-FMD01",
+    "gtin": "8432561534324",
+    "gtin_type": "EAN",
+    "origin_country": "Spain",
+    "manufacturer": "Zara S.A.",
+    "description": "The Zara Women's Floral Midi Dress combines elegance and style with a fresh, floral design perfect for any occasion. This dress features a flattering A-line silhouette with a fitted bodice and a flowy skirt that falls to mid-calf. Made from a lightweight, breathable fabric, the dress is adorned with a vibrant floral print that brings a touch of springtime charm. The short sleeves and V-neckline add a feminine touch, while the side zipper ensures a secure fit. Ideal for both casual outings and formal events, this dress is a versatile addition to any wardrobe."
+  },
+  {
+    "name": "H&M Women's Belted Shirt Dress",
+    "slug": "hm-womens-belted-shirt-dress",
+    "brand": "H&M",
+    "model_number": "HM-DRESS-2024-02",
+    "mpn": "HM-BSD02",
+    "gtin": "0730345119022",
+    "gtin_type": "EAN",
+    "origin_country": "Sweden",
+    "manufacturer": "H&M Hennes & Mauritz AB",
+    "description": "The H&M Women's Belted Shirt Dress offers a chic and contemporary take on classic shirt dress designs. This dress features a tailored fit with a button-down front, a collar, and long sleeves that can be rolled up for a more relaxed look. The included belt cinches the waist for a flattering silhouette, while the knee-length hem provides versatility for different occasions. Made from a soft cotton blend, the dress is both comfortable and easy to care for. Perfect for office wear or a casual day out, this dress is a stylish and practical choice."
+  }
+]

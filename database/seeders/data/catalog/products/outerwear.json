@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Boys' Waterproof Winter Jacket",
+    "slug": "boys-waterproof-winter-jacket",
+    "brand": "Arctic Explorer",
+    "model_number": "AE-WJ-101",
+    "mpn": "AE-WJ-2024",
+    "gtin": "0650415135678",
+    "gtin_type": "UPC",
+    "origin_country": "Canada",
+    "manufacturer": "Arctic Explorer Apparel Co.",
+    "description": "The Boys' Waterproof Winter Jacket by Arctic Explorer is designed to keep young adventurers warm and dry in the harshest winter conditions. This high-performance jacket features a waterproof outer shell, insulated lining, and a detachable hood with faux fur trim. The multiple pockets provide ample storage for essentials, and the adjustable cuffs and hem ensure a snug fit. Ideal for outdoor activities, this jacket combines durability and comfort, making it a must-have for winter adventures. Whether your child is playing in the snow or exploring the great outdoors, this jacket provides ultimate protection from the elements."
+  },
+  {
+    "name": "Girls' Quilted Parka Coat",
+    "slug": "girls-quilted-parka-coat",
+    "brand": "Winter Chic",
+    "model_number": "WC-PK-203",
+    "mpn": "WC-PK-2024",
+    "gtin": "0748966139876",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Winter Chic Ltd.",
+    "description": "The Girls' Quilted Parka Coat by Winter Chic offers both style and functionality for young girls. This elegant parka features a quilted design with a warm, insulated lining and a removable faux fur hood. The coat has a fitted silhouette with a belted waist, adding a touch of sophistication. Multiple pockets provide convenience, and the durable fabric ensures long-lasting wear. Perfect for cold weather, this parka coat is ideal for school, casual outings, and winter activities. Your little one will stay warm and fashionable in this beautiful and practical coat."
+  }
+]

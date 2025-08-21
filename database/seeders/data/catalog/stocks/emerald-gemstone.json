@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Colombian Emerald - 1 Carat",
+    "slug": "colombian-emerald-1-carat",
+    "sku": "EMD-1CT-01",
+    "description": "This beautiful 1 carat Colombian Emerald gemstone is known for its vibrant green color and exquisite clarity. Sourced from the famous mines of Colombia, this gemstone embodies renewal, growth, and prosperity. The emerald is expertly cut to enhance its natural brilliance and polished to a high shine. Its rich green hue and pristine clarity make it an ideal choice for various jewelry pieces, from rings to pendants. As a symbol of love and rebirth, this Emerald gemstone's timeless beauty and elegance will be cherished for generations, making it a valuable addition to any collection.",
+    "price": 900.0,
+    "offer_price": 850.0,
+    "key_features": [
+      "1 Carat Weight",
+      "Vibrant Green Color",
+      "High Clarity",
+      "Expertly Cut and Polished",
+      "Sourced from Colombia"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 15,
+    "shipping_weight": "0.1 kg",
+    "meta_title": "Colombian Emerald - 1 Carat | Gem Select",
+    "meta_description": "Discover the vibrant green 1 carat Colombian Emerald gemstone, perfect for various jewelry pieces. Known for its high clarity and exquisite beauty."
+  },
+  {
+    "title": "Colombian Emerald - 2 Carat",
+    "slug": "colombian-emerald-2-carat",
+    "sku": "EMD-2CT-02",
+    "description": "This magnificent 2 carat Colombian Emerald gemstone showcases the vibrant green color and exceptional clarity that emeralds from this region are famous for. Mined from the finest sources in Colombia, this gemstone represents renewal, growth, and prosperity. The emerald is meticulously cut to maximize its brilliance and polished to reveal its stunning depth of color. Ideal for creating elegant jewelry pieces, this Emerald is a symbol of love and rebirth. Its timeless appeal and rich green hue make it a perfect gift for any occasion, ensuring it will be treasured for generations.",
+    "price": 1800.0,
+    "offer_price": 1700.0,
+    "key_features": [
+      "2 Carat Weight",
+      "Vibrant Green Color",
+      "Exceptional Clarity",
+      "Expertly Cut and Polished",
+      "Sourced from Colombia"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 10,
+    "shipping_weight": "0.2 kg",
+    "meta_title": "Colombian Emerald - 2 Carat | Gem Select",
+    "meta_description": "Explore the exquisite 2 carat Colombian Emerald gemstone, ideal for luxurious jewelry pieces. Known for its vibrant green color and exceptional clarity."
+  }
+]

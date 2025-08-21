@@ -1,0 +1,42 @@
+[
+  {
+    "title": "WeatherTech BumperGuard - Premium Car Bumper Protection",
+    "slug": "weathertech-bumperguard-premium-protection",
+    "sku": "WT-BG2024-001",
+    "description": "Protect your car's bumper with the WeatherTech BumperGuard, a premium solution for safeguarding against scratches, dings, and minor collisions. Crafted from high-quality, durable materials, this bumper guard absorbs impacts and prevents damage to your vehicle's bumper. The sleek and low-profile design adds a touch of sophistication to your car while offering superior protection. The non-slip backing ensures the guard stays in place, and the easy-to-install design means you can have it up and running in no time. Whether you’re parking in the city or driving through busy streets, the WeatherTech BumperGuard provides reliable defense for your vehicle’s rear bumper.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "High-quality, durable materials",
+      "Absorbs impacts and protects bumper",
+      "Sleek, low-profile design",
+      "Non-slip backing for secure fit",
+      "Easy installation for most vehicles"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 5,
+    "shipping_weight": "2 kg",
+    "meta_title": "WeatherTech BumperGuard - Premium Protection for Your Car's Bumper",
+    "meta_description": "Shop WeatherTech BumperGuard for superior bumper protection. Durable materials, sleek design, non-slip backing, easy installation. Perfect for city parking and daily use."
+  },
+  {
+    "title": "WeatherTech BumperGuard - Advanced Bumper Protection Solution",
+    "slug": "weathertech-bumperguard-advanced-solution",
+    "sku": "WT-BG2024-002",
+    "description": "Discover the WeatherTech BumperGuard, your ultimate solution for protecting your car’s bumper from everyday damage. This advanced bumper guard is designed using premium materials that offer excellent durability and impact absorption. Its modern, low-profile appearance complements your vehicle while safeguarding it from scratches and minor dents. The WeatherTech BumperGuard features a simple installation process and a non-slip backing to keep it firmly in place. Ideal for those who want both protection and style, this bumper guard is a top choice for vehicle owners seeking reliability and performance.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "Premium materials for durability",
+      "Advanced impact absorption",
+      "Modern, low-profile design",
+      "Non-slip backing for secure fit",
+      "Simple installation for most vehicles"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 3,
+    "shipping_weight": "2 kg",
+    "meta_title": "WeatherTech BumperGuard - Advanced Bumper Protection Solution",
+    "meta_description": "Get WeatherTech BumperGuard for advanced bumper protection. Durable, modern design, impact absorption, non-slip backing, easy to install. Ideal for everyday use."
+  }
+]

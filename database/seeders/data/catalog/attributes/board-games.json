@@ -1,0 +1,10 @@
+{
+  "Number of Players": [
+    "2-4 Players",
+    "2-5 Players",
+    "3-6 Players",
+    "1-2 Players"
+  ],
+  "Game Type": ["Strategy", "Family", "Party", "Cooperative"],
+  "Recommended Age": ["8+", "10+", "12+", "6+"]
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Revitalizing Night Cream - Retinol & Green Tea Extract by RenewBeauty",
+    "slug": "revitalizing-night-cream-retinol-green-tea-extract",
+    "sku": "MO-RB-2024-01",
+    "description": "Experience the Revitalizing Night Cream from RenewBeauty, a powerful skincare product designed to rejuvenate your skin while you sleep. Formulated with Retinol and Green Tea Extract, this rich, hydrating cream promotes cell turnover, reduces fine lines, and provides antioxidant protection. Use it as part of your nighttime routine to wake up with a revitalized and radiant complexion. Ideal for mature or aging skin, this night cream offers both anti-aging and soothing benefits for a youthful appearance.",
+    "price": 49.99,
+    "offer_price": 39.99,
+    "key_features": [
+      "Retinol promotes cell turnover and reduces wrinkles",
+      "Green Tea Extract provides antioxidant protection",
+      "Rich, hydrating formula for overnight rejuvenation",
+      "Ideal for mature or aging skin"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 5,
+    "shipping_weight": 0.5,
+    "meta_title": "Revitalizing Night Cream - Retinol & Green Tea Extract by RenewBeauty",
+    "meta_description": "Buy the Revitalizing Night Cream - Retinol & Green Tea Extract by RenewBeauty. This night cream offers anti-aging and hydrating benefits with Retinol and Green Tea Extract for a refreshed complexion."
+  },
+  {
+    "title": "Revitalizing Night Cream - Retinol & Green Tea Extract - Large Size",
+    "slug": "revitalizing-night-cream-retinol-green-tea-extract-large",
+    "sku": "MO-RB-2024-02",
+    "description": "Get more of the Revitalizing Night Cream by RenewBeauty with this large size option. Formulated with Retinol and Green Tea Extract, this night cream provides deep hydration, promotes cell turnover, and offers antioxidant protection. Ideal for mature or aging skin, it helps to reduce wrinkles and improve skin texture while you sleep. This larger size offers excellent value and is perfect for extended use as part of your nighttime skincare regimen.",
+    "price": 79.99,
+    "offer_price": 59.99,
+    "key_features": [
+      "Large size for extended use",
+      "Retinol for cell turnover and wrinkle reduction",
+      "Green Tea Extract for antioxidant protection",
+      "Rich, hydrating formula for overnight use"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 4,
+    "shipping_weight": 0.7,
+    "meta_title": "Revitalizing Night Cream - Retinol & Green Tea Extract - Large Size",
+    "meta_description": "Buy the Revitalizing Night Cream - Retinol & Green Tea Extract in a large size. This rich night cream offers anti-aging benefits and deep hydration with Retinol and Green Tea Extract."
+  }
+]

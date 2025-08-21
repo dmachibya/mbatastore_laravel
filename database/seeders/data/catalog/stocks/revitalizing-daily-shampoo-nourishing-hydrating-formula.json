@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Revitalizing Daily Shampoo - Nourishing & Hydrating Formula by PureEssence",
+    "slug": "revitalizing-daily-shampoo-nourishing-hydrating-formula",
+    "sku": "SH-PE-2024-01",
+    "description": "Experience the ultimate in hair care with PureEssence Revitalizing Daily Shampoo. This nourishing and hydrating formula cleanses your hair while maintaining its natural moisture balance. Enriched with vitamins and natural extracts, it provides deep hydration, leaving your hair soft, shiny, and manageable. Suitable for all hair types, this sulfate- and paraben-free shampoo offers a luxurious and effective cleanse for your daily routine. Restore vitality and health to your hair with every wash.",
+    "price": 18.99,
+    "offer_price": 14.99,
+    "key_features": [
+      "Nourishing and hydrating formula",
+      "Enriched with vitamins and natural extracts",
+      "Suitable for all hair types",
+      "Sulfate- and paraben-free"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 15,
+    "shipping_weight": 0.4,
+    "meta_title": "Revitalizing Daily Shampoo - Nourishing & Hydrating Formula by PureEssence",
+    "meta_description": "Shop Revitalizing Daily Shampoo by PureEssence. This nourishing shampoo provides deep hydration, cleanses effectively, and is suitable for all hair types. Sulfate- and paraben-free."
+  },
+  {
+    "title": "Revitalizing Daily Shampoo - Nourishing & Hydrating Formula - Travel Size",
+    "slug": "revitalizing-daily-shampoo-nourishing-hydrating-formula-travel-size",
+    "sku": "SH-PE-2024-02",
+    "description": "Take PureEssence Revitalizing Daily Shampoo with you wherever you go with this convenient travel size. This nourishing and hydrating shampoo cleanses your hair while maintaining its natural moisture balance. Perfect for travel or as a trial size, this sulfate- and paraben-free formula offers deep hydration, leaving your hair soft, shiny, and manageable. Suitable for all hair types, it’s an essential addition to your on-the-go hair care routine.",
+    "price": 12.99,
+    "offer_price": 9.99,
+    "key_features": [
+      "Travel size for convenience",
+      "Nourishing and hydrating formula",
+      "Sulfate- and paraben-free",
+      "Suitable for all hair types"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 10,
+    "shipping_weight": 0.2,
+    "meta_title": "Revitalizing Daily Shampoo - Nourishing & Hydrating Formula - Travel Size",
+    "meta_description": "Shop Revitalizing Daily Shampoo in travel size by PureEssence. This nourishing shampoo provides deep hydration and is perfect for all hair types. Sulfate- and paraben-free."
+  }
+]

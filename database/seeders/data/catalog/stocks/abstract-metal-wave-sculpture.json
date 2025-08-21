@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Abstract Metal Wave Sculpture by Steel Artistry - Large",
+    "slug": "abstract-metal-wave-sculpture-large",
+    "sku": "MWS-SA-2024-01",
+    "description": "Make a bold statement with the Abstract Metal Wave Sculpture by Steel Artistry. This large sculpture features a flowing wave design crafted from high-quality metal. The combination of smooth curves and sharp angles creates a dynamic contrast, making it a visually engaging piece. The polished metal finish adds a touch of elegance, perfect for contemporary and eclectic interiors. Display this sculpture in your home or office to add a sophisticated and artistic touch to your decor.",
+    "price": 649.99,
+    "offer_price": 549.99,
+    "key_features": [
+      "Flowing wave design",
+      "High-quality metal",
+      "Polished finish",
+      "Large size"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 4,
+    "shipping_weight": 12.0,
+    "meta_title": "Abstract Metal Wave Sculpture - Large by Steel Artistry",
+    "meta_description": "Buy the large Abstract Metal Wave Sculpture by Steel Artistry. This modern sculpture features a flowing wave design crafted from high-quality metal."
+  },
+  {
+    "title": "Abstract Metal Wave Sculpture by Steel Artistry - Small",
+    "slug": "abstract-metal-wave-sculpture-small",
+    "sku": "MWS-SA-2024-02",
+    "description": "Add an artistic touch to your decor with the Abstract Metal Wave Sculpture by Steel Artistry. This small sculpture features a flowing wave design crafted from high-quality metal. The combination of smooth curves and sharp angles creates a dynamic contrast, making it a visually engaging piece. The polished metal finish adds a touch of elegance, making it perfect for contemporary and eclectic interiors. Display this sculpture in your home or office to add a sophisticated and artistic touch to your space.",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "Flowing wave design",
+      "High-quality metal",
+      "Polished finish",
+      "Small size"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 10,
+    "shipping_weight": 5.0,
+    "meta_title": "Abstract Metal Wave Sculpture - Small by Steel Artistry",
+    "meta_description": "Shop the small Abstract Metal Wave Sculpture by Steel Artistry. This modern sculpture features a flowing wave design crafted from high-quality metal."
+  }
+]

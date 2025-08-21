@@ -1,0 +1,194 @@
+{
+  "Team Sports": {
+    "slug": "team-sports",
+    "description": "Gear and equipment for sports played as teams.",
+    "subcategories": [
+      {
+        "name": "Soccer",
+        "slug": "soccer",
+        "description": "Equipment and apparel for soccer players."
+      },
+      {
+        "name": "Basketball",
+        "slug": "basketball",
+        "description": "Gear and apparel for basketball enthusiasts."
+      },
+      {
+        "name": "Volleyball",
+        "slug": "volleyball",
+        "description": "Equipment and apparel for volleyball games."
+      },
+      {
+        "name": "Baseball",
+        "slug": "baseball",
+        "description": "Equipment and apparel for baseball players."
+      }
+    ]
+  },
+  "Individual Sports": {
+    "slug": "individual-sports",
+    "description": "Gear and equipment for solo sports activities.",
+    "subcategories": [
+      {
+        "name": "Tennis",
+        "slug": "tennis",
+        "description": "Rackets, balls, and apparel for tennis."
+      },
+      {
+        "name": "Golf",
+        "slug": "golf",
+        "description": "Clubs, balls, and accessories for golf."
+      },
+      {
+        "name": "Swimming",
+        "slug": "swimming",
+        "description": "Gear and apparel for swimming activities."
+      },
+      {
+        "name": "Running",
+        "slug": "running",
+        "description": "Shoes and gear for running and jogging."
+      }
+    ]
+  },
+  "Fitness Equipment": {
+    "slug": "fitness-equipment",
+    "description": "Equipment for home and gym workouts.",
+    "subcategories": [
+      {
+        "name": "Cardio Equipment",
+        "slug": "cardio-equipment",
+        "description": "Machines for cardiovascular exercises."
+      },
+      {
+        "name": "Strength Training",
+        "slug": "strength-training",
+        "description": "Weights, benches, and accessories for strength training."
+      },
+      {
+        "name": "Yoga",
+        "slug": "yoga",
+        "description": "Mats, blocks, and accessories for yoga practice."
+      },
+      {
+        "name": "Resistance Bands",
+        "slug": "resistance-bands",
+        "description": "Bands for resistance training and stretching."
+      }
+    ]
+  },
+  "Outdoor Sports": {
+    "slug": "outdoor-sports",
+    "description": "Gear for sports and activities in the great outdoors.",
+    "subcategories": [
+      {
+        "name": "Camping Gear",
+        "slug": "camping-gear",
+        "description": "Tents, sleeping bags, and other camping essentials."
+      },
+      {
+        "name": "Hiking Equipment",
+        "slug": "hiking-equipment",
+        "description": "Gear for hiking and trail adventures."
+      },
+      {
+        "name": "Cycling",
+        "slug": "cycling",
+        "description": "Bikes, helmets, and accessories for cycling."
+      },
+      {
+        "name": "Cycling Accessories",
+        "slug": "cycling-accessories",
+        "description": "Accessories for road and mountain biking."
+      },
+      {
+        "name": "Fishing",
+        "slug": "fishing",
+        "description": "Rod, reels, and gear for fishing activities."
+      },
+      {
+        "name": "Fishing Supplies",
+        "slug": "fishing-supplies",
+        "description": "Rods, reels, and tackle for fishing enthusiasts."
+      }
+    ]
+  },
+  "Winter Sports": {
+    "slug": "winter-sports",
+    "description": "Gear and equipment for winter activities.",
+    "subcategories": [
+      {
+        "name": "Skiing",
+        "slug": "skiing",
+        "description": "Skis, poles, and apparel for skiing."
+      },
+      {
+        "name": "Snowboarding",
+        "slug": "snowboarding",
+        "description": "Boards, boots, and gear for snowboarding."
+      },
+      {
+        "name": "Ice Skating",
+        "slug": "ice-skating",
+        "description": "Skates and accessories for ice skating."
+      },
+      {
+        "name": "Snowshoeing",
+        "slug": "snowshoeing",
+        "description": "Shoes and gear for snowshoeing adventures."
+      }
+    ]
+  },
+  "Martial Arts": {
+    "slug": "martial-arts",
+    "description": "Equipment and apparel for various martial arts disciplines.",
+    "subcategories": [
+      {
+        "name": "Karate",
+        "slug": "karate",
+        "description": "Uniforms, belts, and gear for karate practice."
+      },
+      {
+        "name": "Judo",
+        "slug": "judo",
+        "description": "Uniforms, mats, and accessories for judo."
+      },
+      {
+        "name": "Taekwondo",
+        "slug": "taekwondo",
+        "description": "Uniforms, belts, and equipment for taekwondo."
+      },
+      {
+        "name": "Boxing",
+        "slug": "boxing",
+        "description": "Gloves, bags, and gear for boxing training."
+      }
+    ]
+  },
+  "Sports Nutrition": {
+    "slug": "sports-nutrition",
+    "description": "Supplements and nutrition products for athletes.",
+    "subcategories": [
+      {
+        "name": "Protein Powders",
+        "slug": "protein-powders",
+        "description": "Powders for muscle growth and recovery."
+      },
+      {
+        "name": "Energy Drinks",
+        "slug": "energy-drinks",
+        "description": "Drinks for boosting energy during workouts."
+      },
+      {
+        "name": "Recovery Supplements",
+        "slug": "recovery-supplements",
+        "description": "Supplements to aid in muscle recovery."
+      },
+      {
+        "name": "Pre-Workout Supplements",
+        "slug": "pre-workout-supplements",
+        "description": "Supplements to enhance workout performance."
+      }
+    ]
+  }
+}

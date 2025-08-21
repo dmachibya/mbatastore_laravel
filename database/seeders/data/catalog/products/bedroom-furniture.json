@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ikea Malm Bed Frame",
+    "slug": "ikea-malm-bed-frame",
+    "brand": "Ikea",
+    "model_number": "202.145.66",
+    "mpn": "20214566",
+    "gtin": "7331421773733",
+    "gtin_type": "EAN",
+    "origin_country": "Sweden",
+    "manufacturer": "Ikea",
+    "description": "The Ikea Malm Bed Frame is a sleek and modern addition to any bedroom. Designed with clean lines and a minimalist aesthetic, this bed frame is both stylish and functional. The bed frame is made from durable materials that ensure long-lasting use, while the adjustable bed sides allow you to use mattresses of different thicknesses. The Malm Bed Frame also features ample storage space underneath, making it an ideal choice for small spaces. Its timeless design and neutral finish make it a versatile piece that complements various bedroom decor styles."
+  },
+  {
+    "name": "Ashley Furniture Signature Design - Brashland Dresser",
+    "slug": "ashley-furniture-signature-design-brashland-dresser",
+    "brand": "Ashley Furniture",
+    "model_number": "B740-31",
+    "mpn": "B74031",
+    "gtin": "024052501270",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Ashley Furniture Industries",
+    "description": "The Ashley Furniture Signature Design - Brashland Dresser is a perfect blend of rustic charm and modern functionality. Constructed from engineered wood and veneers, this dresser features a white-textured rub-through finish that adds a touch of elegance to any bedroom. It comes with seven spacious drawers, providing ample storage for your clothes and accessories. The drawers are equipped with dovetail construction and ball bearing glides for smooth operation. The Brashland Dresser is a statement piece that enhances the aesthetic appeal of your bedroom while offering practical storage solutions."
+  }
+]

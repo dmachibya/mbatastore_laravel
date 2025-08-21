@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Kawasaki Ninja ZX-6R 2024 Model",
+    "slug": "kawasaki-ninja-zx-6r-2024-model",
+    "sku": "ZX6R-2024-001",
+    "description": "The 2024 Kawasaki Ninja ZX-6R is a high-performance sport bike that delivers exceptional power and handling. Equipped with a 636cc engine and advanced electronics, it is perfect for both track and street riding.",
+    "price": 10999,
+    "offer_price": 9999,
+    "key_features": [
+      "636cc liquid-cooled inline-four engine",
+      "Traction control and adjustable power modes",
+      "Quickshifter for seamless gear changes",
+      "Fully adjustable suspension",
+      "Modern aerodynamic design"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 20,
+    "shipping_weight": 190,
+    "meta_title": "Kawasaki Ninja ZX-6R 2024 Model - High Performance Sport Bike",
+    "meta_description": "Discover the 2024 Kawasaki Ninja ZX-6R, a high-performance sport bike with a 636cc engine, advanced electronics, and excellent handling. Special offer available now!"
+  },
+  {
+    "title": "Kawasaki Ninja ZX-6R 2023 SE Edition",
+    "slug": "kawasaki-ninja-zx-6r-2023-se-edition",
+    "sku": "ZX6R-2023-002",
+    "description": "The 2023 Kawasaki Ninja ZX-6R SE Edition offers premium features and exclusive styling. It comes with a 636cc engine, advanced suspension, and a unique color scheme for a distinctive look and exceptional performance.",
+    "price": 11999,
+    "offer_price": 10999,
+    "key_features": [
+      "636cc liquid-cooled inline-four engine",
+      "Special Edition color scheme",
+      "Advanced rider aids and electronics",
+      "Premium suspension components",
+      "Aggressive, track-inspired design"
+    ],
+    "stock_quantity": 7,
+    "sold_quantity": 15,
+    "shipping_weight": 190,
+    "meta_title": "Kawasaki Ninja ZX-6R 2023 SE Edition - Premium Sport Bike",
+    "meta_description": "Get the 2023 Kawasaki Ninja ZX-6R SE Edition with exclusive features and a special color scheme. This sport bike offers outstanding performance and a unique look!"
+  },
+  {
+    "title": "Kawasaki Ninja ZX-6R 2022 Standard",
+    "slug": "kawasaki-ninja-zx-6r-2022-standard",
+    "sku": "ZX6R-2022-003",
+    "description": "The 2022 Kawasaki Ninja ZX-6R is a versatile sport bike offering a perfect balance of performance and practicality. With a 636cc engine, it is designed for both daily commuting and track days.",
+    "price": 10499,
+    "offer_price": 9499,
+    "key_features": [
+      "636cc liquid-cooled inline-four engine",
+      "Traction control and ride modes",
+      "Quickshifter for smooth acceleration",
+      "Adjustable suspension for customization",
+      "Sleek, aerodynamic bodywork"
+    ],
+    "stock_quantity": 14,
+    "sold_quantity": 25,
+    "shipping_weight": 190,
+    "meta_title": "Kawasaki Ninja ZX-6R 2022 Standard - Performance Sport Bike",
+    "meta_description": "Check out the 2022 Kawasaki Ninja ZX-6R Standard model with a 636cc engine, advanced features, and a sporty design. Available now at a discounted price!"
+  },
+  {
+    "title": "Kawasaki Ninja ZX-6R 2024 Track Edition",
+    "slug": "kawasaki-ninja-zx-6r-2024-track-edition",
+    "sku": "ZX6R-2024-004",
+    "description": "The 2024 Kawasaki Ninja ZX-6R Track Edition is built for track enthusiasts seeking top-level performance. Featuring enhanced components and a track-focused setup, this edition offers superior handling and speed.",
+    "price": 12999,
+    "offer_price": 11999,
+    "key_features": [
+      "636cc liquid-cooled inline-four engine",
+      "Track-focused suspension and components",
+      "Enhanced rider aids for performance",
+      "Special track-oriented accessories",
+      "Bold, race-inspired graphics"
+    ],
+    "stock_quantity": 6,
+    "sold_quantity": 8,
+    "shipping_weight": 200,
+    "meta_title": "Kawasaki Ninja ZX-6R 2024 Track Edition - Ultimate Performance",
+    "meta_description": "Experience the 2024 Kawasaki Ninja ZX-6R Track Edition, designed for ultimate track performance with advanced features and race-ready components. Available at a special price!"
+  }
+]

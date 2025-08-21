@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Omega Speedmaster Professional Moonwatch",
+    "slug": "omega-speedmaster-professional-moonwatch",
+    "sku": "OSP-01",
+    "description": "The Omega Speedmaster Professional Moonwatch is a legendary chronograph that has been a part of all six lunar missions. This classic timepiece features a 42mm stainless steel case with a black dial and a hesalite crystal. The Speedmaster is powered by the Omega Caliber 1861, a manual-winding chronograph movement known for its reliability and precision. The watch includes a tachymeter bezel and three sub-dials for measuring elapsed time, making it a highly functional and versatile timepiece. With its storied history and timeless design, the Omega Speedmaster Professional Moonwatch is a must-have for watch enthusiasts and space exploration fans alike. Whether you're timing laps on the track or reminiscing about space exploration, this watch is a symbol of adventure and precision.",
+    "price": 5250.0,
+    "offer_price": 4999.0,
+    "key_features": [
+      "42mm Stainless Steel Case",
+      "Omega Caliber 1861",
+      "Manual-Winding Movement",
+      "Tachymeter Bezel",
+      "Hesalite Crystal"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 100,
+    "shipping_weight": "0.4 kg",
+    "meta_title": "Omega Speedmaster Professional Moonwatch | Omega",
+    "meta_description": "Discover the Omega Speedmaster Professional Moonwatch, a legendary chronograph with a 42mm stainless steel case and Omega Caliber 1861 movement. Available now with a special offer. A must-have for watch enthusiasts and space fans."
+  },
+  {
+    "title": "Omega Speedmaster Professional Hesalite",
+    "slug": "omega-speedmaster-professional-hesalite",
+    "sku": "OSP-02",
+    "description": "The Omega Speedmaster Professional Hesalite is an iconic chronograph known for its role in space exploration. Featuring a 42mm stainless steel case and a black dial, this timepiece is equipped with a hesalite crystal and powered by the Omega Caliber 1861, a manual-winding chronograph movement. The Speedmaster includes a tachymeter bezel and three sub-dials, offering precise timekeeping and functionality. With its rich history and classic design, the Omega Speedmaster Professional Hesalite is a testament to Omega's dedication to quality and innovation. Whether you're a space enthusiast or a lover of fine watches, this timepiece is a symbol of adventure, precision, and timeless style.",
+    "price": 5250.0,
+    "offer_price": 4999.0,
+    "key_features": [
+      "42mm Stainless Steel Case",
+      "Black Dial",
+      "Hesalite Crystal",
+      "Omega Caliber 1861",
+      "Manual-Winding Movement"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 90,
+    "shipping_weight": "0.4 kg",
+    "meta_title": "Omega Speedmaster Professional Hesalite | Omega",
+    "meta_description": "Shop the Omega Speedmaster Professional Hesalite, an iconic chronograph with a 42mm stainless steel case and Omega Caliber 1861 movement. Available now with a special offer. Perfect for space enthusiasts and watch lovers."
+  }
+]

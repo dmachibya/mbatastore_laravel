@@ -1,0 +1,4 @@
+{
+  "Material": ["Wood", "Metal", "Fabric", "Leather"],
+  "Style": ["Modern", "Traditional", "Rustic", "Contemporary"]
+}

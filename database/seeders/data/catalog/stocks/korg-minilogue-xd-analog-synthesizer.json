@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Korg Minilogue XD Analog Synthesizer - Standard Package",
+    "slug": "korg-minilogue-xd-analog-synthesizer-standard-package",
+    "sku": "KORG-MXD-SP",
+    "description": "The Korg Minilogue XD Analog Synthesizer - Standard Package is a versatile instrument that combines analog warmth with digital flexibility. With a 4-voice analog synthesizer engine and a digital multi-engine, this synthesizer offers a wide range of sounds. The 37 slim keys, OLED oscilloscope display, and intuitive interface make it easy to create and manipulate sounds. The standard package includes the synthesizer, power adapter, and user manual. Ideal for both live performances and studio work, the Minilogue XD is perfect for musicians looking for a powerful and portable synthesizer.",
+    "price": 599.99,
+    "offer_price": 549.99,
+    "key_features": [
+      "4-Voice Analog Engine",
+      "Digital Multi-Engine",
+      "37 Slim Keys",
+      "OLED Oscilloscope Display"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 5,
+    "shipping_weight": 8.0,
+    "meta_title": "Korg Minilogue XD Analog Synthesizer - Standard Package",
+    "meta_description": "Shop the Korg Minilogue XD Analog Synthesizer - Standard Package, featuring a 4-voice analog engine, digital multi-engine, 37 slim keys, and OLED oscilloscope display. Perfect for live performances and studio work."
+  },
+  {
+    "title": "Korg Minilogue XD Analog Synthesizer - Deluxe Package",
+    "slug": "korg-minilogue-xd-analog-synthesizer-deluxe-package",
+    "sku": "KORG-MXD-DP",
+    "description": "The Korg Minilogue XD Analog Synthesizer - Deluxe Package offers everything you need for an exceptional sound experience. This package includes the Minilogue XD synthesizer with its 4-voice analog engine and digital multi-engine, providing a wide range of sonic possibilities. The deluxe package also comes with a durable gig bag, sustain pedal, and headphones. With 37 slim keys, an OLED oscilloscope display, and built-in effects, this synthesizer is perfect for creating and performing complex sounds. Whether you're in the studio or on stage, the Minilogue XD Deluxe Package delivers the ultimate in flexibility and control.",
+    "price": 699.99,
+    "offer_price": 649.99,
+    "key_features": [
+      "4-Voice Analog Engine",
+      "Digital Multi-Engine",
+      "37 Slim Keys",
+      "OLED Oscilloscope Display",
+      "Deluxe Accessories Included"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 3,
+    "shipping_weight": 10.0,
+    "meta_title": "Korg Minilogue XD Analog Synthesizer - Deluxe Package",
+    "meta_description": "Discover the Korg Minilogue XD Analog Synthesizer - Deluxe Package, featuring a 4-voice analog engine, digital multi-engine, 37 slim keys, OLED oscilloscope display, and deluxe accessories. Ideal for studio and live performances."
+  }
+]

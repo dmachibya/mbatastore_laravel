@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Front Airbag for 2021 Honda Accord",
+    "slug": "front-airbag-honda-accord-2021",
+    "brand": "Honda",
+    "model_number": "08U95-TVA-200",
+    "mpn": "08U95-TVA-200",
+    "gtin": "884113154303",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Honda",
+    "description": "This is a genuine front airbag for the 2021 Honda Accord. It provides essential safety features in case of a collision, deploying instantly to protect the driver and passengers. Made from high-quality materials for reliable performance.",
+    "price": 399.99,
+    "offer_price": 349.99,
+    "key_features": [
+      "Genuine OEM Part",
+      "Front Airbag Deployment",
+      "Dual-Stage Deployment System",
+      "Driver Side Airbag"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 5,
+    "shipping_weight": 5.0,
+    "meta_title": "Front Airbag for 2021 Honda Accord | Genuine OEM Part",
+    "meta_description": "Buy a genuine front airbag for the 2021 Honda Accord. High-quality OEM part with dual-stage deployment system. Ensures safety with reliable performance. Buy now for reduced price!"
+  },
+  {
+    "name": "Side Airbag for 2020 Toyota Camry",
+    "slug": "side-airbag-toyota-camry-2020",
+    "brand": "Toyota",
+    "model_number": "73210-06220",
+    "mpn": "73210-06220",
+    "gtin": "9099906030170",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Toyota",
+    "description": "This side airbag is a high-quality OEM part designed for the 2020 Toyota Camry. It deploys in the event of a side impact collision to protect the occupants. Durable and tested for safety.",
+    "price": 299.99,
+    "offer_price": 279.99,
+    "key_features": [
+      "OEM Quality",
+      "Side Airbag Deployment",
+      "Single-Stage Deployment System",
+      "Passenger Side Airbag"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 8,
+    "shipping_weight": 4.5,
+    "meta_title": "Side Airbag for 2020 Toyota Camry | High-Quality OEM Part",
+    "meta_description": "Purchase a side airbag for the 2020 Toyota Camry. This high-quality OEM part features a single-stage deployment system for passenger side protection. Buy now for great savings!"
+  },
+  {
+    "name": "Honda Civic 2016-2021 Passenger Side Airbag",
+    "slug": "honda-civic-2016-2021-passenger-side-airbag",
+    "brand": "Honda",
+    "model_number": "08P69-T2A-100",
+    "mpn": "08P69-T2A-100",
+    "gtin": "00766843011191",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Honda",
+    "description": "The Honda Civic 2016-2021 Passenger Side Airbag is a high-quality replacement airbag designed to provide superior safety and protection for your vehicle's front passenger seat. This genuine Honda airbag is engineered to meet or exceed OEM standards, ensuring a perfect fit and reliable performance. With advanced airbag technology, this component deploys in the event of a collision to cushion and protect the passenger from impact. The airbag features a sophisticated design with precise deployment mechanisms to ensure optimal safety. Each unit is rigorously tested for durability and reliability, making it a dependable choice for maintaining your vehicle’s safety features. Installation is straightforward with the included instructions, making it an excellent choice for both DIY enthusiasts and professional mechanics."
+  },
+  {
+    "name": "Toyota Corolla 2018-2022 Driver Side Airbag",
+    "slug": "toyota-corolla-2018-2022-driver-side-airbag",
+    "brand": "Toyota",
+    "model_number": "PT413-03200",
+    "mpn": "PT413-03200",
+    "gtin": "00766434409119",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Toyota",
+    "description": "The Toyota Corolla 2018-2022 Driver Side Airbag is a high-performance replacement part designed to provide exceptional safety for the driver in the event of a collision. This genuine Toyota airbag meets strict OEM standards to ensure compatibility and reliability. Featuring advanced airbag deployment technology, this component offers enhanced protection with a fast and efficient deployment mechanism. The airbag is constructed with high-quality materials to ensure durability and consistent performance under extreme conditions. This product is rigorously tested to meet safety standards, offering peace of mind for drivers and passengers alike. Easy to install with comprehensive instructions included, this airbag is a perfect choice for maintaining the safety of your Toyota Corolla."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "License Type": [
+    "Subscription",
+    "Perpetual License",
+    "Educational License",
+    "Enterprise Licensing"
+  ],
+  "Supported Platforms": ["Windows", "macOS", "Linux"]
+}

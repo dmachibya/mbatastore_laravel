@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rolex Submariner",
+    "slug": "rolex-submariner",
+    "brand": "Rolex",
+    "model_number": "116610LN",
+    "mpn": "116610LN",
+    "gtin": "7612878500055",
+    "gtin_type": "EAN",
+    "origin_country": "Switzerland",
+    "manufacturer": "Rolex SA",
+    "description": "The Rolex Submariner is an iconic diving watch that combines timeless design with robust performance. Featuring a 40mm Oystersteel case, the Submariner is equipped with a black dial and a Cerachrom bezel insert in black ceramic. The watch is powered by the Rolex Caliber 3135, a self-winding mechanical movement renowned for its precision and reliability. The Submariner is water-resistant up to 300 meters (1,000 feet) and includes a unidirectional rotatable bezel, making it a perfect companion for underwater exploration. With its classic design and superior craftsmanship, the Rolex Submariner is a symbol of elegance and adventure."
+  },
+  {
+    "name": "Omega Speedmaster Professional",
+    "slug": "omega-speedmaster-professional",
+    "brand": "Omega",
+    "model_number": "311.30.42.30.01.005",
+    "mpn": "311.30.42.30.01.005",
+    "gtin": "7612586250512",
+    "gtin_type": "EAN",
+    "origin_country": "Switzerland",
+    "manufacturer": "Omega SA",
+    "description": "The Omega Speedmaster Professional, also known as the 'Moonwatch', is a legendary chronograph that has been part of all six lunar missions. This classic timepiece features a 42mm stainless steel case with a black dial and a hesalite crystal. Powered by the Omega Caliber 1861, a manual-winding chronograph movement, the Speedmaster Professional offers unparalleled reliability and precision. The watch includes a tachymeter bezel and three sub-dials for measuring elapsed time. With its storied history and timeless design, the Omega Speedmaster Professional is a must-have for watch enthusiasts and space exploration fans alike."
+  }
+]

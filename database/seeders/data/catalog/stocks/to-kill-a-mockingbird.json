@@ -1,0 +1,40 @@
+[
+  {
+    "title": "To Kill a Mockingbird - Paperback",
+    "slug": "to-kill-a-mockingbird-paperback",
+    "sku": "TKAM-PB",
+    "description": "Harper Lee's 'To Kill a Mockingbird' is a deeply moving novel that explores the complexities of racial injustice and childhood innocence in the American South during the 1930s. Told through the eyes of young Scout Finch, the story follows her father, Atticus Finch, as he defends a black man falsely accused of raping a white woman. This edition, in a convenient paperback format, allows readers to experience the poignant and timeless story of morality, empathy, and the human condition. Its themes of justice and compassion continue to resonate and inspire readers worldwide.",
+    "price": 14.99,
+    "offer_price": 12.99,
+    "key_features": [
+      "Pulitzer Prize Winner",
+      "Classic Literature",
+      "Racial Injustice Theme",
+      "Empathy and Morality"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 20,
+    "shipping_weight": 1.0,
+    "meta_title": "To Kill a Mockingbird - Paperback",
+    "meta_description": "Purchase 'To Kill a Mockingbird' in paperback. Harper Lee's classic novel on racial injustice and moral growth in the Deep South."
+  },
+  {
+    "title": "To Kill a Mockingbird - Hardcover",
+    "slug": "to-kill-a-mockingbird-hardcover",
+    "sku": "TKAM-HC",
+    "description": "Experience Harper Lee's Pulitzer Prize-winning novel 'To Kill a Mockingbird' in a beautiful hardcover edition. This enduring classic delves into themes of racial injustice and childhood innocence through the eyes of Scout Finch, a young girl growing up in the American South during the 1930s. Her father, Atticus Finch, becomes a moral hero as he defends a black man falsely accused of raping a white woman. This hardcover edition is perfect for collectors and readers who want a durable, high-quality copy of this beloved novel. Its exploration of morality, empathy, and human behavior makes it a timeless addition to any library.",
+    "price": 24.99,
+    "offer_price": 22.99,
+    "key_features": [
+      "Pulitzer Prize Winner",
+      "Classic Literature",
+      "Racial Injustice Theme",
+      "Durable Hardcover Edition"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 10,
+    "shipping_weight": 1.5,
+    "meta_title": "To Kill a Mockingbird - Hardcover",
+    "meta_description": "Buy 'To Kill a Mockingbird' in hardcover. Harper Lee's Pulitzer Prize-winning novel on racial injustice and moral courage in the American South."
+  }
+]

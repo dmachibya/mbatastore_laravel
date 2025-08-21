@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Extreme Energy Drink - Citrus Blast",
+    "slug": "extreme-energy-drink-citrus-blast",
+    "brand": "Monster Energy",
+    "model_number": "ME-EB-001",
+    "mpn": "ME-EB-001",
+    "gtin": "9876543210987",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Monster Beverage Corporation",
+    "description": "Monster Energy's Extreme Energy Drink in Citrus Blast flavor delivers a powerful energy boost with a refreshing citrus taste. Each 16-ounce can contains a unique blend of caffeine, taurine, and B-vitamins designed to enhance focus, endurance, and physical performance. The drink is fortified with electrolytes to support hydration during intense activities. Ideal for athletes, students, or anyone needing an extra energy kick, Citrus Blast provides a revitalizing and zesty flavor experience without excessive calories or sugars."
+  },
+  {
+    "name": "Power Surge Energy Drink - Tropical Punch",
+    "slug": "power-surge-energy-drink-tropical-punch",
+    "brand": "Red Bull",
+    "model_number": "RB-PS-002",
+    "mpn": "RB-PS-002",
+    "gtin": "5678901234567",
+    "gtin_type": "UPC",
+    "origin_country": "Austria",
+    "manufacturer": "Red Bull GmbH",
+    "description": "Red Bull's Power Surge Energy Drink in Tropical Punch flavor offers a delicious and effective way to boost your energy levels. With a perfect blend of caffeine, taurine, and B-vitamins, this 12-ounce can is designed to increase alertness, stamina, and physical performance. The tropical punch flavor provides a refreshing and invigorating taste experience. Whether you're hitting the gym, studying for exams, or need a pick-me-up during a busy day, Power Surge Energy Drink delivers the energy and focus you need."
+  }
+]

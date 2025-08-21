@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Johnson & Johnson All-Purpose First Aid Kit - Comprehensive Emergency Kit",
+    "slug": "johnson-johnson-all-purpose-first-aid-kit-comprehensive-emergency-kit",
+    "sku": "JJ-FAK-2024-001",
+    "description": "The Johnson & Johnson All-Purpose First Aid Kit is your go-to solution for handling minor injuries and medical emergencies. This well-stocked kit includes a variety of first aid essentials such as adhesive bandages, antiseptic wipes, gauze pads, and medical tape, all stored in a durable, easy-to-carry case. The kit also contains a pair of scissors, tweezers, and a first aid manual that guides you through emergency procedures. Whether you need it for your home, car, or office, this first aid kit is designed to provide you with the tools you need to respond to unexpected situations quickly and effectively. The compact size and organized layout make it convenient to access all items in an emergency.",
+    "price": 29.99,
+    "offer_price": 24.99,
+    "key_features": [
+      "Comprehensive First Aid Supplies",
+      "Includes Bandages, Wipes, Gauze, and More",
+      "Compact and Durable Case",
+      "First Aid Manual Included"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 150,
+    "shipping_weight": 1.2,
+    "meta_title": "Johnson & Johnson All-Purpose First Aid Kit - Comprehensive Emergency Kit",
+    "meta_description": "Shop the Johnson & Johnson All-Purpose First Aid Kit for a comprehensive emergency solution. Includes bandages, antiseptics, and a first aid manual. Ideal for home, car, or office use. Buy now at a special offer price!"
+  },
+  {
+    "title": "Johnson & Johnson All-Purpose First Aid Kit - Essential Medical Supplies",
+    "slug": "johnson-johnson-all-purpose-first-aid-kit-essential-medical-supplies",
+    "sku": "JJ-FAK-2024-002",
+    "description": "Prepare for any emergency with the Johnson & Johnson All-Purpose First Aid Kit. This kit provides a full range of first aid supplies including bandages, antiseptic wipes, gauze pads, and medical tape, all in a convenient, portable case. With the addition of scissors, tweezers, and a comprehensive first aid manual, this kit is ideal for families, travelers, and workplaces. The manual offers detailed instructions for treating injuries and managing emergencies, ensuring you are always ready to handle unexpected situations. Compact and organized, this first aid kit is a must-have for safety and preparedness.",
+    "price": 32.99,
+    "offer_price": 27.99,
+    "key_features": [
+      "Complete First Aid Supplies",
+      "Portable and Organized",
+      "Includes First Aid Manual",
+      "Ideal for Various Uses"
+    ],
+    "stock_quantity": 35,
+    "sold_quantity": 70,
+    "shipping_weight": 1.3,
+    "meta_title": "Johnson & Johnson All-Purpose First Aid Kit - Essential Medical Supplies",
+    "meta_description": "Get the Johnson & Johnson All-Purpose First Aid Kit with essential supplies for emergencies. Includes bandages, antiseptics, and a first aid manual. Perfect for home, office, or travel. Shop now at a discount!"
+  }
+]

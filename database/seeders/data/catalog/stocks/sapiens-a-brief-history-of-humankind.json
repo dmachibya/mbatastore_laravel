@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Sapiens: A Brief History of Humankind - Paperback",
+    "slug": "sapiens-a-brief-history-of-humankind-paperback",
+    "sku": "SAPIENS-PB",
+    "description": "Yuval Noah Harari's 'Sapiens: A Brief History of Humankind' offers a compelling narrative that spans the history of our species. This paperback edition provides an accessible format for readers to explore Harari's examination of human evolution, the Cognitive Revolution, and the significant shifts brought about by the Agricultural and Scientific Revolutions. Harari's insights into the unification of humankind and the prospects for our future in a rapidly advancing world make this book a must-read for anyone interested in the history and future of Homo sapiens. Its engaging storytelling and thought-provoking analysis will leave a lasting impact on readers.",
+    "price": 18.99,
+    "offer_price": 16.99,
+    "key_features": [
+      "Comprehensive History of Humankind",
+      "Insightful and Thought-Provoking",
+      "Cognitive and Agricultural Revolutions",
+      "Accessible Paperback Format"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 40,
+    "shipping_weight": 1.2,
+    "meta_title": "Sapiens: A Brief History of Humankind - Paperback",
+    "meta_description": "Buy 'Sapiens: A Brief History of Humankind' in paperback. Yuval Noah Harari's compelling narrative on human evolution and history."
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind - Hardcover",
+    "slug": "sapiens-a-brief-history-of-humankind-hardcover",
+    "sku": "SAPIENS-HC",
+    "description": "Explore the history of our species with Yuval Noah Harari's 'Sapiens: A Brief History of Humankind' in this durable hardcover edition. Harari's masterful storytelling takes readers from the emergence of Homo sapiens to the present day, examining the pivotal moments that have shaped human history. This hardcover edition is perfect for collectors and those who prefer a high-quality, long-lasting copy of this insightful and thought-provoking book. Harari's analysis of the Cognitive Revolution, the unification of humankind, and the future of our species makes 'Sapiens' an essential read for understanding our past and considering our future.",
+    "price": 27.99,
+    "offer_price": 24.99,
+    "key_features": [
+      "Comprehensive History of Humankind",
+      "Insightful and Thought-Provoking",
+      "Cognitive and Agricultural Revolutions",
+      "Durable Hardcover Edition"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 20,
+    "shipping_weight": 1.5,
+    "meta_title": "Sapiens: A Brief History of Humankind - Hardcover",
+    "meta_description": "Order 'Sapiens: A Brief History of Humankind' in hardcover. Yuval Noah Harari's comprehensive and insightful narrative on human history."
+  }
+]

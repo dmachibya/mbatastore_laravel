@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Digital Air Fryer",
+    "slug": "digital-air-fryer",
+    "brand": "Healthy Cook",
+    "model_number": "HC-AF300",
+    "mpn": "HCAF300",
+    "gtin": "8712345678925",
+    "gtin_type": "EAN",
+    "origin_country": "China",
+    "manufacturer": "Healthy Cook Appliances",
+    "description": "The Digital Air Fryer by Healthy Cook allows you to enjoy your favorite fried foods without the guilt. Utilizing advanced air circulation technology, this air fryer cooks food to a crispy perfection with little to no oil. It features a digital touchscreen for easy temperature and time control, a large capacity basket, and multiple cooking presets. Ideal for frying, baking, grilling, and roasting, this versatile appliance is a must-have for any health-conscious kitchen."
+  },
+  {
+    "name": "Stainless Steel Toaster Oven",
+    "slug": "stainless-steel-toaster-oven",
+    "brand": "Kitchen Master",
+    "model_number": "KM-TO400",
+    "mpn": "KMTO400",
+    "gtin": "8712345678932",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Kitchen Master Co.",
+    "description": "The Stainless Steel Toaster Oven by Kitchen Master combines style and functionality. With its sleek stainless steel exterior, this toaster oven looks great on any countertop. It features multiple cooking functions including bake, broil, toast, and keep warm. The spacious interior can accommodate a 12-inch pizza or six slices of bread, making it perfect for both small and large meals. The easy-to-use controls and adjustable temperature settings ensure perfect results every time."
+  }
+]

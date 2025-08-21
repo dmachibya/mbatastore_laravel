@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Elegant Silver Knot Cufflinks for Men",
+    "slug": "elegant-silver-knot-cufflinks-for-men",
+    "sku": "EG-CFL-2024-01",
+    "description": "Introducing the Elegant Silver Knot Cufflinks for Men by ElegantGents. These exquisite cufflinks are crafted from premium sterling silver and feature a sophisticated knot design that exudes class and elegance. Perfect for formal events, business meetings, or any occasion that demands a touch of refinement. The polished finish enhances their sleek appearance, making them a versatile addition to any wardrobe. Each pair is crafted with meticulous attention to detail, ensuring a durable and stylish accessory that will last for years. Ideal as a gift for weddings, anniversaries, or any special event, these cufflinks are a timeless piece that will be cherished for a lifetime.",
+    "price": 99.99,
+    "offer_price": 79.99,
+    "key_features": [
+      "Premium Sterling Silver",
+      "Intricate Knot Design",
+      "Polished Finish",
+      "Durable and Stylish"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 100,
+    "shipping_weight": "0.1 kg",
+    "meta_title": "Elegant Silver Knot Cufflinks for Men | ElegantGents",
+    "meta_description": "Shop the Elegant Silver Knot Cufflinks for Men from ElegantGents. Crafted from premium sterling silver with an intricate knot design, these cufflinks are perfect for any formal occasion. Get yours today with a special offer!"
+  },
+  {
+    "title": "Sophisticated Silver Knot Cufflinks",
+    "slug": "sophisticated-silver-knot-cufflinks",
+    "sku": "EG-CFL-2024-02",
+    "description": "The Sophisticated Silver Knot Cufflinks by ElegantGents are the perfect accessory for the discerning gentleman. Made from high-quality sterling silver, these cufflinks feature a timeless knot design that symbolizes unity and strength. The polished finish adds a touch of sophistication, making them ideal for formal events and business attire. Each pair is carefully crafted to ensure durability and elegance, providing a refined look that complements any dress shirt. These cufflinks are an excellent gift choice for weddings, anniversaries, or any special occasion where you want to make a lasting impression. Elevate your style with these classic and elegant cufflinks.",
+    "price": 109.99,
+    "offer_price": 89.99,
+    "key_features": [
+      "High-Quality Sterling Silver",
+      "Timeless Knot Design",
+      "Polished Finish",
+      "Elegant and Durable"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 85,
+    "shipping_weight": "0.1 kg",
+    "meta_title": "Sophisticated Silver Knot Cufflinks | ElegantGents",
+    "meta_description": "Discover the Sophisticated Silver Knot Cufflinks from ElegantGents. Featuring a timeless knot design in high-quality sterling silver, these cufflinks are perfect for formal events. Shop now and enjoy a special discount!"
+  }
+]

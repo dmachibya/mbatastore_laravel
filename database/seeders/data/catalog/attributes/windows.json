@@ -1,0 +1,5 @@
+{
+  "Version": ["Home", "Pro", "Enterprise", "Education"],
+  "Architecture": ["32-bit", "64-bit", "ARM", "Universal"],
+  "License Type": ["Retail", "OEM", "Volume", "Subscription"]
+}

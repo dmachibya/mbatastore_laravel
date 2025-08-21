@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Galaxy S21 Ultra",
+    "slug": "galaxy-s21-ultra",
+    "sku": "SM-G998B-DS",
+    "description": "The Galaxy S21 Ultra is Samsung's flagship smartphone, offering top-tier performance and cutting-edge technology. It features a stunning 6.8-inch Dynamic AMOLED 2X display with a resolution of 3200 x 1440 pixels and a 120Hz refresh rate for a smooth and immersive visual experience. Powered by the Exynos 2100 processor and paired with up to 16GB of RAM, it ensures fast and efficient multitasking. The device boasts a quad-camera system with a 108MP main sensor, allowing you to capture stunning photos and videos. Additionally, it supports 5G connectivity, Wi-Fi 6E, and a large 5000mAh battery with fast charging capabilities. The Galaxy S21 Ultra is designed to provide an unparalleled mobile experience, making it the ultimate choice for tech enthusiasts and professionals. Its sleek design is complemented by advanced security features, including an ultrasonic fingerprint sensor and facial recognition. With an IP68 rating for water and dust resistance, this smartphone is built to withstand the rigors of everyday use.",
+    "price": 1299.99,
+    "offer_price": 1199.99,
+    "key_features": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Exynos 2100 processor",
+      "Quad-camera system with 108MP main sensor",
+      "5G connectivity and Wi-Fi 6E",
+      "5000mAh battery with fast charging"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 40,
+    "shipping_weight": 0.5,
+    "meta_title": "Samsung Galaxy S21 Ultra - Flagship Smartphone",
+    "meta_description": "Buy the Samsung Galaxy S21 Ultra. Top-tier performance, 108MP camera, 6.8-inch AMOLED display, and 5G connectivity. Get yours today!"
+  }
+]

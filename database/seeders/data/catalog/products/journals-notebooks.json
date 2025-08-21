@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Moleskine Classic Notebook",
+    "slug": "moleskine-classic-notebook",
+    "brand": "Moleskine",
+    "model_number": "MOL-NTB-LG-RU",
+    "mpn": "8058647624985",
+    "gtin": "8058647624985",
+    "gtin_type": "ISBN",
+    "origin_country": "Italy",
+    "manufacturer": "Moleskine",
+    "description": "The Moleskine Classic Notebook is a timeless notebook designed for daily journaling and note-taking. It features a durable hardcover with rounded corners, an elastic closure, and an expandable inner pocket. The notebook contains 240 ruled pages of high-quality, acid-free paper that ensures a smooth writing experience. The Moleskine Classic Notebook is ideal for writers, students, and professionals who value a high-quality notebook that can be carried everywhere. Its minimalist design and functional features make it a must-have for anyone looking to capture their thoughts, sketches, or ideas."
+  },
+  {
+    "name": "Leuchtturm1917 Medium A5 Dotted Notebook",
+    "slug": "leuchtturm1917-medium-a5-dotted-notebook",
+    "brand": "Leuchtturm1917",
+    "model_number": "LT-3445-DT-A5",
+    "mpn": "3445",
+    "gtin": "4004117322616",
+    "gtin_type": "ISBN",
+    "origin_country": "Germany",
+    "manufacturer": "Leuchtturm1917",
+    "description": "The Leuchtturm1917 Medium A5 Dotted Notebook is a premium notebook perfect for bullet journaling, sketching, and planning. It features a durable hardcover with an elastic closure, two ribbon page markers, and an expandable pocket in the back cover. The notebook contains 251 numbered pages of high-quality, acid-free paper with a dotted grid layout. The Leuchtturm1917 notebook also includes an index and detachable pages for quick notes. Its thoughtful design and attention to detail make it a favorite among creatives, professionals, and students."
+  }
+]

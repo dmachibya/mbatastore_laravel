@@ -1,0 +1,9 @@
+{
+  "Type": [
+    "Daily Moisturizer",
+    "Night Cream",
+    "Hydrating Gel",
+    "Anti-Aging Cream"
+  ],
+  "Skin Type": ["Normal", "Dry", "Oily", "Combination"]
+}

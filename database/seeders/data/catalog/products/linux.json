@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ubuntu 22.04 LTS",
+    "slug": "ubuntu-22-04-lts",
+    "brand": "Ubuntu",
+    "model_number": "UA22LTS",
+    "mpn": "UA22LTS",
+    "gtin": "840014601238",
+    "gtin_type": "UPC",
+    "origin_country": "UK",
+    "manufacturer": "Canonical Ltd.",
+    "description": "Ubuntu 22.04 LTS (Jammy Jellyfish) is the latest long-term support release of the popular Linux distribution. This version brings the latest open-source software advancements and is designed for both personal and professional use. It features the GNOME 42 desktop environment with a refined user interface for an optimal user experience. Ubuntu 22.04 LTS offers extensive hardware support, advanced security features, and the ability to run a wide range of software applications. It includes the latest updates, bug fixes, and new features, making it a reliable choice for servers, desktops, and development environments. With five years of security updates and support, Ubuntu 22.04 LTS ensures long-term stability and performance."
+  },
+  {
+    "name": "Fedora 38 Workstation",
+    "slug": "fedora-38-workstation",
+    "brand": "Fedora",
+    "model_number": "F38WS",
+    "mpn": "F38WS",
+    "gtin": "810051505782",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Red Hat Inc.",
+    "description": "Fedora 38 Workstation is the latest release in the Fedora project, offering a cutting-edge Linux experience for developers, professionals, and enthusiasts. It comes with the GNOME 44 desktop environment, featuring a modern and streamlined interface that enhances productivity and ease of use. Fedora 38 Workstation is designed for high performance and includes the latest software updates, development tools, and support for a wide range of hardware. It emphasizes stability and security, making it an excellent choice for development workstations and power users. With its commitment to open-source innovation, Fedora 38 Workstation provides a robust and flexible platform for a variety of computing needs."
+  }
+]

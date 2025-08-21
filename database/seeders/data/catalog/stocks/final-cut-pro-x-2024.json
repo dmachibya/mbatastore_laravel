@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Final Cut Pro X 2024 - Perpetual License",
+    "slug": "final-cut-pro-x-2024-perpetual-license",
+    "sku": "MXFZ2Z/A-PL",
+    "description": "Final Cut Pro X 2024 - Perpetual License is a one-time purchase option for Apple’s professional video editing software. This license provides lifetime access to the latest version of Final Cut Pro X, including advanced features for video editing, color grading, and motion graphics. The software supports high-resolution video formats, 360-degree video editing, and seamless integration with Motion and Compressor for enhanced video production capabilities. Ideal for professional video editors and filmmakers who prefer a one-time investment over a subscription model.",
+    "price": 299.99,
+    "offer_price": 279.99,
+    "key_features": [
+      "One-Time Purchase License for Final Cut Pro X 2024",
+      "Lifetime Access with Advanced Video Editing Tools",
+      "Supports 4K and 360-Degree Video Editing",
+      "Includes Motion and Compressor Integration"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 300,
+    "shipping_weight": 0.1,
+    "meta_title": "Final Cut Pro X 2024 - Perpetual License | Apple",
+    "meta_description": "Purchase Final Cut Pro X 2024 with a Perpetual License. Get lifetime access to professional video editing tools, color grading, and 360-degree video support for your creative projects."
+  },
+  {
+    "title": "Final Cut Pro X 2024 - 1 Year Subscription",
+    "slug": "final-cut-pro-x-2024-1-year-subscription",
+    "sku": "MXFZ2Z/A-1Y",
+    "description": "Final Cut Pro X 2024 - 1 Year Subscription provides access to Apple’s professional video editing software with all the latest features for one year. The subscription includes advanced tools for video editing, color grading, and motion graphics, with support for high-resolution video formats and 360-degree video projects. Users also benefit from regular updates and new features throughout the subscription period. Perfect for video editors and content creators seeking a comprehensive video editing solution on a subscription basis.",
+    "price": 149.99,
+    "offer_price": 129.99,
+    "key_features": [
+      "1 Year Subscription to Final Cut Pro X 2024",
+      "Advanced Video Editing and Color Grading Tools",
+      "Supports 4K and 360-Degree Video Editing",
+      "Includes Access to Updates and New Features"
+    ],
+    "stock_quantity": 220,
+    "sold_quantity": 340,
+    "shipping_weight": 0.0,
+    "meta_title": "Final Cut Pro X 2024 - 1 Year Subscription | Apple",
+    "meta_description": "Subscribe to Final Cut Pro X 2024 for 1 year. Access professional video editing tools, color grading features, and 360-degree video support. Get the best subscription deal for video production."
+  }
+]

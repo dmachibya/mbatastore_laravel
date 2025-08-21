@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tesla Model 3",
+    "slug": "tesla-model-3",
+    "brand": "Tesla",
+    "model_number": "M3-2024",
+    "mpn": "M3-2024",
+    "gtin": "0811964024016",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Tesla, Inc.",
+    "description": "The Tesla Model 3 is a groundbreaking electric car that combines performance, safety, and technology. With its minimalist design and advanced electric powertrain, the Model 3 offers a range of up to 353 miles on a single charge. The dual-motor all-wheel drive version provides rapid acceleration from 0 to 60 mph in just 3.1 seconds. Inside, the Model 3 features a 15-inch touchscreen display, over-the-air software updates, and Autopilot capabilities for semi-autonomous driving. The spacious interior and expansive glass roof provide a premium driving experience, while Tesla's extensive Supercharger network ensures convenient and fast charging on long trips."
+  },
+  {
+    "name": "Nissan Leaf",
+    "slug": "nissan-leaf",
+    "brand": "Nissan",
+    "model_number": "ZE1",
+    "mpn": "ZE1-2024",
+    "gtin": "0454965101445",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Nissan Motor Co., Ltd.",
+    "description": "The Nissan Leaf is a pioneering electric vehicle known for its affordability and practicality. The 2024 Leaf offers a range of up to 226 miles with its 62 kWh battery, making it ideal for daily commuting and short trips. The Leaf features Nissan's ProPILOT Assist, which provides semi-autonomous driving assistance on highways. The interior is designed with comfort in mind, featuring a user-friendly infotainment system with an 8-inch display, Apple CarPlay, and Android Auto. With zero emissions and low operating costs, the Nissan Leaf is an excellent choice for eco-conscious drivers seeking a reliable and efficient electric car."
+  },
+  {
+    "name": "Chevrolet Bolt EV",
+    "slug": "chevrolet-bolt-ev",
+    "brand": "Chevrolet",
+    "model_number": "2LT",
+    "mpn": "2LT-2024",
+    "gtin": "0013324320745",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "General Motors",
+    "description": "The Chevrolet Bolt EV is a compact electric car that delivers impressive range and advanced technology. The 2024 Bolt EV offers a range of up to 259 miles on a single charge, thanks to its 66 kWh battery. The Bolt EV's electric motor provides quick acceleration and smooth handling, making it fun to drive. Inside, the Bolt EV features a spacious cabin with a 10.2-inch infotainment touchscreen, wireless Apple CarPlay and Android Auto, and a comprehensive suite of safety features, including automatic emergency braking and lane-keeping assist. The Bolt EV is designed to offer an affordable and practical electric driving experience without compromising on performance or technology."
+  }
+]

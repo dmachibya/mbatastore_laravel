@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Hydrating Daily Moisturizer - Vitamin E & Hyaluronic Acid by GlowUp Skincare",
+    "slug": "hydrating-daily-moisturizer-vitamin-e-hyaluronic-acid",
+    "sku": "MO-GU-2024-01",
+    "description": "Introducing the Hydrating Daily Moisturizer from GlowUp Skincare, designed to offer intense hydration and restore your skin’s natural radiance. This luxurious moisturizer is enriched with Vitamin E and Hyaluronic Acid to plump, smooth, and rejuvenate your skin. Its lightweight, non-greasy formula absorbs quickly, making it perfect for daily use. Suitable for all skin types, including sensitive skin, it helps to reduce the appearance of fine lines and leaves your skin feeling soft, refreshed, and deeply hydrated.",
+    "price": 34.99,
+    "offer_price": 29.99,
+    "key_features": [
+      "Intense hydration with Vitamin E and Hyaluronic Acid",
+      "Reduces the appearance of fine lines and wrinkles",
+      "Lightweight, non-greasy formula for daily use",
+      "Suitable for all skin types, including sensitive skin"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 8,
+    "shipping_weight": 0.4,
+    "meta_title": "Hydrating Daily Moisturizer - Vitamin E & Hyaluronic Acid by GlowUp Skincare",
+    "meta_description": "Shop the Hydrating Daily Moisturizer - Vitamin E & Hyaluronic Acid by GlowUp Skincare. This daily moisturizer hydrates, smooths, and rejuvenates your skin with a lightweight, non-greasy formula."
+  },
+  {
+    "title": "Hydrating Daily Moisturizer - Vitamin E & Hyaluronic Acid - Travel Size",
+    "slug": "hydrating-daily-moisturizer-vitamin-e-hyaluronic-acid-travel-size",
+    "sku": "MO-GU-2024-02",
+    "description": "Take your skincare routine on the go with the Hydrating Daily Moisturizer - Vitamin E & Hyaluronic Acid in a convenient travel size. This luxurious moisturizer offers intense hydration with Vitamin E and Hyaluronic Acid, helping to plump and smooth your skin. Perfect for travel or as a trial size for new users, this lightweight formula absorbs quickly and is suitable for all skin types. Keep your skin hydrated and refreshed wherever you go.",
+    "price": 19.99,
+    "offer_price": 15.99,
+    "key_features": [
+      "Travel size for convenient skincare on the go",
+      "Hydrating with Vitamin E and Hyaluronic Acid",
+      "Lightweight, non-greasy formula",
+      "Suitable for all skin types, including sensitive skin"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 12,
+    "shipping_weight": 0.2,
+    "meta_title": "Hydrating Daily Moisturizer - Vitamin E & Hyaluronic Acid - Travel Size",
+    "meta_description": "Shop the Hydrating Daily Moisturizer - Vitamin E & Hyaluronic Acid in travel size. This convenient size offers intense hydration and is perfect for on-the-go skincare for all skin types."
+  }
+]

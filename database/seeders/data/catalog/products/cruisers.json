@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Harley-Davidson Softail Slim",
+    "slug": "harley-davidson-softail-slim",
+    "brand": "Harley-Davidson",
+    "model_number": "FLSS",
+    "mpn": "1234567890",
+    "gtin": "1234567890123",
+    "gtin_type": "EAN-13",
+    "origin_country": "USA",
+    "manufacturer": "Harley-Davidson Motor Company",
+    "description": "The Harley-Davidson Softail Slim is a classic cruiser motorcycle that combines vintage style with modern performance. Featuring a Milwaukee-Eight 107 engine, the Softail Slim offers a powerful ride with a distinctive look. Its minimalist design includes a solo seat, narrow rear fender, and traditional spoked wheels. The Softail Slim is known for its smooth, comfortable ride and retro aesthetic, making it a favorite among motorcycle enthusiasts who appreciate the timeless charm of American cruiser bikes."
+  },
+  {
+    "name": "Indian Chief Vintage",
+    "slug": "indian-chief-vintage",
+    "brand": "Indian",
+    "model_number": "Chief Vintage",
+    "mpn": "0987654321",
+    "gtin": "0987654321098",
+    "gtin_type": "EAN-13",
+    "origin_country": "USA",
+    "manufacturer": "Indian Motorcycle Company",
+    "description": "The Indian Chief Vintage is a modern cruiser motorcycle that pays homage to Indian's storied past. With its iconic design, the Chief Vintage features a powerful Thunder Stroke 116 engine that delivers impressive torque and acceleration. The bike is equipped with a leather saddle, fringe accents, and a full front fender, blending classic aesthetics with contemporary engineering. The Chief Vintage offers a smooth and enjoyable ride, perfect for long journeys and open-road adventures."
+  }
+]

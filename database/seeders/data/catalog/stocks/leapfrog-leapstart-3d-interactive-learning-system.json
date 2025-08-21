@@ -1,0 +1,42 @@
+[
+  {
+    "title": "LeapFrog LeapStart 3D Interactive Learning System - Comprehensive Learning Tool",
+    "slug": "leapfrog-leapstart-3d-interactive-learning-system-comprehensive-learning-tool",
+    "sku": "LF-LS3D-2023-01",
+    "description": "The LeapFrog LeapStart 3D Interactive Learning System is the ultimate educational tool for children aged 2 to 7 years. This innovative learning system features a unique 3D interactive book library that covers a wide range of subjects including reading, math, and problem-solving. The LeapStart 3D system uses a stylus pen to interact with the books, providing touch-and-talk activities that engage children with audio feedback and animated characters. With over 25 interactive books available, this system offers a rich learning experience that adapts to your child's educational needs. Perfect for building foundational skills and fostering a love of learning, the LeapStart 3D system is an excellent choice for parents and educators seeking a versatile educational resource.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "3D Interactive Book Library",
+      "Covers Reading, Math, and Problem-Solving",
+      "Stylus Pen for Interactive Learning",
+      "Over 25 Books Available",
+      "Educational and Engaging"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 10,
+    "shipping_weight": "1.0 kg",
+    "meta_title": "LeapFrog LeapStart 3D Interactive Learning System - Comprehensive Learning Tool | LeapFrog",
+    "meta_description": "Explore the LeapFrog LeapStart 3D Interactive Learning System, featuring a 3D book library and interactive learning experiences for children aged 2-7 years."
+  },
+  {
+    "title": "LeapFrog LeapStart 3D Interactive Learning System - Engaging Educational Fun",
+    "slug": "leapfrog-leapstart-3d-interactive-learning-system-engaging-educational-fun",
+    "sku": "LF-LS3D-2023-02",
+    "description": "Enhance your child's learning journey with the LeapFrog LeapStart 3D Interactive Learning System. This dynamic educational tool is designed for children aged 2 to 7 years and features a 3D interactive book library that makes learning fun and engaging. The LeapStart 3D system includes a stylus pen and a variety of interactive books that cover essential subjects like reading, math, and problem-solving. Each book offers touch-and-talk activities, animated characters, and audio feedback to support learning. With over 25 books available separately, this system provides a comprehensive educational experience that adapts to your child’s learning stage and interests. A perfect choice for fostering a love of learning from a young age.",
+    "price": 62.99,
+    "offer_price": 52.99,
+    "key_features": [
+      "3D Interactive Learning System",
+      "Stylus Pen with Interactive Books",
+      "Covers Reading, Math, and Problem-Solving",
+      "Over 25 Books Available Separately",
+      "Engaging Educational Fun"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 8,
+    "shipping_weight": "1.1 kg",
+    "meta_title": "LeapFrog LeapStart 3D Interactive Learning System - Engaging Educational Fun | LeapFrog",
+    "meta_description": "Discover the LeapFrog LeapStart 3D Interactive Learning System with a 3D book library and interactive learning activities. Ideal for children aged 2-7 years."
+  }
+]

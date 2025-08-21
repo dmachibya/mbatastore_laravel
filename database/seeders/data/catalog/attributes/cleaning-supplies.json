@@ -1,0 +1,9 @@
+{
+  "Product Type": [
+    "Car Wash Soap",
+    "Wax & Polishes",
+    "Interior Cleaners",
+    "Detailing Brushes"
+  ],
+  "Application Area": ["Exterior", "Interior", "Windows", "Tires"]
+}

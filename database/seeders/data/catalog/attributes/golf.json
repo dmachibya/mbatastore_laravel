@@ -1,0 +1,5 @@
+{
+  "Club Type": ["Driver", "Iron", "Putter", "Wedge"],
+  "Ball Type": ["Pro V1", "Tour Soft", "Distance", "Spin"],
+  "Shaft Material": ["Graphite", "Steel"]
+}

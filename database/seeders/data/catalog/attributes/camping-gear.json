@@ -1,0 +1,4 @@
+{
+  "Material": ["Nylon", "Polyester", "Cotton", "Fleece"],
+  "Season": ["Spring", "Summer", "Fall", "Winter"]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Catan Board Game - Classic Strategy Game for Family and Friends",
+    "slug": "catan-board-game-classic-strategy-game-for-family-and-friends",
+    "sku": "CAT-2017-01",
+    "description": "Experience the timeless appeal of Catan, the strategy board game that has captivated players for decades. In Catan, you and your friends will explore a richly detailed island, collecting resources and building settlements in your quest for dominance. The game features a hexagonal game board with various terrain types, each producing different resources needed to build roads, settlements, and cities. As you trade resources with other players, plan your routes, and develop your strategies, you will engage in a dynamic and competitive game experience. With beautiful components and easy-to-learn rules, Catan is perfect for family game nights, friendly gatherings, and game enthusiasts alike. Suitable for 3-4 players aged 10 and up, with a playtime of 60-90 minutes.",
+    "price": 49.99,
+    "offer_price": 44.99,
+    "key_features": [
+      "Strategic Resource Management",
+      "Modular Game Board for Replayability",
+      "Collect and Trade Resources",
+      "Build Roads, Settlements, and Cities",
+      "Suitable for 3-4 Players"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 20,
+    "shipping_weight": "1.2 kg",
+    "meta_title": "Catan Board Game - Classic Strategy Game for Family and Friends | Catan Studio",
+    "meta_description": "Discover Catan, the classic strategy board game with a modular board, resource management, and competitive gameplay. Perfect for family fun and game nights."
+  },
+  {
+    "title": "Catan Board Game - A Strategic Adventure on the Island of Catan",
+    "slug": "catan-board-game-a-strategic-adventure-on-the-island-of-catan",
+    "sku": "CAT-2017-02",
+    "description": "Dive into the world of Catan with this strategic board game where you compete to develop the island of Catan through resource collection and trade. Catan challenges you to gather resources, build structures, and outwit your opponents as you work to become the dominant force on the island. Each game is unique thanks to the variable board layout and the dynamic interactions between players. With high-quality components and accessible rules, Catan is ideal for players aged 10 and up, offering an engaging and strategic experience for 3-4 players. Perfect for a fun evening with family and friends, Catan provides hours of entertainment and strategic challenge.",
+    "price": 52.99,
+    "offer_price": 47.99,
+    "key_features": [
+      "Dynamic and Engaging Gameplay",
+      "Variable Board Setup",
+      "Resource Collection and Trade",
+      "Strategic Planning and Competition",
+      "For 3-4 Players"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 18,
+    "shipping_weight": "1.3 kg",
+    "meta_title": "Catan Board Game - A Strategic Adventure on the Island of Catan | Catan Studio",
+    "meta_description": "Join the adventure with Catan, a strategic board game featuring resource management, trading, and building. Perfect for family game nights and friendly competitions."
+  }
+]

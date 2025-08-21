@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Yamaha PSR-E373 Portable Keyboard",
+    "slug": "yamaha-psr-e373-portable-keyboard",
+    "brand": "Yamaha",
+    "model_number": "PSR-E373",
+    "mpn": "PSR-E373",
+    "gtin": "4957812651229",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Yamaha Corporation",
+    "description": "The Yamaha PSR-E373 Portable Keyboard is a versatile and powerful instrument perfect for beginners and seasoned players alike. Featuring 61 touch-sensitive keys and an extensive range of voices and styles, this keyboard offers a dynamic and expressive playing experience. The PSR-E373 includes the latest LSI tone generator, providing high-quality instrument voices and accompaniment styles. Its educational features, like the 'Y.E.S.' (Yamaha Education Suite) and the built-in songbook, make learning music fun and easy. With its lightweight design and portable build, the PSR-E373 is ideal for practice sessions, live performances, and home use."
+  },
+  {
+    "name": "Casio CT-X700 Portable Keyboard",
+    "slug": "casio-ct-x700-portable-keyboard",
+    "brand": "Casio",
+    "model_number": "CT-X700",
+    "mpn": "CT-X700",
+    "gtin": "079767314943",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Casio Computer Co., Ltd.",
+    "description": "The Casio CT-X700 Portable Keyboard is an advanced instrument that offers a wide range of features for musicians of all levels. Equipped with 61 full-size touch-sensitive keys and the new AiX Sound Source, it delivers stunningly realistic sounds and powerful accompaniment styles. The CT-X700 includes 600 built-in tones, 195 rhythms, and an array of effects to enhance your performance. Its intuitive interface and educational features, such as the Step-Up Lesson system, make it an excellent choice for learners. The lightweight and portable design allows you to take your music anywhere, making it perfect for both practice and performance."
+  }
+]

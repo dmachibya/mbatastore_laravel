@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Handcrafted Wooden Jewelry Box by Artisan Craftworks - Large",
+    "slug": "handcrafted-wooden-jewelry-box-large",
+    "sku": "WJB-AC-2024-01",
+    "description": "The Handcrafted Wooden Jewelry Box by Artisan Craftworks is an exquisite piece of traditional craftsmanship. Made from high-quality wood, this large jewelry box features intricate carvings and a polished finish that highlights the natural beauty of the wood. The interior is lined with soft fabric to protect your precious jewelry. It includes multiple compartments for rings, necklaces, and other valuables, making it both a functional and decorative piece. Perfect for use on a dresser or as a thoughtful gift, this handcrafted jewelry box adds a touch of elegance and charm to any space.",
+    "price": 129.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "High-quality wood",
+      "Intricate carvings",
+      "Polished finish",
+      "Multiple compartments"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 5,
+    "shipping_weight": 3.0,
+    "meta_title": "Handcrafted Wooden Jewelry Box - Large by Artisan Craftworks",
+    "meta_description": "Buy the large Handcrafted Wooden Jewelry Box by Artisan Craftworks. This exquisite jewelry box features intricate carvings and a polished finish."
+  },
+  {
+    "title": "Handcrafted Wooden Jewelry Box by Artisan Craftworks - Medium",
+    "slug": "handcrafted-wooden-jewelry-box-medium",
+    "sku": "WJB-AC-2024-02",
+    "description": "The Handcrafted Wooden Jewelry Box by Artisan Craftworks is a beautiful blend of functionality and artistry. Made from high-quality wood, this medium-sized jewelry box features intricate carvings and a polished finish that showcases the wood's natural beauty. The interior is lined with soft fabric to protect your jewelry, and it includes several compartments for organizing rings, necklaces, and other valuables. Ideal for use on a dresser or as a special gift, this handcrafted jewelry box adds an elegant touch to any room.",
+    "price": 89.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "High-quality wood",
+      "Intricate carvings",
+      "Polished finish",
+      "Several compartments"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 10,
+    "shipping_weight": 2.0,
+    "meta_title": "Handcrafted Wooden Jewelry Box - Medium by Artisan Craftworks",
+    "meta_description": "Shop the medium Handcrafted Wooden Jewelry Box by Artisan Craftworks. This beautiful jewelry box features intricate carvings and a polished finish."
+  }
+]

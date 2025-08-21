@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dell XPS 15",
+    "slug": "dell-xps-15",
+    "brand": "Dell",
+    "model_number": "XPS7590",
+    "mpn": "XPS15-7590",
+    "gtin": "0884116268197",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Dell Technologies",
+    "description": "The Dell XPS 15 is a high-performance laptop designed for professionals and enthusiasts. Featuring a stunning 15.6-inch 4K UHD display with InfinityEdge, this laptop provides an immersive visual experience with vibrant colors and sharp details. Powered by the latest Intel Core i7 processor and NVIDIA GeForce GTX 1650 graphics, the XPS 15 handles demanding tasks with ease, from video editing to gaming. It comes with 16GB of RAM and a 512GB SSD for fast performance and ample storage. The premium build quality, with an aluminum chassis and carbon fiber palm rest, ensures durability and comfort. Additional features include a backlit keyboard, Thunderbolt 3 ports, and a fingerprint reader for enhanced security. Whether you're creating content or enjoying multimedia, the Dell XPS 15 delivers exceptional performance and style."
+  },
+  {
+    "name": "HP Spectre x360",
+    "slug": "hp-spectre-x360",
+    "brand": "HP",
+    "model_number": "13t-aw200",
+    "mpn": "13T-AW200",
+    "gtin": "0194721610481",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "HP Inc.",
+    "description": "The HP Spectre x360 is a versatile and powerful 2-in-1 laptop that adapts to your needs. With a 13.3-inch FHD touchscreen display, it offers crisp and clear visuals, perfect for both work and entertainment. The 360-degree hinge allows you to use it as a laptop, tablet, or in tent mode for presentations. Powered by the Intel Core i7 processor and Intel Iris Xe graphics, the Spectre x360 delivers excellent performance for multitasking, creative work, and casual gaming. It includes 16GB of RAM and a 1TB SSD for quick boot times and ample storage space. The sleek, gem-cut design and durable aluminum body make it a stylish companion. Key features include a backlit keyboard, Bang & Olufsen speakers, and long battery life to keep you productive throughout the day. The HP Spectre x360 is the perfect blend of performance, portability, and flexibility."
+  }
+]

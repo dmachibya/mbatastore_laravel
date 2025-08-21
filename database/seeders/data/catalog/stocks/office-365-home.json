@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Office 365 Home - 1 Year Subscription",
+    "slug": "office-365-home-1-year-subscription",
+    "sku": "6GQ-00573-1Y",
+    "description": "Office 365 Home offers a comprehensive subscription plan for up to six users, including the latest Office applications and cloud storage. This 1-year subscription includes Word, Excel, PowerPoint, Outlook, OneNote, and Publisher, with access to regular updates and new features. Each user receives 1TB of OneDrive cloud storage for secure file storage and sharing. Perfect for families or individuals seeking a versatile and up-to-date office suite with additional cloud-based services and premium support throughout the subscription period.",
+    "price": 99.99,
+    "offer_price": 89.99,
+    "key_features": [
+      "1 Year Subscription for Up to 6 Users",
+      "Includes Word, Excel, PowerPoint, Outlook, OneNote, Publisher",
+      "1TB OneDrive Cloud Storage per User",
+      "Regular Updates and New Features"
+    ],
+    "stock_quantity": 250,
+    "sold_quantity": 400,
+    "shipping_weight": 0.0,
+    "meta_title": "Office 365 Home - 1 Year Subscription | Microsoft",
+    "meta_description": "Subscribe to Office 365 Home for 1 year. Get access to Word, Excel, PowerPoint, and more for up to 6 users, plus 1TB of OneDrive cloud storage and regular updates."
+  },
+  {
+    "title": "Office 365 Home - 2 Year Subscription",
+    "slug": "office-365-home-2-year-subscription",
+    "sku": "6GQ-00573-2Y",
+    "description": "Office 365 Home - 2 Year Subscription provides extended access to the latest Office applications and services for up to six users. This plan includes Word, Excel, PowerPoint, Outlook, OneNote, and Publisher, along with 1TB of OneDrive cloud storage per user. Enjoy two years of regular updates, new features, and premium support. This subscription plan is perfect for families or individuals who need a reliable and feature-rich office suite with additional cloud storage and services over an extended period.",
+    "price": 179.99,
+    "offer_price": 159.99,
+    "key_features": [
+      "2 Year Subscription for Up to 6 Users",
+      "Includes Word, Excel, PowerPoint, Outlook, OneNote, Publisher",
+      "1TB OneDrive Cloud Storage per User",
+      "Extended Access and Regular Updates"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 350,
+    "shipping_weight": 0.0,
+    "meta_title": "Office 365 Home - 2 Year Subscription | Microsoft",
+    "meta_description": "Get Office 365 Home with a 2-year subscription. Includes Word, Excel, PowerPoint, and more for up to 6 users, plus 1TB OneDrive storage per user and regular updates."
+  }
+]

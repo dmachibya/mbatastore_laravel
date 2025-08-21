@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Honda Activa 6G 2024 Model",
+    "slug": "honda-activa-6g-2024-model",
+    "sku": "ACTIVA-6G-2024-001",
+    "description": "The 2024 Honda Activa 6G is a reliable and stylish scooter perfect for daily commuting. It features a 109.51cc engine, a modern design, and improved features for a comfortable and efficient ride.",
+    "price": 8999,
+    "offer_price": 8499,
+    "key_features": [
+      "109.51cc air-cooled engine",
+      "Enhanced fuel efficiency",
+      "LED headlamp for better visibility",
+      "Spacious under-seat storage",
+      "Silent start system"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 35,
+    "shipping_weight": 105,
+    "meta_title": "Honda Activa 6G 2024 Model - Reliable Scooter for Daily Commuting",
+    "meta_description": "Discover the 2024 Honda Activa 6G, a reliable and stylish scooter with a 109.51cc engine, enhanced fuel efficiency, and modern features. Available now at a special price!"
+  },
+  {
+    "title": "Honda Activa 6G 2023 Deluxe Edition",
+    "slug": "honda-activa-6g-2023-deluxe-edition",
+    "sku": "ACTIVA-6G-2023-002",
+    "description": "The 2023 Honda Activa 6G Deluxe Edition offers premium features and a distinctive design. With the same 109.51cc engine, it adds extra comfort and style for a more enjoyable ride.",
+    "price": 9299,
+    "offer_price": 8799,
+    "key_features": [
+      "109.51cc air-cooled engine",
+      "Deluxe Edition color options",
+      "Upgraded suspension for a smoother ride",
+      "LED headlamp and new design",
+      "Additional comfort features"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 22,
+    "shipping_weight": 105,
+    "meta_title": "Honda Activa 6G 2023 Deluxe Edition - Premium Scooter Experience",
+    "meta_description": "Check out the 2023 Honda Activa 6G Deluxe Edition with premium features, stylish design, and upgraded comfort. Ideal for both daily use and leisure rides!"
+  },
+  {
+    "title": "Honda Activa 6G 2022 Standard Model",
+    "slug": "honda-activa-6g-2022-standard-model",
+    "sku": "ACTIVA-6G-2022-003",
+    "description": "The 2022 Honda Activa 6G Standard Model offers reliable performance with its 109.51cc engine and practical features for everyday use. It's a great choice for city commuting.",
+    "price": 8499,
+    "offer_price": 7999,
+    "key_features": [
+      "109.51cc air-cooled engine",
+      "Efficient fuel consumption",
+      "Standard LED headlamp",
+      "Spacious under-seat storage",
+      "Smooth and silent ride"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 40,
+    "shipping_weight": 105,
+    "meta_title": "Honda Activa 6G 2022 Standard Model - Efficient and Reliable Scooter",
+    "meta_description": "Get the 2022 Honda Activa 6G Standard Model, offering a reliable 109.51cc engine, great fuel efficiency, and essential features for daily commuting. Special offer available now!"
+  },
+  {
+    "title": "Honda Activa 6G 2024 Special Edition",
+    "slug": "honda-activa-6g-2024-special-edition",
+    "sku": "ACTIVA-6G-2024-004",
+    "description": "The 2024 Honda Activa 6G Special Edition brings a fresh look with exclusive features. It combines a 109.51cc engine with unique design elements and enhanced features for a special riding experience.",
+    "price": 9499,
+    "offer_price": 8999,
+    "key_features": [
+      "109.51cc air-cooled engine",
+      "Special Edition design and colors",
+      "Advanced suspension for comfort",
+      "LED headlamp and modern features",
+      "Enhanced fuel efficiency"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 18,
+    "shipping_weight": 105,
+    "meta_title": "Honda Activa 6G 2024 Special Edition - Stylish and Exclusive Scooter",
+    "meta_description": "Explore the 2024 Honda Activa 6G Special Edition with exclusive design, advanced features, and a 109.51cc engine. Get it now at a great offer price!"
+  }
+]

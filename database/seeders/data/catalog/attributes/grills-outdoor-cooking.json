@@ -1,0 +1,9 @@
+{
+  "Grill Type": [
+    "Gas Grill",
+    "Charcoal Grill",
+    "Electric Grill",
+    "Wood Pellet Grill"
+  ],
+  "Material": ["Stainless Steel", "Cast Iron", "Aluminum", "Steel"]
+}

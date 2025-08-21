@@ -1,0 +1,26 @@
+[
+  {
+    "name": "To Kill a Mockingbird",
+    "slug": "to-kill-a-mockingbird",
+    "brand": "Harper Perennial Modern Classics",
+    "model_number": "9780061120084",
+    "mpn": "0061120081",
+    "gtin": "9780061120084",
+    "gtin_type": "ISBN-13",
+    "origin_country": "USA",
+    "manufacturer": "HarperCollins",
+    "description": "Harper Lee's Pulitzer Prize-winning novel 'To Kill a Mockingbird' is a masterful portrayal of racial injustice and childhood innocence in the Deep South. Set in the 1930s, the story is told through the eyes of Scout Finch, a young girl whose father, Atticus Finch, defends a black man wrongfully accused of raping a white woman. The novel explores themes of morality, empathy, and the complexities of human behavior, making it a timeless classic that continues to resonate with readers of all ages."
+  },
+  {
+    "name": "1984",
+    "slug": "1984",
+    "brand": "Signet Classic",
+    "model_number": "9780451524935",
+    "mpn": "0451524934",
+    "gtin": "9780451524935",
+    "gtin_type": "ISBN-13",
+    "origin_country": "USA",
+    "manufacturer": "Penguin Group",
+    "description": "George Orwell's dystopian novel '1984' is a chilling portrayal of a totalitarian regime that uses surveillance, propaganda, and thought control to manipulate and oppress its citizens. The story follows Winston Smith, a low-ranking member of the Party who becomes disillusioned with the regime and seeks to rebel against Big Brother. Through its exploration of themes such as privacy, freedom, and the nature of truth, '1984' serves as a powerful warning against the dangers of unchecked government power and totalitarianism."
+  }
+]

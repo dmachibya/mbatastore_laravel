@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Thule Cargo Roof Rack",
+    "slug": "thule-cargo-roof-rack",
+    "brand": "Thule",
+    "model_number": "TH-12345",
+    "mpn": "TH-12345",
+    "gtin": "091021543672",
+    "gtin_type": "EAN-13",
+    "origin_country": "Sweden",
+    "manufacturer": "Thule Group",
+    "description": "The Thule Cargo Roof Rack is designed for easy and convenient transportation of gear. Made with high-quality aluminum, this roof rack offers superior strength and durability. It features aerodynamic design to reduce wind resistance and improve fuel efficiency. With a load capacity of up to 150 lbs, it's perfect for carrying bikes, skis, or cargo boxes. The roof rack is easy to install with included hardware and fits most vehicles. Ideal for adventurers and families alike, the Thule Cargo Roof Rack provides a reliable solution for all your transportation needs."
+  },
+  {
+    "name": "Yakima Heavy Duty Roof Rack",
+    "slug": "yakima-heavy-duty-roof-rack",
+    "brand": "Yakima",
+    "model_number": "YK-67890",
+    "mpn": "YK-67890",
+    "gtin": "1234567890123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Yakima Products, Inc.",
+    "description": "The Yakima Heavy Duty Roof Rack is engineered for strength and versatility. Constructed from rugged steel and designed to handle heavy loads, this roof rack supports up to 200 lbs of gear. It features a robust construction that can withstand harsh weather conditions and heavy usage. The rack's adjustable crossbars and easy-to-use mounting system ensure a secure fit for various vehicles. Perfect for carrying outdoor equipment, camping gear, or large cargo items, the Yakima Heavy Duty Roof Rack is your go-to choice for durability and performance."
+  }
+]

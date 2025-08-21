@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Interactive Cat Laser Toy",
+    "slug": "interactive-cat-laser-toy",
+    "sku": "WW-12345-S",
+    "description": "The Interactive Cat Laser Toy from Whisker Wonders offers exciting laser play for your cat. With adjustable settings, you can choose from various patterns and speeds to keep your cat engaged and active. The lightweight design is perfect for easy handling, and the durable construction ensures long-lasting use. This toy is great for solo play or interactive sessions with your cat, providing hours of fun and exercise.",
+    "price": 14.99,
+    "offer_price": 11.99,
+    "key_features": [
+      "Adjustable Laser Settings",
+      "Multiple Patterns and Speeds",
+      "Lightweight and Durable",
+      "Engages Cat’s Hunting Instincts"
+    ],
+    "stock_quantity": 55,
+    "sold_quantity": 200,
+    "shipping_weight": 0.4,
+    "meta_title": "Interactive Cat Laser Toy - Standard | Whisker Wonders",
+    "meta_description": "Buy the Interactive Cat Laser Toy from Whisker Wonders. Features adjustable settings with multiple patterns and speeds for engaging and active play with your cat."
+  }
+]

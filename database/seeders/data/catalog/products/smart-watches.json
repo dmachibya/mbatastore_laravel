@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Apple Watch Series 8",
+    "slug": "apple-watch-series-8",
+    "brand": "Apple",
+    "model_number": "A2474",
+    "mpn": "A2474",
+    "gtin": "190199917321",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Apple Inc.",
+    "description": "The Apple Watch Series 8 is the latest in Apple's line of innovative smartwatches, offering advanced health monitoring, fitness tracking, and seamless integration with your Apple ecosystem. Featuring a larger, always-on Retina display, this watch provides easy access to all your important information. The Series 8 includes a new temperature sensor, crash detection, and improved battery life, making it the perfect companion for both daily use and intense workouts. With watchOS 9, enjoy enhanced fitness features, more customizable watch faces, and improved notifications. Stay connected, healthy, and active with the Apple Watch Series 8."
+  },
+  {
+    "name": "Samsung Galaxy Watch 5",
+    "slug": "samsung-galaxy-watch-5",
+    "brand": "Samsung",
+    "model_number": "SM-R920",
+    "mpn": "SM-R920",
+    "gtin": "8806094650123",
+    "gtin_type": "EAN",
+    "origin_country": "South Korea",
+    "manufacturer": "Samsung Electronics",
+    "description": "The Samsung Galaxy Watch 5 is a premium smartwatch designed to keep you connected, active, and healthy. It features a durable design with a rotating bezel and a vibrant AMOLED display. With advanced health tracking, including ECG, blood oxygen monitoring, and body composition analysis, the Galaxy Watch 5 helps you stay on top of your wellness. The watch supports a variety of fitness modes and GPS tracking for accurate activity tracking. With Wear OS powered by Samsung, you get access to a wide range of apps and services. Stay connected with notifications, calls, and messages right on your wrist, and enjoy the convenience of Samsung Pay for contactless payments."
+  }
+]

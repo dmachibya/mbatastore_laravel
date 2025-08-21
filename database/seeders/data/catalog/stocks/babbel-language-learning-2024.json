@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Babbel Language Learning 2024 - 1 Year Subscription",
+    "slug": "babbel-language-learning-2024-1-year-subscription",
+    "sku": "BAB-2024-1Y",
+    "description": "Babbel Language Learning 2024 - 1 Year Subscription offers access to Babbel’s language learning platform for one year. This subscription includes updated courses, interactive exercises, and speech recognition technology. Babbel 2024 provides personalized learning paths, practical language practice, and cultural tips to help users achieve their language learning goals. Suitable for learners of all levels, this subscription is perfect for those looking to improve their language skills over a full year.",
+    "price": 149.99,
+    "offer_price": 129.99,
+    "key_features": [
+      "1 Year Subscription to Babbel Language Learning 2024",
+      "Interactive Courses and Speech Recognition",
+      "Personalized Learning Paths and Cultural Tips",
+      "Access to Multiple Languages"
+    ],
+    "stock_quantity": 400,
+    "sold_quantity": 550,
+    "shipping_weight": 0.0,
+    "meta_title": "Babbel Language Learning 2024 - 1 Year Subscription | Babbel",
+    "meta_description": "Subscribe to Babbel Language Learning 2024 for 1 year. Enjoy interactive language courses, personalized learning, and speech recognition technology for effective language acquisition."
+  },
+  {
+    "title": "Babbel Language Learning 2024 - Lifetime Access",
+    "slug": "babbel-language-learning-2024-lifetime-access",
+    "sku": "BAB-2024-LA",
+    "description": "Babbel Language Learning 2024 - Lifetime Access provides permanent access to Babbel’s comprehensive language learning platform. This lifetime plan includes all updates, interactive courses, and access to a variety of languages. Features include practical exercises, speech recognition, and personalized learning experiences. Ideal for long-term language learners and those seeking to maintain their skills over time, this access plan offers a complete and flexible language learning solution.",
+    "price": 349.99,
+    "offer_price": 319.99,
+    "key_features": [
+      "Lifetime Access to Babbel Language Learning 2024",
+      "All Current and Future Updates",
+      "Interactive Courses and Speech Recognition",
+      "Access to a Variety of Languages"
+    ],
+    "stock_quantity": 180,
+    "sold_quantity": 230,
+    "shipping_weight": 0.0,
+    "meta_title": "Babbel Language Learning 2024 - Lifetime Access | Babbel",
+    "meta_description": "Get lifetime access to Babbel Language Learning 2024. Enjoy interactive courses, speech recognition, and updates for a complete language learning experience. Perfect for long-term study."
+  }
+]

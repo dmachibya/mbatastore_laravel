@@ -1,0 +1,106 @@
+{
+  "Men's Clothing": {
+    "slug": "mens-clothing",
+    "description": "Fashionable clothing options for men.",
+    "subcategories": [
+      {
+        "name": "T-Shirts",
+        "slug": "t-shirts",
+        "description": "Casual and stylish t-shirts for everyday wear."
+      },
+      {
+        "name": "Jeans",
+        "slug": "jeans",
+        "description": "Versatile jeans suitable for casual and semi-formal occasions."
+      },
+      {
+        "name": "Jackets",
+        "slug": "jackets",
+        "description": "Stylish jackets for various weather conditions."
+      },
+      {
+        "name": "Suits",
+        "slug": "suits",
+        "description": "Formal suits for professional and special occasions."
+      }
+    ]
+  },
+  "Women's Clothing": {
+    "slug": "womens-clothing",
+    "description": "Trendy and comfortable clothing options for women.",
+    "subcategories": [
+      {
+        "name": "Dresses",
+        "slug": "dresses",
+        "description": "A range of dresses for casual and formal occasions."
+      },
+      {
+        "name": "Skirts",
+        "slug": "skirts",
+        "description": "Stylish skirts for various occasions."
+      },
+      {
+        "name": "Tops",
+        "slug": "tops",
+        "description": "A variety of tops for different styles and occasions."
+      },
+      {
+        "name": "Activewear",
+        "slug": "activewear",
+        "description": "Clothing designed for physical activities and exercise."
+      }
+    ]
+  },
+  "Children's Clothing": {
+    "slug": "childrens-clothing",
+    "description": "Clothing for kids of all ages.",
+    "subcategories": [
+      {
+        "name": "T-Shirts",
+        "slug": "t-shirts",
+        "description": "Casual t-shirts for children."
+      },
+      {
+        "name": "Jeans",
+        "slug": "jeans",
+        "description": "Durable jeans for kids."
+      },
+      {
+        "name": "Outerwear",
+        "slug": "outerwear",
+        "description": "Jackets and coats for children."
+      },
+      {
+        "name": "Formal Wear",
+        "slug": "formal-wear",
+        "description": "Clothing for special occasions and formal events."
+      }
+    ]
+  },
+  "Shoes": {
+    "slug": "shoes",
+    "description": "Footwear for various needs and occasions.",
+    "subcategories": [
+      {
+        "name": "Men's Shoes",
+        "slug": "mens-shoes",
+        "description": "A selection of shoes for men."
+      },
+      {
+        "name": "Women's Shoes",
+        "slug": "womens-shoes",
+        "description": "A variety of shoes for women."
+      },
+      {
+        "name": "Children's Shoes",
+        "slug": "childrens-shoes",
+        "description": "Footwear for kids."
+      },
+      {
+        "name": "Sports Shoes",
+        "slug": "sports-shoes",
+        "description": "Footwear for various sports and activities."
+      }
+    ]
+  }
+}

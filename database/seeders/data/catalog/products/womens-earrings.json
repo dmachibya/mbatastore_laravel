@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Classic Pearl Drop Earrings",
+    "slug": "classic-pearl-drop-earrings",
+    "brand": "EleganceJewels",
+    "model_number": "EJ-PD-2024",
+    "mpn": "EJ-PD-2024",
+    "gtin": "4567890123456",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "EleganceJewels Ltd.",
+    "description": "The Classic Pearl Drop Earrings from EleganceJewels are a timeless addition to any jewelry collection. These elegant earrings feature lustrous pearls suspended from delicate 14K white gold hooks. The pearls are carefully selected for their smooth texture and radiant shine, offering a sophisticated look suitable for both everyday wear and special occasions. The minimalist design of the drop earrings ensures that they complement any outfit, from casual wear to formal attire. Perfect as a gift for someone special or as a treat for yourself, these earrings combine classic beauty with modern elegance."
+  },
+  {
+    "name": "Contemporary Gold Geometric Stud Earrings",
+    "slug": "contemporary-gold-geometric-stud-earrings",
+    "brand": "ModernGems",
+    "model_number": "MG-GS-2024",
+    "mpn": "MG-GS-2024",
+    "gtin": "5678901234567",
+    "gtin_type": "EAN",
+    "origin_country": "Germany",
+    "manufacturer": "ModernGems Creations",
+    "description": "The Contemporary Gold Geometric Stud Earrings from ModernGems are a stylish and modern accessory for those who appreciate contemporary design. These earrings feature geometric shapes crafted from high-quality 18K gold, offering a chic and trendy look. The minimalist design is perfect for adding a touch of sophistication to any outfit, whether for casual wear or a special event. Each pair of earrings is crafted with precision to ensure a perfect finish and lasting durability. Ideal for fashion-forward individuals, these geometric studs are both versatile and elegant."
+  }
+]

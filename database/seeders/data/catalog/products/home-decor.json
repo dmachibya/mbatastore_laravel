@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Modern Wall Art",
+    "slug": "modern-wall-art",
+    "brand": "DecoMaster",
+    "model_number": "DM-WA01",
+    "mpn": "DMWA01",
+    "gtin": "8901234567913",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "DecoMaster Inc.",
+    "description": "The DecoMaster Modern Wall Art is a stunning piece that adds a touch of sophistication to any room. This wall art features a contemporary design with vibrant colors and intricate details, making it a perfect focal point for your living room, bedroom, or office. Made with high-quality materials, it ensures durability and longevity. The piece is easy to hang and comes with all necessary hardware. Enhance your home decor with this exquisite modern wall art that reflects your unique style and personality."
+  },
+  {
+    "name": "Decorative Vase Set",
+    "slug": "decorative-vase-set",
+    "brand": "ElegantHome",
+    "model_number": "EH-VS02",
+    "mpn": "EHVS02",
+    "gtin": "8901234567920",
+    "gtin_type": "EAN",
+    "origin_country": "Italy",
+    "manufacturer": "ElegantHome Italia",
+    "description": "The ElegantHome Decorative Vase Set includes three beautifully crafted vases that bring a touch of elegance to any space. Each vase features a unique design and finish, making them perfect for displaying flowers or standing alone as decorative pieces. Made from high-quality ceramic, these vases are both durable and stylish. Their versatile design allows them to complement a wide range of interior styles, from modern to traditional. Elevate your home decor with this stunning vase set that adds charm and sophistication to any room."
+  }
+]

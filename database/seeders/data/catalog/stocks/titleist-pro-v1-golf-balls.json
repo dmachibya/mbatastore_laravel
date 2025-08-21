@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Titleist Pro V1 Golf Balls - Pack of 12",
+    "slug": "titleist-pro-v1-golf-balls-pack-of-12",
+    "sku": "TP5V1-12",
+    "description": "The Titleist Pro V1 Golf Balls - Pack of 12 is the ultimate choice for golfers seeking exceptional performance and control. These premium golf balls feature a soft cast urethane cover and a high-speed core, delivering outstanding distance, consistent flight, and a soft feel for superior short game control. The Pro V1 balls are engineered for tour-level performance and are ideal for golfers who demand the best. The pack of 12 provides excellent value for those looking to equip themselves with top-quality golf balls for their next round or tournament.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "Soft cast urethane cover",
+      "High-speed core",
+      "Exceptional distance",
+      "Consistent flight"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 30,
+    "shipping_weight": 1.0,
+    "meta_title": "Titleist Pro V1 Golf Balls - Pack of 12",
+    "meta_description": "Buy Titleist Pro V1 Golf Balls - Pack of 12. Premium golf balls with a soft urethane cover and high-speed core for exceptional distance and performance."
+  },
+  {
+    "title": "Titleist Pro V1 Golf Balls - Sleeve of 3",
+    "slug": "titleist-pro-v1-golf-balls-sleeve-of-3",
+    "sku": "TP5V1-3",
+    "description": "The Titleist Pro V1 Golf Balls - Sleeve of 3 offers golfers a chance to experience tour-level performance in a convenient pack. These balls feature a soft cast urethane cover for a soft feel and high-speed core for exceptional distance. The Pro V1 balls are known for their consistent flight, advanced spin control, and premium construction. Ideal for golfers looking to try out high-quality balls or needing a few for practice or a game, this sleeve provides a top-tier golfing experience in a smaller package.",
+    "price": 14.99,
+    "offer_price": 12.99,
+    "key_features": [
+      "Soft cast urethane cover",
+      "High-speed core",
+      "Tour-level performance",
+      "Consistent flight"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 50,
+    "shipping_weight": 0.25,
+    "meta_title": "Titleist Pro V1 Golf Balls - Sleeve of 3",
+    "meta_description": "Get Titleist Pro V1 Golf Balls - Sleeve of 3. Experience tour-level performance with a soft urethane cover and high-speed core for distance and control."
+  }
+]

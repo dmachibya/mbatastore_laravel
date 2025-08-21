@@ -1,0 +1,106 @@
+{
+  "Women's Jewellery": {
+    "slug": "womens-jewellery",
+    "description": "Stylish and masculine jewellery for women.",
+    "subcategories": [
+      {
+        "name": "Necklaces",
+        "slug": "womens-necklaces",
+        "description": "A range of beautiful necklaces for every occasion."
+      },
+      {
+        "name": "Rings",
+        "slug": "womens-rings",
+        "description": "Elegant and unique rings for every finger and occasion."
+      },
+      {
+        "name": "Bracelets",
+        "slug": "womens-bracelets",
+        "description": "Stylish bracelets for both casual and formal wear."
+      },
+      {
+        "name": "Earrings",
+        "slug": "womens-earrings",
+        "description": "A variety of earrings to complement any outfit."
+      }
+    ]
+  },
+  "Men's Jewellery": {
+    "slug": "mens-jewellery",
+    "description": "Stylish and masculine jewellery for men.",
+    "subcategories": [
+      {
+        "name": "Cufflinks",
+        "slug": "cufflinks",
+        "description": "Elegant cufflinks for formal wear."
+      },
+      {
+        "name": "Men's Rings",
+        "slug": "mens-rings",
+        "description": "Bold and stylish rings designed for men."
+      },
+      {
+        "name": "Bracelets for Men",
+        "slug": "bracelets-for-men",
+        "description": "Masculine bracelets for a sophisticated look."
+      },
+      {
+        "name": "Men's Necklaces",
+        "slug": "mens-necklaces",
+        "description": "Trendy and stylish necklaces for men."
+      }
+    ]
+  },
+  "Watches": {
+    "slug": "watches",
+    "description": "A collection of stylish and functional watches.",
+    "subcategories": [
+      {
+        "name": "Dress Watches",
+        "slug": "dress-watches",
+        "description": "Elegant watches for formal occasions."
+      },
+      {
+        "name": "Sports Watches",
+        "slug": "sports-watches",
+        "description": "Durable watches for athletic and outdoor activities."
+      },
+      {
+        "name": "Smart Watches",
+        "slug": "smart-watches",
+        "description": "Modern smartwatches with various features and apps."
+      },
+      {
+        "name": "Classic Watches",
+        "slug": "classic-watches",
+        "description": "Timeless watches with a classic design."
+      }
+    ]
+  },
+  "Gemstones": {
+    "slug": "gemstones",
+    "description": "Beautiful gemstones for custom jewellery or collection.",
+    "subcategories": [
+      {
+        "name": "Loose Gemstones",
+        "slug": "loose-gemstones",
+        "description": "Unset gemstones for custom jewellery designs."
+      },
+      {
+        "name": "Birthstones",
+        "slug": "birthstones",
+        "description": "Gemstones associated with each month of the year."
+      },
+      {
+        "name": "Colored Gemstones",
+        "slug": "colored-gemstones",
+        "description": "A variety of colorful gemstones for unique jewellery."
+      },
+      {
+        "name": "Precious Gemstones",
+        "slug": "precious-gemstones",
+        "description": "High-quality precious gemstones for luxury pieces."
+      }
+    ]
+  }
+}

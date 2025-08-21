@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Adobe Premiere Pro 2024",
+    "slug": "adobe-premiere-pro-2024",
+    "brand": "Adobe",
+    "model_number": "65237429",
+    "mpn": "65237429",
+    "gtin": "088771989123",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Adobe Inc.",
+    "description": "Adobe Premiere Pro 2024 is the leading video editing software used by professionals and creatives worldwide. The latest version offers advanced video editing tools, including multi-cam editing, VR editing, and color grading capabilities. With a range of new features such as AI-driven auto-reframe, enhanced performance for 4K and 8K video, and support for a wide variety of file formats, Premiere Pro 2024 empowers users to produce high-quality video content with ease. The software integrates seamlessly with Adobe Creative Cloud, allowing for smooth collaboration and access to a library of assets and plugins."
+  },
+  {
+    "name": "Final Cut Pro X 2024",
+    "slug": "final-cut-pro-x-2024",
+    "brand": "Apple",
+    "model_number": "MXFZ2Z/A",
+    "mpn": "MXFZ2Z/A",
+    "gtin": "194252443660",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Apple Inc.",
+    "description": "Final Cut Pro X 2024 is Apple’s professional video editing software that offers a comprehensive suite of tools for video production. The 2024 release introduces new features including enhanced 360-degree video editing, advanced color grading tools, and improved performance for high-resolution video editing. Final Cut Pro X integrates with Motion and Compressor for advanced motion graphics and encoding capabilities. Designed for both amateur filmmakers and industry professionals, Final Cut Pro X provides a powerful and intuitive environment for creating stunning videos with high efficiency."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Marvel Avengers Action Figure - Iron Man",
+    "slug": "marvel-avengers-action-figure-iron-man",
+    "brand": "Marvel",
+    "model_number": "AV-IM-2023",
+    "mpn": "AV-IM-2023",
+    "gtin": "1234567890123",
+    "gtin_type": "EAN",
+    "origin_country": "China",
+    "manufacturer": "Hasbro",
+    "description": "This Marvel Avengers Action Figure features Iron Man in his iconic suit from the latest Avengers film. Standing approximately 6 inches tall, this highly detailed figure captures the essence of Tony Stark's armored superhero with exceptional precision. The Iron Man figure comes with multiple points of articulation, allowing for dynamic poses and action sequences. Equipped with a range of accessories including repulsor blast effects and a removable helmet, this action figure is perfect for both collectors and young fans. Whether recreating scenes from the Marvel Cinematic Universe or displaying on a shelf, this Iron Man action figure offers both playability and visual appeal, making it a must-have for any Marvel enthusiast."
+  },
+  {
+    "name": "Star Wars Action Figure - Darth Vader",
+    "slug": "star-wars-action-figure-darth-vader",
+    "brand": "Star Wars",
+    "model_number": "SW-DV-2023",
+    "mpn": "SW-DV-2023",
+    "gtin": "9876543210987",
+    "gtin_type": "EAN",
+    "origin_country": "China",
+    "manufacturer": "Hasbro",
+    "description": "The Star Wars Action Figure of Darth Vader captures the dark and menacing presence of the iconic Sith Lord from the Star Wars saga. This 6-inch figure is designed with incredible attention to detail, reflecting Darth Vader’s fearsome look from the classic trilogy. With multiple points of articulation, this figure allows fans to recreate their favorite moments from the Star Wars universe. The action figure includes a lightsaber accessory and a cape, enhancing the authenticity of the character. Ideal for collectors and fans alike, this Darth Vader figure offers a high-quality addition to any Star Wars collection and is perfect for imaginative play or display."
+  }
+]

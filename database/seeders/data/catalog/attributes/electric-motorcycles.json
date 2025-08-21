@@ -1,0 +1,20 @@
+{
+  "Battery Capacity": [
+    "Up to 5 kWh",
+    "5.1 kWh - 10 kWh",
+    "10.1 kWh - 15 kWh",
+    "Above 15 kWh"
+  ],
+  "Range on Full Charge": [
+    "Up to 100 km",
+    "101 km - 150 km",
+    "151 km - 200 km",
+    "Above 200 km"
+  ],
+  "Charging Time": [
+    "Up to 2 hours",
+    "2 - 4 hours",
+    "4 - 6 hours",
+    "Above 6 hours"
+  ]
+}

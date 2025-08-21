@@ -1,0 +1,4 @@
+{
+  "Material": ["Plastic", "Glass", "Silicone", "Stainless Steel"],
+  "Nipple Flow Rate": ["Slow", "Medium", "Fast", "Variable"]
+}

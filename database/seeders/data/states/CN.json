@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Chongqing",
+    "iso_code": "渝"
+  },
+  {
+    "name": "Heilongjiang",
+    "iso_code": "黑"
+  },
+  {
+    "name": "Jilin",
+    "iso_code": "吉"
+  },
+  {
+    "name": "Hainan",
+    "iso_code": "琼"
+  },
+  {
+    "name": "Beijing",
+    "iso_code": "京"
+  },
+  {
+    "name": "Liaoning",
+    "iso_code": "辽"
+  },
+  {
+    "name": "Inner Mongolia",
+    "iso_code": "蒙"
+  },
+  {
+    "name": "Tibet",
+    "iso_code": "藏"
+  },
+  {
+    "name": "Qinghai",
+    "iso_code": "青"
+  },
+  {
+    "name": "Ningxia",
+    "iso_code": "宁"
+  },
+  {
+    "name": "Xinjiang",
+    "iso_code": "新"
+  },
+  {
+    "name": "Gansu",
+    "iso_code": "甘"
+  },
+  {
+    "name": "Hebei",
+    "iso_code": "冀"
+  },
+  {
+    "name": "Henan",
+    "iso_code": "豫"
+  },
+  {
+    "name": "Hubei",
+    "iso_code": "鄂"
+  },
+  {
+    "name": "Hunan",
+    "iso_code": "湘"
+  },
+  {
+    "name": "Shandong",
+    "iso_code": "鲁"
+  },
+  {
+    "name": "Jiangsu",
+    "iso_code": "苏"
+  },
+  {
+    "name": "Anhui",
+    "iso_code": "皖"
+  },
+  {
+    "name": "Shanxi",
+    "iso_code": "晋"
+  },
+  {
+    "name": "Shaanxi",
+    "iso_code": "陕"
+  },
+  {
+    "name": "Sichuan",
+    "iso_code": "川"
+  },
+  {
+    "name": "Yunnan",
+    "iso_code": "滇"
+  },
+  {
+    "name": "Guizhou",
+    "iso_code": "黔"
+  },
+  {
+    "name": "Zhejiang",
+    "iso_code": "浙"
+  },
+  {
+    "name": "Fujian",
+    "iso_code": "闽"
+  },
+  {
+    "name": "Guangxi",
+    "iso_code": "桂"
+  },
+  {
+    "name": "Shanghai",
+    "iso_code": "沪"
+  },
+  {
+    "name": "Tianjin",
+    "iso_code": "津"
+  },
+  {
+    "name": "Hong Kong",
+    "iso_code": "港"
+  },
+  {
+    "name": "Macau",
+    "iso_code": "澳"
+  },
+  {
+    "name": "Taiwan",
+    "iso_code": "台"
+  },
+  {
+    "name": "Jiangxi",
+    "iso_code": "赣"
+  },
+  {
+    "name": "Guangdong",
+    "iso_code": "粤"
+  }
+]

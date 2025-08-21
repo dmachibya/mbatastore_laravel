@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Meguiar's Ultimate Wash & Wax - Premium Car Wash Soap with Advanced Polymers",
+    "slug": "meguiars-ultimate-wash-wax-premium-car-wash-soap",
+    "sku": "G7101-001",
+    "description": "Meguiar's Ultimate Wash & Wax is a top-tier car wash soap that combines advanced polymer technology with a high-foam formula to clean and protect your vehicle. This premium product is designed to lift and remove dirt, grime, and contaminants from your car’s surface while providing a rich lather that rinses away easily. The wash and wax formula leaves behind a protective layer of wax, enhancing your car’s shine and providing lasting protection against environmental elements. Suitable for all paint finishes and safe for your car’s clear coat, Meguiar's Ultimate Wash & Wax ensures a spotless clean and a showroom-worthy shine every time you wash your vehicle. Enjoy the benefits of a professional-quality car wash from the comfort of your home.",
+    "price": 29.99,
+    "offer_price": 24.99,
+    "key_features": [
+      "Advanced polymer technology for superior shine",
+      "Rich foam lifts and removes dirt and grime",
+      "Leaves a protective wax layer",
+      "pH-balanced and safe for all paint finishes",
+      "Easy to use and rinses away clean"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 10,
+    "shipping_weight": "1.2 kg",
+    "meta_title": "Meguiar's Ultimate Wash & Wax - Premium Car Wash Soap for a Brilliant Shine",
+    "meta_description": "Buy Meguiar's Ultimate Wash & Wax for a premium car wash experience. Advanced polymers, rich foam, protective wax layer, pH-balanced, and suitable for all paint finishes."
+  },
+  {
+    "title": "Meguiar's Ultimate Wash & Wax - High-Quality Car Wash Soap for a Showroom Shine",
+    "slug": "meguiars-ultimate-wash-wax-showroom-shine",
+    "sku": "G7101-002",
+    "description": "Experience the ultimate car wash with Meguiar's Ultimate Wash & Wax, a high-quality soap designed to deliver a brilliant shine and thorough clean for your vehicle. This premium wash formula features advanced polymers that lift dirt, grime, and road contaminants from your car’s surface while providing a rich, foamy lather that’s easy to rinse away. The integrated wax technology leaves a protective coat on your vehicle, enhancing its shine and offering protection from environmental damage. Safe for all types of paint finishes and clear coats, Meguiar's Ultimate Wash & Wax ensures a spotless clean and a gorgeous finish every time. Perfect for both routine washes and special detailing sessions.",
+    "price": 29.99,
+    "offer_price": 24.99,
+    "key_features": [
+      "High-quality car wash soap with advanced polymers",
+      "Rich lather for effective dirt and grime removal",
+      "Protective wax layer for enhanced shine",
+      "Safe for all paint finishes and clear coats",
+      "Ideal for both routine washes and detailing"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 7,
+    "shipping_weight": "1.2 kg",
+    "meta_title": "Meguiar's Ultimate Wash & Wax - High-Quality Car Wash Soap for a Perfect Finish",
+    "meta_description": "Get Meguiar's Ultimate Wash & Wax for a high-quality car wash. Advanced polymers, rich lather, protective wax layer, safe for all paint finishes, and perfect for routine or detailed washes."
+  }
+]

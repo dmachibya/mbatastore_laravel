@@ -1,0 +1,10 @@
+{
+  "Rack Type": ["Crossbars", "Cargo Carriers", "Bike Racks", "Ski Racks"],
+  "Material": ["Aluminum", "Steel", "Plastic", "Carbon Fiber"],
+  "Weight Capacity": [
+    "Up to 50 lbs",
+    "51-100 lbs",
+    "101-150 lbs",
+    "Over 150 lbs"
+  ]
+}

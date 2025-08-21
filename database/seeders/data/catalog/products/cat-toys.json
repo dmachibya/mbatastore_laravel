@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Interactive Cat Laser Toy",
+    "slug": "interactive-cat-laser-toy",
+    "brand": "Whisker Wonders",
+    "model_number": "WW-12345",
+    "mpn": "WW12345",
+    "gtin": "4567890123456",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Whisker Wonders Pet Products",
+    "description": "The Interactive Cat Laser Toy from Whisker Wonders is designed to provide endless entertainment for your feline friend. This laser toy features adjustable settings to project a captivating laser light that stimulates your cat’s hunting instincts. The durable, lightweight design makes it easy to use, while the variable speeds and patterns keep your cat engaged. Ideal for solo play or interactive play sessions with you, this laser toy is a great way to keep your cat active and entertained while also offering a fun bonding experience."
+  },
+  {
+    "name": "Catnip Infused Plush Mouse Toy",
+    "slug": "catnip-infused-plush-mouse-toy",
+    "brand": "Purrfect Play",
+    "model_number": "PP-67890",
+    "mpn": "PP67890",
+    "gtin": "1234567890123",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Purrfect Play Pet Products",
+    "description": "The Catnip Infused Plush Mouse Toy from Purrfect Play is designed to entice and engage your cat with its soft texture and irresistible catnip scent. Made from high-quality plush material, this toy features a realistic mouse design with embroidered features and a built-in catnip pouch that drives cats wild. The plush mouse is perfect for batting, pouncing, and carrying around, making it a great addition to your cat’s toy collection. This toy provides mental stimulation and physical exercise, helping to keep your cat happy and healthy."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Whey Protein Isolate Powder - Chocolate Flavor",
+    "slug": "whey-protein-isolate-powder-chocolate-flavor",
+    "sku": "ON-WPI-005-CH",
+    "description": "Optimum Nutrition's Whey Protein Isolate Powder in Chocolate Flavor is a high-quality protein supplement perfect for muscle building and recovery. Each serving provides 25 grams of whey protein isolate, featuring minimal fat and sugar, making it ideal for those who want to increase muscle mass without unwanted calories. The delicious chocolate flavor makes it enjoyable to drink, and the powder blends easily into water or milk. Ideal for post-workout shakes or as a protein-rich snack throughout the day.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "25g Protein Per Serving",
+      "Low Fat and Sugar",
+      "Chocolate Flavor",
+      "Advanced Filtration Process"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 150,
+    "shipping_weight": 1.2,
+    "meta_title": "Whey Protein Isolate Powder - Chocolate Flavor | Optimum Nutrition",
+    "meta_description": "Shop Optimum Nutrition's Whey Protein Isolate Powder in Chocolate Flavor. 25g protein per serving, low fat and sugar, perfect for muscle growth. Special offer available!"
+  },
+  {
+    "title": "Whey Protein Isolate Powder - Vanilla Flavor",
+    "slug": "whey-protein-isolate-powder-vanilla-flavor",
+    "sku": "ON-WPI-005-VN",
+    "description": "Optimum Nutrition's Whey Protein Isolate Powder in Vanilla Flavor provides a high-quality protein source for muscle repair and growth. Each scoop delivers 25 grams of protein with minimal fat and carbohydrates, making it a great option for those looking to enhance their fitness regimen. The smooth vanilla flavor is perfect for creating shakes or adding to recipes. This protein powder supports optimal muscle recovery and helps meet your daily protein needs.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "25g Protein Per Serving",
+      "Low Fat and Sugar",
+      "Vanilla Flavor",
+      "Supports Muscle Recovery"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 120,
+    "shipping_weight": 1.3,
+    "meta_title": "Whey Protein Isolate Powder - Vanilla Flavor | Optimum Nutrition",
+    "meta_description": "Get Whey Protein Isolate Powder in Vanilla Flavor from Optimum Nutrition. 25g protein per serving, low fat, and sugar. Ideal for muscle growth. Special discount available!"
+  }
+]

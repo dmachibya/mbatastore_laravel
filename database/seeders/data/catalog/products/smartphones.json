@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Galaxy S21 Ultra",
+    "slug": "galaxy-s21-ultra",
+    "brand": "Samsung",
+    "model_number": "SM-G998B/DS",
+    "mpn": "SM-G998BZKAXSA",
+    "gtin": "0887276476863",
+    "gtin_type": "UPC",
+    "origin_country": "South Korea",
+    "manufacturer": "Samsung Electronics",
+    "description": "The Galaxy S21 Ultra is Samsung's flagship smartphone, offering top-tier performance and cutting-edge technology. It features a stunning 6.8-inch Dynamic AMOLED 2X display with a resolution of 3200 x 1440 pixels and a 120Hz refresh rate for a smooth and immersive visual experience. Powered by the Exynos 2100 processor and paired with up to 16GB of RAM, it ensures fast and efficient multitasking. The device boasts a quad-camera system with a 108MP main sensor, allowing you to capture stunning photos and videos. Additionally, it supports 5G connectivity, Wi-Fi 6E, and a large 5000mAh battery with fast charging capabilities. The Galaxy S21 Ultra is designed to provide an unparalleled mobile experience, making it the ultimate choice for tech enthusiasts and professionals."
+  },
+  {
+    "name": "iPhone 13 Pro Max",
+    "slug": "iphone-13-pro-max",
+    "brand": "Apple",
+    "model_number": "A2643",
+    "mpn": "MLLJ3LL/A",
+    "gtin": "0194252679057",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Apple Inc.",
+    "description": "The iPhone 13 Pro Max represents the pinnacle of Apple's smartphone technology. It features a 6.7-inch Super Retina XDR display with ProMotion technology, offering a refresh rate of up to 120Hz for incredibly smooth visuals. The A15 Bionic chip powers the device, providing exceptional performance and efficiency. The Pro camera system includes a 12MP ultra-wide, wide, and telephoto lens, along with advanced computational photography features, enabling you to take professional-quality photos and videos. With 5G capability, longer battery life, and up to 1TB of storage, the iPhone 13 Pro Max is designed for those who demand the best in mobile technology. Its sleek design, robust build, and premium features make it a standout choice for any smartphone user."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ikea Malm Bed Frame - Queen",
+    "slug": "ikea-malm-bed-frame-queen",
+    "sku": "IKE-MALM-QN",
+    "description": "The Ikea Malm Bed Frame in Queen size is the epitome of modern simplicity and functionality. With its clean lines and sleek design, it fits seamlessly into any bedroom decor. Made from high-quality materials, this bed frame is built to last. It features adjustable bed sides, allowing you to use mattresses of different thicknesses. The spacious under-bed storage is perfect for keeping extra bedding or seasonal clothing out of sight. The timeless design and neutral color make this bed frame a versatile choice for any bedroom.",
+    "price": 249.99,
+    "offer_price": 199.99,
+    "key_features": [
+      "Adjustable Bed Sides",
+      "Under-Bed Storage",
+      "Durable Construction",
+      "Modern Design",
+      "Easy Assembly"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 100,
+    "shipping_weight": 80,
+    "meta_title": "Ikea Malm Bed Frame - Queen",
+    "meta_description": "Buy the Ikea Malm Bed Frame in Queen size. Enjoy modern design, adjustable bed sides, and under-bed storage. Perfect for any bedroom decor."
+  },
+  {
+    "title": "Ikea Malm Bed Frame - King",
+    "slug": "ikea-malm-bed-frame-king",
+    "sku": "IKE-MALM-KG",
+    "description": "The Ikea Malm Bed Frame in King size offers a spacious and stylish sleeping solution for your bedroom. Its minimalist design and clean lines create a modern aesthetic that complements any decor. This bed frame is crafted from durable materials to ensure longevity and stability. The adjustable bed sides make it compatible with mattresses of various thicknesses. Additionally, the generous under-bed storage provides ample space for keeping your bedroom organized. The Ikea Malm Bed Frame is a perfect blend of style and functionality.",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "Adjustable Bed Sides",
+      "Spacious Under-Bed Storage",
+      "Durable Materials",
+      "Modern Aesthetic",
+      "Easy Assembly"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 70,
+    "shipping_weight": 100,
+    "meta_title": "Ikea Malm Bed Frame - King",
+    "meta_description": "Get the Ikea Malm Bed Frame in King size. Enjoy spacious design, adjustable bed sides, and ample under-bed storage. Ideal for modern bedrooms."
+  }
+]

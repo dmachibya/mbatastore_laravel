@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Casio CT-X700 Portable Keyboard - Standard Package",
+    "slug": "casio-ct-x700-portable-keyboard-standard-package",
+    "sku": "CAS-CT-X700-SP",
+    "description": "The Casio CT-X700 Portable Keyboard - Standard Package is a feature-rich instrument suitable for musicians of all levels. With 61 full-size touch-sensitive keys and the new AiX Sound Source, it delivers stunningly realistic sounds and powerful accompaniment styles. The keyboard includes 600 built-in tones, 195 rhythms, and an array of effects to enhance your performance. The intuitive interface and educational features, such as the Step-Up Lesson system, make learning easy and enjoyable. The standard package includes the keyboard, power adapter, music rest, and user manual. Perfect for practice and performance, the CT-X700 offers a versatile and powerful playing experience.",
+    "price": 229.99,
+    "offer_price": 199.99,
+    "key_features": [
+      "61 Touch-Sensitive Keys",
+      "AiX Sound Source",
+      "600 Built-In Tones",
+      "Step-Up Lesson System"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 18,
+    "shipping_weight": 12.0,
+    "meta_title": "Casio CT-X700 Portable Keyboard - Standard Package",
+    "meta_description": "Shop the Casio CT-X700 Portable Keyboard - Standard Package, featuring 61 touch-sensitive keys, AiX Sound Source, 600 built-in tones, and Step-Up Lesson system. Ideal for musicians of all levels. Buy now at a special price!"
+  },
+  {
+    "title": "Casio CT-X700 Portable Keyboard - Premium Package",
+    "slug": "casio-ct-x700-portable-keyboard-premium-package",
+    "sku": "CAS-CT-X700-PP",
+    "description": "The Casio CT-X700 Portable Keyboard - Premium Package provides everything you need for a superior playing experience. This package includes the advanced CT-X700 keyboard with 61 full-size touch-sensitive keys and the new AiX Sound Source, offering realistic sounds and powerful accompaniment styles. The keyboard features 600 built-in tones, 195 rhythms, and various effects to enhance your music. The premium package also includes a sturdy keyboard stand, a padded bench, a sustain pedal, headphones, and a power adapter. With its user-friendly interface and educational features like the Step-Up Lesson system, the CT-X700 is perfect for both learning and performance. Experience the full potential of your music with this comprehensive package.",
+    "price": 349.99,
+    "offer_price": 319.99,
+    "key_features": [
+      "61 Touch-Sensitive Keys",
+      "AiX Sound Source",
+      "600 Built-In Tones",
+      "Premium Accessories Included"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 10,
+    "shipping_weight": 18.0,
+    "meta_title": "Casio CT-X700 Portable Keyboard - Premium Package",
+    "meta_description": "Discover the Casio CT-X700 Portable Keyboard - Premium Package, featuring 61 touch-sensitive keys, AiX Sound Source, 600 built-in tones, and premium accessories. Ideal for musicians of all levels. Buy now at a special price!"
+  }
+]

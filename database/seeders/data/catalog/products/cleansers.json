@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Gentle Foaming Facial Cleanser - Hydrating Aloe Vera & Chamomile",
+    "slug": "gentle-foaming-facial-cleanser-hydrating-aloe-vera-chamomile",
+    "brand": "PureSkin Essentials",
+    "model_number": "PS-C2024",
+    "mpn": "PS-001",
+    "gtin": "0123456789066",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "PureSkin Essentials Inc.",
+    "description": "The Gentle Foaming Facial Cleanser by PureSkin Essentials is a luxurious skincare product designed to gently cleanse and hydrate your skin. Infused with natural aloe vera and chamomile, this foaming cleanser soothes and refreshes while effectively removing impurities and makeup. Its mild formula is suitable for all skin types, including sensitive skin, and helps maintain your skin’s natural moisture balance. Use daily for a fresh, clean complexion that feels soft and nourished."
+  },
+  {
+    "name": "Deep Cleansing Facial Gel - Purifying Activated Charcoal & Tea Tree",
+    "slug": "deep-cleansing-facial-gel-purifying-activated-charcoal-tea-tree",
+    "brand": "GlowCare Skincare",
+    "model_number": "GC-C2024",
+    "mpn": "GC-002",
+    "gtin": "0123456789067",
+    "gtin_type": "EAN",
+    "origin_country": "South Korea",
+    "manufacturer": "GlowCare Skincare Co.",
+    "description": "The Deep Cleansing Facial Gel by GlowCare Skincare is a powerful yet gentle cleanser formulated with activated charcoal and tea tree oil. This purifying gel deeply cleanses pores, removes excess oil, and helps combat acne and blackheads. The activated charcoal acts as a magnet to draw out impurities, while tea tree oil provides natural antibacterial and soothing benefits. Perfect for oily and acne-prone skin, this facial gel leaves your skin feeling fresh, clean, and clear."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Harley-Davidson Softail Slim 2024",
+    "slug": "harley-davidson-softail-slim-2024",
+    "sku": "HDS-2024-SLIM",
+    "description": "The Harley-Davidson Softail Slim 2024 combines classic cruiser styling with modern performance. It features a Milwaukee-Eight 107 engine, softail suspension, and a sleek, minimalist design for a powerful and stylish ride.",
+    "price": 15999.0,
+    "offer_price": 14999.0,
+    "key_features": [
+      "Milwaukee-Eight 107 V-Twin Engine",
+      "Softail Suspension for a Smooth Ride",
+      "Classic Cruiser Styling with Minimalist Design",
+      "Electronic Cruise Control",
+      "LED Lighting"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 25,
+    "shipping_weight": 320.0,
+    "meta_title": "Harley-Davidson Softail Slim 2024 | Classic Cruiser Motorcycle",
+    "meta_description": "Explore the Harley-Davidson Softail Slim 2024 with a Milwaukee-Eight 107 engine, softail suspension, and classic cruiser styling. Get the best deals and offers now!"
+  },
+  {
+    "title": "Harley-Davidson Softail Slim 2023",
+    "slug": "harley-davidson-softail-slim-2023",
+    "sku": "HDS-2023-SLIM",
+    "description": "Experience the power and style of the Harley-Davidson Softail Slim 2023. With a Milwaukee-Eight 107 engine and classic cruiser design, this motorcycle offers a blend of performance and heritage.",
+    "price": 15499.0,
+    "offer_price": 14499.0,
+    "key_features": [
+      "Milwaukee-Eight 107 V-Twin Engine",
+      "Softail Frame for Enhanced Comfort",
+      "Classic Slim Design with Minimalist Look",
+      "Advanced Anti-Lock Braking System",
+      "Comfortable Solo Seat"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 30,
+    "shipping_weight": 315.0,
+    "meta_title": "Harley-Davidson Softail Slim 2023 | Classic Cruiser with Modern Features",
+    "meta_description": "Get the Harley-Davidson Softail Slim 2023, featuring a Milwaukee-Eight 107 engine and classic cruiser design. Great deals and special offers available now!"
+  },
+  {
+    "title": "Harley-Davidson Softail Slim 2022",
+    "slug": "harley-davidson-softail-slim-2022",
+    "sku": "HDS-2022-SLIM",
+    "description": "The Harley-Davidson Softail Slim 2022 offers the perfect combination of vintage charm and modern performance. Featuring the Milwaukee-Eight 107 engine and classic cruiser styling, it’s designed for those who appreciate both power and heritage.",
+    "price": 14999.0,
+    "offer_price": 13999.0,
+    "key_features": [
+      "Milwaukee-Eight 107 Engine",
+      "Classic Cruiser Aesthetics",
+      "Advanced Electronic Braking System",
+      "Enhanced Ride Comfort with Softail Frame",
+      "Stylish and Durable Design"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 20,
+    "shipping_weight": 310.0,
+    "meta_title": "Harley-Davidson Softail Slim 2022 | Premium Cruiser Motorcycle",
+    "meta_description": "Discover the Harley-Davidson Softail Slim 2022 with a Milwaukee-Eight 107 engine and classic cruiser design. Best prices and offers available now!"
+  },
+  {
+    "title": "Harley-Davidson Softail Slim 2021",
+    "slug": "harley-davidson-softail-slim-2021",
+    "sku": "HDS-2021-SLIM",
+    "description": "The Harley-Davidson Softail Slim 2021 offers a sleek, minimalist design with a Milwaukee-Eight 107 engine. This cruiser motorcycle combines classic looks with modern technology for an exceptional riding experience.",
+    "price": 14499.0,
+    "offer_price": 13499.0,
+    "key_features": [
+      "Milwaukee-Eight 107 V-Twin Engine",
+      "Classic Slim Cruiser Design",
+      "High-Performance Suspension System",
+      "LED Daymaker Headlamp",
+      "Comfortable Ergonomic Seat"
+    ],
+    "stock_quantity": 8,
+    "sold_quantity": 18,
+    "shipping_weight": 305.0,
+    "meta_title": "Harley-Davidson Softail Slim 2021 | Classic Cruiser Motorcycle for Sale",
+    "meta_description": "Check out the Harley-Davidson Softail Slim 2021 with Milwaukee-Eight 107 engine and classic cruiser style. Find great deals and discounts on this iconic bike!"
+  }
+]

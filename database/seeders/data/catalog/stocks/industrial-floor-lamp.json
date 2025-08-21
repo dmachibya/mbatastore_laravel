@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Brightech Industrial Floor Lamp - Antique Bronze",
+    "slug": "brightech-industrial-floor-lamp-antique-bronze",
+    "sku": "BT-FL201-AB",
+    "description": "The Brightech Industrial Floor Lamp - Antique Bronze is a unique blend of vintage and modern design. This floor lamp features a sturdy metal construction with an antique bronze finish, exuding industrial charm. The adjustable arm and head allow you to direct light where it's needed most, making it ideal for reading, working, or creating a cozy atmosphere. The included LED bulb provides energy-efficient lighting with a warm, inviting glow. Perfect for living rooms, bedrooms, or home offices, this floor lamp adds a stylish and functional touch to any space. With its timeless design and durable construction, this lamp is sure to be a favorite for years to come.",
+    "price": 99.99,
+    "offer_price": 89.99,
+    "key_features": [
+      "Sturdy Metal Construction",
+      "Antique Bronze Finish",
+      "Adjustable Arm and Head",
+      "Energy-Efficient LED Bulb",
+      "Industrial Charm"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 75,
+    "shipping_weight": 8.0,
+    "meta_title": "Brightech Industrial Floor Lamp - Antique Bronze",
+    "meta_description": "Illuminate your space with the Brightech Industrial Floor Lamp - Antique Bronze. Features a sturdy metal construction, adjustable arm and head, and an energy-efficient LED bulb. Perfect for living rooms, bedrooms, and home offices."
+  },
+  {
+    "title": "Brightech Industrial Floor Lamp - Black",
+    "slug": "brightech-industrial-floor-lamp-black",
+    "sku": "BT-FL201-BK",
+    "description": "The Brightech Industrial Floor Lamp - Black combines vintage and modern design elements to create a stylish addition to any home decor. This floor lamp features a sturdy metal construction with a sleek black finish, adding a touch of industrial charm to your space. The adjustable arm and head allow you to direct light where it's needed most, making it ideal for reading, working, or creating a cozy atmosphere. The included LED bulb provides energy-efficient lighting with a warm, inviting glow. Perfect for living rooms, bedrooms, or home offices, this floor lamp adds a functional and aesthetic touch to any room. With its timeless design and durable construction, this lamp is sure to enhance your home decor.",
+    "price": 99.99,
+    "offer_price": 89.99,
+    "key_features": [
+      "Sturdy Metal Construction",
+      "Sleek Black Finish",
+      "Adjustable Arm and Head",
+      "Energy-Efficient LED Bulb",
+      "Industrial Charm"
+    ],
+    "stock_quantity": 130,
+    "sold_quantity": 65,
+    "shipping_weight": 8.0,
+    "meta_title": "Brightech Industrial Floor Lamp - Black",
+    "meta_description": "Illuminate your space with the Brightech Industrial Floor Lamp - Black. Features a sturdy metal construction, adjustable arm and head, and an energy-efficient LED bulb. Perfect for living rooms, bedrooms, and home offices."
+  }
+]

@@ -1,0 +1,1942 @@
+[
+  {
+    "name": "Afghanistan",
+    "full_name": "Islamic Republic of Afghanistan",
+    "capital": "Kabul",
+    "citizenship": "Afghan",
+    "iso_code": "AF",
+    "iso_numeric": 4,
+    "calling_code": "93",
+    "eea": false
+  },
+  {
+    "name": "Albania",
+    "full_name": "Republic of Albania",
+    "capital": "Tirana",
+    "citizenship": "Albanian",
+    "iso_code": "AL",
+    "iso_numeric": 8,
+    "calling_code": "355",
+    "eea": false
+  },
+  {
+    "name": "Algeria",
+    "full_name": "People's Democratic Republic of Algeria",
+    "capital": "Algiers",
+    "citizenship": "Algerian",
+    "iso_code": "DZ",
+    "iso_numeric": 12,
+    "calling_code": "213",
+    "eea": false
+  },
+  {
+    "name": "Andorra",
+    "full_name": "Principality of Andorra",
+    "capital": "Andorra la Vella",
+    "citizenship": "Andorran",
+    "iso_code": "AD",
+    "iso_numeric": 20,
+    "calling_code": "376",
+    "eea": false
+  },
+  {
+    "name": "Angola",
+    "full_name": "Republic of Angola",
+    "capital": "Luanda",
+    "citizenship": "Angolan",
+    "iso_code": "AO",
+    "iso_numeric": 24,
+    "calling_code": "244",
+    "eea": false
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "full_name": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "citizenship": "Antiguan or Barbudan",
+    "iso_code": "AG",
+    "iso_numeric": 28,
+    "calling_code": "1-268",
+    "eea": false
+  },
+  {
+    "name": "Argentina",
+    "full_name": "Argentine Republic",
+    "capital": "Buenos Aires",
+    "citizenship": "Argentine",
+    "iso_code": "AR",
+    "iso_numeric": 32,
+    "calling_code": "54",
+    "eea": false
+  },
+  {
+    "name": "Armenia",
+    "full_name": "Republic of Armenia",
+    "capital": "Yerevan",
+    "citizenship": "Armenian",
+    "iso_code": "AM",
+    "iso_numeric": 51,
+    "calling_code": "374",
+    "eea": false
+  },
+  {
+    "name": "Australia",
+    "full_name": "Commonwealth of Australia",
+    "capital": "Canberra",
+    "citizenship": "Australian",
+    "iso_code": "AU",
+    "iso_numeric": 36,
+    "calling_code": "61",
+    "eea": false
+  },
+  {
+    "name": "Austria",
+    "full_name": "Republic of Austria",
+    "capital": "Vienna",
+    "citizenship": "Austrian",
+    "iso_code": "AT",
+    "iso_numeric": 40,
+    "calling_code": "43",
+    "eea": true
+  },
+  {
+    "name": "Azerbaijan",
+    "full_name": "Republic of Azerbaijan",
+    "capital": "Baku",
+    "citizenship": "Azerbaijani",
+    "iso_code": "AZ",
+    "iso_numeric": 31,
+    "calling_code": "994",
+    "eea": false
+  },
+  {
+    "name": "Bahamas",
+    "full_name": "Commonwealth of the Bahamas",
+    "capital": "Nassau",
+    "citizenship": "Bahamian",
+    "iso_code": "BS",
+    "iso_numeric": 44,
+    "calling_code": "1-242",
+    "eea": false
+  },
+  {
+    "name": "Bahrain",
+    "full_name": "Kingdom of Bahrain",
+    "capital": "Manama",
+    "citizenship": "Bahraini",
+    "iso_code": "BH",
+    "iso_numeric": 48,
+    "calling_code": "973",
+    "eea": false
+  },
+  {
+    "name": "Bangladesh",
+    "full_name": "People's Republic of Bangladesh",
+    "capital": "Dhaka",
+    "citizenship": "Bangladeshi",
+    "iso_code": "BD",
+    "iso_numeric": 50,
+    "calling_code": "880",
+    "eea": false
+  },
+  {
+    "name": "Barbados",
+    "full_name": "Barbados",
+    "capital": "Bridgetown",
+    "citizenship": "Barbadian",
+    "iso_code": "BB",
+    "iso_numeric": 52,
+    "calling_code": "1-246",
+    "eea": false
+  },
+  {
+    "name": "Belarus",
+    "full_name": "Republic of Belarus",
+    "capital": "Minsk",
+    "citizenship": "Belarusian",
+    "iso_code": "BY",
+    "iso_numeric": 112,
+    "calling_code": "375",
+    "eea": false
+  },
+  {
+    "name": "Belgium",
+    "full_name": "Kingdom of Belgium",
+    "capital": "Brussels",
+    "citizenship": "Belgian",
+    "iso_code": "BE",
+    "iso_numeric": 56,
+    "calling_code": "32",
+    "eea": true
+  },
+  {
+    "name": "Belize",
+    "full_name": "Belize",
+    "capital": "Belmopan",
+    "citizenship": "Belizean",
+    "iso_code": "BZ",
+    "iso_numeric": 84,
+    "calling_code": "501",
+    "eea": false
+  },
+  {
+    "name": "Benin",
+    "full_name": "Republic of Benin",
+    "capital": "Porto-Novo",
+    "citizenship": "Beninese",
+    "iso_code": "BJ",
+    "iso_numeric": 204,
+    "calling_code": "229",
+    "eea": false
+  },
+  {
+    "name": "Bhutan",
+    "full_name": "Kingdom of Bhutan",
+    "capital": "Thimphu",
+    "citizenship": "Bhutanese",
+    "iso_code": "BT",
+    "iso_numeric": 64,
+    "calling_code": "975",
+    "eea": false
+  },
+  {
+    "name": "Bolivia",
+    "full_name": "Plurinational State of Bolivia",
+    "capital": "Sucre",
+    "citizenship": "Bolivian",
+    "iso_code": "BO",
+    "iso_numeric": 68,
+    "calling_code": "591",
+    "eea": false
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "full_name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "citizenship": "Bosnian or Herzegovinian",
+    "iso_code": "BA",
+    "iso_numeric": 70,
+    "calling_code": "387",
+    "eea": false
+  },
+  {
+    "name": "Botswana",
+    "full_name": "Republic of Botswana",
+    "capital": "Gaborone",
+    "citizenship": "Motswana",
+    "iso_code": "BW",
+    "iso_numeric": 72,
+    "calling_code": "267",
+    "eea": false
+  },
+  {
+    "name": "Brazil",
+    "full_name": "Federative Republic of Brazil",
+    "capital": "Brasilia",
+    "citizenship": "Brazilian",
+    "iso_code": "BR",
+    "iso_numeric": 76,
+    "calling_code": "55",
+    "eea": false
+  },
+  {
+    "name": "Brunei",
+    "full_name": "Nation of Brunei, Abode of Peace",
+    "capital": "Bandar Seri Begawan",
+    "citizenship": "Bruneian",
+    "iso_code": "BN",
+    "iso_numeric": 96,
+    "calling_code": "673",
+    "eea": false
+  },
+  {
+    "name": "Bulgaria",
+    "full_name": "Republic of Bulgaria",
+    "capital": "Sofia",
+    "citizenship": "Bulgarian",
+    "iso_code": "BG",
+    "iso_numeric": 100,
+    "calling_code": "359",
+    "eea": true
+  },
+  {
+    "name": "Burkina Faso",
+    "full_name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "citizenship": "Burkinabe",
+    "iso_code": "BF",
+    "iso_numeric": 854,
+    "calling_code": "226",
+    "eea": false
+  },
+  {
+    "name": "Burundi",
+    "full_name": "Republic of Burundi",
+    "capital": "Gitega",
+    "citizenship": "Burundian",
+    "iso_code": "BI",
+    "iso_numeric": 108,
+    "calling_code": "257",
+    "eea": false
+  },
+  {
+    "name": "Cabo Verde",
+    "full_name": "Republic of Cabo Verde",
+    "capital": "Praia",
+    "citizenship": "Cabo Verdean",
+    "iso_code": "CV",
+    "iso_numeric": 132,
+    "calling_code": "238",
+    "eea": false
+  },
+  {
+    "name": "Cambodia",
+    "full_name": "Kingdom of Cambodia",
+    "capital": "Phnom Penh",
+    "citizenship": "Cambodian",
+    "iso_code": "KH",
+    "iso_numeric": 116,
+    "calling_code": "855",
+    "eea": false
+  },
+  {
+    "name": "Cameroon",
+    "full_name": "Republic of Cameroon",
+    "capital": "Yaounde",
+    "citizenship": "Cameroonian",
+    "iso_code": "CM",
+    "iso_numeric": 120,
+    "calling_code": "237",
+    "eea": false
+  },
+  {
+    "name": "Canada",
+    "full_name": "Canada",
+    "capital": "Ottawa",
+    "citizenship": "Canadian",
+    "iso_code": "CA",
+    "iso_numeric": 124,
+    "calling_code": "1",
+    "eea": false
+  },
+  {
+    "name": "Central African Republic",
+    "full_name": "Central African Republic",
+    "capital": "Bangui",
+    "citizenship": "Central African",
+    "iso_code": "CF",
+    "iso_numeric": 140,
+    "calling_code": "236",
+    "eea": false
+  },
+  {
+    "name": "Chad",
+    "full_name": "Republic of Chad",
+    "capital": "N'Djamena",
+    "citizenship": "Chadian",
+    "iso_code": "TD",
+    "iso_numeric": 148,
+    "calling_code": "235",
+    "eea": false
+  },
+  {
+    "name": "Chile",
+    "full_name": "Republic of Chile",
+    "capital": "Santiago",
+    "citizenship": "Chilean",
+    "iso_code": "CL",
+    "iso_numeric": 152,
+    "calling_code": "56",
+    "eea": false
+  },
+  {
+    "name": "China",
+    "full_name": "People's Republic of China",
+    "capital": "Beijing",
+    "citizenship": "Chinese",
+    "iso_code": "CN",
+    "iso_numeric": 156,
+    "calling_code": "86",
+    "eea": false
+  },
+  {
+    "name": "Colombia",
+    "full_name": "Republic of Colombia",
+    "capital": "Bogota",
+    "citizenship": "Colombian",
+    "iso_code": "CO",
+    "iso_numeric": 170,
+    "calling_code": "57",
+    "eea": false
+  },
+  {
+    "name": "Comoros",
+    "full_name": "Union of the Comoros",
+    "capital": "Moroni",
+    "citizenship": "Comoran",
+    "iso_code": "KM",
+    "iso_numeric": 174,
+    "calling_code": "269",
+    "eea": false
+  },
+  {
+    "name": "Congo, Democratic Republic of the",
+    "full_name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "citizenship": "Congolese",
+    "iso_code": "CD",
+    "iso_numeric": 180,
+    "calling_code": "243",
+    "eea": false
+  },
+  {
+    "name": "Congo, Republic of the",
+    "full_name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "citizenship": "Congolese",
+    "iso_code": "CG",
+    "iso_numeric": 178,
+    "calling_code": "242",
+    "eea": false
+  },
+  {
+    "name": "Costa Rica",
+    "full_name": "Republic of Costa Rica",
+    "capital": "San Jose",
+    "citizenship": "Costa Rican",
+    "iso_code": "CR",
+    "iso_numeric": 188,
+    "calling_code": "506",
+    "eea": false
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "full_name": "Republic of Cote d'Ivoire",
+    "capital": "Yamoussoukro",
+    "citizenship": "Ivorian",
+    "iso_code": "CI",
+    "iso_numeric": 384,
+    "calling_code": "225",
+    "eea": false
+  },
+  {
+    "name": "Croatia",
+    "full_name": "Republic of Croatia",
+    "capital": "Zagreb",
+    "citizenship": "Croatian",
+    "iso_code": "HR",
+    "iso_numeric": 191,
+    "calling_code": "385",
+    "eea": true
+  },
+  {
+    "name": "Cuba",
+    "full_name": "Republic of Cuba",
+    "capital": "Havana",
+    "citizenship": "Cuban",
+    "iso_code": "CU",
+    "iso_numeric": 192,
+    "calling_code": "53",
+    "eea": false
+  },
+  {
+    "name": "Cyprus",
+    "full_name": "Republic of Cyprus",
+    "capital": "Nicosia",
+    "citizenship": "Cypriot",
+    "iso_code": "CY",
+    "iso_numeric": 196,
+    "calling_code": "357",
+    "eea": true
+  },
+  {
+    "name": "Czech Republic",
+    "full_name": "Czech Republic",
+    "capital": "Prague",
+    "citizenship": "Czech",
+    "iso_code": "CZ",
+    "iso_numeric": 203,
+    "calling_code": "420",
+    "eea": true
+  },
+  {
+    "name": "Denmark",
+    "full_name": "Kingdom of Denmark",
+    "capital": "Copenhagen",
+    "citizenship": "Danish",
+    "iso_code": "DK",
+    "iso_numeric": 208,
+    "calling_code": "45",
+    "eea": true
+  },
+  {
+    "name": "Djibouti",
+    "full_name": "Republic of Djibouti",
+    "capital": "Djibouti",
+    "citizenship": "Djiboutian",
+    "iso_code": "DJ",
+    "iso_numeric": 262,
+    "calling_code": "253",
+    "eea": false
+  },
+  {
+    "name": "Dominica",
+    "full_name": "Commonwealth of Dominica",
+    "capital": "Roseau",
+    "citizenship": "Dominican",
+    "iso_code": "DM",
+    "iso_numeric": 212,
+    "calling_code": "1-767",
+    "eea": false
+  },
+  {
+    "name": "Dominican Republic",
+    "full_name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "citizenship": "Dominican",
+    "iso_code": "DO",
+    "iso_numeric": 214,
+    "calling_code": "1-809, 1-829, 1-849",
+    "eea": false
+  },
+  {
+    "name": "Ecuador",
+    "full_name": "Republic of Ecuador",
+    "capital": "Quito",
+    "citizenship": "Ecuadorian",
+    "iso_code": "EC",
+    "iso_numeric": 218,
+    "calling_code": "593",
+    "eea": false
+  },
+  {
+    "name": "Egypt",
+    "full_name": "Arab Republic of Egypt",
+    "capital": "Cairo",
+    "citizenship": "Egyptian",
+    "iso_code": "EG",
+    "iso_numeric": 818,
+    "calling_code": "20",
+    "eea": false
+  },
+  {
+    "name": "El Salvador",
+    "full_name": "Republic of El Salvador",
+    "capital": "San Salvador",
+    "citizenship": "Salvadoran",
+    "iso_code": "SV",
+    "iso_numeric": 222,
+    "calling_code": "503",
+    "eea": false
+  },
+  {
+    "name": "Equatorial Guinea",
+    "full_name": "Republic of Equatorial Guinea",
+    "capital": "Malabo",
+    "citizenship": "Equatorial Guinean",
+    "iso_code": "GQ",
+    "iso_numeric": 226,
+    "calling_code": "240",
+    "eea": false
+  },
+  {
+    "name": "Eritrea",
+    "full_name": "State of Eritrea",
+    "capital": "Asmara",
+    "citizenship": "Eritrean",
+    "iso_code": "ER",
+    "iso_numeric": 232,
+    "calling_code": "291",
+    "eea": false
+  },
+  {
+    "name": "Estonia",
+    "full_name": "Republic of Estonia",
+    "capital": "Tallinn",
+    "citizenship": "Estonian",
+    "iso_code": "EE",
+    "iso_numeric": 233,
+    "calling_code": "372",
+    "eea": true
+  },
+  {
+    "name": "Eswatini",
+    "full_name": "Kingdom of Eswatini",
+    "capital": "Mbabane",
+    "citizenship": "Swazi",
+    "iso_code": "SZ",
+    "iso_numeric": 748,
+    "calling_code": "268",
+    "eea": false
+  },
+  {
+    "name": "Ethiopia",
+    "full_name": "Federal Democratic Republic of Ethiopia",
+    "capital": "Addis Ababa",
+    "citizenship": "Ethiopian",
+    "iso_code": "ET",
+    "iso_numeric": 231,
+    "calling_code": "251",
+    "eea": false
+  },
+  {
+    "name": "Fiji",
+    "full_name": "Republic of Fiji",
+    "capital": "Suva",
+    "citizenship": "Fijian",
+    "iso_code": "FJ",
+    "iso_numeric": 242,
+    "calling_code": "679",
+    "eea": false
+  },
+  {
+    "name": "Finland",
+    "full_name": "Republic of Finland",
+    "capital": "Helsinki",
+    "citizenship": "Finnish",
+    "iso_code": "FI",
+    "iso_numeric": 246,
+    "calling_code": "358",
+    "eea": true
+  },
+  {
+    "name": "France",
+    "full_name": "French Republic",
+    "capital": "Paris",
+    "citizenship": "French",
+    "iso_code": "FR",
+    "iso_numeric": 250,
+    "calling_code": "33",
+    "eea": true
+  },
+  {
+    "name": "Gabon",
+    "full_name": "Gabonese Republic",
+    "capital": "Libreville",
+    "citizenship": "Gabonese",
+    "iso_code": "GA",
+    "iso_numeric": 266,
+    "calling_code": "241",
+    "eea": false
+  },
+  {
+    "name": "Gambia",
+    "full_name": "Republic of the Gambia",
+    "capital": "Banjul",
+    "citizenship": "Gambian",
+    "iso_code": "GM",
+    "iso_numeric": 270,
+    "calling_code": "220",
+    "eea": false
+  },
+  {
+    "name": "Georgia",
+    "full_name": "Georgia",
+    "capital": "Tbilisi",
+    "citizenship": "Georgian",
+    "iso_code": "GE",
+    "iso_numeric": 268,
+    "calling_code": "995",
+    "eea": false
+  },
+  {
+    "name": "Germany",
+    "full_name": "Federal Republic of Germany",
+    "capital": "Berlin",
+    "citizenship": "German",
+    "iso_code": "DE",
+    "iso_numeric": 276,
+    "calling_code": "49",
+    "eea": true
+  },
+  {
+    "name": "Ghana",
+    "full_name": "Republic of Ghana",
+    "capital": "Accra",
+    "citizenship": "Ghanaian",
+    "iso_code": "GH",
+    "iso_numeric": 288,
+    "calling_code": "233",
+    "eea": false
+  },
+  {
+    "name": "Greece",
+    "full_name": "Hellenic Republic",
+    "capital": "Athens",
+    "citizenship": "Greek",
+    "iso_code": "GR",
+    "iso_numeric": 300,
+    "calling_code": "30",
+    "eea": true
+  },
+  {
+    "name": "Grenada",
+    "full_name": "Grenada",
+    "capital": "St. George's",
+    "citizenship": "Grenadian",
+    "iso_code": "GD",
+    "iso_numeric": 308,
+    "calling_code": "1-473",
+    "eea": false
+  },
+  {
+    "name": "Guatemala",
+    "full_name": "Republic of Guatemala",
+    "capital": "Guatemala City",
+    "citizenship": "Guatemalan",
+    "iso_code": "GT",
+    "iso_numeric": 320,
+    "calling_code": "502",
+    "eea": false
+  },
+  {
+    "name": "Guinea",
+    "full_name": "Republic of Guinea",
+    "capital": "Conakry",
+    "citizenship": "Guinean",
+    "iso_code": "GN",
+    "iso_numeric": 324,
+    "calling_code": "224",
+    "eea": false
+  },
+  {
+    "name": "Guinea-Bissau",
+    "full_name": "Republic of Guinea-Bissau",
+    "capital": "Bissau",
+    "citizenship": "Guinea-Bissauan",
+    "iso_code": "GW",
+    "iso_numeric": 624,
+    "calling_code": "245",
+    "eea": false
+  },
+  {
+    "name": "Guyana",
+    "full_name": "Co-operative Republic of Guyana",
+    "capital": "Georgetown",
+    "citizenship": "Guyanese",
+    "iso_code": "GY",
+    "iso_numeric": 328,
+    "calling_code": "592",
+    "eea": false
+  },
+  {
+    "name": "Haiti",
+    "full_name": "Republic of Haiti",
+    "capital": "Port-au-Prince",
+    "citizenship": "Haitian",
+    "iso_code": "HT",
+    "iso_numeric": 332,
+    "calling_code": "509",
+    "eea": false
+  },
+  {
+    "name": "Honduras",
+    "full_name": "Republic of Honduras",
+    "capital": "Tegucigalpa",
+    "citizenship": "Honduran",
+    "iso_code": "HN",
+    "iso_numeric": 340,
+    "calling_code": "504",
+    "eea": false
+  },
+  {
+    "name": "Hungary",
+    "full_name": "Hungary",
+    "capital": "Budapest",
+    "citizenship": "Hungarian",
+    "iso_code": "HU",
+    "iso_numeric": 348,
+    "calling_code": "36",
+    "eea": true
+  },
+  {
+    "name": "Iceland",
+    "full_name": "Republic of Iceland",
+    "capital": "Reykjavik",
+    "citizenship": "Icelandic",
+    "iso_code": "IS",
+    "iso_numeric": 352,
+    "calling_code": "354",
+    "eea": true
+  },
+  {
+    "name": "India",
+    "full_name": "Republic of India",
+    "capital": "New Delhi",
+    "citizenship": "Indian",
+    "iso_code": "IN",
+    "iso_numeric": 356,
+    "calling_code": "91",
+    "eea": false
+  },
+  {
+    "name": "Indonesia",
+    "full_name": "Republic of Indonesia",
+    "capital": "Jakarta",
+    "citizenship": "Indonesian",
+    "iso_code": "ID",
+    "iso_numeric": 360,
+    "calling_code": "62",
+    "eea": false
+  },
+  {
+    "name": "Iran",
+    "full_name": "Islamic Republic of Iran",
+    "capital": "Tehran",
+    "citizenship": "Iranian",
+    "iso_code": "IR",
+    "iso_numeric": 364,
+    "calling_code": "98",
+    "eea": false
+  },
+  {
+    "name": "Iraq",
+    "full_name": "Republic of Iraq",
+    "capital": "Baghdad",
+    "citizenship": "Iraqi",
+    "iso_code": "IQ",
+    "iso_numeric": 368,
+    "calling_code": "964",
+    "eea": false
+  },
+  {
+    "name": "Ireland",
+    "full_name": "Ireland",
+    "capital": "Dublin",
+    "citizenship": "Irish",
+    "iso_code": "IE",
+    "iso_numeric": 372,
+    "calling_code": "353",
+    "eea": true
+  },
+  {
+    "name": "Israel",
+    "full_name": "State of Israel",
+    "capital": "Jerusalem",
+    "citizenship": "Israeli",
+    "iso_code": "IL",
+    "iso_numeric": 376,
+    "calling_code": "972",
+    "eea": false
+  },
+  {
+    "name": "Italy",
+    "full_name": "Italian Republic",
+    "capital": "Rome",
+    "citizenship": "Italian",
+    "iso_code": "IT",
+    "iso_numeric": 380,
+    "calling_code": "39",
+    "eea": true
+  },
+  {
+    "name": "Jamaica",
+    "full_name": "Jamaica",
+    "capital": "Kingston",
+    "citizenship": "Jamaican",
+    "iso_code": "JM",
+    "iso_numeric": 388,
+    "calling_code": "1-876",
+    "eea": false
+  },
+  {
+    "name": "Japan",
+    "full_name": "Japan",
+    "capital": "Tokyo",
+    "citizenship": "Japanese",
+    "iso_code": "JP",
+    "iso_numeric": 392,
+    "calling_code": "81",
+    "eea": false
+  },
+  {
+    "name": "Jordan",
+    "full_name": "Hashemite Kingdom of Jordan",
+    "capital": "Amman",
+    "citizenship": "Jordanian",
+    "iso_code": "JO",
+    "iso_numeric": 400,
+    "calling_code": "962",
+    "eea": false
+  },
+  {
+    "name": "Kazakhstan",
+    "full_name": "Republic of Kazakhstan",
+    "capital": "Nur-Sultan",
+    "citizenship": "Kazakh",
+    "iso_code": "KZ",
+    "iso_numeric": 398,
+    "calling_code": "7",
+    "eea": false
+  },
+  {
+    "name": "Kenya",
+    "full_name": "Republic of Kenya",
+    "capital": "Nairobi",
+    "citizenship": "Kenyan",
+    "iso_code": "KE",
+    "iso_numeric": 404,
+    "calling_code": "254",
+    "eea": false
+  },
+  {
+    "name": "Kiribati",
+    "full_name": "Independent and Sovereign Republic of Kiribati",
+    "capital": "South Tarawa",
+    "citizenship": "I-Kiribati",
+    "iso_code": "KI",
+    "iso_numeric": 296,
+    "calling_code": "686",
+    "eea": false
+  },
+  {
+    "name": "Korea, Democratic People's Republic of",
+    "full_name": "Democratic People's Republic of Korea",
+    "capital": "Pyongyang",
+    "citizenship": "North Korean",
+    "iso_code": "KP",
+    "iso_numeric": 408,
+    "calling_code": "850",
+    "eea": false
+  },
+  {
+    "name": "Korea, Republic of",
+    "full_name": "Republic of Korea",
+    "capital": "Seoul",
+    "citizenship": "South Korean",
+    "iso_code": "KR",
+    "iso_numeric": 410,
+    "calling_code": "82",
+    "eea": false
+  },
+  {
+    "name": "Kuwait",
+    "full_name": "State of Kuwait",
+    "capital": "Kuwait City",
+    "citizenship": "Kuwaiti",
+    "iso_code": "KW",
+    "iso_numeric": 414,
+    "calling_code": "965",
+    "eea": false
+  },
+  {
+    "name": "Kyrgyzstan",
+    "full_name": "Kyrgyz Republic",
+    "capital": "Bishkek",
+    "citizenship": "Kyrgyz",
+    "iso_code": "KG",
+    "iso_numeric": 417,
+    "calling_code": "996",
+    "eea": false
+  },
+  {
+    "name": "Laos",
+    "full_name": "Lao People's Democratic Republic",
+    "capital": "Vientiane",
+    "citizenship": "Laotian",
+    "iso_code": "LA",
+    "iso_numeric": 418,
+    "calling_code": "856",
+    "eea": false
+  },
+  {
+    "name": "Latvia",
+    "full_name": "Republic of Latvia",
+    "capital": "Riga",
+    "citizenship": "Latvian",
+    "iso_code": "LV",
+    "iso_numeric": 428,
+    "calling_code": "371",
+    "eea": true
+  },
+  {
+    "name": "Lebanon",
+    "full_name": "Lebanese Republic",
+    "capital": "Beirut",
+    "citizenship": "Lebanese",
+    "iso_code": "LB",
+    "iso_numeric": 422,
+    "calling_code": "961",
+    "eea": false
+  },
+  {
+    "name": "Lesotho",
+    "full_name": "Kingdom of Lesotho",
+    "capital": "Maseru",
+    "citizenship": "Mosotho",
+    "iso_code": "LS",
+    "iso_numeric": 426,
+    "calling_code": "266",
+    "eea": false
+  },
+  {
+    "name": "Liberia",
+    "full_name": "Republic of Liberia",
+    "capital": "Monrovia",
+    "citizenship": "Liberian",
+    "iso_code": "LR",
+    "iso_numeric": 430,
+    "calling_code": "231",
+    "eea": false
+  },
+  {
+    "name": "Libya",
+    "full_name": "State of Libya",
+    "capital": "Tripoli",
+    "citizenship": "Libyan",
+    "iso_code": "LY",
+    "iso_numeric": 434,
+    "calling_code": "218",
+    "eea": false
+  },
+  {
+    "name": "Liechtenstein",
+    "full_name": "Principality of Liechtenstein",
+    "capital": "Vaduz",
+    "citizenship": "Liechtenstein citizen",
+    "iso_code": "LI",
+    "iso_numeric": 438,
+    "calling_code": "423",
+    "eea": true
+  },
+  {
+    "name": "Lithuania",
+    "full_name": "Republic of Lithuania",
+    "capital": "Vilnius",
+    "citizenship": "Lithuanian",
+    "iso_code": "LT",
+    "iso_numeric": 440,
+    "calling_code": "370",
+    "eea": true
+  },
+  {
+    "name": "Luxembourg",
+    "full_name": "Grand Duchy of Luxembourg",
+    "capital": "Luxembourg",
+    "citizenship": "Luxembourger",
+    "iso_code": "LU",
+    "iso_numeric": 442,
+    "calling_code": "352",
+    "eea": true
+  },
+  {
+    "name": "Madagascar",
+    "full_name": "Republic of Madagascar",
+    "capital": "Antananarivo",
+    "citizenship": "Malagasy",
+    "iso_code": "MG",
+    "iso_numeric": 450,
+    "calling_code": "261",
+    "eea": false
+  },
+  {
+    "name": "Malawi",
+    "full_name": "Republic of Malawi",
+    "capital": "Lilongwe",
+    "citizenship": "Malawian",
+    "iso_code": "MW",
+    "iso_numeric": 454,
+    "calling_code": "265",
+    "eea": false
+  },
+  {
+    "name": "Malaysia",
+    "full_name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "citizenship": "Malaysian",
+    "iso_code": "MY",
+    "iso_numeric": 458,
+    "calling_code": "60",
+    "eea": false
+  },
+  {
+    "name": "Maldives",
+    "full_name": "Republic of Maldives",
+    "capital": "Male",
+    "citizenship": "Maldivian",
+    "iso_code": "MV",
+    "iso_numeric": 462,
+    "calling_code": "960",
+    "eea": false
+  },
+  {
+    "name": "Mali",
+    "full_name": "Republic of Mali",
+    "capital": "Bamako",
+    "citizenship": "Malian",
+    "iso_code": "ML",
+    "iso_numeric": 466,
+    "calling_code": "223",
+    "eea": false
+  },
+  {
+    "name": "Malta",
+    "full_name": "Republic of Malta",
+    "capital": "Valletta",
+    "citizenship": "Maltese",
+    "iso_code": "MT",
+    "iso_numeric": 470,
+    "calling_code": "356",
+    "eea": true
+  },
+  {
+    "name": "Marshall Islands",
+    "full_name": "Republic of the Marshall Islands",
+    "capital": "Majuro",
+    "citizenship": "Marshallese",
+    "iso_code": "MH",
+    "iso_numeric": 584,
+    "calling_code": "692",
+    "eea": false
+  },
+  {
+    "name": "Mauritania",
+    "full_name": "Islamic Republic of Mauritania",
+    "capital": "Nouakchott",
+    "citizenship": "Mauritanian",
+    "iso_code": "MR",
+    "iso_numeric": 478,
+    "calling_code": "222",
+    "eea": false
+  },
+  {
+    "name": "Mauritius",
+    "full_name": "Republic of Mauritius",
+    "capital": "Port Louis",
+    "citizenship": "Mauritian",
+    "iso_code": "MU",
+    "iso_numeric": 480,
+    "calling_code": "230",
+    "eea": false
+  },
+  {
+    "name": "Mexico",
+    "full_name": "United Mexican States",
+    "capital": "Mexico City",
+    "citizenship": "Mexican",
+    "iso_code": "MX",
+    "iso_numeric": 484,
+    "calling_code": "52",
+    "eea": false
+  },
+  {
+    "name": "Micronesia",
+    "full_name": "Federated States of Micronesia",
+    "capital": "Palikir",
+    "citizenship": "Micronesian",
+    "iso_code": "FM",
+    "iso_numeric": 583,
+    "calling_code": "691",
+    "eea": false
+  },
+  {
+    "name": "Moldova",
+    "full_name": "Republic of Moldova",
+    "capital": "Chisinau",
+    "citizenship": "Moldovan",
+    "iso_code": "MD",
+    "iso_numeric": 498,
+    "calling_code": "373",
+    "eea": false
+  },
+  {
+    "name": "Monaco",
+    "full_name": "Principality of Monaco",
+    "capital": "Monaco",
+    "citizenship": "Monegasque",
+    "iso_code": "MC",
+    "iso_numeric": 492,
+    "calling_code": "377",
+    "eea": false
+  },
+  {
+    "name": "Mongolia",
+    "full_name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "citizenship": "Mongolian",
+    "iso_code": "MN",
+    "iso_numeric": 496,
+    "calling_code": "976",
+    "eea": false
+  },
+  {
+    "name": "Montenegro",
+    "full_name": "Montenegro",
+    "capital": "Podgorica",
+    "citizenship": "Montenegrin",
+    "iso_code": "ME",
+    "iso_numeric": 499,
+    "calling_code": "382",
+    "eea": false
+  },
+  {
+    "name": "Morocco",
+    "full_name": "Kingdom of Morocco",
+    "capital": "Rabat",
+    "citizenship": "Moroccan",
+    "iso_code": "MA",
+    "iso_numeric": 504,
+    "calling_code": "212",
+    "eea": false
+  },
+  {
+    "name": "Mozambique",
+    "full_name": "Republic of Mozambique",
+    "capital": "Maputo",
+    "citizenship": "Mozambican",
+    "iso_code": "MZ",
+    "iso_numeric": 508,
+    "calling_code": "258",
+    "eea": false
+  },
+  {
+    "name": "Myanmar",
+    "full_name": "Republic of the Union of Myanmar",
+    "capital": "Nay Pyi Taw",
+    "citizenship": "Myanmar",
+    "iso_code": "MM",
+    "iso_numeric": 104,
+    "calling_code": "95",
+    "eea": false
+  },
+  {
+    "name": "Namibia",
+    "full_name": "Republic of Namibia",
+    "capital": "Windhoek",
+    "citizenship": "Namibian",
+    "iso_code": "NA",
+    "iso_numeric": 516,
+    "calling_code": "264",
+    "eea": false
+  },
+  {
+    "name": "Nauru",
+    "full_name": "Republic of Nauru",
+    "capital": "Yaren",
+    "citizenship": "Nauruan",
+    "iso_code": "NR",
+    "iso_numeric": 520,
+    "calling_code": "674",
+    "eea": false
+  },
+  {
+    "name": "Nepal",
+    "full_name": "Federal Democratic Republic of Nepal",
+    "capital": "Kathmandu",
+    "citizenship": "Nepalese",
+    "iso_code": "NP",
+    "iso_numeric": 524,
+    "calling_code": "977",
+    "eea": false
+  },
+  {
+    "name": "Netherlands",
+    "full_name": "Kingdom of the Netherlands",
+    "capital": "Amsterdam",
+    "citizenship": "Dutch",
+    "iso_code": "NL",
+    "iso_numeric": 528,
+    "calling_code": "31",
+    "eea": true
+  },
+  {
+    "name": "New Zealand",
+    "full_name": "New Zealand",
+    "capital": "Wellington",
+    "citizenship": "New Zealand citizen",
+    "iso_code": "NZ",
+    "iso_numeric": 554,
+    "calling_code": "64",
+    "eea": false
+  },
+  {
+    "name": "Nicaragua",
+    "full_name": "Republic of Nicaragua",
+    "capital": "Managua",
+    "citizenship": "Nicaraguan",
+    "iso_code": "NI",
+    "iso_numeric": 558,
+    "calling_code": "505",
+    "eea": false
+  },
+  {
+    "name": "Niger",
+    "full_name": "Republic of Niger",
+    "capital": "Niamey",
+    "citizenship": "Nigerien",
+    "iso_code": "NE",
+    "iso_numeric": 562,
+    "calling_code": "227",
+    "eea": false
+  },
+  {
+    "name": "Nigeria",
+    "full_name": "Federal Republic of Nigeria",
+    "capital": "Abuja",
+    "citizenship": "Nigerian",
+    "iso_code": "NG",
+    "iso_numeric": 566,
+    "calling_code": "234",
+    "eea": false
+  },
+  {
+    "name": "North Macedonia",
+    "full_name": "Republic of North Macedonia",
+    "capital": "Skopje",
+    "citizenship": "Macedonian",
+    "iso_code": "MK",
+    "iso_numeric": 807,
+    "calling_code": "389",
+    "eea": false
+  },
+  {
+    "name": "Norway",
+    "full_name": "Kingdom of Norway",
+    "capital": "Oslo",
+    "citizenship": "Norwegian",
+    "iso_code": "NO",
+    "iso_numeric": 578,
+    "calling_code": "47",
+    "eea": true
+  },
+  {
+    "name": "Oman",
+    "full_name": "Sultanate of Oman",
+    "capital": "Muscat",
+    "citizenship": "Omani",
+    "iso_code": "OM",
+    "iso_numeric": 512,
+    "calling_code": "968",
+    "eea": false
+  },
+  {
+    "name": "Pakistan",
+    "full_name": "Islamic Republic of Pakistan",
+    "capital": "Islamabad",
+    "citizenship": "Pakistani",
+    "iso_code": "PK",
+    "iso_numeric": 586,
+    "calling_code": "92",
+    "eea": false
+  },
+  {
+    "name": "Palau",
+    "full_name": "Republic of Palau",
+    "capital": "Ngerulmud",
+    "citizenship": "Palauan",
+    "iso_code": "PW",
+    "iso_numeric": 585,
+    "calling_code": "680",
+    "eea": false
+  },
+  {
+    "name": "Palestine",
+    "full_name": "State of Palestine",
+    "capital": "Jerusalem",
+    "citizenship": "Palestinian",
+    "iso_code": "PS",
+    "iso_numeric": 275,
+    "calling_code": "970",
+    "eea": false
+  },
+  {
+    "name": "Panama",
+    "full_name": "Republic of Panama",
+    "capital": "Panama City",
+    "citizenship": "Panamanian",
+    "iso_code": "PA",
+    "iso_numeric": 591,
+    "calling_code": "507",
+    "eea": false
+  },
+  {
+    "name": "Papua New Guinea",
+    "full_name": "Independent State of Papua New Guinea",
+    "capital": "Port Moresby",
+    "citizenship": "Papua New Guinean",
+    "iso_code": "PG",
+    "iso_numeric": 598,
+    "calling_code": "675",
+    "eea": false
+  },
+  {
+    "name": "Paraguay",
+    "full_name": "Republic of Paraguay",
+    "capital": "Asuncion",
+    "citizenship": "Paraguayan",
+    "iso_code": "PY",
+    "iso_numeric": 600,
+    "calling_code": "595",
+    "eea": false
+  },
+  {
+    "name": "Peru",
+    "full_name": "Republic of Peru",
+    "capital": "Lima",
+    "citizenship": "Peruvian",
+    "iso_code": "PE",
+    "iso_numeric": 604,
+    "calling_code": "51",
+    "eea": false
+  },
+  {
+    "name": "Philippines",
+    "full_name": "Republic of the Philippines",
+    "capital": "Manila",
+    "citizenship": "Philippine",
+    "iso_code": "PH",
+    "iso_numeric": 608,
+    "calling_code": "63",
+    "eea": false
+  },
+  {
+    "name": "Poland",
+    "full_name": "Republic of Poland",
+    "capital": "Warsaw",
+    "citizenship": "Polish",
+    "iso_code": "PL",
+    "iso_numeric": 616,
+    "calling_code": "48",
+    "eea": true
+  },
+  {
+    "name": "Portugal",
+    "full_name": "Portuguese Republic",
+    "capital": "Lisbon",
+    "citizenship": "Portuguese",
+    "iso_code": "PT",
+    "iso_numeric": 620,
+    "calling_code": "351",
+    "eea": true
+  },
+  {
+    "name": "Qatar",
+    "full_name": "State of Qatar",
+    "capital": "Doha",
+    "citizenship": "Qatari",
+    "iso_code": "QA",
+    "iso_numeric": 634,
+    "calling_code": "974",
+    "eea": false
+  },
+  {
+    "name": "Romania",
+    "full_name": "Romania",
+    "capital": "Bucharest",
+    "citizenship": "Romanian",
+    "iso_code": "RO",
+    "iso_numeric": 642,
+    "calling_code": "40",
+    "eea": true
+  },
+  {
+    "name": "Russian Federation",
+    "full_name": "Russian Federation",
+    "capital": "Moscow",
+    "citizenship": "Russian",
+    "iso_code": "RU",
+    "iso_numeric": 643,
+    "calling_code": "7",
+    "eea": false
+  },
+  {
+    "name": "Rwanda",
+    "full_name": "Republic of Rwanda",
+    "capital": "Kigali",
+    "citizenship": "Rwandan",
+    "iso_code": "RW",
+    "iso_numeric": 646,
+    "calling_code": "250",
+    "eea": false
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "full_name": "Federation of Saint Christopher and Nevis",
+    "capital": "Basseterre",
+    "citizenship": "Kittitian",
+    "iso_code": "KN",
+    "iso_numeric": 659,
+    "calling_code": "1-869",
+    "eea": false
+  },
+  {
+    "name": "Saint Lucia",
+    "full_name": "Saint Lucia",
+    "capital": "Castries",
+    "citizenship": "Saint Lucian",
+    "iso_code": "LC",
+    "iso_numeric": 662,
+    "calling_code": "1-758",
+    "eea": false
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "full_name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "citizenship": "Saint Vincentian",
+    "iso_code": "VC",
+    "iso_numeric": 670,
+    "calling_code": "1-784",
+    "eea": false
+  },
+  {
+    "name": "Samoa",
+    "full_name": "Independent State of Samoa",
+    "capital": "Apia",
+    "citizenship": "Samoan",
+    "iso_code": "WS",
+    "iso_numeric": 882,
+    "calling_code": "685",
+    "eea": false
+  },
+  {
+    "name": "San Marino",
+    "full_name": "Republic of San Marino",
+    "capital": "San Marino",
+    "citizenship": "San Marinese",
+    "iso_code": "SM",
+    "iso_numeric": 674,
+    "calling_code": "378",
+    "eea": false
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "full_name": "Democratic Republic of Sao Tome and Principe",
+    "capital": "Sao Tome",
+    "citizenship": "Sao Tomean",
+    "iso_code": "ST",
+    "iso_numeric": 678,
+    "calling_code": "239",
+    "eea": false
+  },
+  {
+    "name": "Saudi Arabia",
+    "full_name": "Kingdom of Saudi Arabia",
+    "capital": "Riyadh",
+    "citizenship": "Saudi Arabian",
+    "iso_code": "SA",
+    "iso_numeric": 682,
+    "calling_code": "966",
+    "eea": false
+  },
+  {
+    "name": "Senegal",
+    "full_name": "Republic of Senegal",
+    "capital": "Dakar",
+    "citizenship": "Senegalese",
+    "iso_code": "SN",
+    "iso_numeric": 686,
+    "calling_code": "221",
+    "eea": false
+  },
+  {
+    "name": "Serbia",
+    "full_name": "Republic of Serbia",
+    "capital": "Belgrade",
+    "citizenship": "Serbian",
+    "iso_code": "RS",
+    "iso_numeric": 688,
+    "calling_code": "381",
+    "eea": false
+  },
+  {
+    "name": "Seychelles",
+    "full_name": "Republic of Seychelles",
+    "capital": "Victoria",
+    "citizenship": "Seychellois",
+    "iso_code": "SC",
+    "iso_numeric": 690,
+    "calling_code": "248",
+    "eea": false
+  },
+  {
+    "name": "Sierra Leone",
+    "full_name": "Republic of Sierra Leone",
+    "capital": "Freetown",
+    "citizenship": "Sierra Leonean",
+    "iso_code": "SL",
+    "iso_numeric": 694,
+    "calling_code": "232",
+    "eea": false
+  },
+  {
+    "name": "Singapore",
+    "full_name": "Republic of Singapore",
+    "capital": "Singapore",
+    "citizenship": "Singaporean",
+    "iso_code": "SG",
+    "iso_numeric": 702,
+    "calling_code": "65",
+    "eea": false
+  },
+  {
+    "name": "Slovakia",
+    "full_name": "Slovak Republic",
+    "capital": "Bratislava",
+    "citizenship": "Slovak",
+    "iso_code": "SK",
+    "iso_numeric": 703,
+    "calling_code": "421",
+    "eea": true
+  },
+  {
+    "name": "Slovenia",
+    "full_name": "Republic of Slovenia",
+    "capital": "Ljubljana",
+    "citizenship": "Slovene",
+    "iso_code": "SI",
+    "iso_numeric": 705,
+    "calling_code": "386",
+    "eea": true
+  },
+  {
+    "name": "Solomon Islands",
+    "full_name": "Solomon Islands",
+    "capital": "Honiara",
+    "citizenship": "Solomon Islander",
+    "iso_code": "SB",
+    "iso_numeric": 90,
+    "calling_code": "677",
+    "eea": false
+  },
+  {
+    "name": "Somalia",
+    "full_name": "Federal Republic of Somalia",
+    "capital": "Mogadishu",
+    "citizenship": "Somali",
+    "iso_code": "SO",
+    "iso_numeric": 706,
+    "calling_code": "252",
+    "eea": false
+  },
+  {
+    "name": "South Africa",
+    "full_name": "Republic of South Africa",
+    "capital": "Pretoria",
+    "citizenship": "South African",
+    "iso_code": "ZA",
+    "iso_numeric": 710,
+    "calling_code": "27",
+    "eea": false
+  },
+  {
+    "name": "South Sudan",
+    "full_name": "Republic of South Sudan",
+    "capital": "Juba",
+    "citizenship": "South Sudanese",
+    "iso_code": "SS",
+    "iso_numeric": 728,
+    "calling_code": "211",
+    "eea": false
+  },
+  {
+    "name": "Spain",
+    "full_name": "Kingdom of Spain",
+    "capital": "Madrid",
+    "citizenship": "Spanish",
+    "iso_code": "ES",
+    "iso_numeric": 724,
+    "calling_code": "34",
+    "eea": true
+  },
+  {
+    "name": "Sri Lanka",
+    "full_name": "Democratic Socialist Republic of Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "citizenship": "Sri Lankan",
+    "iso_code": "LK",
+    "iso_numeric": 144,
+    "calling_code": "94",
+    "eea": false
+  },
+  {
+    "name": "Sudan",
+    "full_name": "Republic of the Sudan",
+    "capital": "Khartoum",
+    "citizenship": "Sudanese",
+    "iso_code": "SD",
+    "iso_numeric": 729,
+    "calling_code": "249",
+    "eea": false
+  },
+  {
+    "name": "Suriname",
+    "full_name": "Republic of Suriname",
+    "capital": "Paramaribo",
+    "citizenship": "Surinamese",
+    "iso_code": "SR",
+    "iso_numeric": 740,
+    "calling_code": "597",
+    "eea": false
+  },
+  {
+    "name": "Sweden",
+    "full_name": "Kingdom of Sweden",
+    "capital": "Stockholm",
+    "citizenship": "Swedish",
+    "iso_code": "SE",
+    "iso_numeric": 752,
+    "calling_code": "46",
+    "eea": true
+  },
+  {
+    "name": "Switzerland",
+    "full_name": "Swiss Confederation",
+    "capital": "Bern",
+    "citizenship": "Swiss",
+    "iso_code": "CH",
+    "iso_numeric": 756,
+    "calling_code": "41",
+    "eea": false
+  },
+  {
+    "name": "Syria",
+    "full_name": "Syrian Arab Republic",
+    "capital": "Damascus",
+    "citizenship": "Syrian",
+    "iso_code": "SY",
+    "iso_numeric": 760,
+    "calling_code": "963",
+    "eea": false
+  },
+  {
+    "name": "Taiwan",
+    "full_name": "Republic of China (Taiwan)",
+    "capital": "Taipei",
+    "citizenship": "Taiwanese",
+    "iso_code": "TW",
+    "iso_numeric": 158,
+    "calling_code": "886",
+    "eea": false
+  },
+  {
+    "name": "Tajikistan",
+    "full_name": "Republic of Tajikistan",
+    "capital": "Dushanbe",
+    "citizenship": "Tajikistani",
+    "iso_code": "TJ",
+    "iso_numeric": 762,
+    "calling_code": "992",
+    "eea": false
+  },
+  {
+    "name": "Tanzania",
+    "full_name": "United Republic of Tanzania",
+    "capital": "Dodoma",
+    "citizenship": "Tanzanian",
+    "iso_code": "TZ",
+    "iso_numeric": 834,
+    "calling_code": "255",
+    "eea": false
+  },
+  {
+    "name": "Thailand",
+    "full_name": "Kingdom of Thailand",
+    "capital": "Bangkok",
+    "citizenship": "Thai",
+    "iso_code": "TH",
+    "iso_numeric": 764,
+    "calling_code": "66",
+    "eea": false
+  },
+  {
+    "name": "Togo",
+    "full_name": "Togolese Republic",
+    "capital": "Lome",
+    "citizenship": "Togolese",
+    "iso_code": "TG",
+    "iso_numeric": 768,
+    "calling_code": "228",
+    "eea": false
+  },
+  {
+    "name": "Tonga",
+    "full_name": "Kingdom of Tonga",
+    "capital": "Nuku'alofa",
+    "citizenship": "Tongan",
+    "iso_code": "TO",
+    "iso_numeric": 776,
+    "calling_code": "676",
+    "eea": false
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "full_name": "Republic of Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "citizenship": "Trinidadian",
+    "iso_code": "TT",
+    "iso_numeric": 780,
+    "calling_code": "1-868",
+    "eea": false
+  },
+  {
+    "name": "Tunisia",
+    "full_name": "Republic of Tunisia",
+    "capital": "Tunis",
+    "citizenship": "Tunisian",
+    "iso_code": "TN",
+    "iso_numeric": 788,
+    "calling_code": "216",
+    "eea": false
+  },
+  {
+    "name": "Turkey",
+    "full_name": "Republic of Turkey",
+    "capital": "Ankara",
+    "citizenship": "Turkish",
+    "iso_code": "TR",
+    "iso_numeric": 792,
+    "calling_code": "90",
+    "eea": false
+  },
+  {
+    "name": "Turkmenistan",
+    "full_name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "citizenship": "Turkmen",
+    "iso_code": "TM",
+    "iso_numeric": 795,
+    "calling_code": "993",
+    "eea": false
+  },
+  {
+    "name": "Tuvalu",
+    "full_name": "Tuvalu",
+    "capital": "Funafuti",
+    "citizenship": "Tuvaluan",
+    "iso_code": "TV",
+    "iso_numeric": 798,
+    "calling_code": "688",
+    "eea": false
+  },
+  {
+    "name": "Uganda",
+    "full_name": "Republic of Uganda",
+    "capital": "Kampala",
+    "citizenship": "Ugandan",
+    "iso_code": "UG",
+    "iso_numeric": 800,
+    "calling_code": "256",
+    "eea": false
+  },
+  {
+    "name": "Ukraine",
+    "full_name": "Ukraine",
+    "capital": "Kyiv",
+    "citizenship": "Ukrainian",
+    "iso_code": "UA",
+    "iso_numeric": 804,
+    "calling_code": "380",
+    "eea": false
+  },
+  {
+    "name": "United Arab Emirates",
+    "full_name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "citizenship": "Emirati",
+    "iso_code": "AE",
+    "iso_numeric": 784,
+    "calling_code": "971",
+    "eea": false
+  },
+  {
+    "name": "United Kingdom",
+    "full_name": "United Kingdom of Great Britain and Northern Ireland",
+    "capital": "London",
+    "citizenship": "British",
+    "iso_code": "GB",
+    "iso_numeric": 826,
+    "calling_code": "44",
+    "eea": true
+  },
+  {
+    "name": "United States of America",
+    "full_name": "United States of America",
+    "capital": "Washington, D.C.",
+    "citizenship": "American",
+    "iso_code": "US",
+    "iso_numeric": 840,
+    "calling_code": "1",
+    "eea": false
+  },
+  {
+    "name": "Uruguay",
+    "full_name": "Eastern Republic of Uruguay",
+    "capital": "Montevideo",
+    "citizenship": "Uruguayan",
+    "iso_code": "UY",
+    "iso_numeric": 858,
+    "calling_code": "598",
+    "eea": false
+  },
+  {
+    "name": "Uzbekistan",
+    "full_name": "Republic of Uzbekistan",
+    "capital": "Tashkent",
+    "citizenship": "Uzbekistani",
+    "iso_code": "UZ",
+    "iso_numeric": 860,
+    "calling_code": "998",
+    "eea": false
+  },
+  {
+    "name": "Vanuatu",
+    "full_name": "Republic of Vanuatu",
+    "capital": "Port Vila",
+    "citizenship": "Vanuatuan",
+    "iso_code": "VU",
+    "iso_numeric": 548,
+    "calling_code": "678",
+    "eea": false
+  },
+  {
+    "name": "Venezuela",
+    "full_name": "Bolivarian Republic of Venezuela",
+    "capital": "Caracas",
+    "citizenship": "Venezuelan",
+    "iso_code": "VE",
+    "iso_numeric": 862,
+    "calling_code": "58",
+    "eea": false
+  },
+  {
+    "name": "Vietnam",
+    "full_name": "Socialist Republic of Vietnam",
+    "capital": "Hanoi",
+    "citizenship": "Vietnamese",
+    "iso_code": "VN",
+    "iso_numeric": 704,
+    "calling_code": "84",
+    "eea": false
+  },
+  {
+    "name": "Yemen",
+    "full_name": "Republic of Yemen",
+    "capital": "Sana'a",
+    "citizenship": "Yemeni",
+    "iso_code": "YE",
+    "iso_numeric": 887,
+    "calling_code": "967",
+    "eea": false
+  },
+  {
+    "name": "Zambia",
+    "full_name": "Republic of Zambia",
+    "capital": "Lusaka",
+    "citizenship": "Zambian",
+    "iso_code": "ZM",
+    "iso_numeric": 894,
+    "calling_code": "260",
+    "eea": false
+  },
+  {
+    "name": "Zimbabwe",
+    "full_name": "Republic of Zimbabwe",
+    "capital": "Harare",
+    "citizenship": "Zimbabwean",
+    "iso_code": "ZW",
+    "iso_numeric": 716,
+    "calling_code": "263",
+    "eea": false
+  }
+]

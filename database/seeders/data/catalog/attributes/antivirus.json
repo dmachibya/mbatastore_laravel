@@ -1,0 +1,10 @@
+{
+  "License Type": [
+    "Single Device",
+    "Multiple Devices",
+    "Family Plan",
+    "Subscription"
+  ],
+  "Supported Platforms": ["Windows", "macOS", "Android", "iOS"],
+  "Support Duration": ["1 Year", "2 Years", "3 Years", "Lifetime"]
+}

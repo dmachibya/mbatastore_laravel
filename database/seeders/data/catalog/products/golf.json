@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Callaway Epic Speed Driver",
+    "slug": "callaway-epic-speed-driver",
+    "brand": "Callaway",
+    "model_number": "4A5405201",
+    "mpn": "4A5405201",
+    "gtin": "0884885634772",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Callaway",
+    "description": "The Callaway Epic Speed Driver is engineered to provide unmatched distance and forgiveness on the golf course. With a revolutionary Speed Frame technology and a large 460cc clubhead, this driver offers optimal aerodynamics and high ball speeds. The adjustable weighting system allows players to fine-tune their launch conditions for maximum performance. Featuring a premium, lightweight design with a sleek green and black finish, the Epic Speed Driver is designed for golfers who want to elevate their game and achieve longer, straighter drives. Perfect for both amateur and professional golfers looking for a high-performance driver."
+  },
+  {
+    "name": "Titleist Pro V1 Golf Balls",
+    "slug": "titleist-pro-v1-golf-balls",
+    "brand": "Titleist",
+    "model_number": "TP5V1",
+    "mpn": "TP5V1",
+    "gtin": "0649781312646",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Titleist",
+    "description": "Titleist Pro V1 Golf Balls are the gold standard for premium performance on the golf course. Engineered for tour-level performance, these balls feature a soft cast urethane cover, a high-speed core, and a precise aerodynamic design. The Pro V1 Golf Balls offer exceptional distance, consistent flight, and a soft feel for short game control. Ideal for golfers seeking the ultimate in performance and feel, these balls deliver superior spin control, exceptional durability, and a premium playing experience. Whether you’re on the fairway or the green, the Pro V1 balls are designed to help you play your best game."
+  }
+]

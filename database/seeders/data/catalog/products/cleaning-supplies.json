@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Meguiar's Ultimate Wash & Wax",
+    "slug": "meguiars-ultimate-wash-wax",
+    "brand": "Meguiar's",
+    "model_number": "G7101",
+    "mpn": "G7101",
+    "gtin": "070382001272",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Meguiar's Inc.",
+    "description": "Meguiar's Ultimate Wash & Wax is the perfect car cleaning solution for achieving a brilliant shine and thorough clean. This premium car wash soap is formulated with advanced polymers and a rich foam that lifts and removes dirt, grime, and contaminants from your vehicle’s surface without scratching. It also leaves a layer of protective wax to help maintain your car’s shine and protect against the elements. Safe for all types of paint finishes, this wash and wax formula is pH-balanced and gentle on your vehicle’s clear coat. With a luxurious lather and high-quality results, Meguiar's Ultimate Wash & Wax ensures your car looks showroom-ready every time."
+  },
+  {
+    "name": "Chemical Guys Honeydew Snow Foam",
+    "slug": "chemical-guys-honeydew-snow-foam",
+    "brand": "Chemical Guys",
+    "model_number": "CWS_110_16",
+    "mpn": "CWS_110_16",
+    "gtin": "816276020879",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Chemical Guys",
+    "description": "Chemical Guys Honeydew Snow Foam is a high-performance car wash foam designed to deliver a superior clean and protect your vehicle’s paint. This snow foam formula generates thick, dense foam that clings to the surface of your vehicle, loosening and lifting dirt, grime, and road contaminants. Infused with honeydew and citrus extracts, it provides a fresh, pleasant scent and a gentle, effective cleaning action that is safe for all paint finishes. The concentrated formula is highly foaming, allowing for a touchless wash that reduces the risk of scratching and swirl marks. Ideal for use with foam cannons or pressure washers, Chemical Guys Honeydew Snow Foam helps you achieve a professional-grade clean at home."
+  }
+]

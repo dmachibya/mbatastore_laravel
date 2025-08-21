@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Strengthening Shampoo for Damaged Hair - Repair & Restore by HairRevive",
+    "slug": "strengthening-shampoo-for-damaged-hair-repair-restore",
+    "sku": "SH-HR-2024-01",
+    "description": "Revitalize damaged hair with HairRevive Strengthening Shampoo. Formulated with keratin, biotin, and natural proteins, this shampoo repairs and strengthens hair from root to tip. It provides a gentle cleanse while replenishing moisture and reducing breakage, making it ideal for damaged and over-processed hair. Experience the transformative effects of this repairing shampoo that restores health and vitality to your locks.",
+    "price": 22.99,
+    "offer_price": 18.99,
+    "key_features": [
+      "Strengthens and repairs damaged hair",
+      "Infused with keratin, biotin, and natural proteins",
+      "Gently cleanses and replenishes moisture",
+      "Ideal for damaged and over-processed hair"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 12,
+    "shipping_weight": 0.5,
+    "meta_title": "Strengthening Shampoo for Damaged Hair - Repair & Restore by HairRevive",
+    "meta_description": "Buy Strengthening Shampoo for Damaged Hair by HairRevive. This shampoo repairs and restores hair with keratin and biotin for healthier, stronger locks. Ideal for damaged hair."
+  },
+  {
+    "title": "Strengthening Shampoo for Damaged Hair - Repair & Restore - Large Size",
+    "slug": "strengthening-shampoo-for-damaged-hair-repair-restore-large",
+    "sku": "SH-HR-2024-02",
+    "description": "Get more of HairRevive’s Strengthening Shampoo for Damaged Hair with this large size option. This powerful shampoo is formulated with keratin, biotin, and natural proteins to repair and restore damaged hair. It provides a gentle cleanse while replenishing moisture and reducing breakage, ideal for those with damaged or over-processed hair. This large size offers great value and is perfect for extended use or for the whole family.",
+    "price": 39.99,
+    "offer_price": 32.99,
+    "key_features": [
+      "Large size for extended use",
+      "Repairs and strengthens damaged hair",
+      "Formulated with keratin, biotin, and natural proteins",
+      "Gentle, effective cleanse for healthy hair"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 6,
+    "shipping_weight": 0.7,
+    "meta_title": "Strengthening Shampoo for Damaged Hair - Repair & Restore - Large Size",
+    "meta_description": "Buy Strengthening Shampoo for Damaged Hair in large size by HairRevive. This repairing shampoo with keratin and biotin strengthens and restores damaged hair for healthier locks."
+  }
+]

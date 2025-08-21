@@ -1,0 +1,5 @@
+{
+  "Version": ["Desktop", "Server", "Cloud", "Enterprise"],
+  "Desktop Environment": ["GNOME", "KDE Plasma", "Xfce", "Cinnamon"],
+  "Support Duration": ["1 Year", "2 Years", "5 Years", "Rolling Release"]
+}

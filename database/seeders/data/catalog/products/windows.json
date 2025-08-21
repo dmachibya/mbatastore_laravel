@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Windows 11 Pro",
+    "slug": "windows-11-pro",
+    "brand": "Microsoft",
+    "model_number": "KW9-00258",
+    "mpn": "KW9-00258",
+    "gtin": "885370501161",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Microsoft Corporation",
+    "description": "Windows 11 Pro is the latest operating system from Microsoft, designed for modern PCs and business environments. It offers a sleek, user-friendly interface with advanced features and improvements over previous versions. Windows 11 Pro includes a redesigned Start Menu, virtual desktops, and enhanced performance with support for the latest hardware advancements. It also offers robust security features including BitLocker encryption, advanced Windows Defender protections, and a new focus on productivity with features like Snap Layouts and Widgets. Ideal for professionals and businesses seeking a cutting-edge and secure computing environment."
+  },
+  {
+    "name": "Windows 10 Home",
+    "slug": "windows-10-home",
+    "brand": "Microsoft",
+    "model_number": "FQC-08929",
+    "mpn": "FQC-08929",
+    "gtin": "889842047251",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Microsoft Corporation",
+    "description": "Windows 10 Home is the popular and user-friendly operating system from Microsoft designed for everyday use on personal PCs and laptops. It offers a range of features designed to enhance your computing experience, including the Cortana digital assistant, the Edge browser for improved web browsing, and the Start Menu with Live Tiles. Windows 10 Home provides seamless integration with Microsoft services like OneDrive and Office 365, and supports the latest software and hardware technologies. It is the perfect choice for home users seeking a reliable and intuitive operating system for their devices."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Catan Board Game",
+    "slug": "catan-board-game",
+    "brand": "Catan Studio",
+    "model_number": "CAT-2017",
+    "mpn": "CAT-2017",
+    "gtin": "029877030319",
+    "gtin_type": "UPC",
+    "origin_country": "Germany",
+    "manufacturer": "Catan Studio",
+    "description": "Catan is a classic strategy board game where players compete to build and develop their settlements on the island of Catan. The game is known for its engaging gameplay and strategic depth, where players collect resources such as wood, brick, sheep, wheat, and ore to build roads, settlements, and cities. With each turn, players can trade resources, build structures, and develop their strategies to achieve the highest victory points. The game's modular board setup ensures that no two games are the same, offering endless replayability and challenge. Catan is perfect for family game nights, gatherings with friends, and strategic game enthusiasts. It is recommended for 3-4 players aged 10 and up and offers an average playtime of 60-90 minutes."
+  },
+  {
+    "name": "Ticket to Ride Board Game",
+    "slug": "ticket-to-ride-board-game",
+    "brand": "Days of Wonder",
+    "model_number": "DOW-7201",
+    "mpn": "DOW-7201",
+    "gtin": "824968072014",
+    "gtin_type": "UPC",
+    "origin_country": "France",
+    "manufacturer": "Days of Wonder",
+    "description": "Ticket to Ride is a popular and strategic board game where players collect train cards and claim railway routes across a map of North America. The objective is to complete destination tickets and build the longest continuous railway routes to earn the most points. The game features beautiful illustrations of vintage trains and maps, and it encourages strategic planning, resource management, and competitive gameplay. Players must choose their routes wisely, manage their train cards, and anticipate their opponents' moves to secure victory. Ticket to Ride is suitable for 2-5 players aged 8 and up, with a playtime of approximately 30-60 minutes. It’s an excellent choice for game nights, family fun, and friendly competitions."
+  }
+]

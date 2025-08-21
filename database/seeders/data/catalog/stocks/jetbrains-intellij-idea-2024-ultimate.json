@@ -1,0 +1,21 @@
+[
+  {
+    "title": "JetBrains IntelliJ IDEA 2024 Ultimate - 1 Year Subscription",
+    "slug": "jetbrains-intellij-idea-2024-ultimate-1-year-subscription",
+    "sku": "IJ-U2024-1Y",
+    "description": "JetBrains IntelliJ IDEA 2024 Ultimate - 1 Year Subscription offers access to the full range of features available in the latest version of IntelliJ IDEA for Java and JVM languages. With this subscription, you get intelligent code assistance, advanced debugging tools, and integrated support for a variety of programming languages and frameworks. The IDE also includes a built-in database tool, advanced code analysis features, and seamless version control integration. Ideal for professional developers who need a robust environment for enterprise-level software development.",
+    "price": 249.99,
+    "offer_price": 229.99,
+    "key_features": [
+      "1 Year Subscription to IntelliJ IDEA 2024 Ultimate",
+      "Intelligent Code Assistance and Advanced Debugging",
+      "Built-in Database Management Tools",
+      "Support for Multiple Programming Languages and Frameworks"
+    ],
+    "stock_quantity": 300,
+    "sold_quantity": 400,
+    "shipping_weight": 0.0,
+    "meta_title": "JetBrains IntelliJ IDEA 2024 Ultimate - 1 Year Subscription | JetBrains",
+    "meta_description": "Subscribe to JetBrains IntelliJ IDEA 2024 Ultimate for 1 year. Access advanced IDE features for Java development, intelligent code assistance, and integrated debugging tools. Get the best subscription deal for professional developers."
+  }
+]

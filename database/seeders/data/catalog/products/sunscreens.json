@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Broad Spectrum SPF 50 Sunscreen - Water-Resistant & Non-Greasy",
+    "slug": "broad-spectrum-spf-50-sunscreen-water-resistant-non-greasy",
+    "brand": "SunShield",
+    "model_number": "SS-S2024",
+    "mpn": "SS-005",
+    "gtin": "0123456789070",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "SunShield Inc.",
+    "description": "SunShield Broad Spectrum SPF 50 Sunscreen offers superior sun protection with its water-resistant, non-greasy formula. This sunscreen shields your skin from both UVA and UVB rays, preventing sunburn and skin damage. Enriched with antioxidants, it also helps to protect your skin from environmental aggressors. Perfect for daily use and suitable for all skin types, this sunscreen absorbs quickly and provides long-lasting hydration, making it an essential part of your sun care routine."
+  },
+  {
+    "name": "Mineral Sunscreen SPF 30 - Zinc Oxide & Aloe Vera",
+    "slug": "mineral-sunscreen-spf-30-zinc-oxide-aloe-vera",
+    "brand": "PureSun",
+    "model_number": "PS-S2024",
+    "mpn": "PS-006",
+    "gtin": "0123456789071",
+    "gtin_type": "EAN",
+    "origin_country": "South Korea",
+    "manufacturer": "PureSun Co.",
+    "description": "PureSun Mineral Sunscreen SPF 30 provides broad-spectrum protection with natural zinc oxide and soothing aloe vera. This mineral-based sunscreen offers a gentle, non-irritating formula that is perfect for sensitive skin. It provides effective UVA/UVB protection while hydrating and calming the skin with aloe vera. The lightweight, non-whitening formula is ideal for daily use and is water-resistant, making it suitable for both everyday wear and outdoor activities."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Honda Accord 2024 LX Sedan",
+    "slug": "honda-accord-2024-lx-sedan",
+    "sku": "HA2024LX001",
+    "description": "The 2024 Honda Accord LX Sedan offers a perfect blend of performance, comfort, and technology. Equipped with a powerful engine and advanced safety features.",
+    "price": 25000,
+    "offer_price": 24000,
+    "key_features": [
+      "1.5L Turbocharged Engine",
+      "Honda Sensing® Suite",
+      "Apple CarPlay® Integration",
+      "Dual-Zone Automatic Climate Control",
+      "LED Headlights"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 5,
+    "shipping_weight": 3200,
+    "meta_title": "Honda Accord 2024 LX Sedan - Powerful and Efficient",
+    "meta_description": "Discover the 2024 Honda Accord LX Sedan with advanced safety features, turbocharged engine, and modern technology. Perfect for your daily drive."
+  },
+  {
+    "title": "Honda Accord 2024 EX Sedan",
+    "slug": "honda-accord-2024-ex-sedan",
+    "sku": "HA2024EX001",
+    "description": "Experience the enhanced features of the 2024 Honda Accord EX Sedan, offering superior comfort, performance, and cutting-edge technology.",
+    "price": 28000,
+    "offer_price": 27000,
+    "key_features": [
+      "2.0L Turbocharged Engine",
+      "Heated Front Seats",
+      "One-Touch Power Moonroof",
+      "8-Speaker Audio System",
+      "Blind Spot Information System"
+    ],
+    "stock_quantity": 8,
+    "sold_quantity": 3,
+    "shipping_weight": 3300,
+    "meta_title": "Honda Accord 2024 EX Sedan - Premium Comfort and Performance",
+    "meta_description": "Upgrade to the 2024 Honda Accord EX Sedan with a powerful 2.0L engine, heated seats, and advanced safety features. Ideal for a luxurious drive."
+  },
+  {
+    "title": "Honda Accord 2024 Sport Sedan",
+    "slug": "honda-accord-2024-sport-sedan",
+    "sku": "HA2024SPORT001",
+    "description": "The 2024 Honda Accord Sport Sedan combines dynamic performance with a sporty design, offering an exhilarating driving experience.",
+    "price": 30000,
+    "offer_price": 29000,
+    "key_features": [
+      "2.0L Turbocharged Engine",
+      "19-Inch Alloy Wheels",
+      "Sport Pedals",
+      "Leather-Wrapped Steering Wheel",
+      "12-Way Power Driver's Seat"
+    ],
+    "stock_quantity": 5,
+    "sold_quantity": 2,
+    "shipping_weight": 3350,
+    "meta_title": "Honda Accord 2024 Sport Sedan - Exhilarating Performance",
+    "meta_description": "Feel the thrill with the 2024 Honda Accord Sport Sedan, featuring a turbocharged engine, sporty design, and advanced technology. Perfect for the sports enthusiast."
+  },
+  {
+    "title": "Honda Accord 2024 Touring Sedan",
+    "slug": "honda-accord-2024-touring-sedan",
+    "sku": "HA2024TOURING001",
+    "description": "Indulge in the ultimate luxury with the 2024 Honda Accord Touring Sedan, offering top-of-the-line features and exceptional performance.",
+    "price": 35000,
+    "offer_price": 34000,
+    "key_features": [
+      "2.0L Turbocharged Engine",
+      "Adaptive Damper System",
+      "Wireless Phone Charger",
+      "Head-Up Display",
+      "Ventilated Front Seats"
+    ],
+    "stock_quantity": 3,
+    "sold_quantity": 1,
+    "shipping_weight": 3400,
+    "meta_title": "Honda Accord 2024 Touring Sedan - Ultimate Luxury and Performance",
+    "meta_description": "Experience unmatched luxury with the 2024 Honda Accord Touring Sedan, featuring advanced technology, superior comfort, and powerful performance. Perfect for the discerning driver."
+  }
+]

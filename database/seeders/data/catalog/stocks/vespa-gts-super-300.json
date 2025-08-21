@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Vespa GTS Super 300 2024 Model",
+    "slug": "vespa-gts-super-300-2024-model",
+    "sku": "GTS-300-2024-001",
+    "description": "The 2024 Vespa GTS Super 300 combines style and power with a 278cc engine and modern features. Ideal for city commutes and long rides, this scooter offers both performance and elegance.",
+    "price": 7999,
+    "offer_price": 7499,
+    "key_features": [
+      "278cc liquid-cooled engine",
+      "Advanced ABS braking system",
+      "LED headlamp and daytime running lights",
+      "Digital instrument panel",
+      "Stylish and comfortable design"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 18,
+    "shipping_weight": 160,
+    "meta_title": "Vespa GTS Super 300 2024 Model - Stylish and Powerful Scooter",
+    "meta_description": "Discover the 2024 Vespa GTS Super 300, featuring a 278cc engine, advanced ABS braking system, and modern design. Perfect for city commutes and long rides. Special offer available now!"
+  },
+  {
+    "title": "Vespa GTS Super 300 2023 Sport Edition",
+    "slug": "vespa-gts-super-300-2023-sport-edition",
+    "sku": "GTS-300-2023-002",
+    "description": "The 2023 Vespa GTS Super 300 Sport Edition offers a sporty design with enhanced features. Equipped with a powerful 278cc engine and advanced technology, it's perfect for those seeking a high-performance ride.",
+    "price": 8499,
+    "offer_price": 7999,
+    "key_features": [
+      "278cc liquid-cooled engine",
+      "Sporty design with unique color options",
+      "Advanced ABS braking system",
+      "Digital instrument panel",
+      "Comfortable seating and smooth ride"
+    ],
+    "stock_quantity": 8,
+    "sold_quantity": 12,
+    "shipping_weight": 160,
+    "meta_title": "Vespa GTS Super 300 2023 Sport Edition - High-Performance Scooter",
+    "meta_description": "Check out the 2023 Vespa GTS Super 300 Sport Edition with a 278cc engine, sporty design, and advanced features. Ideal for high-performance riding and stylish commutes!"
+  },
+  {
+    "title": "Vespa GTS Super 300 2022 Standard Model",
+    "slug": "vespa-gts-super-300-2022-standard-model",
+    "sku": "GTS-300-2022-003",
+    "description": "The 2022 Vespa GTS Super 300 Standard Model offers a blend of classic Vespa style and modern performance. With a 278cc engine and essential features, it's a great choice for everyday use.",
+    "price": 7699,
+    "offer_price": 7199,
+    "key_features": [
+      "278cc liquid-cooled engine",
+      "ABS braking system",
+      "Classic Vespa design",
+      "Comfortable seating",
+      "Digital instrument panel"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 20,
+    "shipping_weight": 160,
+    "meta_title": "Vespa GTS Super 300 2022 Standard Model - Classic and Reliable Scooter",
+    "meta_description": "Get the 2022 Vespa GTS Super 300 Standard Model, featuring a 278cc engine, classic Vespa design, and modern features. Perfect for stylish and reliable commuting!"
+  },
+  {
+    "title": "Vespa GTS Super 300 2024 Touring Edition",
+    "slug": "vespa-gts-super-300-2024-touring-edition",
+    "sku": "GTS-300-2024-004",
+    "description": "The 2024 Vespa GTS Super 300 Touring Edition is designed for long rides with premium features. It includes a 278cc engine, advanced comfort features, and exclusive touring accessories.",
+    "price": 8899,
+    "offer_price": 8399,
+    "key_features": [
+      "278cc liquid-cooled engine",
+      "Touring package with additional accessories",
+      "Advanced ABS braking system",
+      "Comfortable and ergonomic design",
+      "Upgraded suspension for long rides"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 14,
+    "shipping_weight": 165,
+    "meta_title": "Vespa GTS Super 300 2024 Touring Edition - Premium Touring Scooter",
+    "meta_description": "Explore the 2024 Vespa GTS Super 300 Touring Edition with a 278cc engine, premium features, and touring accessories. Perfect for long rides and comfortable commutes. Get it now at a special price!"
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "Material": ["Resin", "Metal", "Plastic", "Wood"],
+  "Color": ["Red", "Blue", "Green", "White"]
+}

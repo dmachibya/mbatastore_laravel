@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Mathematica 14 by Wolfram Research - 1 Year Subscription",
+    "slug": "mathematica-14-by-wolfram-research-1-year-subscription",
+    "sku": "MAT-14-1Y",
+    "description": "Mathematica 14 by Wolfram Research - 1 Year Subscription offers full access to the latest version of Mathematica for a year. This subscription includes all core features of the software, such as advanced symbolic computation, numerical analysis, and data visualization capabilities. Mathematica 14 supports a broad range of mathematical functions and applications, making it an essential tool for researchers, educators, and professionals. The subscription also includes access to updates and new features throughout the year, ensuring you have the latest tools for your mathematical and computational needs.",
+    "price": 399.99,
+    "offer_price": 369.99,
+    "key_features": [
+      "1 Year Subscription to Mathematica 14",
+      "Advanced Symbolic Computation and Numerical Analysis",
+      "Data Visualization and Algorithm Development",
+      "Access to Updates and New Features"
+    ],
+    "stock_quantity": 250,
+    "sold_quantity": 300,
+    "shipping_weight": 0.0,
+    "meta_title": "Mathematica 14 by Wolfram Research - 1 Year Subscription | Wolfram Research",
+    "meta_description": "Subscribe to Mathematica 14 for 1 year. Access advanced mathematical computation, data visualization, and algorithm development tools. Includes all updates and new features."
+  },
+  {
+    "title": "Mathematica 14 by Wolfram Research - Lifetime License",
+    "slug": "mathematica-14-by-wolfram-research-lifetime-license",
+    "sku": "MAT-14-LA",
+    "description": "Mathematica 14 by Wolfram Research - Lifetime License provides permanent access to the latest version of Mathematica. This license includes all the core functionalities of the software for symbolic computation, numerical analysis, and data visualization. The lifetime license offers a one-time purchase option with access to future updates and new features as they are released. This option is ideal for users who require long-term access to Mathematica’s powerful computational tools for academic, research, or professional use.",
+    "price": 799.99,
+    "offer_price": 749.99,
+    "key_features": [
+      "Lifetime License for Mathematica 14",
+      "Permanent Access to Advanced Computational Tools",
+      "Includes Future Updates and New Features",
+      "Ideal for Academic and Professional Use"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 150,
+    "shipping_weight": 0.0,
+    "meta_title": "Mathematica 14 by Wolfram Research - Lifetime License | Wolfram Research",
+    "meta_description": "Get a lifetime license for Mathematica 14. Enjoy permanent access to advanced mathematical computation tools, data visualization, and algorithm development capabilities. Includes future updates."
+  }
+]

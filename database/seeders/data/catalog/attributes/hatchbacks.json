@@ -1,0 +1,5 @@
+{
+  "Fuel Type": ["Petrol", "Diesel", "Hybrid", "Electric"],
+  "Seating Capacity": ["4 Seats", "5 Seats"],
+  "Drive Type": ["Front-Wheel Drive (FWD)", "All-Wheel Drive (AWD)"]
+}

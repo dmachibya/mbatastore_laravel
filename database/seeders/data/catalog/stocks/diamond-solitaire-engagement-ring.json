@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Diamond Solitaire Engagement Ring in 14K White Gold",
+    "slug": "diamond-solitaire-engagement-ring-14k-white-gold",
+    "sku": "LD-ER-2024-01",
+    "description": "The Diamond Solitaire Engagement Ring in 14K White Gold from LuxorDiamonds is a symbol of timeless elegance and love. This exquisite ring features a stunning round-cut diamond, expertly set in a classic four-prong setting. The 14K white gold band provides a sleek and sophisticated backdrop for the diamond, enhancing its brilliance and sparkle. Whether you’re celebrating an engagement or marking a special occasion, this ring offers a perfect blend of simplicity and luxury. Each diamond is hand-selected for its exceptional quality, making this ring a beautiful representation of your deepest emotions.",
+    "price": 2999.99,
+    "offer_price": 2499.99,
+    "key_features": [
+      "Round-Cut Diamond",
+      "14K White Gold Band",
+      "Classic Four-Prong Setting",
+      "Timeless Elegance"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 35,
+    "shipping_weight": "0.1 kg",
+    "meta_title": "Diamond Solitaire Engagement Ring | LuxorDiamonds",
+    "meta_description": "Shop the Diamond Solitaire Engagement Ring in 14K White Gold from LuxorDiamonds. Featuring a brilliant round-cut diamond, this ring is perfect for engagements or special occasions. Get it now with a special discount!"
+  },
+  {
+    "title": "Luxurious Diamond Solitaire Engagement Ring in White Gold",
+    "slug": "luxurious-diamond-solitaire-engagement-ring-white-gold",
+    "sku": "LD-ER-2024-02",
+    "description": "LuxorDiamonds presents the Luxurious Diamond Solitaire Engagement Ring in White Gold, a perfect symbol of your love and commitment. This stunning engagement ring features a high-quality round-cut diamond set in a classic 14K white gold band. The simple yet elegant design highlights the beauty of the diamond, making it a timeless choice for engagements or anniversaries. Each ring is crafted with meticulous attention to detail, ensuring that it remains a cherished piece for years to come. Celebrate your special moments with a ring that embodies sophistication and grace.",
+    "price": 3199.99,
+    "offer_price": 2699.99,
+    "key_features": [
+      "High-Quality Round-Cut Diamond",
+      "14K White Gold Band",
+      "Elegant and Simple Design",
+      "Perfect for Engagements"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 25,
+    "shipping_weight": "0.12 kg",
+    "meta_title": "Luxurious Diamond Solitaire Engagement Ring | LuxorDiamonds",
+    "meta_description": "Discover the Luxurious Diamond Solitaire Engagement Ring in White Gold from LuxorDiamonds. This elegant ring features a high-quality round-cut diamond set in a classic design. Buy now for a special offer!"
+  }
+]

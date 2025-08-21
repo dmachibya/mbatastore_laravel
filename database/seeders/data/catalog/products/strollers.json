@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Deluxe Travel System Stroller",
+    "slug": "deluxe-travel-system-stroller",
+    "brand": "BabyJoy",
+    "model_number": "BJ-TRVL-01",
+    "mpn": "BJ-TS-001",
+    "gtin": "3344556677889",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "BabyJoy Inc.",
+    "description": "The Deluxe Travel System Stroller by BabyJoy is designed for convenience and comfort for both parents and babies. This all-in-one system includes an infant car seat that easily attaches to the stroller frame, allowing for smooth transitions between car and stroller. The stroller features a multi-position reclining seat, an adjustable canopy for sun protection, and a spacious storage basket for all your essentials. The lightweight, foldable design makes it easy to transport and store. With a five-point harness system and durable wheels, this travel system ensures safety and stability for your little one on the go."
+  },
+  {
+    "name": "Compact Fold Stroller with Adjustable Handle",
+    "slug": "compact-fold-stroller-with-adjustable-handle",
+    "brand": "StrollerPro",
+    "model_number": "SP-CFS-02",
+    "mpn": "SP-CF-002",
+    "gtin": "5566778899001",
+    "gtin_type": "UPC",
+    "origin_country": "Germany",
+    "manufacturer": "StrollerPro Ltd.",
+    "description": "The Compact Fold Stroller with Adjustable Handle from StrollerPro offers both style and functionality for modern parents. Its compact fold design makes it easy to store and transport, while the adjustable handle ensures comfort for parents of all heights. The stroller includes a multi-position recline seat, a five-point harness for safety, and a large, easy-access storage basket. The sturdy wheels and suspension system provide a smooth ride for your baby, whether you're strolling through the park or navigating city streets. This stroller is the perfect choice for families on the go."
+  }
+]

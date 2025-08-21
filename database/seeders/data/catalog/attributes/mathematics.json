@@ -1,0 +1,10 @@
+{
+  "License Type": [
+    "Subscription",
+    "Perpetual License",
+    "Educational License",
+    "Volume Licensing"
+  ],
+  "Supported Platforms": ["Windows", "macOS"],
+  "Support Duration": ["1 Year", "2 Years", "Lifetime"]
+}

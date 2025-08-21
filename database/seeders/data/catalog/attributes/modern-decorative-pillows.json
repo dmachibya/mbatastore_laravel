@@ -1,0 +1,4 @@
+{
+  "Material": ["Cotton", "Polyester", "Velvet", "Linen"],
+  "Shape": ["Square", "Rectangle", "Round", "Bolster"]
+}

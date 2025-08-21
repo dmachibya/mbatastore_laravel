@@ -1,0 +1,10 @@
+{
+  "Light Type": ["RGB LED", "Single Color LED", "Neon Tube", "Flexible Strip"],
+  "Brightness": ["2000 Lumens", "4000 Lumens", "6000 Lumens", "8000 Lumens"],
+  "Control Type": [
+    "Remote Control",
+    "App Control",
+    "Switch Control",
+    "Voice Control"
+  ]
+}

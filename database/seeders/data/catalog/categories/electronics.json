@@ -1,0 +1,282 @@
+{
+  "Mobile Phones": {
+    "slug": "mobile-phones",
+    "description": "Smartphones and accessories for mobile communication.",
+    "subcategories": [
+      {
+        "name": "Smartphones",
+        "slug": "smartphones",
+        "description": "Latest models of smartphones for all needs.",
+        "categories": [
+          {
+            "name": "Android Phones",
+            "slug": "android-phones",
+            "description": "Smartphones running on the Android operating system."
+          },
+          {
+            "name": "iPhones",
+            "slug": "iphones",
+            "description": "Smartphones developed by Apple Inc."
+          },
+          {
+            "name": "Foldable Phones",
+            "slug": "foldable-phones",
+            "description": "Smartphones with foldable screens for enhanced functionality."
+          }
+        ]
+      },
+      {
+        "name": "Phone Accessories",
+        "slug": "phone-accessories",
+        "description": "Accessories to enhance and protect your smartphone.",
+        "categories": [
+          {
+            "name": "Phone Cases",
+            "slug": "phone-cases",
+            "description": "Protective covers for mobile phones."
+          },
+          {
+            "name": "Chargers",
+            "slug": "chargers",
+            "description": "Devices for charging mobile phones."
+          },
+          {
+            "name": "Screen Protectors",
+            "slug": "screen-protectors",
+            "description": "Protective films for smartphone screens."
+          }
+        ]
+      }
+    ]
+  },
+  "Laptops": {
+    "slug": "laptops",
+    "description": "Portable computers for personal and professional use.",
+    "subcategories": [
+      {
+        "name": "Windows Laptops",
+        "slug": "windows-laptops",
+        "description": "Laptops running on the Windows operating system.",
+        "categories": [
+          {
+            "name": "Gaming Laptops",
+            "slug": "gaming-laptops",
+            "description": "High-performance laptops for gaming."
+          },
+          {
+            "name": "Business Laptops",
+            "slug": "business-laptops",
+            "description": "Laptops designed for business and professional tasks."
+          },
+          {
+            "name": "Ultrabooks",
+            "slug": "ultrabooks",
+            "description": "Slim and lightweight laptops for portability."
+          }
+        ]
+      },
+      {
+        "name": "MacBooks",
+        "slug": "macbooks",
+        "description": "Laptops developed by Apple Inc.",
+        "categories": [
+          {
+            "name": "MacBook Air",
+            "slug": "macbook-air",
+            "description": "Lightweight and portable laptop from Apple."
+          },
+          {
+            "name": "MacBook Pro",
+            "slug": "macbook-pro",
+            "description": "High-performance laptop for professional use."
+          },
+          {
+            "name": "MacBook",
+            "slug": "macbook",
+            "description": "Previous-generation MacBook models."
+          }
+        ]
+      }
+    ]
+  },
+  "Televisions": {
+    "slug": "televisions",
+    "description": "Various types of TVs for home entertainment.",
+    "subcategories": [
+      {
+        "name": "Smart TVs",
+        "slug": "smart-tvs",
+        "description": "Televisions with internet connectivity and apps.",
+        "categories": [
+          {
+            "name": "4K TVs",
+            "slug": "4k-tvs",
+            "description": "Ultra High Definition TVs with 4K resolution."
+          },
+          {
+            "name": "OLED TVs",
+            "slug": "oled-tvs",
+            "description": "Televisions with Organic Light Emitting Diode technology."
+          },
+          {
+            "name": "QLED TVs",
+            "slug": "qled-tvs",
+            "description": "Quantum Dot technology TVs for enhanced colors."
+          }
+        ]
+      },
+      {
+        "name": "LED TVs",
+        "slug": "led-tvs",
+        "description": "Televisions with Light Emitting Diode backlighting.",
+        "categories": [
+          {
+            "name": "Full HD TVs",
+            "slug": "full-hd-tvs",
+            "description": "Televisions with Full High Definition resolution."
+          },
+          {
+            "name": "HD Ready TVs",
+            "slug": "hd-ready-tvs",
+            "description": "Basic High Definition televisions."
+          },
+          {
+            "name": "Curved TVs",
+            "slug": "curved-tvs",
+            "description": "Televisions with a curved screen for immersive viewing."
+          }
+        ]
+      }
+    ]
+  },
+  "Audio Devices": {
+    "slug": "audio-devices",
+    "description": "Devices for high-quality audio experiences.",
+    "subcategories": [
+      {
+        "name": "Headphones",
+        "slug": "headphones",
+        "description": "Devices for personal audio listening.",
+        "categories": [
+          {
+            "name": "Wireless Headphones",
+            "slug": "wireless-headphones",
+            "description": "Headphones that connect via Bluetooth."
+          },
+          {
+            "name": "Noise-Canceling Headphones",
+            "slug": "noise-canceling-headphones",
+            "description": "Headphones that reduce background noise."
+          },
+          {
+            "name": "Gaming Headsets",
+            "slug": "gaming-headsets",
+            "description": "Headsets designed for gaming with microphones."
+          }
+        ]
+      },
+      {
+        "name": "Speakers",
+        "slug": "speakers",
+        "description": "Devices for producing sound for music, movies, and games.",
+        "categories": [
+          {
+            "name": "Bluetooth Speakers",
+            "slug": "bluetooth-speakers",
+            "description": "Portable speakers that connect via Bluetooth."
+          },
+          {
+            "name": "Smart Speakers",
+            "slug": "smart-speakers",
+            "description": "Speakers with built-in voice assistants."
+          },
+          {
+            "name": "Home Audio Systems",
+            "slug": "home-audio-systems",
+            "description": "Complete audio systems for home entertainment."
+          }
+        ]
+      }
+    ]
+  },
+  "Cameras": {
+    "slug": "cameras",
+    "description": "Devices for capturing photos and videos.",
+    "subcategories": [
+      {
+        "name": "Digital Cameras",
+        "slug": "digital-cameras",
+        "description": "Cameras that capture photos and videos digitally."
+      },
+      {
+        "name": "Camcorders",
+        "slug": "camcorders",
+        "description": "Devices for recording videos."
+      }
+    ]
+  },
+  "Computers": {
+    "slug": "computers",
+    "description": "Various types of desktop and all-in-one computers.",
+    "subcategories": [
+      {
+        "name": "Desktops",
+        "slug": "desktops",
+        "description": "Traditional desktop computers for home and office use."
+      },
+      {
+        "name": "Monitors",
+        "slug": "monitors",
+        "description": "Screens for displaying computer output."
+      }
+    ]
+  },
+  "Wearable Technology": {
+    "slug": "wearable-technology",
+    "description": "Technology worn on the body for fitness and convenience.",
+    "subcategories": [
+      {
+        "name": "Smartwatches",
+        "slug": "smartwatches",
+        "description": "Wristworn devices with various smart features."
+      },
+      {
+        "name": "Virtual Reality Headsets",
+        "slug": "virtual-reality-headsets",
+        "description": "Headsets for experiencing virtual reality."
+      }
+    ]
+  },
+  "Home Appliances": {
+    "slug": "home-appliances",
+    "description": "Essential appliances for the home.",
+    "subcategories": [
+      {
+        "name": "Refrigerators",
+        "slug": "refrigerators",
+        "description": "Appliances for food preservation."
+      },
+      {
+        "name": "Washing Machines",
+        "slug": "washing-machines",
+        "description": "Machines for washing clothes."
+      }
+    ]
+  },
+  "Office Electronics": {
+    "slug": "office-electronics",
+    "description": "Electronics and equipment for office use.",
+    "subcategories": [
+      {
+        "name": "Printers",
+        "slug": "printers",
+        "description": "Devices for printing documents and images."
+      },
+      {
+        "name": "Projectors",
+        "slug": "projectors",
+        "description": "Devices for projecting images and presentations."
+      }
+    ]
+  }
+}

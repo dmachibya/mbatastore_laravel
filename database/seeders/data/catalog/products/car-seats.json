@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SafeRide Convertible Car Seat",
+    "slug": "saferide-convertible-car-seat",
+    "brand": "SafeBaby",
+    "model_number": "SB-CRV-01",
+    "mpn": "SB-CRV-001",
+    "gtin": "6677889900112",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "SafeBaby Inc.",
+    "description": "The SafeRide Convertible Car Seat from SafeBaby is designed to provide superior safety and comfort for your child from infancy through toddlerhood. This versatile car seat features a 5-point harness system for infants and a convertible design that easily transitions from a rear-facing to a forward-facing position as your child grows. It includes a multi-position reclining seat, an adjustable headrest, and side-impact protection for added safety. The car seat is equipped with an easy-to-install base and a removable, machine-washable cover for convenient cleaning. With its durable construction and advanced safety features, the SafeRide Convertible Car Seat ensures your child travels in comfort and security."
+  },
+  {
+    "name": "ComfortPlus 3-in-1 Car Seat",
+    "slug": "comfortplus-3-in-1-car-seat",
+    "brand": "ComfortBaby",
+    "model_number": "CB-3IN1-02",
+    "mpn": "CB-3IN1-002",
+    "gtin": "9988776655443",
+    "gtin_type": "UPC",
+    "origin_country": "Canada",
+    "manufacturer": "ComfortBaby Ltd.",
+    "description": "The ComfortPlus 3-in-1 Car Seat from ComfortBaby offers three modes of use to adapt as your child grows: rear-facing, forward-facing, and booster seat. This car seat is designed for convenience and safety, featuring a 5-point harness system, an adjustable headrest, and a multi-position recline for maximum comfort. The ComfortPlus 3-in-1 Car Seat also includes side-impact protection and a reinforced steel frame for enhanced safety. The easy-to-install base and machine-washable cover make it a practical choice for busy parents. Whether you need a car seat for an infant or a toddler, the ComfortPlus 3-in-1 has you covered."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Suunto 9 Baro Multisport GPS Watch",
+    "slug": "suunto-9-baro-multisport-gps-watch",
+    "sku": "S9B-01",
+    "description": "The Suunto 9 Baro Multisport GPS Watch is built for athletes who demand the best. With up to 120 hours of continuous exercise tracking, this watch uses intelligent battery modes to ensure it lasts as long as you need it to. The barometer provides accurate altitude readings and weather trends, helping you stay prepared during your outdoor adventures. Wrist heart rate monitoring allows you to keep track of your performance without the need for a chest strap. The FusedTrack algorithm combines GPS and motion sensor data to improve tracking accuracy and extend battery life. Whether you're training for an ultra-marathon or embarking on a multi-day hiking trip, the Suunto 9 Baro is designed to withstand the harshest conditions and keep you on track.",
+    "price": 599.99,
+    "offer_price": 529.99,
+    "key_features": [
+      "120 Hours Continuous Tracking",
+      "Intelligent Battery Modes",
+      "Barometer for Altitude Readings",
+      "Wrist Heart Rate Monitoring",
+      "FusedTrack Algorithm"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 150,
+    "shipping_weight": "0.1 kg",
+    "meta_title": "Suunto 9 Baro Multisport GPS Watch | Suunto",
+    "meta_description": "Shop the Suunto 9 Baro Multisport GPS Watch with 120 hours of tracking, intelligent battery modes, and a barometer for accurate altitude readings. Available now with a special offer."
+  },
+  {
+    "title": "Suunto 9 Baro GPS Watch for Athletes",
+    "slug": "suunto-9-baro-gps-watch-for-athletes",
+    "sku": "S9B-02",
+    "description": "The Suunto 9 Baro GPS Watch for Athletes is the ultimate tool for those who push their limits. Featuring up to 120 hours of continuous exercise tracking, this watch uses intelligent battery modes to ensure it keeps up with your longest workouts. The integrated barometer provides accurate altitude readings and weather trends, while the wrist heart rate monitor helps you stay on top of your performance. The FusedTrack technology combines GPS and motion sensor data to enhance tracking accuracy and extend battery life. Designed for long, grueling training sessions and races, the Suunto 9 Baro is built to endure the toughest conditions. Whether you're running an ultra-marathon or exploring the great outdoors, this watch will keep you on track and performing at your best.",
+    "price": 599.99,
+    "offer_price": 529.99,
+    "key_features": [
+      "120 Hours of Tracking",
+      "Intelligent Battery Modes",
+      "Accurate Barometer",
+      "Wrist Heart Rate Monitor",
+      "FusedTrack Technology"
+    ],
+    "stock_quantity": 45,
+    "sold_quantity": 140,
+    "shipping_weight": "0.1 kg",
+    "meta_title": "Suunto 9 Baro GPS Watch for Athletes | Suunto",
+    "meta_description": "Discover the Suunto 9 Baro GPS Watch for Athletes with 120 hours of tracking, intelligent battery modes, and a barometer for accurate altitude readings. Shop now and enjoy a special discount."
+  }
+]

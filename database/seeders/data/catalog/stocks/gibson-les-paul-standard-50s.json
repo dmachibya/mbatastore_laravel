@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Gibson Les Paul Standard '50s - Honey Burst",
+    "slug": "gibson-les-paul-standard-50s-honey-burst",
+    "sku": "G-LPS5SGH1-HB-001",
+    "description": "The Gibson Les Paul Standard '50s in Honey Burst is a beautiful electric guitar that pays homage to the classic 1950s Les Paul models. Featuring a solid mahogany body and a carved maple top, this guitar delivers a rich, resonant tone with excellent sustain. The vintage 50s neck profile provides a comfortable playing experience for those who appreciate a fuller neck. Equipped with Burstbucker 1 and 2 pickups, this Les Paul offers a range of sounds from warm, creamy blues to powerful rock tones. The Historic Reissue Truss Rod Cover and vintage-style tuners complete the classic look. Perfect for both collectors and performing musicians.",
+    "price": 2999.99,
+    "offer_price": 2599.99,
+    "key_features": [
+      "Solid Mahogany Body",
+      "Carved Maple Top",
+      "Burstbucker 1 and 2 Pickups",
+      "Vintage '50s Neck Profile"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 25,
+    "shipping_weight": 10.5,
+    "meta_title": "Gibson Les Paul Standard '50s - Honey Burst Electric Guitar",
+    "meta_description": "Get the Gibson Les Paul Standard '50s in Honey Burst for a classic sound and look. Features a solid mahogany body, carved maple top, and Burstbucker pickups. Ideal for blues and rock. Shop now for a special price!"
+  },
+  {
+    "title": "Gibson Les Paul Standard '50s - Gold Top",
+    "slug": "gibson-les-paul-standard-50s-gold-top",
+    "sku": "G-LPS5SGH1-GT-002",
+    "description": "The Gibson Les Paul Standard '50s in Gold Top is an exquisite electric guitar that combines vintage charm with modern performance. With a solid mahogany body and a carved maple top, this guitar produces a deep, resonant tone that is perfect for a variety of musical styles. The classic 50s neck profile offers a substantial feel that many players love. Featuring Burstbucker 1 and 2 pickups, this model delivers a range of sounds from smooth blues to robust rock tones. The Historic Reissue Truss Rod Cover and vintage-style tuners complete the guitar's authentic look and feel. Ideal for guitarists seeking a high-quality, versatile instrument.",
+    "price": 3099.99,
+    "offer_price": 2699.99,
+    "key_features": [
+      "Solid Mahogany Body",
+      "Carved Maple Top",
+      "Burstbucker 1 and 2 Pickups",
+      "Vintage '50s Neck Profile"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 20,
+    "shipping_weight": 10.7,
+    "meta_title": "Gibson Les Paul Standard '50s - Gold Top Electric Guitar",
+    "meta_description": "Discover the Gibson Les Paul Standard '50s in Gold Top for a timeless electric guitar experience. Features a mahogany body, maple top, and Burstbucker pickups. Perfect for all music genres. Order now at a special price!"
+  }
+]

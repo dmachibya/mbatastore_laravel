@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Power Surge Energy Drink - Tropical Punch - 12 oz Can",
+    "slug": "power-surge-energy-drink-tropical-punch-12-oz-can",
+    "sku": "RB-PS-002-12OZ",
+    "description": "Red Bull's Power Surge Energy Drink in Tropical Punch flavor delivers a burst of energy and focus with every 12-ounce can. Infused with caffeine, taurine, and B-vitamins, this drink is designed to enhance your physical performance and mental alertness. The Tropical Punch flavor offers a deliciously fruity taste, making it a refreshing choice for athletes, students, or anyone in need of a quick energy boost. Perfect for a pre-workout pick-me-up or a midday energy surge.",
+    "price": 3.29,
+    "offer_price": 2.79,
+    "key_features": [
+      "12 oz Can",
+      "Caffeine and Taurine Boost",
+      "Tropical Punch Flavor",
+      "Enhances Performance and Focus"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 150,
+    "shipping_weight": 0.5,
+    "meta_title": "Power Surge Energy Drink - Tropical Punch - 12 oz Can | Red Bull",
+    "meta_description": "Get Red Bull's Power Surge Energy Drink in Tropical Punch flavor. 12 oz can with caffeine and taurine for a powerful energy boost. Special offer available now!"
+  },
+  {
+    "title": "Power Surge Energy Drink - Tropical Punch - Pack of 12",
+    "slug": "power-surge-energy-drink-tropical-punch-pack-of-12",
+    "sku": "RB-PS-002-12PK",
+    "description": "Red Bull's Power Surge Energy Drink in Tropical Punch flavor is available in a convenient Pack of 12. Each 12-ounce can is packed with caffeine, taurine, and B-vitamins to provide an energy boost and enhance focus. The Tropical Punch flavor delivers a refreshing and invigorating taste experience. This pack is perfect for those who need a reliable energy source for their busy days or for sharing with friends and teammates.",
+    "price": 32.99,
+    "offer_price": 27.99,
+    "key_features": [
+      "Pack of 12 Cans",
+      "Energy Boost with Caffeine and Taurine",
+      "Delicious Tropical Punch Flavor",
+      "Great for Sharing or Stocking Up"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 90,
+    "shipping_weight": 6.0,
+    "meta_title": "Power Surge Energy Drink - Tropical Punch - Pack of 12 | Red Bull",
+    "meta_description": "Buy Power Surge Energy Drink in Tropical Punch flavor from Red Bull in a Pack of 12. 12 oz cans with caffeine and taurine for a powerful boost. Special discount available!"
+  }
+]

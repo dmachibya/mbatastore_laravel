@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ClearView 20-Gallon Aquarium Kit",
+    "slug": "clearview-20-gallon-aquarium-kit",
+    "brand": "AquaWorld",
+    "model_number": "AW-10020",
+    "mpn": "AW10020",
+    "gtin": "7890123456789",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "AquaWorld Aquatic Supplies",
+    "description": "The ClearView 20-Gallon Aquarium Kit from AquaWorld is the perfect choice for both beginners and experienced aquarists. This complete aquarium kit includes a crystal-clear glass tank, a powerful filter system, an adjustable heater, and an energy-efficient LED light. The sleek, modern design fits well in any room, while the included accessories ensure that your aquatic environment remains clean and healthy. The filter provides effective mechanical, chemical, and biological filtration, while the adjustable heater maintains the ideal water temperature for a variety of fish. The LED light promotes plant growth and creates a beautiful display for your aquatic setup."
+  },
+  {
+    "name": "Oceanic 55-Gallon Aquarium Tank",
+    "slug": "oceanic-55-gallon-aquarium-tank",
+    "brand": "Oceanic",
+    "model_number": "OC-55055",
+    "mpn": "OC55055",
+    "gtin": "8901234567891",
+    "gtin_type": "EAN",
+    "origin_country": "Germany",
+    "manufacturer": "Oceanic Aquatic Products",
+    "description": "The Oceanic 55-Gallon Aquarium Tank offers a spacious and stylish home for your aquatic life. Crafted from high-quality, tempered glass, this aquarium tank features a sleek, contemporary design with a seamless glass construction for a clear and unobstructed view of your underwater world. Ideal for both freshwater and saltwater setups, the tank provides ample space for a variety of fish and aquatic plants. The included stand and filter system ensure that your tank remains stable and clean, while the elegant design complements any room decor."
+  }
+]

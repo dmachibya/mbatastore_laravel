@@ -1,0 +1,5 @@
+{
+  "Case Material": ["Stainless Steel", "Gold", "Titanium"],
+  "Movement Type": ["Automatic", "Manual", "Quartz"],
+  "Water Resistance": ["30m", "50m", "100m"]
+}

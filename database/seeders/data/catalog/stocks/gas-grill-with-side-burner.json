@@ -1,0 +1,44 @@
+[
+  {
+    "title": "GrillMaster Gas Grill with Side Burner - 4 Burner with Warming Rack",
+    "slug": "grillmaster-gas-grill-with-side-burner-4-burner-with-warming-rack",
+    "sku": "GM-GSBB01-4B",
+    "description": "The GrillMaster Gas Grill with Side Burner is perfect for hosting outdoor cookouts and barbecues. This top-of-the-line grill features four powerful stainless steel burners and a side burner for preparing delicious side dishes and sauces. With a large cooking area and adjustable temperature controls, you can easily cook for large gatherings or intimate dinners. The grill also includes a warming rack for keeping food warm, a built-in thermometer for precise temperature readings, and side shelves for added workspace. The durable stainless steel construction ensures longevity and reliable performance. Get ready to impress your guests with perfect grilled meals every time!",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "Four stainless steel burners with high heat output",
+      "Side burner for preparing side dishes",
+      "Large cooking area with warming rack",
+      "Built-in thermometer for accurate temperature control",
+      "Durable stainless steel construction for long-lasting use",
+      "Side shelves for extra workspace"
+    ],
+    "stock_quantity": 35,
+    "sold_quantity": 14,
+    "shipping_weight": 55.0,
+    "meta_title": "GrillMaster Gas Grill with Side Burner - 4 Burner with Warming Rack",
+    "meta_description": "GrillMaster Gas Grill with Side Burner - 4 burners, warming rack, built-in thermometer, and side shelves. Perfect for outdoor cookouts and barbecues."
+  },
+  {
+    "title": "GrillMaster Gas Grill with Side Burner - 3 Burner with Side Shelves",
+    "slug": "grillmaster-gas-grill-with-side-burner-3-burner-with-side-shelves",
+    "sku": "GM-GSBB01-3B",
+    "description": "Upgrade your outdoor cooking experience with the GrillMaster Gas Grill with Side Burner. This 3-burner gas grill features a spacious cooking area, adjustable temperature controls, and a convenient side burner for preparing your favorite side dishes. The stainless steel construction ensures durability and easy cleaning, while the built-in thermometer and warming rack provide added convenience. The side shelves offer extra workspace for food preparation or storage. Whether you're hosting a barbecue or cooking a family meal, this gas grill is designed for excellent performance and reliability.",
+    "price": 269.99,
+    "offer_price": 219.99,
+    "key_features": [
+      "Three stainless steel burners for efficient grilling",
+      "Side burner for additional cooking options",
+      "Spacious cooking area with warming rack",
+      "Built-in thermometer for precise temperature control",
+      "Durable stainless steel construction",
+      "Side shelves for added workspace"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 10,
+    "shipping_weight": 50.0,
+    "meta_title": "GrillMaster Gas Grill with Side Burner - 3 Burner with Side Shelves",
+    "meta_description": "GrillMaster Gas Grill with Side Burner - 3 burners, side shelves, warming rack, and built-in thermometer. Ideal for outdoor cooking and barbecues."
+  }
+]

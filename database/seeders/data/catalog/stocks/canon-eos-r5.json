@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Canon EOS R5 Body Only",
+    "slug": "canon-eos-r5-body-only",
+    "sku": "R5BODY",
+    "description": "The Canon EOS R5 Body Only is designed for professionals seeking the best in photography and video performance. This advanced mirrorless camera features a 45MP full-frame CMOS sensor and the powerful DIGIC X image processor, delivering stunning image quality and high-resolution 8K video recording. The Dual Pixel CMOS AF II system provides fast and precise autofocus, with eye and face detection for both humans and animals. The EOS R5 also includes 5-axis in-body image stabilization (IBIS), allowing for sharp images even in low light. Its high-speed continuous shooting capabilities (up to 20fps with the electronic shutter) make it ideal for action photography. The robust magnesium alloy body is weather-sealed for durability in challenging conditions. The camera supports dual memory card slots (CFexpress and SD UHS-II) for versatile storage options.",
+    "price": 3899.0,
+    "offer_price": 3599.0,
+    "key_features": [
+      "45MP full-frame CMOS sensor",
+      "8K RAW video recording",
+      "Dual Pixel CMOS AF II",
+      "In-body image stabilization (IBIS)",
+      "High-speed continuous shooting up to 20fps"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 20,
+    "shipping_weight": 1.62,
+    "meta_title": "Canon EOS R5 Body Only - Professional Mirrorless Camera",
+    "meta_description": "Buy the Canon EOS R5 Body Only. Features a 45MP full-frame CMOS sensor, 8K RAW video, Dual Pixel CMOS AF II, and in-body image stabilization. Perfect for professionals."
+  },
+  {
+    "title": "Canon EOS R5 with RF 24-105mm f/4L Lens",
+    "slug": "canon-eos-r5-rf-24-105mm-f4l",
+    "sku": "R5RF24105",
+    "description": "The Canon EOS R5 with RF 24-105mm f/4L Lens is a powerful and versatile camera kit for both photographers and videographers. The EOS R5 features a 45MP full-frame CMOS sensor, delivering exceptional image quality and high-resolution 8K video recording. Paired with the RF 24-105mm f/4L IS USM lens, this kit covers a wide range of focal lengths, making it ideal for various shooting situations. The Dual Pixel CMOS AF II system provides fast and accurate autofocus, while the in-body image stabilization (IBIS) ensures sharp images and steady video. The camera's high-speed continuous shooting capabilities (up to 20fps with the electronic shutter) are perfect for capturing fast-moving subjects. The robust magnesium alloy body is weather-sealed for durability, and the camera supports dual memory card slots (CFexpress and SD UHS-II) for efficient storage management.",
+    "price": 4999.0,
+    "offer_price": 4699.0,
+    "key_features": [
+      "45MP full-frame CMOS sensor",
+      "RF 24-105mm f/4L IS USM lens",
+      "8K RAW video recording",
+      "Dual Pixel CMOS AF II",
+      "In-body image stabilization (IBIS)"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 15,
+    "shipping_weight": 2.8,
+    "meta_title": "Canon EOS R5 with RF 24-105mm f/4L Lens - Professional Kit",
+    "meta_description": "Get the Canon EOS R5 with RF 24-105mm f/4L Lens. Features a 45MP full-frame CMOS sensor, 8K RAW video, Dual Pixel CMOS AF II, and in-body image stabilization. Perfect for all-around use."
+  }
+]

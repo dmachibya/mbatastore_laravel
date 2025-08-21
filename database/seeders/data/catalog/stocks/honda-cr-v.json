@@ -1,0 +1,62 @@
+[
+  {
+    "title": "2024 Honda CR-V EX",
+    "slug": "2024-honda-cr-v-ex",
+    "sku": "HONCRV-EX-2024",
+    "description": "The 2024 Honda CR-V EX is a versatile compact SUV known for its reliable performance, advanced safety features, and comfortable interior. With its efficient engine and user-friendly technology, the CR-V EX is perfect for families and daily commuters.",
+    "price": 30000,
+    "offer_price": 28500,
+    "key_features": [
+      "1.5L Turbocharged Engine",
+      "7-inch Display Audio Touchscreen",
+      "Honda Sensing® Safety Suite",
+      "Dual-Zone Automatic Climate Control",
+      "Power Moonroof"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 10,
+    "shipping_weight": "3500 lbs",
+    "meta_title": "2024 Honda CR-V EX - Reliable Performance and Comfort",
+    "meta_description": "Explore the 2024 Honda CR-V EX, a compact SUV offering reliable performance, advanced safety features, and a comfortable interior. Ideal for families and daily commuters."
+  },
+  {
+    "title": "2024 Honda CR-V EX-L",
+    "slug": "2024-honda-cr-v-ex-l",
+    "sku": "HONCRV-EXL-2024",
+    "description": "The 2024 Honda CR-V EX-L adds a touch of luxury to the reliable CR-V lineup. With leather-trimmed seats, advanced technology, and a fuel-efficient engine, the CR-V EX-L is perfect for those seeking comfort and style in a compact SUV.",
+    "price": 33000,
+    "offer_price": 31500,
+    "key_features": [
+      "Leather-Trimmed Seats",
+      "Power Tailgate",
+      "Heated Front Seats",
+      "Apple CarPlay® and Android Auto™",
+      "Automatic-Dimming Rearview Mirror"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 5,
+    "shipping_weight": "3600 lbs",
+    "meta_title": "2024 Honda CR-V EX-L - Luxury and Efficiency",
+    "meta_description": "Discover the 2024 Honda CR-V EX-L, a luxurious compact SUV with leather-trimmed seats, advanced technology, and a fuel-efficient engine. Perfect for those seeking comfort and style."
+  },
+  {
+    "title": "2024 Honda CR-V Touring",
+    "slug": "2024-honda-cr-v-touring",
+    "sku": "HONCRV-TOURING-2024",
+    "description": "The 2024 Honda CR-V Touring is the top-of-the-line trim, offering premium features and advanced technology. With its refined design, powerful turbocharged engine, and comprehensive safety suite, the CR-V Touring is the ultimate choice for discerning drivers.",
+    "price": 36000,
+    "offer_price": 34500,
+    "key_features": [
+      "Hands-Free Power Tailgate",
+      "Wireless Phone Charger",
+      "Honda Satellite-Linked Navigation System™",
+      "Rain-Sensing Windshield Wipers",
+      "9-Speaker Premium Audio System"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 3,
+    "shipping_weight": "3700 lbs",
+    "meta_title": "2024 Honda CR-V Touring - Premium Features and Technology",
+    "meta_description": "Experience the 2024 Honda CR-V Touring, a premium compact SUV with advanced technology, a powerful turbocharged engine, and a refined design. Perfect for discerning drivers."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Autumn Landscape",
+    "slug": "autumn-landscape",
+    "brand": "Nature's Wonder",
+    "model_number": "NW-AL2022",
+    "mpn": "NW-001",
+    "gtin": "0123456789016",
+    "gtin_type": "EAN",
+    "origin_country": "UK",
+    "manufacturer": "Nature's Studios",
+    "description": "Autumn Landscape is a captivating watercolor painting that beautifully captures the essence of the fall season. Created by the renowned brand Nature's Wonder, this painting showcases a vibrant forest scene with trees adorned in shades of red, orange, and yellow. The artist's delicate brushwork and use of light and shadow bring the landscape to life, creating a sense of depth and tranquility. Perfect for nature lovers and art enthusiasts, this painting brings the beauty of autumn into any space, offering a serene and picturesque view of the season's splendor."
+  },
+  {
+    "name": "Serene Mountain",
+    "slug": "serene-mountain",
+    "brand": "Mountain Visions",
+    "model_number": "MV-SM2022",
+    "mpn": "MV-002",
+    "gtin": "0123456789017",
+    "gtin_type": "EAN",
+    "origin_country": "Switzerland",
+    "manufacturer": "Mountain Studios",
+    "description": "Serene Mountain is a stunning watercolor painting that depicts a tranquil mountain landscape under a clear blue sky. Created by the esteemed brand Mountain Visions, this artwork features majestic peaks, lush greenery, and a peaceful river flowing through the valley. The artist's masterful use of watercolors creates a harmonious blend of colors and textures, evoking a sense of calm and serenity. Ideal for those who appreciate the beauty of nature and the tranquility of mountain scenes, this painting adds a touch of elegance and peacefulness to any room."
+  }
+]

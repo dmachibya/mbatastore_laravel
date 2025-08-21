@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Energica Ego+ Electric Superbike",
+    "slug": "energica-ego-plus-electric-superbike",
+    "brand": "Energica",
+    "model_number": "EGO+2024",
+    "mpn": "EGO+2024-EN",
+    "gtin": "8034138540775",
+    "gtin_type": "EAN",
+    "origin_country": "Italy",
+    "manufacturer": "Energica Motor Company",
+    "description": "The Energica Ego+ 2024 is a state-of-the-art electric superbike that offers both high performance and advanced technology. It is powered by a 107 kW electric motor that delivers an impressive 150 horsepower and a top speed of 150 mph. With a 21.5 kWh lithium-polymer battery, the Ego+ offers a range of up to 261 miles in the city and 130 miles on the highway. The bike features advanced electronics, including a comprehensive rider support system with multiple riding modes, traction control, and a cornering ABS system. The Energica Ego+ boasts a futuristic design with a fully adjustable Ohlins suspension, Brembo brakes, and a full-color TFT display with smartphone connectivity. Perfect for performance enthusiasts who seek the ultimate electric superbike experience.",
+    "price": 25999.0,
+    "offer_price": 24999.0
+  },
+  {
+    "name": "Harley-Davidson LiveWire Electric Motorcycle",
+    "slug": "harley-davidson-livewire-electric-motorcycle",
+    "brand": "Harley-Davidson",
+    "model_number": "LIVEWIRE2024",
+    "mpn": "LIVEWIRE2024-HD",
+    "gtin": "655200070424",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Harley-Davidson",
+    "description": "The Harley-Davidson LiveWire 2024 is an innovative electric motorcycle that combines Harley-Davidson’s iconic design with cutting-edge electric technology. Equipped with a Liquid-Cooled Permanent Magnet Motor, it delivers 105 horsepower and a top speed of 110 mph. The LiveWire features a 15.5 kWh lithium-ion battery with a range of up to 146 miles on a single charge. The bike comes with advanced features such as a dynamic ride mode selector, a customizable suspension, and a 4.3-inch color TFT display with Bluetooth connectivity. With its sleek, modern design and high-performance capabilities, the LiveWire offers a unique and exhilarating riding experience while embracing a sustainable future.",
+    "price": 21999.0,
+    "offer_price": 20999.0
+  }
+]

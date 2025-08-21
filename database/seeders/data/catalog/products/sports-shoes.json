@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Men's Running Shoes",
+    "slug": "mens-running-shoes",
+    "brand": "Speedster",
+    "model_number": "SPD-RS-001",
+    "mpn": "SPD-RS-2024",
+    "gtin": "0856789041234",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Speedster Athletic Co.",
+    "description": "Men's Running Shoes by Speedster are engineered for optimal performance and comfort. These shoes feature a lightweight and breathable mesh upper that ensures maximum airflow, keeping your feet cool and dry during intense runs. The cushioned midsole provides exceptional shock absorption, while the durable rubber outsole offers excellent traction on various surfaces. Whether you're training for a marathon or just enjoying a morning jog, these running shoes provide the support and durability you need. Proudly made in the USA, they embody quality craftsmanship and advanced athletic technology."
+  },
+  {
+    "name": "Women's Cross Training Shoes",
+    "slug": "womens-cross-training-shoes",
+    "brand": "FlexFit",
+    "model_number": "FF-CTS-207",
+    "mpn": "FF-CTS-2024",
+    "gtin": "0738294123456",
+    "gtin_type": "UPC",
+    "origin_country": "Germany",
+    "manufacturer": "FlexFit Sportswear GmbH",
+    "description": "Women's Cross Training Shoes by FlexFit are designed to support a variety of athletic activities. Featuring a multi-directional tread pattern for enhanced grip and stability, these shoes are perfect for gym workouts, high-intensity interval training, and more. The breathable mesh upper and cushioned insole provide comfort and flexibility, while the reinforced heel and toe areas offer added durability. Handcrafted in Germany, these shoes reflect superior craftsmanship and innovative design, making them an excellent choice for versatile athletic performance."
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "Processor": ["Intel Core i7", "Intel Core i5", "AMD Ryzen 7"],
+  "RAM": ["8GB", "16GB", "32GB"],
+  "Storage": ["256GB SSD", "512GB SSD", "1TB SSD"]
+}

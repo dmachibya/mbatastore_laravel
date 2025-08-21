@@ -1,0 +1,4 @@
+{
+  "Tool Type": ["Drill", "Wrench", "Screwdriver", "Hammer"],
+  "Material": ["Steel", "Aluminum", "Plastic", "Composite"]
+}

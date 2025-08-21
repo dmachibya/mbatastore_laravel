@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Kitchen Master Stainless Steel Toaster Oven - 6 Slice",
+    "slug": "kitchen-master-stainless-steel-toaster-oven-6-slice",
+    "sku": "KM-TO400-6S",
+    "description": "The Kitchen Master Stainless Steel Toaster Oven - 6 Slice combines style and functionality. With its sleek stainless steel exterior, this toaster oven looks great on any countertop. It features multiple cooking functions including bake, broil, toast, and keep warm. The spacious interior can accommodate a 12-inch pizza or six slices of bread, making it perfect for both small and large meals. The easy-to-use controls and adjustable temperature settings ensure perfect results every time. Ideal for quick snacks or full meals, this versatile appliance is a kitchen essential.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "Sleek Stainless Steel Exterior",
+      "Multiple Cooking Functions",
+      "Spacious Interior",
+      "Easy-to-Use Controls",
+      "Adjustable Temperature Settings"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 50,
+    "shipping_weight": 12.0,
+    "meta_title": "Kitchen Master Stainless Steel Toaster Oven - 6 Slice",
+    "meta_description": "Enhance your kitchen with the Kitchen Master Stainless Steel Toaster Oven - 6 Slice. Features a sleek design, multiple cooking functions, and a spacious interior for versatile cooking."
+  },
+  {
+    "title": "Kitchen Master Stainless Steel Toaster Oven - 12 Slice",
+    "slug": "kitchen-master-stainless-steel-toaster-oven-12-slice",
+    "sku": "KM-TO400-12S",
+    "description": "The Kitchen Master Stainless Steel Toaster Oven - 12 Slice combines style and functionality. With its sleek stainless steel exterior, this toaster oven looks great on any countertop. It features multiple cooking functions including bake, broil, toast, and keep warm. The spacious interior can accommodate a 12-inch pizza or twelve slices of bread, making it perfect for both small and large meals. The easy-to-use controls and adjustable temperature settings ensure perfect results every time. Ideal for quick snacks or full meals, this versatile appliance is a kitchen essential for larger households or those who love to entertain.",
+    "price": 119.99,
+    "offer_price": 109.99,
+    "key_features": [
+      "Sleek Stainless Steel Exterior",
+      "Multiple Cooking Functions",
+      "Extra Spacious Interior",
+      "Easy-to-Use Controls",
+      "Adjustable Temperature Settings"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 40,
+    "shipping_weight": 15.0,
+    "meta_title": "Kitchen Master Stainless Steel Toaster Oven - 12 Slice",
+    "meta_description": "Enhance your kitchen with the Kitchen Master Stainless Steel Toaster Oven - 12 Slice. Features a sleek design, multiple cooking functions, and an extra spacious interior for versatile cooking."
+  }
+]

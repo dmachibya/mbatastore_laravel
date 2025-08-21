@@ -1,0 +1,5 @@
+{
+  "Body Shape": ["Stratocaster", "Les Paul", "Telecaster", "SG"],
+  "Pickup Configuration": ["Single Coil", "Humbucker", "P90", "Active"],
+  "Neck Material": ["Maple", "Rosewood", "Mahogany", "Ebony"]
+}

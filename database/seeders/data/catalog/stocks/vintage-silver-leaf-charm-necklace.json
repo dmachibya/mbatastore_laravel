@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Vintage Silver Leaf Charm Necklace for Women",
+    "slug": "vintage-silver-leaf-charm-necklace-women",
+    "sku": "SE-LC-2024-01",
+    "description": "The Vintage Silver Leaf Charm Necklace is a beautiful piece of jewelry that combines classic elegance with a touch of nature-inspired design. Crafted from high-quality sterling silver, this necklace features a detailed leaf charm that showcases intricate leaf vein patterns and a polished finish. Ideal for daily wear or special occasions, this necklace offers a sophisticated yet timeless look. The vintage design makes it a great gift for those who appreciate fine craftsmanship and unique jewelry pieces.",
+    "price": 129.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "Sterling Silver",
+      "Vintage Leaf Charm",
+      "Intricate Design",
+      "Timeless Elegance"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 90,
+    "shipping_weight": "0.15 kg",
+    "meta_title": "Vintage Silver Leaf Charm Necklace | SilverElegance",
+    "meta_description": "Shop the Vintage Silver Leaf Charm Necklace from SilverElegance. Featuring a detailed leaf charm, this necklace is perfect for adding a touch of vintage elegance to any outfit. Buy now for a special discount!"
+  },
+  {
+    "title": "Classic Silver Leaf Charm Necklace for Women",
+    "slug": "classic-silver-leaf-charm-necklace-women",
+    "sku": "SE-LC-2024-02",
+    "description": "Add a touch of classic charm to your jewelry collection with the Classic Silver Leaf Charm Necklace. This elegant necklace features a detailed silver leaf pendant that captures the beauty of nature. Made from high-quality sterling silver, the necklace is both durable and stylish, making it perfect for everyday wear or as a special gift for someone you love. The vintage-inspired design of the leaf charm adds a unique touch to any outfit, offering a combination of sophistication and classic elegance.",
+    "price": 139.99,
+    "offer_price": 109.99,
+    "key_features": [
+      "High-Quality Sterling Silver",
+      "Classic Leaf Pendant",
+      "Elegant and Durable",
+      "Perfect for Daily Wear"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 60,
+    "shipping_weight": "0.2 kg",
+    "meta_title": "Classic Silver Leaf Charm Necklace | SilverElegance Jewelry",
+    "meta_description": "Discover the Classic Silver Leaf Charm Necklace from SilverElegance. Made from high-quality sterling silver, this necklace features a classic leaf pendant design. Shop now and enjoy a special discount!"
+  }
+]

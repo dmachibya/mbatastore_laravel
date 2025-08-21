@@ -1,0 +1,40 @@
+[
+  {
+    "title": "H&M Women's Pleated Midi Skirt - Black - Size S",
+    "slug": "hm-womens-pleated-midi-skirt-black-size-s",
+    "sku": "SKIRT-HM-2024-02-BK-S",
+    "description": "The H&M Women's Pleated Midi Skirt in Black offers a sophisticated and stylish option for any wardrobe. This skirt features a classic pleated design that adds a touch of elegance and movement to your outfit. The midi length falls gracefully below the knee, and the elasticized waistband provides a comfortable and adjustable fit. Made from a lightweight, airy fabric, this skirt is perfect for both casual and formal occasions. Available in black, this versatile skirt can be dressed up or down to suit a variety of events.",
+    "price": 49.99,
+    "offer_price": 39.0,
+    "key_features": [
+      "Elegant pleated design for added texture",
+      "Comfortable elasticized waistband for a perfect fit",
+      "Lightweight fabric for a soft, airy feel",
+      "Midi length for a versatile, stylish look"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 25,
+    "shipping_weight": 0.5,
+    "meta_title": "H&M Women's Pleated Midi Skirt - Black - Size S",
+    "meta_description": "Discover the H&M Women's Pleated Midi Skirt in Black. Featuring a classic pleated design, lightweight fabric, and an elasticized waistband. Ideal for both casual and formal occasions. Size S available."
+  },
+  {
+    "title": "H&M Women's Pleated Midi Skirt - Black - Size M",
+    "slug": "hm-womens-pleated-midi-skirt-black-size-m",
+    "sku": "SKIRT-HM-2024-02-BK-M",
+    "description": "The H&M Women's Pleated Midi Skirt in Black is a versatile and elegant choice for any wardrobe. Featuring a stylish pleated design that adds texture and movement, this skirt is made from a lightweight fabric that is both comfortable and breathable. The midi length and elasticized waistband ensure a flattering fit for a range of body types, making this skirt suitable for both casual and formal occasions. The timeless black color adds sophistication and pairs well with various tops and accessories.",
+    "price": 49.99,
+    "offer_price": 44.0,
+    "key_features": [
+      "Stylish pleated design for added elegance",
+      "Comfortable elasticized waistband",
+      "Lightweight, breathable fabric",
+      "Midi length for a versatile, fashionable look"
+    ],
+    "stock_quantity": 65,
+    "sold_quantity": 22,
+    "shipping_weight": 0.52,
+    "meta_title": "H&M Women's Pleated Midi Skirt - Black - Size M",
+    "meta_description": "Explore H&M Women's Pleated Midi Skirt in Black. Elegant pleated design with lightweight fabric and an elasticized waistband for comfort. Perfect for casual and formal occasions. Size M available."
+  }
+]

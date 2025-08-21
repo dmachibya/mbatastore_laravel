@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Levi's Men's 501 Original Fit Jeans",
+    "slug": "levis-mens-501-original-fit-jeans",
+    "brand": "Levi's",
+    "model_number": "LV-JEANS-2024-01",
+    "mpn": "LV-501",
+    "gtin": "5400826501580",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Levi Strauss & Co.",
+    "description": "Levi's Men's 501 Original Fit Jeans are a timeless classic that has been a staple in men’s fashion for decades. These jeans offer a straight-leg cut with a regular fit through the thigh and knee, allowing for comfort and style. Made from 100% cotton denim, these jeans provide durability and breathability. They feature a traditional button fly, five-pocket styling, and the iconic Levi's red tab on the back pocket. Perfect for everyday wear, the 501 jeans can be dressed up or down for various occasions."
+  },
+  {
+    "name": "Wrangler Men's Authentics Regular Fit Jean",
+    "slug": "wrangler-mens-authentics-regular-fit-jean",
+    "brand": "Wrangler",
+    "model_number": "WR-JEANS-2024-02",
+    "mpn": "WR-067",
+    "gtin": "0191056389636",
+    "gtin_type": "EAN",
+    "origin_country": "Mexico",
+    "manufacturer": "Wrangler Apparel Corp.",
+    "description": "The Wrangler Men's Authentics Regular Fit Jean offers a versatile and classic style for men. These jeans are made from durable cotton denim with a touch of stretch for added comfort. The regular fit provides a relaxed, easygoing silhouette with a traditional five-pocket design and a zip fly. The jeans feature Wrangler's signature stitching on the back pockets and a leather Wrangler patch on the waistband. Ideal for casual wear, these jeans offer a combination of comfort and style."
+  }
+]

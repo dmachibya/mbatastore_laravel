@@ -1,0 +1,5 @@
+{
+  "Length": ["150 cm", "155 cm", "160 cm", "165 cm"],
+  "Gender": ["Men", "Women", "Unisex"],
+  "Flex": ["Soft", "Medium", "Stiff"]
+}

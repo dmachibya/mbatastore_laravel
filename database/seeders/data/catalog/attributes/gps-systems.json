@@ -1,0 +1,16 @@
+{
+  "Navigation Type": ["Built-In", "Portable", "Smartphone App", "PDA Device"],
+  "Screen Size": ["4.3 inches", "5.0 inches", "6.0 inches", "7.0 inches"],
+  "Map Updates": [
+    "Lifetime Updates",
+    "Annual Updates",
+    "One-Time Update",
+    "No Updates"
+  ],
+  "Features": [
+    "Real-Time Traffic",
+    "Voice Guidance",
+    "Bluetooth Connectivity",
+    "POI Search"
+  ]
+}

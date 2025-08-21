@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Extreme Energy Drink - Citrus Blast - 16 oz Can",
+    "slug": "extreme-energy-drink-citrus-blast-16-oz-can",
+    "sku": "ME-EB-001-16OZ",
+    "description": "Monster Energy's Extreme Energy Drink in Citrus Blast flavor is packed with a potent mix of caffeine, taurine, and B-vitamins to deliver a powerful energy boost. Each 16-ounce can is designed to enhance mental alertness and physical performance, making it perfect for athletes, students, or anyone needing an extra push. The Citrus Blast flavor offers a zesty, refreshing taste while providing essential electrolytes for hydration. Experience the extreme energy you need to power through your day with this invigorating drink.",
+    "price": 2.99,
+    "offer_price": 2.49,
+    "key_features": [
+      "16 oz Can",
+      "Caffeine and Taurine Boost",
+      "Citrus Blast Flavor",
+      "Electrolytes for Hydration"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 200,
+    "shipping_weight": 0.6,
+    "meta_title": "Extreme Energy Drink - Citrus Blast - 16 oz Can | Monster Energy",
+    "meta_description": "Get Monster Energy's Extreme Energy Drink in Citrus Blast flavor. 16 oz can with caffeine, taurine, and B-vitamins for a powerful energy boost. Special offer available now!"
+  },
+  {
+    "title": "Extreme Energy Drink - Citrus Blast - Pack of 6",
+    "slug": "extreme-energy-drink-citrus-blast-pack-of-6",
+    "sku": "ME-EB-001-6PK",
+    "description": "Monster Energy's Extreme Energy Drink in Citrus Blast flavor is now available in a convenient Pack of 6. Each 16-ounce can offers a potent blend of caffeine, taurine, and B-vitamins designed to boost energy, focus, and endurance. The refreshing Citrus Blast flavor is perfect for those long days when you need an extra kick. This pack is ideal for sharing with friends or stocking up for your personal energy needs.",
+    "price": 15.99,
+    "offer_price": 12.99,
+    "key_features": [
+      "Pack of 6 Cans",
+      "Caffeine and Taurine Infusion",
+      "Refreshing Citrus Blast Flavor",
+      "Perfect for On-the-Go Energy"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 80,
+    "shipping_weight": 3.6,
+    "meta_title": "Extreme Energy Drink - Citrus Blast - Pack of 6 | Monster Energy",
+    "meta_description": "Buy the Extreme Energy Drink - Citrus Blast in a Pack of 6 from Monster Energy. 16 oz cans with a powerful energy boost, perfect for sharing or stocking up. Special discount available!"
+  }
+]

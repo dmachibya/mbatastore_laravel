@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Samsung Galaxy Watch 5 Bluetooth",
+    "slug": "samsung-galaxy-watch-5-bluetooth",
+    "sku": "SGW5-BT-01",
+    "description": "The Samsung Galaxy Watch 5 Bluetooth is a premium smartwatch designed to keep you connected, active, and healthy. Featuring a durable design with a rotating bezel and a vibrant AMOLED display, this watch offers advanced health tracking capabilities, including ECG, blood oxygen monitoring, and body composition analysis. The Galaxy Watch 5 supports a variety of fitness modes and GPS tracking for accurate activity monitoring. With Wear OS powered by Samsung, you have access to a wide range of apps and services to enhance your daily life. Stay connected with notifications, calls, and messages right on your wrist, and enjoy the convenience of Samsung Pay for contactless payments. The Samsung Galaxy Watch 5 Bluetooth combines style, functionality, and advanced health features to help you achieve your wellness goals.",
+    "price": 329.99,
+    "offer_price": 299.99,
+    "key_features": [
+      "AMOLED Display",
+      "Advanced Health Tracking",
+      "ECG and Blood Oxygen Monitoring",
+      "Wear OS",
+      "Samsung Pay"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 300,
+    "shipping_weight": "0.15 kg",
+    "meta_title": "Samsung Galaxy Watch 5 Bluetooth | Samsung",
+    "meta_description": "Shop the Samsung Galaxy Watch 5 Bluetooth with advanced health tracking, AMOLED display, and Wear OS. Available now with a special offer. Stay connected and healthy."
+  },
+  {
+    "title": "Samsung Galaxy Watch 5 LTE",
+    "slug": "samsung-galaxy-watch-5-lte",
+    "sku": "SGW5-LTE-02",
+    "description": "The Samsung Galaxy Watch 5 LTE is a top-tier smartwatch designed to keep you connected, active, and healthy wherever you go. This model features a durable design with a rotating bezel and a vibrant AMOLED display. With LTE connectivity, you can make calls, send texts, and stream music without your phone. Advanced health tracking features include ECG, blood oxygen monitoring, and body composition analysis to help you stay on top of your wellness. The Galaxy Watch 5 supports a variety of fitness modes and GPS tracking for accurate activity monitoring. With Wear OS powered by Samsung, you get access to a wide range of apps and services to enhance your lifestyle. Stay connected with notifications, calls, and messages right on your wrist, and enjoy the convenience of Samsung Pay for contactless payments. The Samsung Galaxy Watch 5 LTE offers style, functionality, and advanced health features to help you achieve your wellness goals.",
+    "price": 379.99,
+    "offer_price": 349.99,
+    "key_features": [
+      "LTE Connectivity",
+      "AMOLED Display",
+      "Advanced Health Tracking",
+      "Wear OS",
+      "Samsung Pay"
+    ],
+    "stock_quantity": 120,
+    "sold_quantity": 250,
+    "shipping_weight": "0.15 kg",
+    "meta_title": "Samsung Galaxy Watch 5 LTE | Samsung",
+    "meta_description": "Get the Samsung Galaxy Watch 5 LTE with advanced health tracking, LTE connectivity, and AMOLED display. Available now with a special offer. Stay connected anywhere."
+  }
+]

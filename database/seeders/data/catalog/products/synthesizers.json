@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Korg Minilogue XD Analog Synthesizer",
+    "slug": "korg-minilogue-xd-analog-synthesizer",
+    "brand": "Korg",
+    "model_number": "Minilogue XD",
+    "mpn": "MINILOGUE-XD",
+    "gtin": "4959112192741",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Korg Inc.",
+    "description": "The Korg Minilogue XD Analog Synthesizer is a versatile and powerful instrument that combines the best of analog and digital technologies. Featuring a 4-voice analog synthesizer engine with a digital multi-engine, this synthesizer offers a wide range of sound possibilities. The Minilogue XD includes 37 slim keys, an OLED oscilloscope display, and an intuitive interface for easy sound design. With built-in effects, a step sequencer, and a joystick for modulation control, this synthesizer is perfect for both live performances and studio work. Its compact and portable design makes it an ideal choice for musicians on the go."
+  },
+  {
+    "name": "Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer",
+    "slug": "roland-jd-xi-interactive-analog-digital-crossover-synthesizer",
+    "brand": "Roland",
+    "model_number": "JD-Xi",
+    "mpn": "JD-XI",
+    "gtin": "4957054507445",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Roland Corporation",
+    "description": "The Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer offers a unique combination of analog warmth and digital versatility. Equipped with a monophonic analog synthesizer engine and a powerful digital sound engine, the JD-Xi provides a broad palette of sounds. It features 37 mini keys, a gooseneck mic for vocal effects, and an onboard pattern sequencer for creating complex arrangements. The JD-Xi also includes a wide range of effects, arpeggiator, and drum kits, making it a complete solution for musicians and producers. Its compact size and intuitive controls make it a perfect fit for both live performances and studio sessions."
+  }
+]

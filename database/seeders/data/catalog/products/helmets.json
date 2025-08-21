@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Bell Qualifier DLX MIPS Full-Face Motorcycle Helmet",
+    "slug": "bell-qualifier-dlx-mips-full-face-motorcycle-helmet",
+    "brand": "Bell",
+    "model_number": "QUA-DLX-MIPS-BLK-S",
+    "mpn": "7077887",
+    "gtin": "768686006261",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Bell Helmets",
+    "description": "The Bell Qualifier DLX MIPS Full-Face Motorcycle Helmet offers top-of-the-line protection and comfort for riders. Featuring the MIPS (Multi-Directional Impact Protection System) technology, this helmet provides enhanced safety by reducing rotational forces during impacts. The Qualifier DLX is equipped with a sleek, aerodynamic design for reduced wind noise and improved stability at high speeds. It comes with a NutraFog II™ anti-scratch, anti-fog face shield and a ClickRelease™ system for easy shield changes. The helmet also includes a fully removable and washable interior for convenience and hygiene, as well as an integrated speaker pockets for communication systems. Perfect for both daily commutes and long rides.",
+    "price": 249.95,
+    "offer_price": 229.95,
+    "key_features": [
+      "MIPS Technology for Enhanced Protection",
+      "Aerodynamic Shell Design",
+      "NutraFog II™ Anti-Scratch, Anti-Fog Face Shield",
+      "ClickRelease™ Shield Replacement System",
+      "Removable and Washable Interior",
+      "Integrated Speaker Pockets"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 7,
+    "shipping_weight": 3.2,
+    "meta_title": "Bell Qualifier DLX MIPS Full-Face Motorcycle Helmet | Bell Helmets",
+    "meta_description": "Shop the Bell Qualifier DLX MIPS Full-Face Motorcycle Helmet for superior safety and comfort. Features MIPS technology, aerodynamic design, and a NutraFog II™ face shield. Buy now for exclusive offers!"
+  },
+  {
+    "name": "Shoei RF-1400 Full-Face Motorcycle Helmet",
+    "slug": "shoei-rf-1400-full-face-motorcycle-helmet",
+    "brand": "Shoei",
+    "model_number": "RF-1400-BLK-M",
+    "mpn": "0103-0910",
+    "gtin": "0738283368668",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Shoei Helmets",
+    "description": "The Shoei RF-1400 Full-Face Motorcycle Helmet is designed for riders seeking high-performance protection with exceptional comfort. The RF-1400 features an advanced Integrated Matrix Plus (IMPACT) shell construction for superior strength and durability. It is equipped with a multi-density EPS liner for advanced impact absorption and a 3D Max-Dry II™ interior system for superior moisture-wicking and comfort. The helmet also includes a CWR-F2 Shield with Pinlock® EVO system for a clear, fog-free view and an advanced ventilation system for optimal airflow. With its aerodynamic design, the RF-1400 is perfect for both aggressive track riding and everyday street use.",
+    "price": 499.99,
+    "offer_price": 469.99,
+    "key_features": [
+      "IMPACT Shell Construction for Durability",
+      "Multi-Density EPS Liner for Impact Absorption",
+      "3D Max-Dry II™ Interior for Moisture-Wicking",
+      "CWR-F2 Shield with Pinlock® EVO System",
+      "Advanced Ventilation System",
+      "Aerodynamic Design for High Performance"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 4,
+    "shipping_weight": 3.5,
+    "meta_title": "Shoei RF-1400 Full-Face Motorcycle Helmet | Shoei Helmets",
+    "meta_description": "Get the Shoei RF-1400 Full-Face Motorcycle Helmet for top-tier protection and comfort. Features IMPACT shell construction, 3D Max-Dry II™ interior, and CWR-F2 Shield with Pinlock® EVO. Buy now for great deals!"
+  }
+]

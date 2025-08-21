@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Oculus Quest 2",
+    "slug": "oculus-quest-2",
+    "brand": "Oculus",
+    "model_number": "Oculus Quest 2",
+    "mpn": "899-00068-02",
+    "gtin": "0815820025568",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Oculus VR",
+    "description": "The Oculus Quest 2 is an advanced standalone virtual reality headset that delivers an immersive VR experience without the need for a PC or external sensors. Featuring a high-resolution display with 1832 x 1920 pixels per eye, the Quest 2 offers crisp visuals and a wide field of view. The headset is powered by the Qualcomm Snapdragon XR2 platform and comes with 6GB of RAM, ensuring smooth performance for the latest VR games and applications. With its intuitive controllers, advanced tracking technology, and a library of over 350 games and experiences, the Quest 2 provides a truly immersive virtual reality experience. The headset also features built-in speakers for 3D spatial audio and a comfortable design for extended play sessions. The Oculus Quest 2 supports a range of accessories, including custom-fit face cushions and carrying cases, to enhance your VR experience."
+  },
+  {
+    "name": "HTC Vive Pro 2",
+    "slug": "htc-vive-pro-2",
+    "brand": "HTC",
+    "model_number": "99HAFW001-00",
+    "mpn": "99HAFW001-00",
+    "gtin": "4718487713754",
+    "gtin_type": "EAN",
+    "origin_country": "Taiwan",
+    "manufacturer": "HTC Corporation",
+    "description": "The HTC Vive Pro 2 is a premium virtual reality headset designed for the most demanding VR enthusiasts and professionals. It features a 5K display with 2448 x 2448 pixels per eye, offering unparalleled image clarity and detail. The headset is equipped with a high-performance LCD panel that supports a 120Hz refresh rate, providing smooth and immersive VR experiences. The Vive Pro 2 includes high-precision SteamVR Tracking 2.0 technology and dual front-facing cameras for a wide tracking range and advanced mixed reality capabilities. The ergonomic design features adjustable head straps, a balanced weight distribution, and customizable face padding for long-lasting comfort. The integrated Hi-Res certified headphones deliver high-fidelity audio for an immersive experience. The Vive Pro 2 is compatible with a variety of VR accessories and is ideal for advanced simulations, professional training, and high-end gaming."
+  }
+]

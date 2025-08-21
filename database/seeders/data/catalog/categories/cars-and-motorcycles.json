@@ -1,0 +1,279 @@
+{
+  "Cars": {
+    "description": "Explore our wide range of cars, from sedans to electric vehicles, designed to meet every need and preference.",
+    "slug": "cars",
+    "subcategories": [
+      {
+        "name": "Sedans",
+        "description": "Comfortable and fuel-efficient cars perfect for city and highway driving.",
+        "slug": "sedans"
+      },
+      {
+        "name": "SUVs",
+        "description": "Spacious and versatile vehicles ideal for families and off-road adventures.",
+        "slug": "suvs"
+      },
+      {
+        "name": "Trucks",
+        "description": "Durable and powerful trucks suitable for heavy-duty tasks and hauling.",
+        "slug": "trucks"
+      },
+      {
+        "name": "Electric Cars",
+        "description": "Eco-friendly electric cars offering zero-emission driving and advanced technology.",
+        "slug": "electric-cars"
+      },
+      {
+        "name": "Convertibles",
+        "description": "Stylish convertibles perfect for enjoying open-air driving.",
+        "slug": "convertibles"
+      },
+      {
+        "name": "Hatchbacks",
+        "description": "Versatile and practical hatchbacks with ample cargo space.",
+        "slug": "hatchbacks"
+      }
+    ]
+  },
+  "Motorcycles": {
+    "description": "Discover our collection of motorcycles, ranging from cruisers to electric bikes, for every riding style.",
+    "slug": "motorcycles",
+    "subcategories": [
+      {
+        "name": "Cruisers",
+        "description": "Classic and comfortable cruisers for long, relaxed rides.",
+        "slug": "cruisers"
+      },
+      {
+        "name": "Sport Bikes",
+        "description": "High-performance sport bikes designed for speed and agility.",
+        "slug": "sport-bikes"
+      },
+      {
+        "name": "Electric Motorcycles",
+        "description": "Innovative electric motorcycles offering eco-friendly and efficient riding.",
+        "slug": "electric-motorcycles"
+      },
+      {
+        "name": "Scooters",
+        "description": "Convenient and economical scooters for easy urban commuting.",
+        "slug": "scooters"
+      }
+    ]
+  },
+  "Car Accessories": {
+    "description": "Enhance your car's comfort and functionality with our range of car accessories.",
+    "slug": "car-accessories",
+    "subcategories": [
+      {
+        "name": "Car Audio Systems",
+        "description": "Upgrade your car's audio experience with advanced sound systems.",
+        "slug": "car-audio-systems"
+      },
+      {
+        "name": "GPS Systems",
+        "description": "Navigate with ease using our reliable GPS systems.",
+        "slug": "gps-systems"
+      },
+      {
+        "name": "Dash Cameras",
+        "description": "Record your journeys and enhance safety with our dash cameras.",
+        "slug": "dash-cameras"
+      }
+    ]
+  },
+  "Motorcycle Accessories": {
+    "description": "Equip your motorcycle with essential accessories for enhanced safety and convenience.",
+    "slug": "motorcycle-accessories",
+    "subcategories": [
+      {
+        "name": "Helmets",
+        "description": "Stay safe on the road with our range of certified helmets.",
+        "slug": "helmets"
+      },
+      {
+        "name": "Riding Gear",
+        "description": "Protective and comfortable riding gear for all weather conditions.",
+        "slug": "riding-gear"
+      }
+    ]
+  },
+  "Exterior Accessories": {
+    "description": "Improve your vehicle's exterior with our range of stylish and functional accessories.",
+    "slug": "exterior-accessories",
+    "subcategories": [
+      {
+        "name": "Roof Racks",
+        "description": "Expand your car's cargo capacity with sturdy roof racks.",
+        "slug": "roof-racks"
+      },
+      {
+        "name": "Car Covers",
+        "description": "Protect your car's exterior with high-quality car covers.",
+        "slug": "car-covers"
+      },
+      {
+        "name": "Bumper Guards",
+        "description": "Shield your car's bumpers from damage with durable guards.",
+        "slug": "bumper-guards"
+      },
+      {
+        "name": "Side Steps",
+        "description": "Enhance accessibility and style with our range of side steps.",
+        "slug": "side-steps"
+      }
+    ]
+  },
+  "Maintenance Equipment": {
+    "description": "Keep your vehicle in top condition with our maintenance equipment and supplies.",
+    "slug": "maintenance-equipment",
+    "subcategories": [
+      {
+        "name": "Cleaning Supplies",
+        "description": "Everything you need for a spotless and well-maintained vehicle.",
+        "slug": "cleaning-supplies"
+      },
+      {
+        "name": "Engine Oil",
+        "description": "High-quality engine oil for optimal vehicle performance.",
+        "slug": "engine-oil"
+      },
+      {
+        "name": "Air Filters",
+        "description": "Ensure clean airflow and engine efficiency with our air filters.",
+        "slug": "air-filters"
+      },
+      {
+        "name": "Tool Kits",
+        "description": "Comprehensive tool kits for all your vehicle maintenance needs.",
+        "slug": "tool-kits"
+      }
+    ]
+  },
+  "Car Parts": {
+    "description": "Find reliable and durable car parts to keep your vehicle running smoothly.",
+    "slug": "car-parts",
+    "subcategories": [
+      {
+        "name": "Engine Parts",
+        "description": "High-quality engine parts for all types of vehicles.",
+        "slug": "engine-parts"
+      },
+      {
+        "name": "Transmission Parts",
+        "description": "Ensure smooth and efficient power transfer with our transmission parts.",
+        "slug": "transmission-parts"
+      }
+    ]
+  },
+  "Motorcycle Parts": {
+    "description": "Explore our range of motorcycle parts to keep your bike in top shape.",
+    "slug": "motorcycle-parts",
+    "subcategories": [
+      {
+        "name": "Engine Parts",
+        "description": "Premium engine parts for various motorcycle models.",
+        "slug": "motorcycle-engine-parts"
+      },
+      {
+        "name": "Brake Parts",
+        "description": "High-performance brake parts for safe and efficient braking.",
+        "slug": "motorcycle-brake-parts"
+      }
+    ]
+  },
+  "Tires": {
+    "description": "High-quality tires for all vehicle types, ensuring safety and performance on the road.",
+    "slug": "tires",
+    "subcategories": [
+      {
+        "name": "Car Tires",
+        "slug": "car-tires",
+        "description": "Durable and reliable tires designed for various car models, offering superior grip and longevity."
+      },
+      {
+        "name": "Motorcycle Tires",
+        "slug": "motorcycle-tires",
+        "description": "High-performance motorcycle tires for a smooth and safe ride in all conditions."
+      }
+    ]
+  },
+  "Batteries": {
+    "description": "A range of batteries for various vehicles, providing reliable power and long-lasting performance.",
+    "slug": "batteries",
+    "subcategories": [
+      {
+        "name": "Car Batteries",
+        "slug": "car-batteries",
+        "description": "Powerful and dependable car batteries to keep your vehicle running smoothly."
+      },
+      {
+        "name": "Motorcycle Batteries",
+        "slug": "motorcycle-batteries",
+        "description": "High-capacity motorcycle batteries ensuring optimal performance and quick starts."
+      },
+      {
+        "name": "Lithium-Ion Batteries",
+        "slug": "lithium-ion-batteries",
+        "description": "Advanced lithium-ion batteries offering lightweight and efficient power solutions."
+      },
+      {
+        "name": "Maintenance-Free Batteries",
+        "slug": "maintenance-free-batteries",
+        "description": "Hassle-free batteries that require no maintenance, providing consistent power over time."
+      }
+    ]
+  },
+  "Safety Gear": {
+    "description": "Essential safety gear to enhance driver and passenger protection in any vehicle.",
+    "slug": "safety-gear",
+    "subcategories": [
+      {
+        "name": "Airbags",
+        "slug": "airbags",
+        "description": "Advanced airbag systems designed to provide maximum protection during collisions."
+      },
+      {
+        "name": "Blind Spot Monitors",
+        "slug": "blind-spot-monitors",
+        "description": "Innovative blind spot monitoring systems to alert drivers of unseen vehicles, ensuring safer lane changes."
+      },
+      {
+        "name": "Backup Cameras",
+        "slug": "backup-cameras",
+        "description": "High-definition backup cameras providing clear visibility to aid in reversing and parking."
+      },
+      {
+        "name": "Lane Departure Warning Systems",
+        "slug": "lane-departure-warning-systems",
+        "description": "Cutting-edge lane departure warning systems to help prevent unintentional lane drifting."
+      }
+    ]
+  },
+  "Lighting": {
+    "description": "A variety of vehicle lighting options to enhance visibility and style, ensuring safe driving in all conditions.",
+    "slug": "lighting",
+    "subcategories": [
+      {
+        "name": "LED Headlights",
+        "slug": "led-headlights",
+        "description": "Bright and energy-efficient LED headlights for improved nighttime visibility and modern aesthetics."
+      },
+      {
+        "name": "Fog Lights",
+        "slug": "fog-lights",
+        "description": "High-performance fog lights designed to cut through dense fog, rain, and snow for safer driving."
+      },
+      {
+        "name": "Interior LED Lights",
+        "slug": "interior-led-lights",
+        "description": "Stylish interior LED lighting solutions to illuminate your vehicle's cabin with a modern touch."
+      },
+      {
+        "name": "Underbody Lights",
+        "slug": "underbody-lights",
+        "description": "Eye-catching underbody lights to enhance the look of your vehicle with vibrant, customizable lighting."
+      }
+    ]
+  }
+}

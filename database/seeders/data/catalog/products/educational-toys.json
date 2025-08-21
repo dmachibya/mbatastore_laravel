@@ -1,0 +1,26 @@
+[
+  {
+    "name": "VTech Magic Star Learning Table",
+    "slug": "vtech-magic-star-learning-table",
+    "brand": "VTech",
+    "model_number": "VT-MST-2023",
+    "mpn": "VT-MST-2023",
+    "gtin": "3417765203016",
+    "gtin_type": "EAN",
+    "origin_country": "China",
+    "manufacturer": "VTech",
+    "description": "The VTech Magic Star Learning Table offers an engaging, interactive learning experience for toddlers. This educational toy features a vibrant, activity-rich table with over 70 sing-along songs, melodies, and phrases designed to teach basic concepts such as numbers, letters, shapes, and colors. The table includes a range of fun activities including spinning gears, light-up buttons, and a removable toy phone that introduces children to early communication skills. Designed for children aged 6 months to 3 years, the Magic Star Learning Table promotes fine motor skills, cognitive development, and language skills through playful interaction. The durable construction and easy-to-clean surface ensure that this learning table can withstand enthusiastic playtimes and be a staple of your child's educational play routine."
+  },
+  {
+    "name": "LeapFrog LeapStart 3D Interactive Learning System",
+    "slug": "leapfrog-leapstart-3d-interactive-learning-system",
+    "brand": "LeapFrog",
+    "model_number": "LF-LS3D-2023",
+    "mpn": "LF-LS3D-2023",
+    "gtin": "3417765377507",
+    "gtin_type": "EAN",
+    "origin_country": "China",
+    "manufacturer": "LeapFrog Enterprises",
+    "description": "The LeapFrog LeapStart 3D Interactive Learning System is a versatile educational tool designed for children aged 2 to 7 years. This innovative learning system features a 3D interactive book library that covers a variety of subjects including reading, math, and problem-solving. The LeapStart 3D system uses interactive books that engage children with touch-and-talk activities, animated characters, and immersive learning experiences. The system includes a stylus pen that interacts with the books to provide audio feedback and educational content, making learning fun and interactive. With over 25 books available separately, the LeapStart 3D system offers a comprehensive educational experience that adapts to your child’s learning needs and helps build foundational skills for future academic success."
+  }
+]

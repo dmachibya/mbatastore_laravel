@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Windows 11 Pro - Full Version",
+    "slug": "windows-11-pro-full-version",
+    "sku": "KW9-00258-FV",
+    "description": "Experience the best of computing with Windows 11 Pro. This full version license provides a complete upgrade to the latest operating system from Microsoft, offering an enhanced user experience with a modern interface, advanced security features, and improved performance. Windows 11 Pro includes new tools for productivity such as Snap Layouts, improved virtual desktops, and Widgets to keep you organized. It also supports advanced hardware features and is compatible with the latest software technologies. Ideal for businesses and professionals who require a high-performance, secure, and efficient operating system.",
+    "price": 139.99,
+    "offer_price": 119.99,
+    "key_features": [
+      "Modern User Interface",
+      "Enhanced Security Features",
+      "Advanced Productivity Tools",
+      "Latest Hardware and Software Compatibility"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 500,
+    "shipping_weight": 0.05,
+    "meta_title": "Windows 11 Pro - Full Version | Microsoft",
+    "meta_description": "Buy Windows 11 Pro - Full Version from Microsoft. Upgrade to the latest OS with advanced security, productivity tools, and modern features. Perfect for professionals and businesses."
+  },
+  {
+    "title": "Windows 11 Pro - Digital Download",
+    "slug": "windows-11-pro-digital-download",
+    "sku": "KW9-00258-DD",
+    "description": "Get instant access to Windows 11 Pro with this digital download version. Perfect for those who prefer a quick and easy installation process, this version provides the same advanced features as the full retail version, including a modern interface, enhanced security, and productivity tools. Download Windows 11 Pro directly to your PC and start enjoying the latest operating system from Microsoft. This version is ideal for users who want to upgrade their current system without waiting for physical media.",
+    "price": 129.99,
+    "offer_price": 109.99,
+    "key_features": [
+      "Digital Download for Instant Access",
+      "Includes All Features of Full Version",
+      "Modern User Interface and Security Enhancements",
+      "Easy and Quick Installation"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 300,
+    "shipping_weight": 0.0,
+    "meta_title": "Windows 11 Pro - Digital Download | Microsoft",
+    "meta_description": "Purchase Windows 11 Pro - Digital Download from Microsoft. Instant access to the latest OS with modern features, enhanced security, and productivity tools. Ideal for quick upgrades."
+  }
+]

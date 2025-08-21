@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer - Standard Package",
+    "slug": "roland-jd-xi-interactive-analog-digital-crossover-synthesizer-standard-package",
+    "sku": "ROL-JDXI-SP",
+    "description": "The Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer - Standard Package offers a unique blend of analog warmth and digital versatility. Featuring a monophonic analog synthesizer engine and a powerful digital sound engine, the JD-Xi provides a broad range of sounds. With 37 mini keys, a gooseneck mic for vocal effects, and an onboard pattern sequencer, this synthesizer is perfect for creating complex arrangements. The standard package includes the synthesizer, power adapter, and user manual. Ideal for musicians and producers, the JD-Xi delivers high-quality sounds and intuitive controls for both live and studio use.",
+    "price": 499.99,
+    "offer_price": 449.99,
+    "key_features": [
+      "Monophonic Analog Engine",
+      "Powerful Digital Sound Engine",
+      "37 Mini Keys",
+      "Onboard Pattern Sequencer"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 8,
+    "shipping_weight": 7.0,
+    "meta_title": "Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer - Standard Package",
+    "meta_description": "Shop the Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer - Standard Package, featuring a monophonic analog engine, powerful digital sound engine, 37 mini keys, and onboard pattern sequencer. Perfect for musicians and producers."
+  },
+  {
+    "title": "Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer - Premium Package",
+    "slug": "roland-jd-xi-interactive-analog-digital-crossover-synthesizer-premium-package",
+    "sku": "ROL-JDXI-PP",
+    "description": "The Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer - Premium Package offers a comprehensive set of tools for an exceptional musical experience. This package includes the JD-Xi synthesizer with its monophonic analog engine and powerful digital sound engine, providing a wide range of sonic possibilities. The premium package also comes with a padded gig bag, a sustain pedal, and a set of high-quality headphones. With 37 mini keys, a gooseneck mic for vocal effects, and an onboard pattern sequencer, the JD-Xi is perfect for both live performances and studio sessions. Experience the ultimate in sound flexibility and control with this premium package.",
+    "price": 599.99,
+    "offer_price": 549.99,
+    "key_features": [
+      "Monophonic Analog Engine",
+      "Powerful Digital Sound Engine",
+      "37 Mini Keys",
+      "Onboard Pattern Sequencer",
+      "Premium Accessories Included"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 5,
+    "shipping_weight": 9.0,
+    "meta_title": "Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer - Premium Package",
+    "meta_description": "Discover the Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer - Premium Package, featuring a monophonic analog engine, powerful digital sound engine, 37 mini keys, onboard pattern sequencer, and premium accessories. Ideal for live and studio use."
+  }
+]

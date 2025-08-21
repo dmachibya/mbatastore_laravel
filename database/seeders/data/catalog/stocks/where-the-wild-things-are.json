@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Where the Wild Things Are - Hardcover",
+    "slug": "where-the-wild-things-are-hardcover",
+    "sku": "WTWTA-HC",
+    "description": "Maurice Sendak's 'Where the Wild Things Are' is a timeless classic that has enchanted generations of readers. This hardcover edition provides a durable, high-quality format perfect for young readers and collectors alike. The story follows Max, who, after being sent to his room for misbehaving, imagines sailing away to a fantastical land of wild creatures who crown him their king. Sendak's imaginative narrative and captivating illustrations explore themes of creativity, emotions, and the importance of home. This beautifully crafted story is sure to become a cherished part of any child's library.",
+    "price": 18.99,
+    "offer_price": 16.99,
+    "key_features": [
+      "Classic Children's Story",
+      "Beautiful Illustrations",
+      "Hardcover Edition",
+      "Themes of Creativity and Home"
+    ],
+    "stock_quantity": 120,
+    "sold_quantity": 60,
+    "shipping_weight": 1.2,
+    "meta_title": "Where the Wild Things Are - Hardcover",
+    "meta_description": "Buy 'Where the Wild Things Are' in hardcover. Maurice Sendak's classic children's book with imaginative storytelling and stunning illustrations."
+  },
+  {
+    "title": "Where the Wild Things Are - Board Book",
+    "slug": "where-the-wild-things-are-board-book",
+    "sku": "WTWTA-BB",
+    "description": "This board book edition of Maurice Sendak's 'Where the Wild Things Are' is perfect for the youngest readers. With sturdy pages that can withstand rough handling, this edition brings the beloved story of Max and the wild things to a new generation. Sent to his room for misbehaving, Max imagines a fantastical journey to a land of wild creatures who crown him their king. With its captivating narrative and beautiful illustrations, this board book edition retains all the magic of the original, making it a delightful addition to any child's library.",
+    "price": 9.99,
+    "offer_price": 8.99,
+    "key_features": [
+      "Classic Children's Story",
+      "Durable Board Book Format",
+      "Beautiful Illustrations",
+      "Themes of Creativity and Home"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 80,
+    "shipping_weight": 0.8,
+    "meta_title": "Where the Wild Things Are - Board Book",
+    "meta_description": "Order 'Where the Wild Things Are' in a durable board book format. Maurice Sendak's classic story, perfect for young readers."
+  }
+]

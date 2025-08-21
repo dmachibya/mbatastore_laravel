@@ -1,0 +1,5 @@
+{
+  "Display Size": ["40mm", "44mm", "45mm", "46mm"],
+  "Operating System": ["watchOS", "Wear OS", "Tizen"],
+  "Connectivity": ["Bluetooth", "Wi-Fi", "LTE"]
+}

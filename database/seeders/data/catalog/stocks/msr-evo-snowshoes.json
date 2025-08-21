@@ -1,0 +1,40 @@
+[
+  {
+    "title": "MSR Evo Snowshoes - 22 in",
+    "slug": "msr-evo-snowshoes-22-in",
+    "sku": "200000275-22",
+    "description": "The MSR Evo Snowshoes in 22 inches offer a versatile and reliable option for winter hiking. These snowshoes are built with a durable, rugged construction, featuring a lightweight design that ensures excellent flotation on snow and stability on icy terrain. The steel traction rails provide superior grip, while the adjustable bindings ensure a secure fit for various boot sizes. Whether you're new to snowshoeing or a seasoned adventurer, the MSR Evo Snowshoes are perfect for tackling both flat and hilly terrain. Experience comfort and performance with these high-quality snowshoes.",
+    "price": 139.99,
+    "offer_price": 124.99,
+    "key_features": [
+      "Durable Construction",
+      "Steel Traction Rails",
+      "Lightweight Design",
+      "Adjustable Bindings"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 45,
+    "shipping_weight": 2.5,
+    "meta_title": "MSR Evo Snowshoes - 22 in | Reliable Winter Hiking Gear",
+    "meta_description": "Shop the MSR Evo Snowshoes in 22 in for a reliable winter hiking experience. Durable, lightweight, and equipped with steel traction rails for stability and grip. Special offer available!"
+  },
+  {
+    "title": "MSR Evo Snowshoes - 30 in",
+    "slug": "msr-evo-snowshoes-30-in",
+    "sku": "200000275-30",
+    "description": "The MSR Evo Snowshoes in 30 inches are designed for more demanding snowshoeing adventures. These snowshoes feature a rugged construction and a lightweight design that offers excellent flotation on deep snow and stability on icy terrain. Equipped with steel traction rails and adjustable bindings, the Evo Snowshoes provide a secure fit and reliable performance for all types of winter conditions. Ideal for both beginners and experienced snowshoers, the 30-inch size offers a balance of stability and comfort for various snowshoeing activities.",
+    "price": 159.99,
+    "offer_price": 144.99,
+    "key_features": [
+      "Rugged Construction",
+      "Steel Traction Rails",
+      "Lightweight and Durable",
+      "Adjustable Bindings"
+    ],
+    "stock_quantity": 18,
+    "sold_quantity": 32,
+    "shipping_weight": 2.8,
+    "meta_title": "MSR Evo Snowshoes - 30 in | Versatile Snowshoe for Winter Adventures",
+    "meta_description": "Discover the MSR Evo Snowshoes in 30 in for versatile and reliable snowshoeing. Rugged construction, steel traction rails, and adjustable bindings for a great winter experience. Special discount available!"
+  }
+]

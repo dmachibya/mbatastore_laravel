@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pilot G2 Gel Roller Pen",
+    "slug": "pilot-g2-gel-roller-pen",
+    "brand": "Pilot",
+    "model_number": "G2-07",
+    "mpn": "31020",
+    "gtin": "072838310203",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Pilot Corporation",
+    "description": "The Pilot G2 Gel Roller Pen is known for its smooth writing and long-lasting ink. Featuring a retractable design and comfortable rubber grip, this pen is ideal for everyday writing tasks. The G2 Gel Roller Pen uses high-quality, gel-based ink that resists smudging and provides a consistent, bold line. Its refillable design makes it an eco-friendly option for students, professionals, and anyone who values a reliable writing instrument. With a sleek and modern look, the Pilot G2 is perfect for note-taking, journaling, and signing documents."
+  },
+  {
+    "name": "Staedtler Mars Lumograph Pencil Set",
+    "slug": "staedtler-mars-lumograph-pencil-set",
+    "brand": "Staedtler",
+    "model_number": "100G12",
+    "mpn": "100G12",
+    "gtin": "031901953902",
+    "gtin_type": "UPC",
+    "origin_country": "Germany",
+    "manufacturer": "Staedtler",
+    "description": "The Staedtler Mars Lumograph Pencil Set is a premium set of graphite pencils designed for artists, designers, and drafters. This set includes 12 pencils in various grades from 6B to 4H, providing a wide range of tones for shading, sketching, and technical drawing. Each pencil features a break-resistant lead and is made from high-quality materials to ensure a smooth and consistent performance. The Mars Lumograph pencils are easy to sharpen and provide excellent control, making them a favorite among professionals and art students alike."
+  }
+]

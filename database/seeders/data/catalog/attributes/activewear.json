@@ -1,0 +1,5 @@
+{
+  "Size": ["XS", "S", "M", "L", "XL"],
+  "Color": ["Black", "Blue", "Red", "Gray"],
+  "Material": ["Polyester", "Spandex", "Nylon"]
+}

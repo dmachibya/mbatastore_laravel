@@ -1,0 +1,22 @@
+[
+  {
+    "title": "MacBook Air 13-inch",
+    "slug": "macbook-air-13-inch",
+    "sku": "MGN73LL/A",
+    "description": "The MacBook Air 13-inch is Apple's most portable laptop, combining power and portability in a sleek design. It features a 13.3-inch Retina display with True Tone technology, offering a vivid and clear viewing experience. The MacBook Air is powered by Apple's M1 chip, which provides incredible performance and efficiency. With 8GB of RAM and a 256GB SSD, the MacBook Air delivers fast performance and quick access to your files. The M1 chip's integrated 8-core GPU ensures smooth graphics performance for everyday tasks and light creative work. The MacBook Air also features a Magic Keyboard for comfortable typing, a Touch ID sensor for secure authentication, and up to 18 hours of battery life to keep you productive all day long. Weighing just 2.8 pounds, the MacBook Air is perfect for those who need a powerful laptop they can take anywhere. In addition, the MacBook Air offers silent, fanless design, advanced image signal processing for improved camera quality, and support for running iPhone and iPad apps natively.",
+    "price": 999.99,
+    "offer_price": 899.99,
+    "key_features": [
+      "13.3-inch Retina display",
+      "Apple M1 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "8-core GPU"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 25,
+    "shipping_weight": 2.8,
+    "meta_title": "MacBook Air 13-inch - Powerful and Portable",
+    "meta_description": "Buy MacBook Air 13-inch. Features Apple's M1 chip, 8GB RAM, 256GB SSD. Perfect for on-the-go. Order now!"
+  }
+]

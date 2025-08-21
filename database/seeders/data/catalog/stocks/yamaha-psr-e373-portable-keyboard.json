@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Yamaha PSR-E373 Portable Keyboard - Standard Package",
+    "slug": "yamaha-psr-e373-portable-keyboard-standard-package",
+    "sku": "YAM-PSR-E373-SP",
+    "description": "The Yamaha PSR-E373 Portable Keyboard - Standard Package is a versatile and powerful instrument ideal for musicians of all levels. Featuring 61 touch-sensitive keys and an extensive range of voices and styles, this keyboard offers a dynamic and expressive playing experience. With the latest LSI tone generator, the PSR-E373 delivers high-quality instrument voices and accompaniment styles. Educational features such as the Yamaha Education Suite and built-in songbook make learning music fun and easy. The standard package includes the keyboard, power adapter, music rest, and user manual. Perfect for practice sessions, live performances, and home use, this portable keyboard combines quality and affordability in one package.",
+    "price": 199.99,
+    "offer_price": 179.99,
+    "key_features": [
+      "61 Touch-Sensitive Keys",
+      "Latest LSI Tone Generator",
+      "Yamaha Education Suite",
+      "Built-in Songbook"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 20,
+    "shipping_weight": 10.0,
+    "meta_title": "Yamaha PSR-E373 Portable Keyboard - Standard Package",
+    "meta_description": "Shop the Yamaha PSR-E373 Portable Keyboard - Standard Package, featuring 61 touch-sensitive keys, latest LSI tone generator, Yamaha Education Suite, and built-in songbook. Ideal for musicians of all levels. Buy now at a special price!"
+  },
+  {
+    "title": "Yamaha PSR-E373 Portable Keyboard - Deluxe Package",
+    "slug": "yamaha-psr-e373-portable-keyboard-deluxe-package",
+    "sku": "YAM-PSR-E373-DP",
+    "description": "The Yamaha PSR-E373 Portable Keyboard - Deluxe Package offers everything you need for an enhanced playing experience. This package includes the versatile PSR-E373 keyboard with 61 touch-sensitive keys and a wide range of voices and styles, providing a dynamic and expressive performance. The latest LSI tone generator ensures high-quality instrument voices and accompaniment styles. The deluxe package also includes a sturdy keyboard stand, a padded bench, a sustain pedal, headphones, and a power adapter. With its educational features like the Yamaha Education Suite and built-in songbook, the PSR-E373 makes learning music enjoyable and accessible. Ideal for practice, performance, and home use, this keyboard package delivers exceptional value and quality.",
+    "price": 299.99,
+    "offer_price": 269.99,
+    "key_features": [
+      "61 Touch-Sensitive Keys",
+      "Latest LSI Tone Generator",
+      "Yamaha Education Suite",
+      "Deluxe Accessories Included"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 15,
+    "shipping_weight": 15.0,
+    "meta_title": "Yamaha PSR-E373 Portable Keyboard - Deluxe Package",
+    "meta_description": "Discover the Yamaha PSR-E373 Portable Keyboard - Deluxe Package, including 61 touch-sensitive keys, latest LSI tone generator, Yamaha Education Suite, and deluxe accessories. Ideal for musicians of all levels. Buy now at a special price!"
+  }
+]

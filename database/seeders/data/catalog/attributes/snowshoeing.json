@@ -1,0 +1,6 @@
+{
+  "Size": ["22 in", "25 in", "30 in", "36 in"],
+  "Terrain": ["Flat", "Hilly", "Backcountry"],
+  "Gender": ["Men", "Women", "Unisex"],
+  "Material": ["Aluminum", "Plastic", "Composite"]
+}

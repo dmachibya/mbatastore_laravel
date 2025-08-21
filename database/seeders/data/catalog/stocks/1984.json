@@ -1,0 +1,40 @@
+[
+  {
+    "title": "1984 - Paperback",
+    "slug": "1984-paperback",
+    "sku": "1984-PB",
+    "description": "George Orwell's '1984' is a dystopian masterpiece that explores the horrors of a totalitarian regime and the loss of individuality and freedom. Set in a future where the government, led by Big Brother, uses surveillance, propaganda, and thought control to oppress its citizens, the story follows Winston Smith, a low-ranking Party member who begins to question the system. This paperback edition offers a convenient and accessible way to experience Orwell's chilling vision of the future. Its themes of privacy, freedom, and the nature of truth remain relevant and thought-provoking, making '1984' a must-read for anyone concerned with the power of government and the importance of individual rights.",
+    "price": 9.99,
+    "offer_price": 7.99,
+    "key_features": [
+      "Dystopian Fiction",
+      "Classic Literature",
+      "Themes of Surveillance and Totalitarianism",
+      "Thought-Provoking"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 50,
+    "shipping_weight": 1.0,
+    "meta_title": "1984 - Paperback",
+    "meta_description": "Order '1984' in paperback. George Orwell's dystopian novel on totalitarianism and the loss of freedom. A must-read classic."
+  },
+  {
+    "title": "1984 - Hardcover",
+    "slug": "1984-hardcover",
+    "sku": "1984-HC",
+    "description": "Discover George Orwell's '1984' in a stunning hardcover edition. This dystopian classic reveals the terrifying reality of a world where the government, led by Big Brother, exerts complete control over its citizens through surveillance, propaganda, and thought manipulation. Winston Smith, the protagonist, struggles to maintain his individuality in a society that demands absolute conformity. This hardcover edition is perfect for collectors and readers who want a durable, high-quality copy of Orwell's thought-provoking novel. '1984' continues to be a powerful warning against the dangers of totalitarianism and the erosion of personal freedoms.",
+    "price": 19.99,
+    "offer_price": 17.99,
+    "key_features": [
+      "Dystopian Fiction",
+      "Classic Literature",
+      "Themes of Surveillance and Totalitarianism",
+      "Durable Hardcover Edition"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 15,
+    "shipping_weight": 1.5,
+    "meta_title": "1984 - Hardcover",
+    "meta_description": "Buy '1984' in hardcover. George Orwell's dystopian classic on the dangers of totalitarianism and the loss of freedom. A timeless read."
+  }
+]

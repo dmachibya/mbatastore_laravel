@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ashley Furniture Signature Design - Darcy Sofa - Cobblestone",
+    "slug": "ashley-furniture-signature-design-darcy-sofa-cobblestone",
+    "sku": "ASH-DARCY-COB",
+    "description": "The Ashley Furniture Signature Design - Darcy Sofa in Cobblestone offers unparalleled comfort with its soft microfiber upholstery and high-resiliency foam cushions. This contemporary sofa features a sleek design with curved arms, providing a stylish addition to any living room. The durable construction ensures long-lasting use, while the neutral Cobblestone color complements various decor styles. Perfect for lounging, reading, or entertaining guests, the Darcy Sofa combines modern aesthetics with exceptional comfort, making it an ideal choice for any home.",
+    "price": 499.99,
+    "offer_price": 449.99,
+    "key_features": [
+      "Soft Microfiber Upholstery",
+      "High-Resiliency Foam Cushions",
+      "Contemporary Design",
+      "Curved Arms",
+      "Durable Construction"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 50,
+    "shipping_weight": 120,
+    "meta_title": "Ashley Furniture Signature Design - Darcy Sofa - Cobblestone",
+    "meta_description": "Buy the Ashley Furniture Signature Design - Darcy Sofa in Cobblestone. Enjoy soft microfiber upholstery, high-resiliency foam cushions, and contemporary design. Perfect for any living room."
+  },
+  {
+    "title": "Ashley Furniture Signature Design - Darcy Sofa - Salsa",
+    "slug": "ashley-furniture-signature-design-darcy-sofa-salsa",
+    "sku": "ASH-DARCY-SAL",
+    "description": "The Ashley Furniture Signature Design - Darcy Sofa in Salsa provides a bold and stylish seating option for your living room. With its vibrant red microfiber upholstery and high-resiliency foam cushions, this sofa ensures comfort and durability. The sleek, contemporary design with curved arms adds a touch of elegance to any space. Ideal for both lounging and entertaining, the Darcy Sofa in Salsa is a perfect blend of style and functionality. Its sturdy construction guarantees years of reliable use, making it a great investment for your home.",
+    "price": 499.99,
+    "offer_price": 449.99,
+    "key_features": [
+      "Vibrant Red Microfiber Upholstery",
+      "High-Resiliency Foam Cushions",
+      "Sleek, Contemporary Design",
+      "Curved Arms",
+      "Sturdy Construction"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 30,
+    "shipping_weight": 120,
+    "meta_title": "Ashley Furniture Signature Design - Darcy Sofa - Salsa",
+    "meta_description": "Purchase the Ashley Furniture Signature Design - Darcy Sofa in Salsa. Enjoy vibrant red microfiber upholstery, high-resiliency foam cushions, and contemporary design. Perfect for modern living rooms."
+  }
+]

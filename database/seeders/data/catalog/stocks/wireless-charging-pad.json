@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wireless Charging Pad",
+    "slug": "wireless-charging-pad",
+    "sku": "CT-WCP-100",
+    "description": "The ChargeTech Wireless Charging Pad offers a convenient and fast way to charge your Qi-enabled devices. Featuring a sleek and compact design, it fits seamlessly into any environment, whether at home or in the office. The pad delivers up to 10W of power for fast charging, ensuring your devices are charged quickly and efficiently. It comes with built-in safety features, including overcharge protection, temperature control, and foreign object detection. The ChargeTech Wireless Charging Pad is compatible with a wide range of smartphones, including the latest models from Apple, Samsung, and other major brands. Its non-slip surface keeps your device securely in place during charging. Upgrade to a wireless charging experience with this reliable and stylish charging pad. The minimalistic design blends well with any decor, and its portability makes it perfect for travel. Enjoy hassle-free charging without the need for cables.",
+    "price": 39.99,
+    "offer_price": 29.99,
+    "key_features": [
+      "10W fast charging",
+      "Overcharge protection",
+      "Temperature control",
+      "Foreign object detection",
+      "Non-slip surface"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 75,
+    "shipping_weight": 0.3,
+    "meta_title": "ChargeTech Wireless Charging Pad - Fast and Safe Charging",
+    "meta_description": "Buy ChargeTech Wireless Charging Pad. Fast 10W charging, safety features, and compatible with Apple, Samsung, and other brands. Order now!"
+  }
+]

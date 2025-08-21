@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Silver Knot Cufflinks",
+    "slug": "silver-knot-cufflinks",
+    "brand": "ElegantGents",
+    "model_number": "EG-CFL-2024",
+    "mpn": "EG-CFL-2024",
+    "gtin": "6789012345678",
+    "gtin_type": "UPC",
+    "origin_country": "Italy",
+    "manufacturer": "ElegantGents Inc.",
+    "description": "The Silver Knot Cufflinks by ElegantGents are a timeless accessory designed for the modern gentleman. Made from high-quality sterling silver, these cufflinks feature an intricate knot design that symbolizes unity and strength. The polished finish adds a touch of sophistication, making them perfect for both formal and business attire. Each pair is meticulously crafted to ensure durability and elegance, providing a refined look that complements any dress shirt. These cufflinks are an ideal gift for weddings, anniversaries, or any special occasion where you want to make a lasting impression."
+  },
+  {
+    "name": "Gold-Plated Initial Cufflinks",
+    "slug": "gold-plated-initial-cufflinks",
+    "brand": "PrestigeJewelry",
+    "model_number": "PJ-CFL-2024",
+    "mpn": "PJ-CFL-2024",
+    "gtin": "7890123456789",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "PrestigeJewelry Co.",
+    "description": "The Gold-Plated Initial Cufflinks from PrestigeJewelry offer a personalized touch to your formal wear. These elegant cufflinks are crafted from durable metal and plated with high-quality gold, featuring a customizable initial on each piece. The classic design ensures they remain a stylish accessory for years to come, suitable for both professional settings and special occasions. The smooth, polished finish and attention to detail make these cufflinks a standout addition to any wardrobe. Perfect as a gift for birthdays, anniversaries, or to celebrate personal milestones, they add a unique and sophisticated flair to any outfit."
+  }
+]

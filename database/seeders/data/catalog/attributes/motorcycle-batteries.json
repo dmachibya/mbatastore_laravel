@@ -1,0 +1,10 @@
+{
+  "Battery Type": [
+    "Lead-Acid",
+    "AGM (Absorbent Glass Mat)",
+    "Gel",
+    "Lithium-Ion"
+  ],
+  "Battery Size": ["YTX9-BS", "YTZ10S", "YTX14-BS", "YB16-B"],
+  "Battery Capacity": ["4-7 Ah", "8-10 Ah", "11-14 Ah", "15+ Ah"]
+}

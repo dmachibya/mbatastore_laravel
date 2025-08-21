@@ -1,0 +1,14 @@
+{
+  "Hold Strength": [
+    "Light Hold",
+    "Medium Hold",
+    "Strong Hold",
+    "Extra Strong Hold"
+  ],
+  "Hair Type": [
+    "Fine Hair",
+    "Curly Hair",
+    "Straight Hair",
+    "Color-Treated Hair"
+  ]
+}

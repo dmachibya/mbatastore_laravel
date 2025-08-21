@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fender American Professional II Stratocaster",
+    "slug": "fender-american-professional-ii-stratocaster",
+    "brand": "Fender",
+    "model_number": "0113910700",
+    "mpn": "0113910700",
+    "gtin": "0885978270562",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Fender Musical Instruments Corporation",
+    "description": "The Fender American Professional II Stratocaster is a top-tier electric guitar that blends classic Fender tone with modern playability. Featuring a solid alder body, three V-Mod II single-coil pickups, and a deep 'C' neck profile, this guitar is built for versatility and comfort. The guitar also includes a two-point synchronized tremolo with bent steel saddles, providing excellent tuning stability and a smooth playing experience. Perfect for professional musicians and enthusiasts alike, the American Professional II Stratocaster delivers superior performance in any setting."
+  },
+  {
+    "name": "Gibson Les Paul Standard '50s",
+    "slug": "gibson-les-paul-standard-50s",
+    "brand": "Gibson",
+    "model_number": "LPS50S00GTNH1",
+    "mpn": "LPS50S00GTNH1",
+    "gtin": "0711106474772",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Gibson Brands, Inc.",
+    "description": "The Gibson Les Paul Standard '50s is a timeless classic that brings vintage sound and feel to the modern player. Featuring a solid mahogany body with a maple top, Burstbucker 1 and 2 pickups, and a rounded '50s neck profile, this guitar delivers rich, full tones with exceptional clarity. The Les Paul Standard '50s also includes vintage-style tuners and an ABR-1 Tune-O-Matic bridge for precise intonation and sustain. This guitar is perfect for players seeking the iconic Les Paul sound and style."
+  }
+]

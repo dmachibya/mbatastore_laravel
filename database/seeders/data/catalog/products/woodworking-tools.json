@@ -1,0 +1,26 @@
+[
+  {
+    "name": "DEWALT 20V MAX XR Oscillating Multi-Tool Kit",
+    "slug": "dewalt-20v-max-xr-oscillating-multi-tool-kit",
+    "brand": "DEWALT",
+    "model_number": "DCS356D1",
+    "mpn": "DCS356D1",
+    "gtin": "0885911612996",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "DEWALT",
+    "description": "The DEWALT 20V MAX XR Oscillating Multi-Tool Kit features a powerful brushless motor providing up to 57% more run time over brushed. The quick-change accessory system allows blades and attachments to be changed quickly without wrenches. This multi-tool offers a dual-grip variable speed trigger for ultimate control. The kit includes the tool, a 2.0Ah battery, a charger, and a storage bag. Perfect for cutting, sanding, scraping, and other woodworking tasks, this tool kit is essential for any woodworking enthusiast."
+  },
+  {
+    "name": "Bosch 1617EVSPK Wood Router Tool Combo Kit",
+    "slug": "bosch-1617evspk-wood-router-tool-combo-kit",
+    "brand": "Bosch",
+    "model_number": "1617EVSPK",
+    "mpn": "1617EVSPK",
+    "gtin": "000346319405",
+    "gtin_type": "UPC",
+    "origin_country": "Mexico",
+    "manufacturer": "Bosch",
+    "description": "The Bosch 1617EVSPK Wood Router Tool Combo Kit features a powerful 2.25 HP motor with variable speed from 8,000 to 25,000 RPM, allowing for precise control over a variety of woodworking applications. The kit includes both fixed and plunge bases, giving you the flexibility to handle a range of routing tasks. The precision centering design ensures accurate bit alignment. The aluminum construction provides durability and longevity. This router kit is ideal for creating decorative edges, dadoes, mortises, and other intricate woodworking projects."
+  }
+]

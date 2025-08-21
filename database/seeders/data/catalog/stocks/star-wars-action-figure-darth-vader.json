@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Star Wars Darth Vader Action Figure - 6 Inch",
+    "slug": "star-wars-darth-vader-action-figure-6-inch",
+    "sku": "SW-DV-6IN-01",
+    "description": "Step into the Star Wars universe with the Darth Vader Action Figure, standing 6 inches tall and featuring stunning detail. This figure perfectly captures the essence of the iconic Sith Lord with his menacing black armor and flowing cape. With multiple points of articulation, this action figure allows you to recreate epic battles from the Star Wars saga. The included lightsaber accessory and removable helmet add to the authenticity of the character, making it a great choice for both play and display. This Darth Vader figure is a must-have for any Star Wars fan or collector, offering a piece of the legendary saga to enjoy.",
+    "price": 22.99,
+    "offer_price": 19.49,
+    "key_features": [
+      "6 Inch Figure",
+      "Detailed Black Armor",
+      "Articulated for Dynamic Posing",
+      "Includes Lightsaber Accessory",
+      "Removable Helmet"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 25,
+    "shipping_weight": "0.3 kg",
+    "meta_title": "Star Wars Darth Vader Action Figure - 6 Inch | Star Wars Toys",
+    "meta_description": "Get the Star Wars Darth Vader Action Figure, 6 inches tall with detailed armor and accessories. Perfect for play or display for Star Wars fans and collectors."
+  },
+  {
+    "title": "Star Wars Darth Vader Action Figure - Ultimate Collection",
+    "slug": "star-wars-darth-vader-action-figure-ultimate-collection",
+    "sku": "SW-DV-UC-01",
+    "description": "Experience the ultimate Star Wars collectible with the Darth Vader Action Figure Ultimate Collection edition. This 7-inch figure boasts exceptional detail with enhanced features, including a detailed lightsaber, a removable helmet, and an articulated cape. Designed for collectors and fans alike, this figure captures Darth Vader’s intimidating presence and includes extra accessories for creative play and display. The figure is made with high-quality materials and showcases intricate design elements, making it a standout piece in any Star Wars collection. Add this Ultimate Collection Darth Vader to your collection for a premium Star Wars experience.",
+    "price": 39.99,
+    "offer_price": 34.99,
+    "key_features": [
+      "7 Inch Ultimate Collection Figure",
+      "Detailed Lightsaber Accessory",
+      "Articulated Cape and Helmet",
+      "Exceptional Detail and Craftsmanship",
+      "High-Quality Materials"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 7,
+    "shipping_weight": "0.5 kg",
+    "meta_title": "Star Wars Darth Vader Action Figure - Ultimate Collection | Star Wars Toys",
+    "meta_description": "Discover the Star Wars Darth Vader Action Figure Ultimate Collection, 7 inches tall with premium details and accessories. Ideal for collectors and Star Wars fans."
+  }
+]

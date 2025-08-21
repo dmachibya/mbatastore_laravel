@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Marvel Avengers Iron Man Action Figure - 6 Inch",
+    "slug": "marvel-avengers-iron-man-action-figure-6-inch",
+    "sku": "AV-IM-6IN-01",
+    "description": "Get ready for epic battles with the Marvel Avengers Iron Man Action Figure! This 6-inch figure features Iron Man in his latest suit from the Avengers film series, showcasing intricate detailing and vibrant colors. The figure includes multiple points of articulation for dynamic posing and action play, along with accessories such as repulsor blast effects and a removable helmet. Perfect for recreating your favorite Marvel Cinematic Universe scenes or displaying as a collector’s item, this Iron Man action figure is a fantastic addition to any Marvel collection. Dive into the superhero action and relive the excitement of the Avengers with this high-quality figure.",
+    "price": 24.99,
+    "offer_price": 19.99,
+    "key_features": [
+      "6 Inch Figure",
+      "Detailed Iron Man Suit",
+      "Multiple Points of Articulation",
+      "Accessories Included: Repulsor Blasts, Removable Helmet",
+      "Perfect for Collectors and Fans"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 30,
+    "shipping_weight": "0.3 kg",
+    "meta_title": "Marvel Avengers Iron Man Action Figure - 6 Inch | Marvel Toys",
+    "meta_description": "Explore the Marvel Avengers Iron Man Action Figure, 6 inches tall with detailed suit, articulation, and accessories. Ideal for play or display for Marvel fans."
+  },
+  {
+    "title": "Marvel Avengers Iron Man Action Figure - Deluxe Edition",
+    "slug": "marvel-avengers-iron-man-action-figure-deluxe-edition",
+    "sku": "AV-IM-DE-01",
+    "description": "Introducing the Marvel Avengers Iron Man Action Figure Deluxe Edition, a premium collectible for true Marvel fans. This deluxe version features a larger 7-inch scale figure with additional details and accessories, including advanced repulsor blast effects and interchangeable hands for various poses. The figure showcases Iron Man's latest suit design with intricate paintwork and a detailed helmet that can be removed to reveal Tony Stark’s face. Perfect for collectors and enthusiasts, this deluxe Iron Man figure offers superior craftsmanship and a higher level of detail, making it a standout piece for any Marvel collection.",
+    "price": 34.99,
+    "offer_price": 29.99,
+    "key_features": [
+      "7 Inch Deluxe Figure",
+      "Advanced Repulsor Blast Effects",
+      "Interchangeable Hands",
+      "Detailed Suit Design",
+      "Includes Removable Helmet and Tony Stark’s Face"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 12,
+    "shipping_weight": "0.4 kg",
+    "meta_title": "Marvel Avengers Iron Man Action Figure - Deluxe Edition | Marvel Toys",
+    "meta_description": "Discover the Marvel Avengers Iron Man Deluxe Edition Action Figure, 7 inches tall with advanced features and accessories. Perfect for collectors and fans."
+  }
+]

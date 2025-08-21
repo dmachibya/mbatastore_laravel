@@ -1,0 +1,40 @@
+[
+  {
+    "title": "2-Person Instant Pop-Up Tent - Easy Setup",
+    "slug": "2-person-instant-pop-up-tent-easy-setup",
+    "sku": "CO-2P-TENT-POPUP-001",
+    "description": "Experience the convenience of the Coleman 2-Person Instant Pop-Up Tent. With a design that allows for quick and easy setup, this tent is perfect for camping trips and outdoor adventures. Featuring pre-attached poles and weather-resistant materials, it ensures a dry and comfortable shelter. The integrated ventilation system keeps the tent cool, while the spacious interior accommodates two people and their gear. Ideal for camping, hiking, or outdoor events, this tent offers a combination of durability and ease of use.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "Quick and Easy Setup",
+      "Weather-Resistant Design",
+      "Integrated Ventilation System",
+      "Spacious Interior for Two People"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 200,
+    "shipping_weight": 6,
+    "meta_title": "Coleman 2-Person Instant Pop-Up Tent - Quick Setup for Camping",
+    "meta_description": "Get the Coleman 2-Person Instant Pop-Up Tent for quick and easy camping setup. Weather-resistant, with integrated ventilation and a spacious interior. Buy now at a discounted price!"
+  },
+  {
+    "title": "2-Person Instant Pop-Up Tent - Lightweight and Portable",
+    "slug": "2-person-instant-pop-up-tent-lightweight-portable",
+    "sku": "CO-2P-TENT-POPUP-002",
+    "description": "The Coleman 2-Person Instant Pop-Up Tent offers lightweight and portable shelter for your camping adventures. This tent sets up in seconds with pre-attached poles and is made from weather-resistant materials to keep you dry and comfortable. The integrated ventilation system helps manage temperature, while the spacious design fits two people comfortably along with their gear. Perfect for a range of outdoor activities including hiking and festivals, this tent is an excellent choice for those who value both convenience and quality.",
+    "price": 89.99,
+    "offer_price": 79.99,
+    "key_features": [
+      "Lightweight and Portable",
+      "Easy Setup with Pre-Attached Poles",
+      "Weather-Resistant Construction",
+      "Integrated Ventilation System"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 120,
+    "shipping_weight": 6.5,
+    "meta_title": "Coleman 2-Person Instant Pop-Up Tent - Lightweight and Portable",
+    "meta_description": "Discover the Coleman 2-Person Instant Pop-Up Tent, lightweight and portable for easy camping. Weather-resistant with a spacious interior. Get it now at a special offer price!"
+  }
+]

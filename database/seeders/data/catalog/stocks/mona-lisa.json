@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Mona Lisa by Leonardo da Vinci - Canvas Print",
+    "slug": "mona-lisa-canvas-print",
+    "sku": "ML-DVA-1503-01",
+    "description": "Own a piece of art history with this high-quality canvas print of Leonardo da Vinci's 'Mona Lisa'. This reproduction captures the delicate details and enigmatic expression of the original oil painting, bringing the timeless beauty of the world's most famous portrait into your home. The subtle rendering of the subject's hands and the mysterious landscape background are reproduced with remarkable fidelity, making this canvas print a captivating focal point for any space. Perfect for art enthusiasts and admirers of da Vinci's work, this piece is ready to hang and enjoy, offering a glimpse into the mastery of one of the greatest artists of all time.",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "High-quality canvas material",
+      "Delicate details and enigmatic expression",
+      "Ready to hang",
+      "Faithful reproduction of the original painting"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 10,
+    "shipping_weight": 3.2,
+    "meta_title": "Mona Lisa Canvas Print - Leonardo da Vinci",
+    "meta_description": "Buy a high-quality canvas print of Leonardo da Vinci's 'Mona Lisa'. This print captures the delicate details and timeless beauty of the original painting."
+  },
+  {
+    "title": "Mona Lisa by Leonardo da Vinci - Framed Poster",
+    "slug": "mona-lisa-framed-poster",
+    "sku": "ML-DVA-1503-02",
+    "description": "Enhance your decor with the timeless elegance of the 'Mona Lisa' by Leonardo da Vinci, beautifully reproduced as a framed poster. This high-resolution print captures the subtle details and enigmatic expression of the original oil painting, elegantly framed to complement any room. The delicate rendering and mysterious landscape are faithfully reproduced, making this framed poster a sophisticated addition to any space. Perfect for art lovers and admirers of da Vinci, this piece is an affordable way to bring a masterpiece into your home. The durable frame and protective glass ensure the print remains vibrant and pristine.",
+    "price": 89.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "High-resolution print",
+      "Elegant frame",
+      "Protective glass",
+      "Affordable and sophisticated"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 20,
+    "shipping_weight": 2.5,
+    "meta_title": "Mona Lisa Framed Poster - Leonardo da Vinci",
+    "meta_description": "Get a framed poster of Leonardo da Vinci's 'Mona Lisa'. This high-resolution print with an elegant frame is perfect for any decor."
+  }
+]

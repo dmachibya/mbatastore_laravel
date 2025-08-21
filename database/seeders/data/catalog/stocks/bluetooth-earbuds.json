@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Bluetooth Earbuds",
+    "slug": "bluetooth-earbuds",
+    "sku": "SW-BE-200",
+    "description": "Experience superior sound quality with SoundWave Bluetooth Earbuds. These earbuds are designed to deliver an immersive audio experience with rich bass and clear treble. Equipped with the latest Bluetooth 5.0 technology, they offer a stable and fast connection to your devices. The ergonomic design ensures a comfortable and secure fit, making them perfect for all-day wear. With up to 8 hours of playtime on a single charge and an additional 24 hours provided by the charging case, you'll enjoy uninterrupted music and calls. The earbuds also feature touch controls for easy operation, allowing you to manage your music and calls effortlessly. Whether you're working out, commuting, or relaxing at home, SoundWave Bluetooth Earbuds provide the perfect soundtrack to your day. They also include a built-in microphone for crystal clear calls and are water-resistant, making them ideal for use in any weather.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "Bluetooth 5.0 technology",
+      "Ergonomic design",
+      "Up to 8 hours playtime",
+      "Additional 24 hours with charging case",
+      "Touch controls"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 40,
+    "shipping_weight": 0.2,
+    "meta_title": "SoundWave Bluetooth Earbuds - Superior Sound Quality",
+    "meta_description": "Buy SoundWave Bluetooth Earbuds. Bluetooth 5.0, ergonomic fit, long battery life, and touch controls. Perfect for all-day wear. Order now!"
+  }
+]

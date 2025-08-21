@@ -1,0 +1,16 @@
+{
+  "id": 73,
+  "slug": "default",
+  "name": "Default Theme",
+  "description": "This is the default theme of zCart. <br/>You can use the license key <i>DEFAULT-S0C5-LXCV-BJPR-QLIU-FREE</i>",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Author",
+  "dir": "default",
+  "dependency": "",
+  "warning": "",
+  "released": true,
+  "compatible": "2.12.0",
+  "version": "3.0.2"
+}

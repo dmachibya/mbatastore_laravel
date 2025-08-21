@@ -1,0 +1,10 @@
+{
+  "Version": ["Home", "Professional", "Business", "Enterprise"],
+  "License Type": [
+    "One-Time Purchase",
+    "Subscription",
+    "Volume Licensing",
+    "OEM"
+  ],
+  "Support Duration": ["1 Year", "2 Years", "5 Years", "Lifetime"]
+}

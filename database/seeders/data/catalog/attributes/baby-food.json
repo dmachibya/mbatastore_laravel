@@ -1,0 +1,5 @@
+{
+  "Food Type": ["Puree", "Snack", "Meal Kit", "Cereal"],
+  "Ingredients": ["Organic", "Natural", "Gluten-Free", "Dairy-Free"],
+  "Age Range": ["Infants", "Toddlers", "Newborns", "All Ages"]
+}

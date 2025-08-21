@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Gentle Foaming Facial Cleanser - Hydrating Aloe Vera & Chamomile",
+    "slug": "gentle-foaming-facial-cleanser-hydrating-aloe-vera-chamomile",
+    "sku": "CF-PS-2024-01",
+    "description": "Discover the Gentle Foaming Facial Cleanser from PureSkin Essentials, a premium skincare product designed for a gentle yet effective cleanse. Enriched with hydrating aloe vera and soothing chamomile, this facial cleanser creates a rich, foaming lather that removes impurities, makeup, and excess oil while maintaining your skin's natural moisture balance. Ideal for daily use, this cleanser is suitable for all skin types, including sensitive skin, and leaves your complexion refreshed, clean, and perfectly hydrated.",
+    "price": 24.99,
+    "offer_price": 19.99,
+    "key_features": [
+      "Gentle foaming formula for a clean, refreshed feeling",
+      "Hydrating aloe vera and soothing chamomile",
+      "Removes impurities and makeup while maintaining moisture balance",
+      "Suitable for all skin types, including sensitive skin"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 10,
+    "shipping_weight": 0.5,
+    "meta_title": "Gentle Foaming Facial Cleanser - Hydrating Aloe Vera & Chamomile",
+    "meta_description": "Shop the Gentle Foaming Facial Cleanser - Hydrating Aloe Vera & Chamomile by PureSkin Essentials. This foaming cleanser gently removes impurities and makeup while hydrating and soothing your skin."
+  },
+  {
+    "title": "Gentle Foaming Facial Cleanser - Hydrating Aloe Vera & Chamomile - Travel Size",
+    "slug": "gentle-foaming-facial-cleanser-hydrating-aloe-vera-chamomile-travel-size",
+    "sku": "CF-PS-2024-02",
+    "description": "Take your skincare routine on the go with the Gentle Foaming Facial Cleanser - Hydrating Aloe Vera & Chamomile in a convenient travel size. This luxurious foaming cleanser features a hydrating formula with aloe vera and chamomile to gently cleanse and soothe your skin. Perfect for travel or as a trial size for new users, this cleanser removes impurities and makeup while maintaining your skin's natural moisture balance. Ideal for daily use, it is suitable for all skin types, including sensitive skin.",
+    "price": 14.99,
+    "offer_price": 11.99,
+    "key_features": [
+      "Travel size for convenient skincare on the go",
+      "Hydrating aloe vera and soothing chamomile",
+      "Gentle foaming formula for daily use",
+      "Removes impurities and maintains moisture balance"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 12,
+    "shipping_weight": 0.2,
+    "meta_title": "Gentle Foaming Facial Cleanser - Hydrating Aloe Vera & Chamomile - Travel Size",
+    "meta_description": "Shop the Gentle Foaming Facial Cleanser - Hydrating Aloe Vera & Chamomile in travel size. This foaming cleanser is perfect for on-the-go skincare, featuring hydrating and soothing ingredients for all skin types."
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "String Instruments": {
+    "slug": "string-instruments",
+    "description": "Instruments that produce sound from vibrating strings.",
+    "subcategories": [
+      {
+        "name": "Guitars",
+        "slug": "guitars",
+        "description": "String instruments played by plucking or strumming."
+      },
+      {
+        "name": "Violins",
+        "slug": "violins",
+        "description": "String instruments played with a bow."
+      },
+      {
+        "name": "Cellos",
+        "slug": "cellos",
+        "description": "Larger string instruments played with a bow."
+      },
+      {
+        "name": "Harps",
+        "slug": "harps",
+        "description": "String instruments played by plucking."
+      }
+    ]
+  },
+  "Percussion Instruments": {
+    "slug": "percussion-instruments",
+    "description": "Instruments that produce sound when struck.",
+    "subcategories": [
+      {
+        "name": "Drums",
+        "slug": "drums",
+        "description": "Percussion instruments played with sticks or hands."
+      },
+      {
+        "name": "Cymbals",
+        "slug": "cymbals",
+        "description": "Metal plates that produce sound when struck together."
+      },
+      {
+        "name": "Tambourines",
+        "slug": "tambourines",
+        "description": "Handheld percussion instruments with jingles."
+      },
+      {
+        "name": "Xylophones",
+        "slug": "xylophones",
+        "description": "Percussion instruments with wooden bars."
+      }
+    ]
+  },
+  "Wind Instruments": {
+    "slug": "wind-instruments",
+    "description": "Instruments that produce sound by the flow of air.",
+    "subcategories": [
+      {
+        "name": "Flutes",
+        "slug": "flutes",
+        "description": "Wind instruments played by blowing across an opening."
+      },
+      {
+        "name": "Clarinets",
+        "slug": "clarinets",
+        "description": "Single-reed woodwind instruments."
+      },
+      {
+        "name": "Saxophones",
+        "slug": "saxophones",
+        "description": "Woodwind instruments with a conical shape."
+      },
+      {
+        "name": "Trumpets",
+        "slug": "trumpets",
+        "description": "Brass instruments played by buzzing the lips."
+      }
+    ]
+  },
+  "Electronic Instruments": {
+    "slug": "electronic-instruments",
+    "description": "Instruments that produce sound electronically.",
+    "subcategories": [
+      {
+        "name": "Keyboards",
+        "slug": "keyboards",
+        "description": "Electronic instruments played with keys."
+      },
+      {
+        "name": "Synthesizers",
+        "slug": "synthesizers",
+        "description": "Electronic instruments that generate a wide range of sounds."
+      },
+      {
+        "name": "Drum Machines",
+        "slug": "drum-machines",
+        "description": "Electronic devices that simulate drum sounds."
+      },
+      {
+        "name": "Electric Guitars",
+        "slug": "electric-guitars",
+        "description": "Guitars that require an amplifier to produce sound."
+      }
+    ]
+  },
+  "Books": {
+    "slug": "books",
+    "description": "Various genres and types of books.",
+    "subcategories": [
+      {
+        "name": "Fiction",
+        "slug": "fiction",
+        "description": "Books that contain stories created from the imagination."
+      },
+      {
+        "name": "Non-Fiction",
+        "slug": "non-fiction",
+        "description": "Books that are based on facts and real events."
+      },
+      {
+        "name": "Children's Books",
+        "slug": "childrens-books",
+        "description": "Books written for young readers."
+      },
+      {
+        "name": "Comics and Graphic Novels",
+        "slug": "comics-graphic-novels",
+        "description": "Books that use sequential art to tell a story."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Taekwondo Black Belt - Standard Length",
+    "slug": "taekwondo-black-belt-standard-length",
+    "sku": "VTB-002-SL",
+    "description": "The Taekwondo Black Belt - Standard Length from Victory Taekwondo is crafted from high-quality polyester and features superior durability for advanced Taekwondo practitioners. This belt represents the highest achievement in Taekwondo and is suitable for use in both training and competitions. It includes subtle gold embroidery, symbolizing excellence and commitment to the martial art. Available in a standard length that fits most practitioners, this belt is a perfect symbol of your Taekwondo journey.",
+    "price": 29.99,
+    "offer_price": 24.99,
+    "key_features": [
+      "Premium Polyester Fabric",
+      "Durable Construction",
+      "Gold Embroidery",
+      "Standard Length for Most Sizes"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 85,
+    "shipping_weight": 0.3,
+    "meta_title": "Taekwondo Black Belt - Standard Length | Victory Taekwondo",
+    "meta_description": "Achieve excellence with the Taekwondo Black Belt - Standard Length from Victory Taekwondo. Made from durable polyester with gold embroidery. Available at a special price!"
+  },
+  {
+    "title": "Taekwondo Black Belt - Extra Long",
+    "slug": "taekwondo-black-belt-extra-long",
+    "sku": "VTB-002-EL",
+    "description": "The Taekwondo Black Belt - Extra Long by Victory Taekwondo is designed for practitioners who require a longer belt for a perfect fit. Made from high-quality polyester, this belt is built for durability and longevity in both training and competitions. The extra-long length accommodates a wider range of waist sizes, and the gold embroidery at the end signifies the achievement of the black belt rank. Ideal for advanced practitioners seeking a premium belt.",
+    "price": 34.99,
+    "offer_price": 29.99,
+    "key_features": [
+      "Durable Polyester Material",
+      "Extra Long Length",
+      "Gold Embroidery",
+      "High-Quality Construction"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 50,
+    "shipping_weight": 0.35,
+    "meta_title": "Taekwondo Black Belt - Extra Long | Victory Taekwondo",
+    "meta_description": "Purchase the Taekwondo Black Belt - Extra Long from Victory Taekwondo. Made from durable polyester with gold embroidery, perfect for advanced practitioners. Get it now at a discounted price!"
+  }
+]

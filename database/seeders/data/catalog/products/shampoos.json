@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Revitalizing Daily Shampoo - Nourishing & Hydrating Formula",
+    "slug": "revitalizing-daily-shampoo-nourishing-hydrating-formula",
+    "brand": "PureEssence",
+    "model_number": "PE-S2024",
+    "mpn": "PE-009",
+    "gtin": "0123456789074",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "PureEssence LLC",
+    "description": "PureEssence Revitalizing Daily Shampoo is designed to gently cleanse and nourish your hair while maintaining its natural moisture balance. Enriched with vitamins and natural extracts, this shampoo provides deep hydration, leaving your hair soft, shiny, and manageable. Suitable for all hair types, it helps to restore vitality and health to your locks with every wash. Free from sulfates and parabens, this shampoo offers a luxurious and gentle cleansing experience for your daily hair care routine."
+  },
+  {
+    "name": "Strengthening Shampoo for Damaged Hair - Repair & Restore",
+    "slug": "strengthening-shampoo-for-damaged-hair-repair-restore",
+    "brand": "HairRevive",
+    "model_number": "HR-S2024",
+    "mpn": "HR-010",
+    "gtin": "0123456789075",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "HairRevive Inc.",
+    "description": "HairRevive Strengthening Shampoo is specially formulated to repair and restore damaged hair. Infused with keratin, biotin, and natural proteins, this shampoo strengthens hair from the roots to the tips, reducing breakage and promoting healthier growth. It cleanses gently while replenishing lost moisture and repairing damage caused by heat styling, environmental stressors, and chemical treatments. Ideal for damaged and over-processed hair, it provides a rejuvenating cleanse that leaves hair looking and feeling revitalized."
+  }
+]

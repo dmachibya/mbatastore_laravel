@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Broad Spectrum SPF 50 Sunscreen - Water-Resistant & Non-Greasy by SunShield",
+    "slug": "broad-spectrum-spf-50-sunscreen-water-resistant-non-greasy",
+    "sku": "SU-SS-2024-01",
+    "description": "Protect your skin with SunShield’s Broad Spectrum SPF 50 Sunscreen, designed to provide comprehensive sun protection with a water-resistant, non-greasy formula. This sunscreen offers high-level protection from UVA and UVB rays to prevent sunburn and long-term skin damage. Enriched with antioxidants, it defends against environmental damage and keeps your skin hydrated throughout the day. Suitable for all skin types, this sunscreen absorbs quickly and is perfect for both daily use and outdoor activities.",
+    "price": 29.99,
+    "offer_price": 24.99,
+    "key_features": [
+      "Broad Spectrum SPF 50 for high sun protection",
+      "Water-resistant and non-greasy formula",
+      "Contains antioxidants for environmental protection",
+      "Suitable for all skin types and daily use"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 12,
+    "shipping_weight": 0.4,
+    "meta_title": "Broad Spectrum SPF 50 Sunscreen - Water-Resistant & Non-Greasy by SunShield",
+    "meta_description": "Shop the Broad Spectrum SPF 50 Sunscreen by SunShield. This water-resistant, non-greasy sunscreen provides high-level protection from UVA/UVB rays with antioxidants for skin defense."
+  },
+  {
+    "title": "Broad Spectrum SPF 50 Sunscreen - Water-Resistant & Non-Greasy - Travel Size",
+    "slug": "broad-spectrum-spf-50-sunscreen-water-resistant-non-greasy-travel-size",
+    "sku": "SU-SS-2024-02",
+    "description": "Take superior sun protection with you wherever you go with the Broad Spectrum SPF 50 Sunscreen - Water-Resistant & Non-Greasy in a convenient travel size. This sunscreen offers high-level UVA/UVB protection with a water-resistant, non-greasy formula that hydrates and protects your skin from sun damage. Perfect for travel or as a trial size for new users, it absorbs quickly and is suitable for all skin types.",
+    "price": 19.99,
+    "offer_price": 15.99,
+    "key_features": [
+      "Travel size for on-the-go sun protection",
+      "Broad Spectrum SPF 50 for high sun defense",
+      "Water-resistant, non-greasy formula for all-day use",
+      "Contains antioxidants for added skin protection"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 10,
+    "shipping_weight": 0.2,
+    "meta_title": "Broad Spectrum SPF 50 Sunscreen - Water-Resistant & Non-Greasy - Travel Size",
+    "meta_description": "Shop the Broad Spectrum SPF 50 Sunscreen in travel size. This water-resistant sunscreen offers high-level sun protection and is perfect for on-the-go skincare for all skin types."
+  }
+]

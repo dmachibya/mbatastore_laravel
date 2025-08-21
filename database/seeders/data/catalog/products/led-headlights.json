@@ -1,0 +1,101 @@
+[
+  {
+    "name": "High Beam LED Headlights - 10000 Lumens",
+    "slug": "high-beam-led-headlights-10000-lumens",
+    "brand": "BrightVision",
+    "model_number": "BV-HB-10000",
+    "mpn": "BV-HB-10000",
+    "gtin": "850007342010",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "BrightVision",
+    "description": "The BrightVision High Beam LED Headlights offer an impressive 10000 Lumens of brightness for unparalleled visibility on the road. With a color temperature of 6000K (Cool White), these headlights provide clear and bright illumination. Ideal for night driving and adverse weather conditions, the headlights are easy to install with a plug-and-play design. Experience superior performance and durability with BrightVision.",
+    "price": 149.99,
+    "offer_price": 129.99,
+    "key_features": [
+      "High Beam Function",
+      "10000 Lumens Brightness",
+      "6000K Cool White Color Temperature",
+      "H7 Bulb Type"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 10,
+    "shipping_weight": 1.5,
+    "meta_title": "High Beam LED Headlights | BrightVision 10000 Lumens",
+    "meta_description": "Upgrade your car’s lighting with BrightVision High Beam LED Headlights. 10000 Lumens brightness, 6000K Cool White color, and H7 bulb type for superior visibility. Shop now for great savings!"
+  },
+  {
+    "name": "Wireless LED Fog Lights - 8000 Lumens",
+    "slug": "wireless-led-fog-lights-8000-lumens",
+    "brand": "AutoGlow",
+    "model_number": "AG-FL-8000",
+    "mpn": "AG-FL-8000",
+    "gtin": "850009084321",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "AutoGlow",
+    "description": "AutoGlow Wireless LED Fog Lights deliver a powerful 8000 Lumens of light for exceptional visibility in foggy conditions. With a 150-degree field of view and a color temperature of 4000K (Neutral White), these fog lights are perfect for enhancing safety during low visibility situations. The wireless design makes installation quick and easy, with no need for complex wiring.",
+    "price": 119.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "Fog Light Function",
+      "8000 Lumens Brightness",
+      "4000K Neutral White Color Temperature",
+      "Wireless Installation"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 6,
+    "shipping_weight": 1.2,
+    "meta_title": "Wireless LED Fog Lights | AutoGlow 8000 Lumens",
+    "meta_description": "Get AutoGlow Wireless LED Fog Lights with 8000 Lumens brightness and 4000K Neutral White color. Perfect for foggy conditions with a 150-degree field of view. Buy now for discounted prices!"
+  },
+  {
+    "name": "Daytime Running Lights (DRL) - 3000 Lumens",
+    "slug": "daytime-running-lights-drl-3000-lumens",
+    "brand": "UltraBright",
+    "model_number": "UB-DRL-3000",
+    "mpn": "UB-DRL-3000",
+    "gtin": "850008203214",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "UltraBright",
+    "description": "UltraBright Daytime Running Lights (DRL) provide 3000 Lumens of bright, white light to increase your vehicle’s visibility during the day. Featuring a color temperature of 5000K (Cool White), these lights enhance your car’s appearance and safety. Easy to install with universal fit, these DRL lights are perfect for both style and function.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "Daytime Running Light Function",
+      "3000 Lumens Brightness",
+      "5000K Cool White Color Temperature",
+      "Universal Fit"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 20,
+    "shipping_weight": 0.9,
+    "meta_title": "Daytime Running Lights (DRL) | UltraBright 3000 Lumens",
+    "meta_description": "Shop UltraBright Daytime Running Lights (DRL) with 3000 Lumens brightness and 5000K Cool White color. Enhance your car’s visibility and style. Buy now for great offers!"
+  },
+  {
+    "name": "Hikari Ultra LED Headlight Bulbs",
+    "slug": "hikari-ultra-led-headlight-bulbs",
+    "brand": "Hikari",
+    "model_number": "H1-ULTRA",
+    "mpn": "H1-ULTRA",
+    "gtin": "0847568052202",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Hikari",
+    "description": "The Hikari Ultra LED Headlight Bulbs offer advanced lighting technology for superior visibility and performance. Featuring a high-lumen output of 10,000 lumens per set, these bulbs provide a bright, white light that illuminates the road ahead with clarity and precision. Designed with a 6000K color temperature, the Hikari Ultra bulbs deliver a crisp, daylight-like beam that enhances nighttime driving safety. Each bulb is built with premium materials, including an aviation-grade aluminum housing and an integrated cooling fan, to ensure long-lasting performance and reliability. The Hikari Ultra LED Headlight Bulbs are easy to install and fit most vehicles with standard H1 headlight sockets. Upgrade your vehicle’s lighting system with these high-performance LED headlight bulbs for improved visibility and driving comfort."
+  },
+  {
+    "name": "Auxbeam F-16 Series LED Headlights",
+    "slug": "auxbeam-f-16-series-led-headlights",
+    "brand": "Auxbeam",
+    "model_number": "F16-H11",
+    "mpn": "F16-H11",
+    "gtin": "0857352007434",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Auxbeam",
+    "description": "The Auxbeam F-16 Series LED Headlights provide exceptional brightness and a wide beam pattern for improved nighttime visibility. With a powerful 12,000 lumens output per set and a color temperature of 6500K, these LED headlights offer a clear, white light that cuts through darkness and enhances road safety. The F-16 Series features a robust, waterproof design and is built with high-quality aluminum for optimal heat dissipation and durability. Each headlight is equipped with a fanless design to ensure silent operation and extended lifespan. The Auxbeam F-16 LED Headlights are designed for easy installation and are compatible with a variety of vehicles. Experience top-notch lighting performance with the F-16 Series for a safer and more enjoyable driving experience."
+  }
+]

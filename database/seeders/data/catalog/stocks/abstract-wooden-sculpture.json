@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Abstract Wooden Sculpture by Artisan Woodworks - Medium",
+    "slug": "abstract-wooden-sculpture-medium",
+    "sku": "AS-AW-2024-01",
+    "description": "Add a touch of modern elegance to your decor with the Abstract Wooden Sculpture by Artisan Woodworks. This medium-sized sculpture features smooth curves and flowing lines, expertly crafted from premium wood. The artist's skillful manipulation of the material creates a sense of movement and fluidity, resulting in a dynamic piece of modern art. The natural color and texture of the wood enhance its organic feel, while the abstract form adds a contemporary touch. Ideal for those who appreciate modern and abstract art, this sculpture makes a striking addition to any home or office. Display it on a pedestal, shelf, or table to draw attention and admiration.",
+    "price": 199.99,
+    "offer_price": 169.99,
+    "key_features": [
+      "Smooth curves and flowing lines",
+      "Premium wood",
+      "Dynamic and engaging design",
+      "Medium size"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 10,
+    "shipping_weight": 3.0,
+    "meta_title": "Abstract Wooden Sculpture - Medium by Artisan Woodworks",
+    "meta_description": "Shop the medium Abstract Wooden Sculpture by Artisan Woodworks. This modern art piece features smooth curves and flowing lines, crafted from premium wood."
+  },
+  {
+    "title": "Abstract Wooden Sculpture by Artisan Woodworks - Large",
+    "slug": "abstract-wooden-sculpture-large",
+    "sku": "AS-AW-2024-02",
+    "description": "Elevate your space with the Abstract Wooden Sculpture by Artisan Woodworks. This large sculpture features an abstract design with smooth curves and flowing lines, crafted from premium wood. The artist has skillfully manipulated the wood to create a sense of movement and fluidity, making the piece both dynamic and engaging. The natural color and texture of the wood add to its organic feel, while the abstract form provides a contemporary touch. Perfect for those who appreciate modern and abstract art, this sculpture is a striking addition to any home or office. Display it on a pedestal, shelf, or table to draw attention and admiration.",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "Smooth curves and flowing lines",
+      "Premium wood",
+      "Dynamic and engaging design",
+      "Large size"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 5,
+    "shipping_weight": 5.0,
+    "meta_title": "Abstract Wooden Sculpture - Large by Artisan Woodworks",
+    "meta_description": "Buy the large Abstract Wooden Sculpture by Artisan Woodworks. This modern art piece features smooth curves and flowing lines, crafted from premium wood."
+  }
+]

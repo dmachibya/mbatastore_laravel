@@ -1,0 +1,155 @@
+<div class="row">
+  <div class="col-md-3">
+    <div class="form-group">
+      <label>{{ trans('app.form.avatar') }}</label>
+
+      @if (Auth::user()->image)
+        <img src="{{ get_storage_file_url(Auth::user()->image->path, 'medium') }}" class="user-image" alt="{{ trans('app.avatar') }}">
+      @else
+        <img src="{{ get_gravatar_url(Auth::user()->email, 'medium') }}" class="user-image" alt="{{ trans('app.avatar') }}">
+      @endif
+
+      @if (Auth::user()->image)
+        <a class="btn btn-xs btn-default confirm ajax-silent" type="submit" href="{{ route('admin.account.deletePhoto') }}"><i class="fa fa-trash-o"></i> {{ trans('app.form.delete_avatar') }}</a>
+      @endif
+    </div>
+
+    {!! Form::open(['route' => 'admin.account.updatePhoto', 'files' => true, 'data-toggle' => 'validator']) !!}
+    <div class="form-group">
+      <input type="file" name="image" required />
+      <div class="help-block with-errors"></div>
+    </div>
+
+    <button type="submit" class="btn btn-info btn-block">{{ trans('app.form.upload') }}</button>
+    {!! Form::close() !!}
+
+    <div class="form-group mt-5">
+      <label>{{ trans('app.security') }}</label>
+      <div class="form-group">
+        <a class="ajax-modal-btn btn btn-new" href="javascript:void(0)" data-link="{{ route('admin.account.showChangePasswordForm') }}"><i class="fa fa-lock"></i> {{ trans('app.change_password') }}</a>
+      </div>
+    </div>
+
+    <div>
+      <i class="fa fa-building-o"></i>
+
+      @if (Auth::user()->isSuperAdmin())
+        {{ trans('app.super_admin') }}
+      @else
+        {{ Auth::user()->role->name }}
+      @endif
+    </div>
+
+    <i class="fa fa-clock-o"></i>
+    {{ trans('app.member_since') . ' ' . Auth::user()->created_at->diffForHumans() }}
+  </div>
+
+  <div class="col-md-6">
+    {!! Form::model($profile, ['method' => 'PUT', 'route' => ['admin.account.update'], 'files' => true, 'id' => 'form', 'data-toggle' => 'validator']) !!}
+
+    <div class="form-group">
+      {!! Form::label('name', trans('app.form.full_name') . '*') !!}
+      {!! Form::text('name', null, ['class' => 'form-control', 'placeholder' => trans('app.placeholder.full_name'), 'required']) !!}
+      <div class="help-block with-errors"></div>
+    </div>
+    <div class="form-group">
+      {!! Form::label('nice_name', trans('app.form.nice_name')) !!}
+      {!! Form::text('nice_name', null, ['class' => 'form-control', 'placeholder' => trans('app.placeholder.nice_name')]) !!}
+    </div>
+    <div class="form-group">
+      {!! Form::label('role', trans('app.form.role')) !!}
+      {!! Form::text('role', $profile->role->name, ['class' => 'form-control', 'disabled' => 'disabled']) !!}
+    </div>
+    <div class="form-group">
+      {!! Form::label('email', trans('app.form.email_address') . '*') !!}
+      {!! Form::email('email', null, ['class' => 'form-control', 'placeholder' => trans('app.placeholder.valid_email'), 'required']) !!}
+      <div class="help-block with-errors"></div>
+    </div>
+
+    <div class="form-group">
+      {!! Form::label('dob', trans('app.form.dob')) !!}
+      <div class="input-group">
+        <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+        {!! Form::text('dob', null, ['class' => 'form-control datepicker', 'placeholder' => trans('app.placeholder.dob')]) !!}
+      </div>
+    </div>
+
+    <div class="form-group">
+      {!! Form::label('sex', trans('app.form.sex')) !!}
+      {!! Form::select('sex', get_gerder_list(), null, ['class' => 'form-control select2-normal', 'placeholder' => trans('app.placeholder.sex')]) !!}
+    </div>
+
+    <div class="form-group">
+      {!! Form::label('description', trans('app.form.biography')) !!}
+      {!! Form::textarea('description', null, ['class' => 'form-control summernote-without-toolbar', 'rows' => '2', 'placeholder' => trans('app.placeholder.biography')]) !!}
+    </div>
+
+    {!! Form::submit(trans('app.update'), ['class' => 'btn btn-flat btn-new']) !!}
+    {!! Form::close() !!}
+    <div class="spacer30"></div>
+  </div>
+
+  <div class="col-md-3">
+    @if ($profile->isFromMerchant())
+      <div class="form-group mb-5">
+        <label>{{ trans('app.merchant') }}</label>
+        <p class="lead">{{ optional($profile->shop)->name }}</p>
+      </div>
+    @endif
+
+    <div class="form-group mb-5">
+      <label>{{ trans('app.form.address') }}</label>
+      @if ($profile->primaryAddress)
+        {!! $profile->primaryAddress->toHtml() !!}
+
+        <a class="ajax-modal-btn btn btn-default" href="javascript:void(0)" data-link="{{ route('address.edit', $profile->primaryAddress->id) }}"><i class="fa fa-map-marker"></i> {{ trans('app.update_address') }}</a>
+      @else
+        <a class="ajax-modal-btn btn btn-default" href="javascript:void(0)" data-link="{{ route('address.create', ['user', $profile->id]) }}"><i class="fa fa-plus-square-o"></i> {{ trans('app.add_address') }}</a>
+      @endif
+    </div>
+
+    @if ($profile->isMerchant())
+      <div class="form-group mb-5">
+        <label>{{ trans('app.form.payout_instruction') }}</label>
+        @if ($profile->shop->pay_to)
+          <p class="mb-3">{{ $profile->shop->pay_to }}</p>
+        @endif
+
+        <a class="ajax-modal-btn btn btn-default" href="javascript:void(0)" data-link="{{ route('admin.account.shop.editPayoutInstruction') }}">
+          <i class="fa fa-money"></i> {{ $profile->shop->pay_to ? trans('app.update_payout_instructions') : trans('app.add_payout_instructions') }}
+        </a>
+      </div>
+    @endif
+
+    @if ($profile->isFromMerchant())
+      <div class="form-group mb-5">
+        <label>{{ trans('app.form.logo') }}</label>
+        <img src="{{ get_storage_file_url(optional($profile->shop->image)->path, 'small') }}" class="thumbnail" alt="{{ trans('app.logo') }}">
+      </div>
+
+      <div class="form-group mb-5">
+        <label>{{ $profile->shop->getVerificationStatus() }}</label>
+        <ul class="list-unstyled lead">
+          <li class="{{ $profile->shop->id_verified ? 'text-success' : 'text-muted' }}">
+            <i class="fa fa-{{ $profile->shop->id_verified ? 'check' : 'times' }}-circle-o"></i>
+            {{ trans('app.id_verified') }}
+          </li>
+          <li class="{{ $profile->shop->phone_verified ? 'text-success' : 'text-muted' }}">
+            <i class="fa fa-{{ $profile->shop->phone_verified ? 'check' : 'times' }}-circle-o"></i>
+            {{ trans('app.phone_verified') }}
+          </li>
+          <li class="{{ $profile->shop->address_verified ? 'text-success' : 'text-muted' }}">
+            <i class="fa fa-{{ $profile->shop->address_verified ? 'check' : 'times' }}-circle-o"></i>
+            {{ trans('app.address_verified') }}
+          </li>
+        </ul>
+
+        <span class="spacer30"></span>
+
+        @can('update', $profile->shop->config)
+          <a href="{{ route('admin.setting.verify') }}" class="btn btn-block btn-flat btn-success">{{ trans('app.get_verified') }}</a>
+        @endcan
+      </div>
+    @endif
+  </div>
+</div>

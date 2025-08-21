@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Toddler Nutritional Meal Kit - 6 Meals and Snacks",
+    "slug": "toddler-nutritional-meal-kit-6-meals-and-snacks",
+    "sku": "GB-TNM-6M-01",
+    "description": "The Toddler Nutritional Meal Kit from Gerber includes six meals and snacks specially designed for toddlers. This kit features a variety of meal options including organic oatmeal, vegetable soups, and fruit snacks, all made from natural, high-quality ingredients. Each meal is packed with essential vitamins and minerals to support your child’s growth and development. The meals are free from artificial flavors and colors, ensuring a healthy and nutritious feeding experience for your little one. This convenient kit is perfect for busy parents seeking balanced meal solutions for their toddlers.",
+    "price": 24.99,
+    "offer_price": 21.99,
+    "key_features": [
+      "6 Meals and Snacks",
+      "Organic Ingredients",
+      "No Artificial Flavors or Colors",
+      "Nutrient-Rich Options"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 75,
+    "shipping_weight": 1.5,
+    "meta_title": "Toddler Nutritional Meal Kit - 6 Meals and Snacks | Gerber",
+    "meta_description": "Discover the Toddler Nutritional Meal Kit from Gerber. This kit includes six nutritious meals and snacks made with organic ingredients and free from artificial additives. Buy now at a special offer price!"
+  },
+  {
+    "title": "Toddler Nutritional Meal Kit - Variety Pack",
+    "slug": "toddler-nutritional-meal-kit-variety-pack",
+    "sku": "GB-TNM-VP-02",
+    "description": "Gerber's Toddler Nutritional Meal Kit - Variety Pack offers a selection of healthy and convenient meal options for toddlers. This pack includes six different meals and snacks, such as organic oatmeal, hearty vegetable soups, and tasty fruit snacks. Each meal is made from natural ingredients with no artificial flavors or colors and is rich in essential nutrients for your child’s growth. The meal kit is ideal for parents who want to provide balanced, nutritious meals for their toddlers without the time-consuming task of cooking. Easy to prepare and perfect for on-the-go feeding.",
+    "price": 26.99,
+    "offer_price": 23.99,
+    "key_features": [
+      "Variety Pack",
+      "Organic Ingredients",
+      "No Artificial Additives",
+      "Rich in Essential Nutrients"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 40,
+    "shipping_weight": 1.6,
+    "meta_title": "Toddler Nutritional Meal Kit - Variety Pack | Gerber",
+    "meta_description": "Buy Gerber’s Toddler Nutritional Meal Kit - Variety Pack. Includes six different meals and snacks made with organic ingredients and no artificial additives. Ideal for nutritious, convenient feeding. Buy now at a special price!"
+  }
+]

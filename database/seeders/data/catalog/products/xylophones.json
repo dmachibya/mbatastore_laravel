@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Musical Angel 25-Key Xylophone",
+    "slug": "musical-angel-25-key-xylophone",
+    "brand": "Musical Angel",
+    "model_number": "MXL-25",
+    "mpn": "MXL-25",
+    "gtin": "891234567890",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Musical Angel Instruments",
+    "description": "The Musical Angel 25-Key Xylophone is an exceptional musical instrument for both beginners and experienced players. This xylophone features 25 high-quality metal bars tuned to a diatonic scale, offering a bright, clear, and resonant tone that is perfect for solo performances or ensemble settings. Each bar is carefully calibrated to produce precise musical notes, and the xylophone comes with a pair of durable mallets and a sturdy stand for optimal playing comfort. The frame is constructed from solid wood and finished with a sleek natural varnish, providing both durability and aesthetic appeal. Ideal for music education, practice, and performances, the Musical Angel Xylophone is designed to inspire creativity and musical expression."
+  },
+  {
+    "name": "Glenwood 32-Key Xylophone Set",
+    "slug": "glenwood-32-key-xylophone-set",
+    "brand": "Glenwood",
+    "model_number": "GW-32K",
+    "mpn": "GW-32K",
+    "gtin": "654321098765",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Glenwood Music Instruments",
+    "description": "The Glenwood 32-Key Xylophone Set is a premium quality xylophone designed for advanced players and professional musicians. This xylophone features 32 keys made from high-grade aluminum, which are carefully tuned to produce a warm, rich sound with excellent resonance and clarity. The xylophone includes a wooden frame with a robust stand that can be adjusted for different playing heights. It comes with two pairs of mallets: soft rubber mallets for delicate tones and harder plastic mallets for a more intense sound. The Glenwood Xylophone Set is perfect for concerts, music schools, and serious music enthusiasts seeking a high-quality instrument for their performances and practice sessions."
+  }
+]

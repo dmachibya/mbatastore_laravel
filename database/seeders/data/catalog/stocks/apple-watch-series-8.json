@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Apple Watch Series 8 GPS, 45mm - Starlight Aluminum Case with Starlight Sport Band",
+    "slug": "apple-watch-series-8-gps-45mm-starlight",
+    "sku": "AW8-GPS-45-Starlight",
+    "description": "The Apple Watch Series 8 GPS, 45mm in Starlight Aluminum Case with Starlight Sport Band is the perfect smartwatch for those seeking cutting-edge technology and elegant design. This latest model features a stunning Always-On Retina display with a 45mm case size, offering a resolution of 396 x 484 pixels for crisp and clear visuals. It is powered by the new S8 SiP with a 64-bit dual-core processor, ensuring fast performance for all your apps and notifications. The Series 8 includes advanced health monitoring features such as heart rate tracking, ECG app, blood oxygen monitoring, and a new temperature sensor to keep track of body temperature changes. With built-in GPS, you can track your outdoor workouts with precision. The watch is water-resistant up to 50 meters and supports the latest watchOS for a range of apps and features. The Starlight Sport Band is comfortable for all-day wear and easy to adjust. This Apple Watch Series 8 model is ideal for both fitness enthusiasts and those looking to stay connected on the go.",
+    "price": 749.0,
+    "offer_price": 699.0,
+    "key_features": [
+      "45mm Always-On Retina display",
+      "S8 SiP with 64-bit dual-core processor",
+      "Heart rate monitoring, ECG, Blood oxygen monitoring",
+      "New temperature sensor",
+      "Built-in GPS",
+      "Water-resistant up to 50 meters",
+      "Starlight Aluminum Case with Starlight Sport Band"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 25,
+    "shipping_weight": 0.3,
+    "meta_title": "Apple Watch Series 8 GPS 45mm - Starlight Aluminum Case",
+    "meta_description": "Buy the Apple Watch Series 8 GPS, 45mm in Starlight Aluminum Case with Starlight Sport Band. Features Always-On Retina display, heart rate monitoring, ECG, and temperature sensor."
+  },
+  {
+    "title": "Apple Watch Series 8 GPS + Cellular, 45mm - Midnight Aluminum Case with Midnight Sport Band",
+    "slug": "apple-watch-series-8-gps-cellular-45mm-midnight",
+    "sku": "AW8-GPS-Cellular-45-Midnight",
+    "description": "The Apple Watch Series 8 GPS + Cellular, 45mm in Midnight Aluminum Case with Midnight Sport Band offers the ultimate in smartwatch functionality and style. This model features a 45mm Always-On Retina display with a resolution of 396 x 484 pixels, providing vibrant and detailed visuals. Powered by the S8 SiP with a 64-bit dual-core processor, the Series 8 ensures fast and efficient performance. The GPS + Cellular model allows you to make calls, send texts, and stream music without needing your phone nearby. Health features include advanced heart rate monitoring, an ECG app, blood oxygen monitoring, and a new temperature sensor for tracking body temperature fluctuations. The watch is water-resistant up to 50 meters and supports the latest watchOS for a range of apps and functionalities. The Midnight Sport Band is designed for comfort and durability, making this Apple Watch Series 8 model perfect for daily wear and fitness tracking.",
+    "price": 849.0,
+    "offer_price": 799.0,
+    "key_features": [
+      "45mm Always-On Retina display",
+      "S8 SiP with 64-bit dual-core processor",
+      "Heart rate monitoring, ECG, Blood oxygen monitoring",
+      "New temperature sensor",
+      "GPS + Cellular connectivity",
+      "Water-resistant up to 50 meters",
+      "Midnight Aluminum Case with Midnight Sport Band"
+    ],
+    "stock_quantity": 45,
+    "sold_quantity": 12,
+    "shipping_weight": 0.35,
+    "meta_title": "Apple Watch Series 8 GPS + Cellular 45mm - Midnight Aluminum Case",
+    "meta_description": "Get the Apple Watch Series 8 GPS + Cellular, 45mm in Midnight Aluminum Case with Midnight Sport Band. Features Always-On Retina display, advanced health monitoring, and GPS + Cellular."
+  }
+]

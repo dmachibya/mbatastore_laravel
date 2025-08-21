@@ -1,0 +1,88 @@
+{
+  "Operating Systems": {
+    "slug": "operating-systems",
+    "description": "Software that manages computer hardware and software resources.",
+    "subcategories": [
+      {
+        "name": "Windows",
+        "slug": "windows",
+        "description": "Operating system developed by Microsoft."
+      },
+      {
+        "name": "Linux",
+        "slug": "linux",
+        "description": "Open-source operating system based on Unix."
+      }
+    ]
+  },
+  "Productivity Software": {
+    "slug": "productivity-software",
+    "description": "Software that helps users produce documents, databases, graphs, worksheets, and presentations.",
+    "subcategories": [
+      {
+        "name": "Office Suites",
+        "slug": "office-suites",
+        "description": "Collection of productivity applications."
+      }
+    ]
+  },
+  "Security Software": {
+    "slug": "security-software",
+    "description": "Software designed to protect and secure computers and data.",
+    "subcategories": [
+      {
+        "name": "Antivirus",
+        "slug": "antivirus",
+        "description": "Software designed to detect and destroy computer viruses."
+      },
+      {
+        "name": "Firewalls",
+        "slug": "firewalls",
+        "description": "Network security system that monitors and controls incoming and outgoing network traffic."
+      }
+    ]
+  },
+  "Creative Software": {
+    "slug": "creative-software",
+    "description": "Software for creating and editing visual, audio, and multimedia content.",
+    "subcategories": [
+      {
+        "name": "Graphic Design",
+        "slug": "graphic-design",
+        "description": "Software for creating and editing visual content."
+      },
+      {
+        "name": "Video and Audio Editing",
+        "slug": "video-audio-editing",
+        "description": "Software for editing and creating videos/audio."
+      }
+    ]
+  },
+  "Development Software": {
+    "slug": "development-software",
+    "description": "Software tools for developing applications and systems.",
+    "subcategories": [
+      {
+        "name": "IDEs",
+        "slug": "ides",
+        "description": "Integrated Development Environments for writing and testing software."
+      }
+    ]
+  },
+  "Educational Software": {
+    "slug": "educational-software",
+    "description": "Software designed for teaching and learning.",
+    "subcategories": [
+      {
+        "name": "Language Learning",
+        "slug": "language-learning",
+        "description": "Software for learning new languages."
+      },
+      {
+        "name": "Mathematics",
+        "slug": "mathematics",
+        "description": "Software for learning and practicing math skills."
+      }
+    ]
+  }
+}

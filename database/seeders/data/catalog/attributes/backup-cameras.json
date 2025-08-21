@@ -1,0 +1,10 @@
+{
+  "Camera Type": [
+    "Wired",
+    "Wireless",
+    "Mirror Integrated",
+    "License Plate Mounted"
+  ],
+  "Resolution": ["480p", "720p", "1080p", "4K"],
+  "Field of View": ["120 Degrees", "150 Degrees", "170 Degrees", "180 Degrees"]
+}

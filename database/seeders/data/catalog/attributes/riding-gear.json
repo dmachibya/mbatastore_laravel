@@ -1,0 +1,9 @@
+{
+  "Material": ["Leather", "Textile", "Mesh", "Synthetic"],
+  "Protection Level": [
+    "CE Certified",
+    "Armor Inserts",
+    "Impact Protection",
+    "Waterproof"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Battery Type": [
+    "Standard Lithium-Ion",
+    "Lithium Iron Phosphate (LiFePO4)",
+    "Lithium Cobalt Oxide (LiCoO2)",
+    "Lithium Manganese Oxide (LiMn2O4)",
+    "High-Energy Lithium-Ion",
+    "Lithium Nickel Manganese Cobalt (NMC)",
+    "Lithium Nickel Cobalt Aluminum Oxide (NCA)",
+    "Lithium Titanate (LTO)"
+  ],
+  "Battery Capacity": [
+    "500-1000 mAh",
+    "1000-2000 mAh",
+    "2000-3000 mAh",
+    "3000-5000 mAh",
+    "4000+ mAh"
+  ]
+}

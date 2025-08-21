@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sapiens: A Brief History of Humankind",
+    "slug": "sapiens-a-brief-history-of-humankind",
+    "brand": "Harper Perennial",
+    "model_number": "9780062316097",
+    "mpn": "0062316095",
+    "gtin": "9780062316097",
+    "gtin_type": "ISBN-13",
+    "origin_country": "USA",
+    "manufacturer": "HarperCollins",
+    "description": "In 'Sapiens: A Brief History of Humankind', Yuval Noah Harari takes readers on a sweeping journey through the history of our species, from the emergence of Homo sapiens in the Stone Age to the radical breakthroughs of the Scientific and Industrial Revolutions. Harari examines how the Cognitive Revolution gave humans the power to imagine and create, the Agricultural Revolution transformed our societies, and the unification of humankind under global empires and religions. This compelling narrative offers deep insights into the forces that have shaped human history and challenges readers to think about the future of our species in a rapidly changing world."
+  },
+  {
+    "name": "Educated: A Memoir",
+    "slug": "educated-a-memoir",
+    "brand": "Random House",
+    "model_number": "9780399590504",
+    "mpn": "0399590501",
+    "gtin": "9780399590504",
+    "gtin_type": "ISBN-13",
+    "origin_country": "USA",
+    "manufacturer": "Random House",
+    "description": "'Educated: A Memoir' by Tara Westover is an astonishing true story of a woman's struggle for self-invention. Born to survivalists in the mountains of Idaho, Westover was seventeen when she first set foot in a classroom. Her quest for knowledge took her from a rural home where education was forbidden to the halls of Cambridge University. Despite lacking any formal education until she was a teenager, Westover's determination and willpower enabled her to earn a PhD. This memoir is a testament to the transformative power of education and the resilience of the human spirit."
+  }
+]

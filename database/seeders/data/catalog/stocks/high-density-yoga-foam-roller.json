@@ -1,0 +1,40 @@
+[
+  {
+    "title": "High-Density Yoga Foam Roller - Standard",
+    "slug": "high-density-yoga-foam-roller-standard",
+    "sku": "LYFR-200-001",
+    "description": "The Liforme High-Density Yoga Foam Roller is perfect for enhancing your yoga practice or aiding muscle recovery. Made with high-density foam, it offers a deep tissue massage to alleviate muscle soreness and improve flexibility. Ideal for pre- and post-workout routines, this roller features a textured surface that helps target specific muscle groups. Lightweight and durable, it’s an essential tool for both beginners and advanced practitioners seeking to enhance their yoga sessions and overall muscle health.",
+    "price": 29.99,
+    "offer_price": 24.99,
+    "key_features": [
+      "High-Density Foam for Deep Tissue Massage",
+      "Textured Surface for Targeted Muscle Relief",
+      "Durable and Lightweight",
+      "Ideal for Yoga and Recovery"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 250,
+    "shipping_weight": 2,
+    "meta_title": "Liforme High-Density Yoga Foam Roller | Enhance Your Yoga Practice",
+    "meta_description": "Shop the Liforme High-Density Yoga Foam Roller for deep tissue massage and muscle recovery. Perfect for yoga and fitness enthusiasts. Buy now at a special offer price!"
+  },
+  {
+    "title": "High-Density Yoga Foam Roller - Extra Firm",
+    "slug": "high-density-yoga-foam-roller-extra-firm",
+    "sku": "LYFR-200-002",
+    "description": "Enhance your yoga practice with the Liforme High-Density Yoga Foam Roller in Extra Firm. This roller provides a more intense deep tissue massage, ideal for experienced practitioners and those looking for a more challenging recovery tool. Its high-density foam construction ensures durability and effectiveness, while the textured surface targets muscle knots and improves flexibility. Suitable for various yoga and fitness routines, this foam roller is a valuable addition to your exercise equipment collection.",
+    "price": 34.99,
+    "offer_price": 29.99,
+    "key_features": [
+      "Extra Firm Density for Intense Massage",
+      "Textured Surface for Deep Tissue Relief",
+      "Durable Foam Construction",
+      "Suitable for Advanced Yoga Practice"
+    ],
+    "stock_quantity": 75,
+    "sold_quantity": 120,
+    "shipping_weight": 2.5,
+    "meta_title": "Liforme High-Density Yoga Foam Roller - Extra Firm | Deep Tissue Relief",
+    "meta_description": "Discover the Liforme High-Density Yoga Foam Roller - Extra Firm for an intense deep tissue massage. Perfect for advanced yoga practitioners. Buy now at a discounted price!"
+  }
+]

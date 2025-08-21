@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ford F-150",
+    "slug": "ford-f-150",
+    "brand": "Ford",
+    "model_number": "1FTFW1E85MKD83957",
+    "mpn": "1FTFW1E85MKD83957",
+    "gtin": "0038567045032",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Ford Motor Company",
+    "description": "The Ford F-150 is the epitome of strength and reliability, offering a blend of power, performance, and technology. The 2024 model continues this legacy with an array of engine choices including the powerful 3.5L EcoBoost V6 and the robust 5.0L V8, both capable of handling the toughest jobs. The F-150 features a high-strength, military-grade, aluminum-alloy body, ensuring durability without compromising efficiency. Its advanced technology suite includes the SYNC 4 infotainment system with a 12-inch touchscreen, adaptive cruise control, and Pro Trailer Backup Assist. The interior is designed for comfort and functionality, with ample storage and premium materials. Whether for work or play, the Ford F-150 remains a top choice in the truck segment."
+  },
+  {
+    "name": "Chevrolet Silverado 1500",
+    "slug": "chevrolet-silverado-1500",
+    "brand": "Chevrolet",
+    "model_number": "1GCUYDED9NZ517973",
+    "mpn": "1GCUYDED9NZ517973",
+    "gtin": "0041656081623",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "General Motors",
+    "description": "The Chevrolet Silverado 1500 is a versatile and dependable full-size pickup truck, known for its impressive performance and advanced features. The 2024 model offers a range of powerful engines, including the 6.2L EcoTec3 V8 and the 3.0L Duramax Turbo-Diesel, providing exceptional towing and payload capacities. The Silverado 1500's rugged design is complemented by a spacious and comfortable interior equipped with the latest technology, such as the Chevrolet Infotainment 3 system with a 13.4-inch diagonal color touchscreen and wireless Apple CarPlay and Android Auto. Safety features like forward collision alert, lane keep assist, and automatic emergency braking ensure peace of mind on every journey. The Silverado 1500 is built to handle the toughest tasks while offering a smooth and enjoyable driving experience."
+  },
+  {
+    "name": "Ram 1500",
+    "slug": "ram-1500",
+    "brand": "Ram",
+    "model_number": "1C6SRFLT1MN519322",
+    "mpn": "1C6SRFLT1MN519322",
+    "gtin": "0041735635200",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Stellantis",
+    "description": "The Ram 1500 sets the standard for luxury and capability in the full-size truck market. The 2024 model combines robust performance with a refined and sophisticated interior, making it ideal for both work and leisure. Engine options include the powerful 5.7L HEMI V8 with eTorque and the efficient 3.0L EcoDiesel V6, providing a perfect balance of power and fuel economy. The Ram 1500 features a multi-function tailgate, a spacious cabin with premium materials, and the advanced Uconnect 5 system with a 12-inch touchscreen display. Safety and driver-assist features such as adaptive cruise control, blind-spot monitoring, and rear cross-path detection enhance the driving experience. The Ram 1500's blend of luxury, technology, and capability make it a top contender in the truck segment."
+  }
+]

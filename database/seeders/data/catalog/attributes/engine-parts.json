@@ -1,0 +1,10 @@
+{
+  "Material": ["Aluminum", "Steel", "Cast Iron", "Composite"],
+  "Compatibility": [
+    "Ford F-150",
+    "Chevrolet Silverado",
+    "Toyota Camry",
+    "Honda Accord"
+  ],
+  "Engine Type": ["V6", "V8", "Inline-4", "Inline-6"]
+}

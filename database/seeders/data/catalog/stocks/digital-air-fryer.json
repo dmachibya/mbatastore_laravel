@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Healthy Cook Digital Air Fryer - 3.5L",
+    "slug": "healthy-cook-digital-air-fryer-3-5l",
+    "sku": "HC-AF300-3.5L",
+    "description": "The Healthy Cook Digital Air Fryer - 3.5L allows you to enjoy your favorite fried foods without the guilt. Utilizing advanced air circulation technology, this air fryer cooks food to a crispy perfection with little to no oil. It features a digital touchscreen for easy temperature and time control, a large capacity basket, and multiple cooking presets. Ideal for frying, baking, grilling, and roasting, this versatile appliance is a must-have for any health-conscious kitchen. The 3.5L capacity is perfect for families, providing ample space for larger portions.",
+    "price": 89.99,
+    "offer_price": 79.99,
+    "key_features": [
+      "Advanced Air Circulation Technology",
+      "Digital Touchscreen",
+      "Large Capacity Basket",
+      "Multiple Cooking Presets",
+      "Healthier Cooking with Little to No Oil"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 120,
+    "shipping_weight": 7.0,
+    "meta_title": "Healthy Cook Digital Air Fryer - 3.5L",
+    "meta_description": "Enjoy healthier fried foods with the Healthy Cook Digital Air Fryer - 3.5L. Features advanced air circulation technology, digital touchscreen, and a large capacity basket. Perfect for frying, baking, grilling, and roasting."
+  },
+  {
+    "title": "Healthy Cook Digital Air Fryer - 5L",
+    "slug": "healthy-cook-digital-air-fryer-5l",
+    "sku": "HC-AF300-5L",
+    "description": "The Healthy Cook Digital Air Fryer - 5L allows you to enjoy your favorite fried foods without the guilt. Utilizing advanced air circulation technology, this air fryer cooks food to a crispy perfection with little to no oil. It features a digital touchscreen for easy temperature and time control, a large capacity basket, and multiple cooking presets. Ideal for frying, baking, grilling, and roasting, this versatile appliance is a must-have for any health-conscious kitchen. The 5L capacity is perfect for larger families or those who love to entertain, providing ample space for even bigger portions.",
+    "price": 109.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "Advanced Air Circulation Technology",
+      "Digital Touchscreen",
+      "Extra Large Capacity Basket",
+      "Multiple Cooking Presets",
+      "Healthier Cooking with Little to No Oil"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 80,
+    "shipping_weight": 8.5,
+    "meta_title": "Healthy Cook Digital Air Fryer - 5L",
+    "meta_description": "Enjoy healthier fried foods with the Healthy Cook Digital Air Fryer - 5L. Features advanced air circulation technology, digital touchscreen, and an extra large capacity basket. Perfect for large families and entertaining."
+  }
+]

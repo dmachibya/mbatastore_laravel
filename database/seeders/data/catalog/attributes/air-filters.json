@@ -1,0 +1,9 @@
+{
+  "Filter Type": [
+    "Engine Air Filter",
+    "Cabin Air Filter",
+    "Performance Air Filter",
+    "Oil Filter"
+  ],
+  "Filter Material": ["Paper", "Cotton", "Foam", "Fiberglass"]
+}

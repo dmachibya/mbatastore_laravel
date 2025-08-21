@@ -1,0 +1,15 @@
+{
+  "Battery Capacity": ["50 kWh", "75 kWh", "100 kWh", "150 kWh"],
+  "Range Per Charge": [
+    "Up to 200 miles",
+    "200-300 miles",
+    "300-400 miles",
+    "Over 400 miles"
+  ],
+  "Charging Time": [
+    "Under 30 minutes (fast charging)",
+    "30 minutes - 1 hour (fast charging)",
+    "1-4 hours (level 2 charging)",
+    "Over 4 hours (level 1 charging)"
+  ]
+}

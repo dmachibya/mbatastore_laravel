@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Diamond Solitaire Engagement Ring",
+    "slug": "diamond-solitaire-engagement-ring",
+    "brand": "LuxorDiamonds",
+    "model_number": "LD-ER-2024",
+    "mpn": "LD-ER-2024",
+    "gtin": "2345678901234",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "LuxorDiamonds Inc.",
+    "description": "The Diamond Solitaire Engagement Ring by LuxorDiamonds is a timeless symbol of love and commitment. Featuring a brilliant round-cut diamond set in a classic four-prong setting, this ring is designed to capture light and sparkle from every angle. The band is crafted from high-quality 14K white gold, offering a perfect balance of durability and elegance. Ideal for engagements or special occasions, this ring promises to be a cherished symbol of your enduring love. Each diamond is carefully selected for its clarity and brilliance, ensuring a stunning and lasting piece of jewelry."
+  },
+  {
+    "name": "Vintage Style Ruby and Diamond Cocktail Ring",
+    "slug": "vintage-style-ruby-and-diamond-cocktail-ring",
+    "brand": "EternalGems",
+    "model_number": "EG-CR-2024",
+    "mpn": "EG-CR-2024",
+    "gtin": "3456789012345",
+    "gtin_type": "EAN",
+    "origin_country": "UK",
+    "manufacturer": "EternalGems Jewelry",
+    "description": "The Vintage Style Ruby and Diamond Cocktail Ring from EternalGems is a statement piece inspired by classic elegance. This stunning ring features a vibrant ruby center stone surrounded by a halo of sparkling diamonds, set in a beautifully detailed 18K gold band. The vintage design incorporates intricate engravings and filigree work, adding a touch of old-world charm to this glamorous piece. Perfect for cocktail parties or formal events, this ring exudes sophistication and grace, making it an ideal choice for those who appreciate fine craftsmanship and timeless beauty."
+  }
+]

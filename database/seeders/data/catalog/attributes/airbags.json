@@ -1,0 +1,19 @@
+{
+  "Airbag Placement": [
+    "Driver Side",
+    "Passenger Side",
+    "Front Seats",
+    "Rear Seats",
+    "Overhead",
+    "Under Dash",
+    "Door Panels"
+  ],
+  "Deployment System": [
+    "Single-Stage",
+    "Dual-Stage",
+    "Multi-Stage",
+    "Adaptive",
+    "Pyrotechnic",
+    "Gas Generator"
+  ]
+}

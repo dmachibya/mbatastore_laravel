@@ -1,0 +1,65 @@
+{
+  "Toys": {
+    "slug": "toys",
+    "description": "Various toys for children of all ages.",
+    "subcategories": [
+      {
+        "name": "Action Figures",
+        "slug": "action-figures",
+        "description": "Collectible figures of characters from movies, comics, and games."
+      },
+      {
+        "name": "Building Blocks",
+        "slug": "building-blocks",
+        "description": "Toys for building and creating structures."
+      },
+      {
+        "name": "Plush Toys",
+        "slug": "plush-toys",
+        "description": "Soft and cuddly toys for children."
+      },
+      {
+        "name": "Educational Toys",
+        "slug": "educational-toys",
+        "description": "Toys designed to teach children new skills and knowledge."
+      }
+    ]
+  },
+  "Games": {
+    "slug": "games",
+    "description": "Games for fun and entertainment for kids.",
+    "subcategories": [
+      {
+        "name": "Board Games",
+        "slug": "board-games",
+        "description": "Classic and new board games for family fun."
+      },
+      {
+        "name": "Outdoor Games",
+        "slug": "outdoor-games",
+        "description": "Games for active play in the outdoors."
+      }
+    ]
+  },
+  "Arts and Crafts": {
+    "slug": "kids-arts-and-crafts",
+    "description": "Supplies and kits for creative activities.",
+    "subcategories": [
+      {
+        "name": "Craft Kits",
+        "slug": "craft-kits",
+        "description": "Complete kits for making various crafts."
+      },
+      {
+        "name": "Art Supplies",
+        "slug": "art-supplies",
+        "description": "Materials for various art projects."
+      },
+      {
+        "name": "Educational Craft Supplies",
+        "slug": "educational-craft-supplies",
+        "description": "Supplies for educational and developmental crafts."
+      }
+    ]
+  }
+}

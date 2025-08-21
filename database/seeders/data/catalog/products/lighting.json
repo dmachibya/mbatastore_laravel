@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Modern Crystal Chandelier",
+    "slug": "modern-crystal-chandelier",
+    "brand": "Elegant Designs",
+    "model_number": "ED-CH101",
+    "mpn": "EDCH101",
+    "gtin": "852140001014",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Elegant Designs",
+    "description": "The Modern Crystal Chandelier by Elegant Designs is a stunning addition to any home decor. This chandelier features an elegant design with dazzling crystals that reflect light beautifully, creating a luxurious ambiance in your living space. The durable metal frame and high-quality crystal construction ensure long-lasting beauty and functionality. Perfect for dining rooms, living rooms, or entryways, this chandelier adds a touch of sophistication and glamour to your home. The adjustable chain allows for customizable hanging height, making it suitable for various ceiling heights and room sizes."
+  },
+  {
+    "name": "Industrial Floor Lamp",
+    "slug": "industrial-floor-lamp",
+    "brand": "Brightech",
+    "model_number": "BT-FL201",
+    "mpn": "BTFL201",
+    "gtin": "853799002014",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Brightech",
+    "description": "The Industrial Floor Lamp by Brightech brings a unique blend of vintage and modern design to your home decor. Featuring a sturdy metal construction with an antique bronze finish, this floor lamp exudes industrial charm. The adjustable arm and head allow you to direct light where it's needed most, making it ideal for reading, working, or creating a cozy atmosphere. The included LED bulb provides energy-efficient lighting with a warm, inviting glow. Perfect for living rooms, bedrooms, or home offices, this floor lamp adds a stylish and functional touch to any space."
+  }
+]

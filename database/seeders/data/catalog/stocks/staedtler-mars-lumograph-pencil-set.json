@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Staedtler Mars Lumograph Pencil Set - 12 Count",
+    "slug": "staedtler-mars-lumograph-pencil-set-12-count",
+    "sku": "STA-100G12",
+    "description": "The Staedtler Mars Lumograph Pencil Set is a premium collection of 12 graphite pencils ranging from 6B to 4H. These pencils are ideal for artists, designers, and drafters, offering a wide range of tones for shading, sketching, and technical drawing. Each pencil features a break-resistant lead and is made from high-quality materials to ensure smooth and consistent performance. The Mars Lumograph pencils are easy to sharpen and provide excellent control, making them a favorite among professionals and art students. This set is perfect for detailed work and creative projects.",
+    "price": 21.99,
+    "offer_price": 18.99,
+    "key_features": [
+      "12 Graphite Pencils from 6B to 4H",
+      "Break-Resistant Lead",
+      "High-Quality Materials",
+      "Smooth and Consistent Performance",
+      "Ideal for Artists and Designers"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 100,
+    "shipping_weight": 0.4,
+    "meta_title": "Staedtler Mars Lumograph Pencil Set - 12 Count",
+    "meta_description": "Purchase the Staedtler Mars Lumograph Pencil Set, featuring 12 graphite pencils from 6B to 4H. Ideal for artists and designers. High-quality and break-resistant."
+  },
+  {
+    "title": "Staedtler Mars Lumograph Pencil Set - 6 Count",
+    "slug": "staedtler-mars-lumograph-pencil-set-6-count",
+    "sku": "STA-100G6",
+    "description": "The Staedtler Mars Lumograph Pencil Set includes 6 high-quality graphite pencils ranging from 2B to 2H. Perfect for shading, sketching, and technical drawing, these pencils offer a smooth and consistent writing experience. Each pencil features a break-resistant lead and is made from top-notch materials to ensure durability and performance. The Mars Lumograph pencils are easy to sharpen and provide excellent control, making them suitable for both professional artists and students. This compact set is ideal for detailed work and creative projects.",
+    "price": 12.99,
+    "offer_price": 10.99,
+    "key_features": [
+      "6 Graphite Pencils from 2B to 2H",
+      "Break-Resistant Lead",
+      "High-Quality Materials",
+      "Smooth and Consistent Performance",
+      "Perfect for Shading and Sketching"
+    ],
+    "stock_quantity": 300,
+    "sold_quantity": 150,
+    "shipping_weight": 0.2,
+    "meta_title": "Staedtler Mars Lumograph Pencil Set - 6 Count",
+    "meta_description": "Buy the Staedtler Mars Lumograph Pencil Set with 6 graphite pencils from 2B to 2H. Ideal for artists and students. High-quality and durable."
+  }
+]

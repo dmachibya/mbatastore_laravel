@@ -1,0 +1,27 @@
+{
+  "Year": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+  "Transmission": [
+    "Automatic",
+    "Manual",
+    "CVT",
+    "Dual-Clutch",
+    "Semi-Automatic",
+    "Tiptronic",
+    "Direct Shift Gearbox",
+    "Electric Drive",
+    "Hydraulic Automatic",
+    "Torque Converter"
+  ],
+  "Color": [
+    "Red",
+    "Blue",
+    "Black",
+    "White",
+    "Silver",
+    "Gray",
+    "Green",
+    "Yellow",
+    "Orange",
+    "Purple"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Handcrafted Wooden Jewelry Box",
+    "slug": "handcrafted-wooden-jewelry-box",
+    "brand": "Artisan Craftworks",
+    "model_number": "AC-WJB2024",
+    "mpn": "AC-001",
+    "gtin": "0123456789052",
+    "gtin_type": "EAN",
+    "origin_country": "India",
+    "manufacturer": "Artisan Craftworks Pvt. Ltd.",
+    "description": "The Handcrafted Wooden Jewelry Box by Artisan Craftworks is a stunning example of traditional craftsmanship. Made from high-quality wood, this jewelry box features intricate carvings and a beautiful polished finish. The interior is lined with soft fabric to protect your precious jewelry. This box is perfect for storing rings, necklaces, and other valuables, making it both a functional and decorative piece. Whether placed on a dresser or given as a gift, this handcrafted jewelry box adds a touch of elegance and charm."
+  },
+  {
+    "name": "Rustic Wooden Picture Frame",
+    "slug": "rustic-wooden-picture-frame",
+    "brand": "Heritage Home Decor",
+    "model_number": "HH-WPF2024",
+    "mpn": "HH-002",
+    "gtin": "0123456789053",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Heritage Home Decor Inc.",
+    "description": "The Rustic Wooden Picture Frame by Heritage Home Decor brings a touch of rustic charm to your home. This frame is crafted from reclaimed wood, giving it a unique and authentic look. The distressed finish adds character and warmth, making it perfect for displaying your cherished memories. Suitable for both modern and traditional interiors, this picture frame is an ideal addition to your living room, bedroom, or office. Showcase your favorite photographs and create a cozy, inviting atmosphere with this beautifully crafted frame."
+  }
+]

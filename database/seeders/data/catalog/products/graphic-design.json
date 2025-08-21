@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Adobe Photoshop 2024",
+    "slug": "adobe-photoshop-2024",
+    "brand": "Adobe",
+    "model_number": "65241584",
+    "mpn": "65241584",
+    "gtin": "088771989930",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Adobe Inc.",
+    "description": "Adobe Photoshop 2024 is the industry-leading graphic design and photo editing software used by professionals and enthusiasts alike. This latest version of Photoshop offers a range of powerful tools for photo manipulation, digital painting, graphic design, and more. With advanced features such as AI-powered editing tools, enhanced 3D design capabilities, and a redesigned interface, Photoshop 2024 allows users to create stunning visuals with ease. The new neural filters and improved content-aware fill functions streamline workflows and expand creative possibilities. Photoshop 2024 supports a variety of file formats and integrates seamlessly with other Adobe Creative Cloud applications."
+  },
+  {
+    "name": "CorelDRAW Graphics Suite 2024",
+    "slug": "coreldraw-graphics-suite-2024",
+    "brand": "Corel",
+    "model_number": "CDGS24EN",
+    "mpn": "CDGS24EN",
+    "gtin": "735163146938",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Corel Corporation",
+    "description": "CorelDRAW Graphics Suite 2024 is a comprehensive graphic design software package designed for professionals and aspiring designers. This latest version includes CorelDRAW for vector graphic design, PHOTO-PAINT for advanced photo editing, and several other tools for layout, typography, and digital illustration. CorelDRAW Graphics Suite 2024 introduces new features such as AI-driven design tools, enhanced vector illustration capabilities, and an improved user interface. Users can benefit from extensive templates, design assets, and support for a wide range of file formats. The suite is ideal for creating high-quality graphics, marketing materials, and digital art."
+  }
+]

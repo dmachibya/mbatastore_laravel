@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Starry Night by Vincent van Gogh - Canvas Print",
+    "slug": "starry-night-canvas-print",
+    "sku": "SN-VA-1889-01",
+    "description": "Experience the magic of Vincent van Gogh's 'Starry Night' with this high-quality canvas print. This reproduction captures the vibrant colors and swirling patterns of the original oil painting, bringing the night sky of Saint-Rémy-de-Provence into your home. The dynamic blues and yellows create a sense of movement and emotion, making this canvas print a stunning focal point for any room. Perfect for art enthusiasts and those who appreciate van Gogh's unique style, this piece is ready to hang and enjoy, offering a glimpse into the genius of one of history's greatest artists.",
+    "price": 249.99,
+    "offer_price": 199.99,
+    "key_features": [
+      "High-quality canvas material",
+      "Vibrant colors and swirling patterns",
+      "Ready to hang",
+      "Faithful reproduction of the original painting"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 15,
+    "shipping_weight": 3.0,
+    "meta_title": "Starry Night Canvas Print - Vincent van Gogh",
+    "meta_description": "Buy a high-quality canvas print of Vincent van Gogh's 'Starry Night'. This print captures the vibrant colors and dynamic patterns of the original painting."
+  },
+  {
+    "title": "Starry Night by Vincent van Gogh - Framed Poster",
+    "slug": "starry-night-framed-poster",
+    "sku": "SN-VA-1889-02",
+    "description": "Adorn your walls with the iconic 'Starry Night' by Vincent van Gogh, beautifully reproduced as a framed poster. This high-resolution print captures the swirling night sky and vibrant colors of the original oil painting, framed elegantly to enhance its visual appeal. The dynamic composition and bold hues make this framed poster a captivating addition to any decor. Ideal for art lovers and van Gogh admirers, this piece is an affordable way to bring a masterpiece into your home. The durable frame and protective glass ensure the print remains vibrant and pristine.",
+    "price": 79.99,
+    "offer_price": 59.99,
+    "key_features": [
+      "High-resolution print",
+      "Elegant frame",
+      "Protective glass",
+      "Affordable and stylish"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 25,
+    "shipping_weight": 2.0,
+    "meta_title": "Starry Night Framed Poster - Vincent van Gogh",
+    "meta_description": "Shop for a framed poster of Vincent van Gogh's 'Starry Night'. This high-resolution print with an elegant frame is perfect for any decor."
+  }
+]

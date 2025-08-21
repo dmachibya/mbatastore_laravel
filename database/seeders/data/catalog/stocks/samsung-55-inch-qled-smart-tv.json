@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Samsung 55-Inch QLED Smart TV",
+    "slug": "samsung-55-inch-qled-smart-tv",
+    "sku": "QN55Q60TAFXZA",
+    "description": "The Samsung 55-Inch QLED Smart TV offers a stunning viewing experience with its Quantum Dot technology that delivers over a billion shades of color. This TV features 4K resolution for incredibly sharp images and the Quantum Processor 4K that optimizes performance. The Quantum HDR brings out the detail and contrast, while the Dual LED backlighting technology adjusts the color tone to suit the content being watched. This Smart TV also comes with Bixby, Alexa, and Google Assistant built-in for seamless voice control. It supports a wide range of apps and streaming services, providing endless entertainment options. The sleek and slim design of the Samsung QLED TV makes it a stylish addition to any room. It includes multiple HDMI and USB ports for easy connectivity with other devices. Additionally, it has Ambient Mode+, which lets the TV blend into your home decor by displaying art, photos, or news updates when not in use. The TV also features Adaptive Picture, which adjusts the picture brightness and contrast based on the surrounding light environment, ensuring an optimal viewing experience at any time of the day.",
+    "price": 999.99,
+    "offer_price": 899.99,
+    "key_features": [
+      "55-inch QLED display",
+      "4K resolution",
+      "Quantum Processor 4K",
+      "Quantum HDR",
+      "Voice control (Bixby, Alexa, Google Assistant)"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 15,
+    "shipping_weight": 50.5,
+    "meta_title": "Samsung 55-Inch QLED Smart TV - Stunning 4K Display",
+    "meta_description": "Buy Samsung 55-Inch QLED Smart TV. Features 4K resolution, Quantum HDR, and built-in voice assistants. Perfect for home entertainment. Order now!"
+  },
+  {
+    "title": "Samsung QN90A Neo QLED 4K Smart TV",
+    "slug": "samsung-qn90a-neo-qled-4k-smart-tv",
+    "sku": "QN90A55",
+    "description": "The Samsung QN90A Neo QLED 4K Smart TV offers a next-level viewing experience with Quantum Matrix Technology, powered by Quantum Mini LEDs for ultra-fine precision and brilliant picture quality. Quantum HDR 32X provides dynamic contrast and vibrant colors, bringing every scene to life. With a sleek design and ultra-slim profile, the QN90A enhances the look of any room. Its advanced AI upscaling technology transforms all your content into stunning 4K resolution. The Object Tracking Sound+ feature ensures immersive audio, following the action on the screen. Smart features like built-in voice assistants (Bixby, Alexa, Google Assistant) and the Samsung Smart Hub make it easy to find your favorite content and control your connected home devices. The Anti-Reflection screen minimizes glare, and the Wide Viewing Angle ensures a great view from any seat.",
+    "price": 1499.99,
+    "offer_price": 1299.99,
+    "key_features": [
+      "Quantum Matrix Technology",
+      "Quantum HDR 32X",
+      "AI upscaling to 4K",
+      "Object Tracking Sound+",
+      "Built-in voice assistants"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 50,
+    "shipping_weight": 55.0,
+    "meta_title": "Samsung QN90A Neo QLED 4K Smart TV - Stunning Picture Quality",
+    "meta_description": "Experience brilliant picture quality with the Samsung QN90A Neo QLED 4K Smart TV. Features Quantum HDR 32X, AI upscaling, Object Tracking Sound+, and built-in voice assistants."
+  }
+]

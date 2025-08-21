@@ -1,0 +1,5 @@
+{
+  "Helmet Type": ["Full Face", "Modular", "Open Face", "Half Helmet"],
+  "Shell Material": ["Fiberglass", "Polycarbonate", "Carbon Fiber", "Kevlar"],
+  "Safety Rating": ["DOT", "ECE 22.05", "SNELL", "SHARP"]
+}

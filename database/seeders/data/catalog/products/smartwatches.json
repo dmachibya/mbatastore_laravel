@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Apple Watch Series 8",
+    "slug": "apple-watch-series-8",
+    "brand": "Apple",
+    "model_number": "MKJ63LL/A",
+    "mpn": "MKJ63LL/A",
+    "gtin": "194252622029",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Apple Inc.",
+    "description": "The Apple Watch Series 8 is a state-of-the-art smartwatch designed to keep you connected, healthy, and active. With a stunning Always-On Retina display, the Series 8 features a 45mm case size with a resolution of 396 x 484 pixels, offering vibrant and clear visuals. It comes equipped with the latest S8 SiP with 64-bit dual-core processor for fast and smooth performance. Key health features include an advanced heart rate sensor, ECG app, blood oxygen monitoring, and a new temperature sensor that provides insights into your body’s temperature fluctuations. The Series 8 also includes enhanced workout tracking, GPS, and support for a wide range of third-party apps. Water-resistant up to 50 meters, the Apple Watch Series 8 is perfect for all your fitness activities. It supports fall detection, emergency SOS, and is compatible with the latest watchOS for a seamless user experience. Choose from a variety of bands and watch faces to match your style and needs."
+  },
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "slug": "samsung-galaxy-watch-6",
+    "brand": "Samsung",
+    "model_number": "SM-R930",
+    "mpn": "SM-R930",
+    "gtin": "887276609847",
+    "gtin_type": "UPC",
+    "origin_country": "South Korea",
+    "manufacturer": "Samsung Electronics",
+    "description": "The Samsung Galaxy Watch 6 is a feature-rich smartwatch designed to offer a seamless blend of style, functionality, and advanced health tracking. The watch features a 44mm Super AMOLED display with a resolution of 480 x 480 pixels, delivering sharp and vibrant visuals. Powered by the Exynos W920 chipset and 2GB of RAM, the Galaxy Watch 6 ensures smooth performance and responsiveness. It includes comprehensive health and fitness features such as heart rate monitoring, ECG, blood pressure tracking, and body composition analysis. The watch supports GPS for accurate location tracking and has built-in LTE capabilities for calls and messages without needing your phone. With a durable design, the Galaxy Watch 6 is water-resistant up to 50 meters and features a range of customizable watch faces and bands. It supports Samsung’s One UI Watch for an intuitive user interface and offers long-lasting battery life for all-day use."
+  }
+]

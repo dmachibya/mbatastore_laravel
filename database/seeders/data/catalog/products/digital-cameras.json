@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Canon EOS R5",
+    "slug": "canon-eos-r5",
+    "brand": "Canon",
+    "model_number": "R5",
+    "mpn": "4147C002",
+    "gtin": "0013803324568",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Canon Inc.",
+    "description": "The Canon EOS R5 is a cutting-edge full-frame mirrorless camera that redefines professional photography and video capabilities. With its 45MP full-frame CMOS sensor, the EOS R5 delivers stunning image quality and high-resolution video. It boasts 8K RAW video recording, 4K up to 120fps, and a host of professional video features. The advanced Dual Pixel CMOS AF II system provides fast and accurate autofocus, making it ideal for fast-moving subjects. Built for durability, the EOS R5 features weather-sealed construction and a robust magnesium alloy body. It also includes in-body image stabilization (IBIS) to reduce camera shake, ensuring sharp images and steady video. The EOS R5's high-speed continuous shooting capabilities (up to 20fps with the electronic shutter) make it perfect for capturing action and wildlife photography. Additionally, it supports dual memory card slots (CFexpress and SD UHS-II) for versatile storage options."
+  },
+  {
+    "name": "Sony Alpha 7 IV",
+    "slug": "sony-alpha-7-iv",
+    "brand": "Sony",
+    "model_number": "ILCE-7M4",
+    "mpn": "ILCE7M4/B",
+    "gtin": "0027242919671",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Sony Corporation",
+    "description": "The Sony Alpha 7 IV is a versatile full-frame mirrorless camera that excels in both photo and video performance. It features a 33MP Exmor R CMOS sensor and the latest BIONZ XR image processor, delivering exceptional image quality and low-light performance. The Alpha 7 IV offers 4K video recording at up to 60fps with 10-bit 4:2:2 color depth, making it a powerful tool for videographers. Its advanced Real-time Eye AF and Real-time Tracking ensure precise focus on moving subjects, both in photo and video modes. The camera includes a 5-axis in-body image stabilization (IBIS) system to minimize camera shake. With a high-resolution electronic viewfinder and a vari-angle LCD touchscreen, the Alpha 7 IV provides flexible framing options. Built to withstand the rigors of professional use, the Alpha 7 IV features a durable magnesium alloy body with weather sealing. It supports dual memory card slots (CFexpress Type A and SD UHS-II) for efficient storage management."
+  }
+]

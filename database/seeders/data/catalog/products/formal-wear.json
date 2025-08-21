@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Boys' Classic Tuxedo Set",
+    "slug": "boys-classic-tuxedo-set",
+    "brand": "Little Gentleman",
+    "model_number": "LG-TUX-001",
+    "mpn": "LG-TX-2024",
+    "gtin": "0650415131234",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Little Gentleman Apparel Co.",
+    "description": "The Boys' Classic Tuxedo Set by Little Gentleman offers a perfect blend of style and comfort for young boys. This formal wear set includes a well-tailored tuxedo jacket, matching trousers, a classic white shirt, and a stylish bow tie. Made from premium quality fabric, this tuxedo is designed to provide a comfortable fit while ensuring your little one looks dapper. The jacket features satin lapels and a single button closure, while the trousers have an adjustable waistband for a snug fit. Ideal for weddings, formal events, and special occasions, this tuxedo set is a must-have for any young gentleman's wardrobe."
+  },
+  {
+    "name": "Girls' Elegant Party Dress",
+    "slug": "girls-elegant-party-dress",
+    "brand": "Princess Couture",
+    "model_number": "PC-DRESS-002",
+    "mpn": "PC-DR-2024",
+    "gtin": "0748966132456",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Princess Couture Ltd.",
+    "description": "The Girls' Elegant Party Dress by Princess Couture is the perfect choice for any formal event. This stunning dress features a beautifully embellished bodice with delicate lace and sequins, complemented by a full tulle skirt that adds a touch of magic. The dress has a comfortable fit with a satin lining and a zipper closure at the back for easy dressing. A satin sash with a bow accentuates the waist, adding an extra touch of elegance. Ideal for weddings, birthday parties, and special occasions, this dress will make any girl feel like a princess."
+  }
+]

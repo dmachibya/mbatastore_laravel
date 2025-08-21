@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Gas Grill with Side Burner",
+    "slug": "gas-grill-with-side-burner",
+    "brand": "GrillMaster",
+    "model_number": "GM-GSBB01",
+    "mpn": "GMGSBB01",
+    "gtin": "8901234567913",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "GrillMaster Appliances",
+    "description": "The GrillMaster Gas Grill with Side Burner is the ultimate choice for outdoor cooking enthusiasts. This high-performance gas grill features a spacious cooking area with four stainless steel burners, providing ample space to cook for family gatherings or backyard barbecues. The integrated side burner is perfect for preparing side dishes or sauces while grilling. Constructed from durable stainless steel, this grill is built to withstand the elements and deliver consistent heat for perfect grilling results. The easy-to-use ignition system, adjustable temperature controls, and removable grease tray make it easy to operate and maintain. Includes a warming rack, built-in thermometer, and side shelves for extra convenience."
+  },
+  {
+    "name": "Charcoal Grill with Adjustable Grates",
+    "slug": "charcoal-grill-with-adjustable-grates",
+    "brand": "GrillPro",
+    "model_number": "GP-CG02",
+    "mpn": "GPCG02",
+    "gtin": "8901234567920",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "GrillPro Solutions",
+    "description": "The GrillPro Charcoal Grill with Adjustable Grates is designed for serious grillers who enjoy the classic flavor of charcoal cooking. This grill features a large cooking surface with adjustable grates to achieve the perfect grilling temperature. The built-in air vents and adjustable dampers allow for precise temperature control and optimal heat distribution. Constructed from heavy-duty steel with a durable enamel coating, this grill is built for long-lasting use. The easy-to-clean ashtray and sturdy cart with wheels offer added convenience and mobility. Perfect for outdoor gatherings, camping trips, and backyard cookouts."
+  }
+]

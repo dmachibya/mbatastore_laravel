@@ -1,0 +1,210 @@
+{
+  "Pet Food": {
+    "slug": "pet-food",
+    "description": "Nutritious food for different types of pets.",
+    "subcategories": [
+      {
+        "name": "Dog Food",
+        "slug": "dog-food",
+        "description": "Healthy and balanced food options for dogs."
+      },
+      {
+        "name": "Cat Food",
+        "slug": "cat-food",
+        "description": "Delicious and nutritious food for cats."
+      },
+      {
+        "name": "Bird Food",
+        "slug": "bird-food",
+        "description": "Specialized food for various types of pet birds."
+      },
+      {
+        "name": "Fish Food",
+        "slug": "fish-food",
+        "description": "Food for different types of pet fish."
+      }
+    ]
+  },
+  "Pet Toys": {
+    "slug": "pet-toys",
+    "description": "Fun and engaging toys for pets to play with.",
+    "subcategories": [
+      {
+        "name": "Dog Toys",
+        "slug": "dog-toys",
+        "description": "Toys designed to keep dogs entertained."
+      },
+      {
+        "name": "Cat Toys",
+        "slug": "cat-toys",
+        "description": "Interactive toys for cats to stay active."
+      },
+      {
+        "name": "Bird Toys",
+        "slug": "bird-toys",
+        "description": "Toys to stimulate and entertain pet birds."
+      },
+      {
+        "name": "Small Animal Toys",
+        "slug": "small-animal-toys",
+        "description": "Toys for small animals like hamsters."
+      }
+    ]
+  },
+  "Pet Health": {
+    "slug": "pet-health",
+    "description": "Health and wellness products for pets.",
+    "subcategories": [
+      {
+        "name": "Flea & Tick Prevention",
+        "slug": "flea-tick-prevention",
+        "description": "Products to protect pets from fleas and ticks."
+      },
+      {
+        "name": "Pet Vitamins",
+        "slug": "pet-vitamins",
+        "description": "Vitamins and supplements for pet health."
+      },
+      {
+        "name": "Dental Care",
+        "slug": "dental-care",
+        "description": "Products for maintaining pets' dental health."
+      },
+      {
+        "name": "Grooming Supplies",
+        "slug": "grooming-supplies",
+        "description": "Shampoos, brushes, and grooming tools for pets."
+      }
+    ]
+  },
+  "Pet Beds & Furniture": {
+    "slug": "pet-beds-furniture",
+    "description": "Comfortable and stylish beds and furniture for pets.",
+    "subcategories": [
+      {
+        "name": "Dog Beds",
+        "slug": "dog-beds",
+        "description": "Comfortable beds for dogs of all sizes."
+      },
+      {
+        "name": "Cat Trees",
+        "slug": "cat-trees",
+        "description": "Playful and relaxing trees for cats."
+      },
+      {
+        "name": "Pet Crates",
+        "slug": "pet-crates",
+        "description": "Crates for safe and comfortable travel."
+      },
+      {
+        "name": "Pet Furniture",
+        "slug": "pet-furniture",
+        "description": "Stylish furniture designed for pets."
+      }
+    ]
+  },
+  "Pet Training": {
+    "slug": "pet-training",
+    "description": "Training aids and resources for pets.",
+    "subcategories": [
+      {
+        "name": "Training Treats",
+        "slug": "training-treats",
+        "description": "Special treats for training and rewarding pets."
+      },
+      {
+        "name": "Training Collars",
+        "slug": "training-collars",
+        "description": "Collars designed for effective pet training."
+      },
+      {
+        "name": "Training Books & Guides",
+        "slug": "training-books-guides",
+        "description": "Books and guides for training pets effectively."
+      },
+      {
+        "name": "Training Clickers",
+        "slug": "training-clickers",
+        "description": "Clickers for positive reinforcement in pet training."
+      }
+    ]
+  },
+  "Pet Health & Safety": {
+    "slug": "pet-health-safety",
+    "description": "Products for maintaining the health and safety of pets.",
+    "subcategories": [
+      {
+        "name": "Pet First Aid Kits",
+        "slug": "pet-first-aid-kits",
+        "description": "Essential first aid supplies for pets."
+      },
+      {
+        "name": "Pet Safety Gates",
+        "slug": "pet-safety-gates",
+        "description": "Gates to keep pets safe and secure in your home."
+      },
+      {
+        "name": "Pet Monitors",
+        "slug": "pet-monitors",
+        "description": "Monitors to keep an eye on your pets when you're away."
+      },
+      {
+        "name": "Pet Carriers",
+        "slug": "pet-carriers",
+        "description": "Carriers for safe and convenient travel with pets."
+      }
+    ]
+  },
+  "Pet Clothing & Accessories": {
+    "slug": "pet-clothing-accessories",
+    "description": "Fashionable and functional clothing and accessories for pets.",
+    "subcategories": [
+      {
+        "name": "Dog Apparel",
+        "slug": "dog-apparel",
+        "description": "Clothing and accessories for dogs."
+      },
+      {
+        "name": "Cat Collars",
+        "slug": "cat-collars",
+        "description": "Stylish collars for cats with various designs."
+      },
+      {
+        "name": "Pet Hats & Bandanas",
+        "slug": "pet-hats-bandanas",
+        "description": "Fun hats and bandanas for pets."
+      },
+      {
+        "name": "Pet Shoes & Boots",
+        "slug": "pet-shoes-boots",
+        "description": "Shoes and boots to protect pets' paws."
+      }
+    ]
+  },
+  "Aquarium Supplies": {
+    "slug": "aquarium-supplies",
+    "description": "Everything you need for maintaining a healthy aquarium.",
+    "subcategories": [
+      {
+        "name": "Aquariums",
+        "slug": "aquariums",
+        "description": "Fish tanks and aquarium setups."
+      },
+      {
+        "name": "Filtration Systems",
+        "slug": "filtration-systems",
+        "description": "Filters and systems for clean aquarium water."
+      },
+      {
+        "name": "Aquarium Decor",
+        "slug": "aquarium-decor",
+        "description": "Decorative items for aquarium aesthetics."
+      },
+      {
+        "name": "Water Treatments",
+        "slug": "water-treatments",
+        "description": "Chemicals and treatments for maintaining water quality."
+      }
+    ]
+  }
+}

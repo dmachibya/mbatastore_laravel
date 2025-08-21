@@ -1,0 +1,127 @@
+{
+  "Skincare": {
+    "slug": "skincare",
+    "description": "Products for maintaining and improving skin health.",
+    "subcategories": [
+      {
+        "name": "Cleansers",
+        "slug": "cleansers",
+        "description": "Products to clean and refresh the skin."
+      },
+      {
+        "name": "Moisturizers",
+        "slug": "moisturizers",
+        "description": "Products to hydrate and protect the skin."
+      },
+      {
+        "name": "Face Masks",
+        "slug": "face-masks",
+        "description": "Masks to address various skin concerns."
+      },
+      {
+        "name": "Sunscreens",
+        "slug": "sunscreens",
+        "description": "Products to protect the skin from UV damage."
+      }
+    ]
+  },
+  "Haircare": {
+    "slug": "haircare",
+    "description": "Products for maintaining and styling hair.",
+    "subcategories": [
+      {
+        "name": "Shampoos",
+        "slug": "shampoos",
+        "description": "Cleansers for the hair and scalp."
+      },
+      {
+        "name": "Conditioners",
+        "slug": "conditioners",
+        "description": "Products to condition and detangle hair."
+      },
+      {
+        "name": "Hair Styling Products",
+        "slug": "hair-styling-products",
+        "description": "Products for styling and finishing hair."
+      },
+      {
+        "name": "Hair Treatments",
+        "slug": "hair-treatments",
+        "description": "Special treatments for various hair concerns."
+      }
+    ]
+  },
+  "Makeup": {
+    "slug": "makeup",
+    "description": "Cosmetics for enhancing beauty and personal expression.",
+    "subcategories": [
+      {
+        "name": "Face Makeup",
+        "slug": "face-makeup",
+        "description": "Makeup products for the face."
+      },
+      {
+        "name": "Eye Makeup",
+        "slug": "eye-makeup",
+        "description": "Cosmetics for enhancing the eyes."
+      },
+      {
+        "name": "Lip Products",
+        "slug": "lip-products",
+        "description": "Cosmetics for the lips."
+      },
+      {
+        "name": "Makeup Tools",
+        "slug": "makeup-tools",
+        "description": "Tools and accessories for applying makeup."
+      }
+    ]
+  },
+  "Health and Wellness": {
+    "slug": "health-and-wellness",
+    "description": "Products to support health and overall wellness.",
+    "subcategories": [
+      {
+        "name": "Supplements",
+        "slug": "supplements",
+        "description": "Vitamins, minerals, and other supplements for health."
+      },
+      {
+        "name": "Fitness Products",
+        "slug": "fitness-products",
+        "description": "Equipment and accessories for physical fitness."
+      },
+      {
+        "name": "Personal Care",
+        "slug": "personal-care",
+        "description": "Products for daily personal hygiene and care."
+      },
+      {
+        "name": "Essential Oils",
+        "slug": "essential-oils",
+        "description": "Natural oils for aromatherapy and personal care."
+      }
+    ]
+  },
+  "Fragrances": {
+    "slug": "fragrances",
+    "description": "Perfumes and scents for personal expression.",
+    "subcategories": [
+      {
+        "name": "Women's Fragrances",
+        "slug": "womens-fragrances",
+        "description": "Perfumes and scents designed for women."
+      },
+      {
+        "name": "Men's Fragrances",
+        "slug": "mens-fragrances",
+        "description": "Perfumes and scents designed for men."
+      },
+      {
+        "name": "Unisex Fragrances",
+        "slug": "unisex-fragrances",
+        "description": "Fragrances suitable for any gender."
+      }
+    ]
+  }
+}

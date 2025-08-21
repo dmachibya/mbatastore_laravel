@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lavender Essential Oil - Pure & Therapeutic Grade",
+    "slug": "lavender-essential-oil-pure-therapeutic-grade",
+    "brand": "AromaPure",
+    "model_number": "AP-O2024",
+    "mpn": "AP-011",
+    "gtin": "0123456789076",
+    "gtin_type": "EAN",
+    "origin_country": "France",
+    "manufacturer": "AromaPure Inc.",
+    "description": "AromaPure Lavender Essential Oil is 100% pure and therapeutic grade, offering a soothing and calming aroma. Sourced from the finest lavender fields in France, this essential oil provides a range of benefits including stress relief, improved sleep, and skin soothing properties. Ideal for aromatherapy, massage, and skincare, Lavender Essential Oil helps to create a relaxing atmosphere and supports overall well-being. Use it in diffusers, as a bath additive, or in DIY skincare recipes for its natural healing effects."
+  },
+  {
+    "name": "Peppermint Essential Oil - Refreshing & Invigorating Aroma",
+    "slug": "peppermint-essential-oil-refreshing-invigorating-aroma",
+    "brand": "PureAroma",
+    "model_number": "PA-O2024",
+    "mpn": "PA-012",
+    "gtin": "0123456789077",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "PureAroma Co.",
+    "description": "PureAroma Peppermint Essential Oil offers a refreshing and invigorating aroma that revitalizes the senses. Extracted from premium peppermint leaves in the USA, this essential oil is known for its energizing and revitalizing properties. It is perfect for use in diffusers, massage, and as a natural remedy for headaches and digestive issues. The cooling sensation of peppermint oil also helps to relieve muscle tension and boost mental clarity. Add it to your daily routine for a refreshing and uplifting experience."
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "Length": ["150 cm", "160 cm", "170 cm", "180 cm"],
+  "Skill Level": ["Beginner", "Intermediate", "Advanced"],
+  "Gender": ["Men", "Women", "Unisex"]
+}

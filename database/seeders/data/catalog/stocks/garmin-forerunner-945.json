@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Garmin Forerunner 945 Premium GPS Watch",
+    "slug": "garmin-forerunner-945-premium-gps-watch",
+    "sku": "GF945-01",
+    "description": "The Garmin Forerunner 945 Premium GPS Watch is designed for serious athletes who demand advanced performance analytics and superior tracking capabilities. This smartwatch offers VO2 max, training status, and training load focus to help you optimize your workouts and reach your fitness goals. With built-in maps, you can stay on course during long runs and rides, and the music storage feature allows you to enjoy your favorite tunes on the go. Safety and tracking features such as incident detection and assistance ensure your peace of mind by sending your real-time location to emergency contacts. The Forerunner 945 also includes advanced running dynamics, Garmin Pay for contactless payments, and a long battery life of up to 2 weeks in smartwatch mode. Whether you're training for a marathon or a triathlon, the Garmin Forerunner 945 is your perfect companion.",
+    "price": 599.99,
+    "offer_price": 549.99,
+    "key_features": [
+      "Advanced Performance Analytics",
+      "Built-in Maps",
+      "Music Storage",
+      "Safety and Tracking Features",
+      "Garmin Pay",
+      "Long Battery Life"
+    ],
+    "stock_quantity": 75,
+    "sold_quantity": 200,
+    "shipping_weight": "0.1 kg",
+    "meta_title": "Garmin Forerunner 945 Premium GPS Watch | Garmin",
+    "meta_description": "Shop the Garmin Forerunner 945 Premium GPS Watch. Designed for serious athletes with advanced performance analytics, built-in maps, and music storage. Available now at a special offer price."
+  },
+  {
+    "title": "Garmin Forerunner 945 Triathlon Smartwatch",
+    "slug": "garmin-forerunner-945-triathlon-smartwatch",
+    "sku": "GF945-02",
+    "description": "The Garmin Forerunner 945 Triathlon Smartwatch is the ultimate tool for dedicated triathletes and runners. This premium GPS smartwatch offers advanced performance metrics such as VO2 max, training status, and training load focus to help you push your limits and improve your performance. With built-in maps and music storage, you can stay motivated and on track during your workouts. Safety features like incident detection and assistance provide peace of mind by sending your real-time location to emergency contacts. The Forerunner 945 also includes advanced running dynamics, Garmin Pay for seamless contactless payments, and an impressive battery life of up to 2 weeks in smartwatch mode. Elevate your training with the Garmin Forerunner 945 Triathlon Smartwatch.",
+    "price": 599.99,
+    "offer_price": 549.99,
+    "key_features": [
+      "VO2 Max",
+      "Training Status",
+      "Built-in Maps",
+      "Music Storage",
+      "Incident Detection",
+      "Garmin Pay",
+      "Long Battery Life"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 180,
+    "shipping_weight": "0.1 kg",
+    "meta_title": "Garmin Forerunner 945 Triathlon Smartwatch | Garmin",
+    "meta_description": "Get the Garmin Forerunner 945 Triathlon Smartwatch with advanced performance metrics, built-in maps, and music storage. Available now at a special discount. Perfect for triathletes and runners."
+  }
+]

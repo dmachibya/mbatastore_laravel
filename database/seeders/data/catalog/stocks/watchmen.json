@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Watchmen - Hardcover Edition",
+    "slug": "watchmen-hardcover-edition",
+    "sku": "WM-HC",
+    "description": "Alan Moore's 'Watchmen' is a seminal work in the realm of graphic novels, presented here in a premium hardcover edition. This collection features the complete story of an alternate 1985 where superheroes have been outlawed, exploring themes of power, morality, and justice. The book includes the original twelve issues of the series, complemented by bonus content including sketches, character profiles, and historical context. Alan Moore's intricate storytelling and Dave Gibbons' stunning artwork make 'Watchmen' a must-have for both comic enthusiasts and newcomers alike.",
+    "price": 29.99,
+    "offer_price": 24.99,
+    "key_features": [
+      "Classic Graphic Novel",
+      "Premium Hardcover Edition",
+      "Complete Series Collection",
+      "Bonus Content Included"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 40,
+    "shipping_weight": 1.5,
+    "meta_title": "Watchmen - Hardcover Edition",
+    "meta_description": "Buy 'Watchmen' in a premium hardcover edition. Alan Moore's classic graphic novel featuring a complete story, bonus content, and stunning artwork."
+  },
+  {
+    "title": "Watchmen - Paperback Edition",
+    "slug": "watchmen-paperback-edition",
+    "sku": "WM-PB",
+    "description": "Experience Alan Moore's 'Watchmen' in this classic paperback edition. This graphic novel presents a groundbreaking narrative set in an alternate 1985 where masked vigilantes have been outlawed. The story delves into deep philosophical questions about heroism, power, and morality, all illustrated through Dave Gibbons' remarkable artwork. This edition includes the entire twelve-issue series, making it a perfect introduction to this influential work of modern comics and a valuable addition to any collection.",
+    "price": 19.99,
+    "offer_price": 16.99,
+    "key_features": [
+      "Classic Graphic Novel",
+      "Paperback Edition",
+      "Complete Series Collection",
+      "Influential Storytelling"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 70,
+    "shipping_weight": 1.0,
+    "meta_title": "Watchmen - Paperback Edition",
+    "meta_description": "Order 'Watchmen' in a classic paperback edition. Alan Moore's influential graphic novel with a deep narrative and exceptional artwork."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nike Men's Dri-FIT Legend Training T-Shirt",
+    "slug": "nike-mens-dri-fit-legend-training-t-shirt",
+    "brand": "Nike",
+    "model_number": "NK-TS-2024-01",
+    "mpn": "NK-053",
+    "gtin": "0885178341042",
+    "gtin_type": "EAN",
+    "origin_country": "Vietnam",
+    "manufacturer": "Nike Inc.",
+    "description": "The Nike Men's Dri-FIT Legend Training T-Shirt is designed for high-performance workouts and everyday wear. Made with Dri-FIT technology, this t-shirt wicks away sweat to keep you dry and comfortable. The lightweight, breathable fabric ensures maximum comfort during intense training sessions. This t-shirt features a classic fit with a ribbed crew neck and short sleeves for a comfortable and unrestricted range of motion. Available in various colors, it combines style and functionality for athletes and fitness enthusiasts."
+  },
+  {
+    "name": "Adidas Men's Essentials 3-Stripes T-Shirt",
+    "slug": "adidas-mens-essentials-3-stripes-t-shirt",
+    "brand": "Adidas",
+    "model_number": "AD-TS-2024-02",
+    "mpn": "AD-121",
+    "gtin": "4057284069436",
+    "gtin_type": "EAN",
+    "origin_country": "Indonesia",
+    "manufacturer": "Adidas AG",
+    "description": "The Adidas Men's Essentials 3-Stripes T-Shirt combines classic style with modern comfort. Crafted from soft, breathable cotton fabric, this t-shirt features the iconic 3-Stripes design along the shoulders and sleeves. The regular fit and ribbed crew neck ensure a comfortable fit for everyday wear. This versatile t-shirt is perfect for both casual outings and active days, offering a timeless look with Adidas' signature quality and comfort."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Boxing Training Gloves - Small",
+    "slug": "boxing-training-gloves-small",
+    "sku": "KG-100-S",
+    "description": "The Boxing Training Gloves in Small size by Knockout Gear are ideal for young athletes or those with smaller hands. Constructed from high-quality synthetic leather, these gloves offer excellent durability and protection during training. The multi-layer foam padding provides superior shock absorption, while the adjustable Velcro strap ensures a secure and comfortable fit. Suitable for various training activities including heavy bag work and mitt drills, these gloves are a reliable choice for improving your boxing skills.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "Synthetic Leather Construction",
+      "Multi-Layer Foam Padding",
+      "Adjustable Velcro Strap",
+      "Breathable Mesh Palm"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 75,
+    "shipping_weight": 0.5,
+    "meta_title": "Boxing Training Gloves - Small | Knockout Gear",
+    "meta_description": "Get the Boxing Training Gloves in Small size from Knockout Gear. Perfect for young athletes, made from durable synthetic leather with superior padding. Special offer available now!"
+  },
+  {
+    "title": "Boxing Training Gloves - Medium",
+    "slug": "boxing-training-gloves-medium",
+    "sku": "KG-100-M",
+    "description": "The Boxing Training Gloves in Medium size by Knockout Gear are perfect for most adult boxers. Made from premium synthetic leather, these gloves offer exceptional durability and comfort. With multi-layer foam padding for optimal impact absorption and a breathable mesh palm to keep your hands dry, these gloves are ideal for intense training sessions. The adjustable Velcro strap ensures a snug fit, making them suitable for bag work, mitt training, and sparring.",
+    "price": 59.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "High-Quality Synthetic Leather",
+      "Effective Foam Padding",
+      "Breathable Mesh Palm",
+      "Adjustable Velcro Closure"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 100,
+    "shipping_weight": 0.55,
+    "meta_title": "Boxing Training Gloves - Medium | Knockout Gear",
+    "meta_description": "Shop for Boxing Training Gloves in Medium size from Knockout Gear. Ideal for all levels, with durable synthetic leather and effective padding. Special offer available now!"
+  }
+]

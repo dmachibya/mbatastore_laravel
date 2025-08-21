@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Nike Premier League Strike Soccer Ball - Official Match Ball",
+    "slug": "nike-premier-league-strike-soccer-ball-official-match-ball",
+    "sku": "NPLSBOM",
+    "description": "The Nike Premier League Strike Soccer Ball - Official Match Ball is a top-tier soccer ball designed for high-level play. Featuring a precision-engineered construction with a durable textured surface, this ball delivers superior accuracy and control. Its high-contrast graphics enhance visibility on the field, making it easier to track during play. Ideal for practice, training, and official matches, the Premier League Strike Soccer Ball offers the same quality used by professionals in the Premier League. Experience unmatched performance with this elite soccer ball.",
+    "price": 34.99,
+    "offer_price": 29.99,
+    "key_features": [
+      "Precision-engineered construction",
+      "Durable textured surface",
+      "High-contrast graphics for better visibility"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 15,
+    "shipping_weight": 0.5,
+    "meta_title": "Nike Premier League Strike Soccer Ball - Official Match Ball",
+    "meta_description": "Get the Nike Premier League Strike Soccer Ball - Official Match Ball. Ideal for practice and training with superior accuracy, durability, and visibility."
+  },
+  {
+    "title": "Nike Premier League Strike Soccer Ball - Training Edition",
+    "slug": "nike-premier-league-strike-soccer-ball-training-edition",
+    "sku": "NPLSTET",
+    "description": "The Nike Premier League Strike Soccer Ball - Training Edition is designed for players who demand excellence in their training sessions. This soccer ball features a durable construction and a textured surface for improved grip and control. The bold Premier League design ensures high visibility on the field, while the ball’s construction offers consistent performance during intense training drills. Perfect for players looking to enhance their skills and replicate the conditions of professional play. Train like a pro with the Premier League Strike Soccer Ball.",
+    "price": 32.99,
+    "offer_price": 27.99,
+    "key_features": [
+      "Durable textured surface",
+      "High visibility design",
+      "Ideal for intense training sessions"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 20,
+    "shipping_weight": 0.48,
+    "meta_title": "Nike Premier League Strike Soccer Ball - Training Edition",
+    "meta_description": "Buy the Nike Premier League Strike Soccer Ball - Training Edition. Perfect for training with a durable build and high visibility for enhanced performance."
+  }
+]

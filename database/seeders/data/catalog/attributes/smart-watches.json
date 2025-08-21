@@ -1,0 +1,5 @@
+{
+  "Operating System": ["watchOS", "Wear OS", "Tizen", "Fitbit OS"],
+  "Display Type": ["AMOLED", "LCD", "OLED"],
+  "Battery Life": ["Up to 24 hours", "Up to 48 hours", "Up to 7 days"]
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Oceanic 55-Gallon Aquarium Tank - Complete Setup",
+    "slug": "oceanic-55-gallon-aquarium-tank-complete-setup",
+    "sku": "OC-55055-C",
+    "description": "The Oceanic 55-Gallon Aquarium Tank - Complete Setup provides a spacious and stylish environment for your aquatic life. This comprehensive setup includes a high-quality tempered glass tank, a sturdy stand, and an efficient filter system to keep your water clean and clear. The sleek design complements any room decor, while the large tank size offers ample space for a variety of fish and plants. Perfect for both freshwater and saltwater setups, this tank is a great choice for experienced aquarists looking to upgrade their aquatic environment.",
+    "price": 229.99,
+    "offer_price": 199.99,
+    "key_features": [
+      "Includes Tank, Stand, and Filter System",
+      "High-Quality Tempered Glass",
+      "Spacious 55-Gallon Size",
+      "Sleek and Modern Design"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 40,
+    "shipping_weight": 50.0,
+    "meta_title": "Oceanic 55-Gallon Aquarium Tank - Complete Setup | Oceanic",
+    "meta_description": "Shop the Oceanic 55-Gallon Aquarium Tank - Complete Setup. Includes tank, stand, and filter system for a spacious and stylish aquatic environment."
+  },
+  {
+    "title": "Oceanic 55-Gallon Aquarium Tank - Tank Only",
+    "slug": "oceanic-55-gallon-aquarium-tank-tank-only",
+    "sku": "OC-55055-T",
+    "description": "The Oceanic 55-Gallon Aquarium Tank - Tank Only offers a premium-quality tank for your aquatic setup. Made from high-quality tempered glass, this tank features a sleek and contemporary design that provides a clear, unobstructed view of your underwater world. Ideal for both freshwater and saltwater aquariums, this tank is perfect for experienced hobbyists who want to build their own custom aquarium setup. Enhance your aquatic environment with this elegant and durable tank.",
+    "price": 159.99,
+    "offer_price": 139.99,
+    "key_features": [
+      "Premium Tempered Glass Tank",
+      "Sleek and Modern Design",
+      "Suitable for Freshwater and Saltwater Aquariums",
+      "Spacious 55-Gallon Capacity"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 35,
+    "shipping_weight": 40.0,
+    "meta_title": "Oceanic 55-Gallon Aquarium Tank - Tank Only | Oceanic",
+    "meta_description": "Buy the Oceanic 55-Gallon Aquarium Tank - Tank Only. High-quality tempered glass tank for a stunning and spacious aquatic environment. Perfect for custom setups."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ocean Waves",
+    "slug": "ocean-waves",
+    "brand": "Seascape Creations",
+    "model_number": "SC-OW2021",
+    "mpn": "SC-001",
+    "gtin": "0123456789014",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Seascape Studios",
+    "description": "Ocean Waves is a stunning acrylic painting that captures the raw beauty and power of the sea. Created by renowned artist Seascape Creations, this piece showcases a dynamic composition of crashing waves under a vibrant sky. The artist's use of bold, expressive brushstrokes and rich color palette brings the scene to life, evoking the sound and motion of the ocean. This painting is perfect for anyone who loves the sea and wants to bring a piece of its majesty into their home or office."
+  },
+  {
+    "name": "Sunset Bliss",
+    "slug": "sunset-bliss",
+    "brand": "Nature's Palette",
+    "model_number": "NP-SB2021",
+    "mpn": "NP-002",
+    "gtin": "0123456789015",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Nature's Studios",
+    "description": "Sunset Bliss is an enchanting acrylic painting that captures the serene beauty of a sunset over a tranquil lake. Painted by the talented artists at Nature's Palette, this piece features a harmonious blend of warm hues and soft textures that create a peaceful and calming atmosphere. The delicate reflections on the water and the subtle gradients in the sky are rendered with meticulous detail, making this painting a perfect addition to any space that seeks to evoke relaxation and natural beauty."
+  }
+]

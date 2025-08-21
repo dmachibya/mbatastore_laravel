@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Blue Sapphire Gemstone",
+    "slug": "blue-sapphire-gemstone",
+    "brand": "Luminous Gems",
+    "model_number": "BSG-2022",
+    "mpn": "BSG-2022",
+    "gtin": "8901234567890",
+    "gtin_type": "EAN",
+    "origin_country": "Sri Lanka",
+    "manufacturer": "Luminous Gems Ltd.",
+    "description": "The Blue Sapphire gemstone is renowned for its striking deep blue color and unparalleled clarity. Sourced from the rich deposits of Sri Lanka, this precious gemstone is a symbol of wisdom, virtue, and good fortune. The sapphire is meticulously cut and polished to enhance its natural brilliance and luster, making it an ideal choice for high-end jewelry. With its timeless appeal, the Blue Sapphire is perfect for both classic and contemporary designs. This gemstone is not only a beautiful addition to any collection but also a meaningful gift that symbolizes sincerity and truth."
+  },
+  {
+    "name": "Emerald Gemstone",
+    "slug": "emerald-gemstone",
+    "brand": "Gem Select",
+    "model_number": "EMD-2022",
+    "mpn": "EMD-2022",
+    "gtin": "1234567890987",
+    "gtin_type": "EAN",
+    "origin_country": "Colombia",
+    "manufacturer": "Gem Select Inc.",
+    "description": "The Emerald gemstone is celebrated for its vibrant green color and exquisite clarity. Sourced from the famous mines of Colombia, this gemstone is a symbol of renewal, growth, and prosperity. The emerald is expertly cut and polished to bring out its natural beauty and brilliance. Perfect for a variety of jewelry pieces, from rings to pendants, the Emerald gemstone adds a touch of elegance and sophistication to any collection. Its rich color and timeless appeal make it a cherished gift for any occasion, representing love and rebirth."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Boxing Hand Wraps - Black",
+    "slug": "boxing-hand-wraps-black",
+    "sku": "CFG-200-BK",
+    "description": "The Boxing Hand Wraps in Black from Champion Fight Gear are designed to offer maximum support and protection for your hands and wrists. Made from a durable and elastic cotton blend, these wraps provide a snug and secure fit, reducing the risk of injury during training. The 180-inch length allows for versatile wrapping techniques, while the Velcro closure ensures they stay in place. Perfect for all types of boxing training, these hand wraps are an essential accessory for any boxer.",
+    "price": 12.99,
+    "offer_price": 9.99,
+    "key_features": [
+      "Durable Cotton Blend",
+      "Elastic and Supportive",
+      "180-Inch Length",
+      "Secure Velcro Closure"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 200,
+    "shipping_weight": 0.2,
+    "meta_title": "Boxing Hand Wraps - Black | Champion Fight Gear",
+    "meta_description": "Get Boxing Hand Wraps in Black from Champion Fight Gear. Essential for training, made from durable cotton blend with secure Velcro closure. Available now at a special price!"
+  },
+  {
+    "title": "Boxing Hand Wraps - Red",
+    "slug": "boxing-hand-wraps-red",
+    "sku": "CFG-200-RD",
+    "description": "Champion Fight Gear's Boxing Hand Wraps in Red provide excellent support and protection for your hands and wrists. These wraps are made from a durable and elastic cotton blend that offers a snug fit and effective injury prevention. At 180 inches long, they allow for customizable wrapping techniques, and the Velcro closure keeps them securely in place. Perfect for all boxing training needs, these hand wraps come in a vibrant red color, adding a touch of style to your gear.",
+    "price": 12.99,
+    "offer_price": 9.99,
+    "key_features": [
+      "Elastic Cotton Blend",
+      "Snug Fit and Supportive",
+      "180-Inch Length",
+      "Velcro Closure"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 120,
+    "shipping_weight": 0.18,
+    "meta_title": "Boxing Hand Wraps - Red | Champion Fight Gear",
+    "meta_description": "Shop for Boxing Hand Wraps in Red from Champion Fight Gear. Durable and elastic cotton blend for effective training support. Special offer available!"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "title": "2024 Mazda MX-5 Miata Sport",
+    "slug": "2024-mazda-mx-5-miata-sport",
+    "sku": "MX5-SPORT-2024",
+    "description": "The 2024 Mazda MX-5 Miata Sport is the perfect entry into the world of sports cars. Featuring a 2.0L Skyactiv-G engine, the Sport trim offers exceptional handling and a thrilling driving experience. The interior is designed for driving enthusiasts with manual air conditioning, a 7-inch touchscreen infotainment system, and Bluetooth connectivity. Its classic roadster design and precise handling make it a favorite for both new and seasoned drivers.",
+    "price": 29000,
+    "offer_price": 28000,
+    "key_features": [
+      "2.0L Skyactiv-G engine",
+      "6-speed manual transmission",
+      "7-inch touchscreen infotainment",
+      "Bluetooth connectivity"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 85,
+    "shipping_weight": "2,300 lbs",
+    "meta_title": "2024 Mazda MX-5 Miata Sport - Pure Driving Joy",
+    "meta_description": "Discover the 2024 Mazda MX-5 Miata Sport with a 2.0L engine, 6-speed manual transmission, and classic roadster design. A perfect blend of performance and excitement."
+  },
+  {
+    "title": "2024 Mazda MX-5 Miata Club",
+    "slug": "2024-mazda-mx-5-miata-club",
+    "sku": "MX5-CLUB-2024",
+    "description": "The 2024 Mazda MX-5 Miata Club offers a step up in performance and features from the Sport trim. With a 2.0L Skyactiv-G engine, Bilstein shocks, and a limited-slip rear differential, the Club trim is designed for those who demand a bit more from their sports car. The interior features Recaro sport seats, a 9-speaker Bose audio system, and a rear lip spoiler. The Club trim is perfect for enthusiasts seeking a balance of everyday usability and spirited driving.",
+    "price": 33000,
+    "offer_price": 32000,
+    "key_features": [
+      "2.0L Skyactiv-G engine",
+      "Bilstein shocks",
+      "Limited-slip rear differential",
+      "Recaro sport seats and Bose audio system"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 60,
+    "shipping_weight": "2,350 lbs",
+    "meta_title": "2024 Mazda MX-5 Miata Club - Performance and Thrills",
+    "meta_description": "Experience the 2024 Mazda MX-5 Miata Club with a 2.0L engine, Bilstein shocks, and Recaro sport seats. A high-performance roadster for those who seek a thrilling drive."
+  },
+  {
+    "title": "2024 Mazda MX-5 Miata Grand Touring",
+    "slug": "2024-mazda-mx-5-miata-grand-touring",
+    "sku": "MX5-GT-2024",
+    "description": "The 2024 Mazda MX-5 Miata Grand Touring is the ultimate expression of the MX-5 series. With a 2.0L Skyactiv-G engine and a host of luxury features, this trim combines performance with comfort. Features include leather-trimmed seats, a power retractable hardtop, and a 9-speaker Bose audio system. The Grand Touring trim is perfect for those who want a premium sports car experience with all the bells and whistles.",
+    "price": 36000,
+    "offer_price": 35000,
+    "key_features": [
+      "2.0L Skyactiv-G engine",
+      "Power retractable hardtop",
+      "Leather-trimmed seats",
+      "9-speaker Bose audio system"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 45,
+    "shipping_weight": "2,400 lbs",
+    "meta_title": "2024 Mazda MX-5 Miata Grand Touring - Ultimate Roadster Experience",
+    "meta_description": "Explore the 2024 Mazda MX-5 Miata Grand Touring with a 2.0L engine, power retractable hardtop, and leather-trimmed seats. The ultimate in performance and luxury for sports car enthusiasts."
+  }
+]

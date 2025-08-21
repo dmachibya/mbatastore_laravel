@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Natural Flow Baby Bottle Set",
+    "slug": "natural-flow-baby-bottle-set",
+    "brand": "Dr. Brown's",
+    "model_number": "DB-NFB-01",
+    "mpn": "DB-NFB-001",
+    "gtin": "1234567890123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Dr. Brown's Baby Products",
+    "description": "The Natural Flow Baby Bottle Set by Dr. Brown's is designed to make bottle feeding as natural as possible. This set includes four 8-ounce bottles with a unique internal vent system that helps reduce colic, gas, and spit-up. The bottles are made from BPA-free, durable plastic and feature a curved design for easy grip. The included nipples are made of soft, medical-grade silicone and mimic the natural feel of breastfeeding. The set also comes with a bottle brush for easy cleaning and a travel cap for convenience. Ideal for both newborns and older babies, this bottle set ensures a comfortable feeding experience."
+  },
+  {
+    "name": "Comfort Grip Baby Bottle 3-Pack",
+    "slug": "comfort-grip-baby-bottle-3-pack",
+    "brand": "Munchkin",
+    "model_number": "MK-CGB-02",
+    "mpn": "MK-CGB-002",
+    "gtin": "9876543210987",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Munchkin Inc.",
+    "description": "The Comfort Grip Baby Bottle 3-Pack from Munchkin offers an innovative solution for comfortable and convenient bottle feeding. Each bottle in this set is equipped with a unique, ergonomic grip design that is easy for both parents and babies to hold. Made from BPA-free, high-quality plastic, the bottles come with anti-colic nipples and a leak-proof cap. The wide neck design makes filling and cleaning the bottles a breeze. The set includes three 6-ounce bottles and is perfect for parents looking for a practical and efficient feeding solution for their little ones."
+  }
+]

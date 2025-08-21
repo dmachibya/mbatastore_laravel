@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Adobe Premiere Pro 2024 - 1 Year Subscription",
+    "slug": "adobe-premiere-pro-2024-1-year-subscription",
+    "sku": "65237429-1Y",
+    "description": "Adobe Premiere Pro 2024 - 1 Year Subscription provides access to the latest version of Adobe's flagship video editing software. With this subscription, you receive all the latest updates and features, including advanced video editing tools, multi-cam editing capabilities, and AI-powered features like auto-reframe. Premiere Pro 2024 supports high-resolution video editing up to 8K and offers seamless integration with other Adobe Creative Cloud applications. Perfect for professional video editors and content creators seeking the most powerful and up-to-date video editing solution.",
+    "price": 239.99,
+    "offer_price": 219.99,
+    "key_features": [
+      "1 Year Subscription to Adobe Premiere Pro 2024",
+      "Advanced Video Editing Tools",
+      "AI-Powered Auto-Reframe and Color Grading",
+      "Supports 4K and 8K Video Editing"
+    ],
+    "stock_quantity": 350,
+    "sold_quantity": 500,
+    "shipping_weight": 0.0,
+    "meta_title": "Adobe Premiere Pro 2024 - 1 Year Subscription | Adobe",
+    "meta_description": "Subscribe to Adobe Premiere Pro 2024 for 1 year. Access advanced video editing tools, AI features, and Creative Cloud integration. Ideal for professionals and video content creators."
+  },
+  {
+    "title": "Adobe Premiere Pro 2024 - 2 Year Subscription",
+    "slug": "adobe-premiere-pro-2024-2-year-subscription",
+    "sku": "65237429-2Y",
+    "description": "Adobe Premiere Pro 2024 - 2 Year Subscription offers extended access to the latest version of Adobe's premier video editing software. This plan provides two years of access, including all updates, new features, and Creative Cloud benefits. Premiere Pro 2024 features advanced tools for video editing, color grading, and motion graphics, supporting high-resolution video formats and complex projects. Ideal for long-term use by video editors, filmmakers, and content creators seeking an advanced and reliable video editing solution.",
+    "price": 449.99,
+    "offer_price": 399.99,
+    "key_features": [
+      "2 Year Subscription to Adobe Premiere Pro 2024",
+      "Includes All Updates and New Features",
+      "Advanced Video Editing and Color Grading Tools",
+      "Supports 4K and 8K Video Editing"
+    ],
+    "stock_quantity": 250,
+    "sold_quantity": 350,
+    "shipping_weight": 0.0,
+    "meta_title": "Adobe Premiere Pro 2024 - 2 Year Subscription | Adobe",
+    "meta_description": "Get Adobe Premiere Pro 2024 with a 2-year subscription. Enjoy advanced video editing features, AI-driven tools, and Creative Cloud integration for professional video production."
+  }
+]

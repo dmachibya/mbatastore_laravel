@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Windows 10 Home - Full Version",
+    "slug": "windows-10-home-full-version",
+    "sku": "FQC-08929-FV",
+    "description": "Windows 10 Home - Full Version offers a reliable and user-friendly operating system for personal computers. This version includes all the essential features you need for a seamless computing experience, including the Cortana assistant, the Edge browser, and the customizable Start Menu with Live Tiles. Windows 10 Home also integrates smoothly with Microsoft services like OneDrive and Office 365, providing a comprehensive and secure platform for your home computing needs. Upgrade to Windows 10 Home and enjoy a robust, modern OS designed for everyday use.",
+    "price": 119.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "User-Friendly Interface",
+      "Cortana Digital Assistant",
+      "Edge Browser for Improved Web Browsing",
+      "Integration with Microsoft Services"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 200,
+    "shipping_weight": 0.05,
+    "meta_title": "Windows 10 Home - Full Version | Microsoft",
+    "meta_description": "Buy Windows 10 Home - Full Version from Microsoft. Reliable and user-friendly OS with Cortana, Edge browser, and Microsoft service integration. Perfect for personal computing needs."
+  },
+  {
+    "title": "Windows 10 Home - Digital Download",
+    "slug": "windows-10-home-digital-download",
+    "sku": "FQC-08929-DD",
+    "description": "Upgrade to Windows 10 Home with this digital download version. Ideal for personal computers, this version provides the latest features of Windows 10, including the intuitive Start Menu, the new Edge browser, and seamless integration with Microsoft services. This digital download option offers a convenient and immediate way to get the latest OS on your device, with the same benefits as the full retail version. Perfect for users who want to quickly upgrade their system without waiting for physical media.",
+    "price": 109.99,
+    "offer_price": 89.99,
+    "key_features": [
+      "Digital Download for Instant Installation",
+      "Latest Windows 10 Features",
+      "User-Friendly Interface and Microsoft Services",
+      "Convenient Upgrade Option"
+    ],
+    "stock_quantity": 120,
+    "sold_quantity": 250,
+    "shipping_weight": 0.0,
+    "meta_title": "Windows 10 Home - Digital Download | Microsoft",
+    "meta_description": "Purchase Windows 10 Home - Digital Download from Microsoft. Get the latest OS features instantly with a user-friendly interface and Microsoft service integration."
+  }
+]

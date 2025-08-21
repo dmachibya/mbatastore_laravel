@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Men’s Waterproof Hiking Boots - Mid Cut",
+    "slug": "mens-waterproof-hiking-boots-mid-cut",
+    "sku": "MRL-HB-WP-MID-001",
+    "description": "The Merrell Men’s Waterproof Hiking Boots in a mid-cut design provide superior protection and support for challenging trails. Constructed with a waterproof membrane and durable leather, these boots keep your feet dry and comfortable. The Vibram outsole delivers excellent traction on various terrains, while the cushioned insole and EVA midsole offer lasting comfort for long hikes. Ideal for hikers seeking a combination of durability, comfort, and high performance for their outdoor adventures.",
+    "price": 149.99,
+    "offer_price": 129.99,
+    "key_features": [
+      "Waterproof Membrane",
+      "Durable Leather and Mesh Upper",
+      "Vibram Outsole for Traction",
+      "Cushioned Insole and EVA Midsole"
+    ],
+    "stock_quantity": 45,
+    "sold_quantity": 150,
+    "shipping_weight": 2.2,
+    "meta_title": "Merrell Men’s Waterproof Hiking Boots - Mid Cut | Durable and Comfortable",
+    "meta_description": "Shop Merrell Men’s Waterproof Hiking Boots for superior protection and comfort. Mid-cut design with a waterproof membrane and Vibram outsole. Buy now at a special discount!"
+  },
+  {
+    "title": "Men’s Waterproof Hiking Boots - Low Cut",
+    "slug": "mens-waterproof-hiking-boots-low-cut",
+    "sku": "MRL-HB-WP-LOW-002",
+    "description": "Merrell Men’s Waterproof Hiking Boots in a low-cut design offer lightweight comfort and reliable protection for your hikes. These boots feature a waterproof membrane to keep your feet dry and a rugged Vibram outsole for excellent grip on uneven terrain. The leather and mesh upper provides durability and breathability, while the cushioned insole and EVA midsole ensure comfort for long treks. Perfect for trail hikes, outdoor adventures, and everyday use, these boots are a versatile addition to your hiking gear.",
+    "price": 139.99,
+    "offer_price": 119.99,
+    "key_features": [
+      "Waterproof Membrane",
+      "Low-Cut Design for Flexibility",
+      "Vibram Outsole for Traction",
+      "Leather and Mesh Upper"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 90,
+    "shipping_weight": 2.0,
+    "meta_title": "Merrell Men’s Waterproof Hiking Boots - Low Cut | Lightweight and Durable",
+    "meta_description": "Discover Merrell Men’s Waterproof Hiking Boots in low-cut for flexible comfort and protection. Waterproof with a Vibram outsole for excellent traction. Get it now at a discount!"
+  }
+]

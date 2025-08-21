@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Adjustable Dumbbells Set - 5 to 50 lbs",
+    "slug": "adjustable-dumbbells-set-5-to-50-lbs",
+    "sku": "PFDBL100-001",
+    "description": "The ProForm Adjustable Dumbbells Set is perfect for a range of strength training exercises. With a weight range from 5 to 50 pounds per dumbbell, this set allows for a versatile workout experience. Ideal for both beginners and advanced users, the dumbbells feature an easy-to-use adjustment system, ergonomic handles, and a compact design that fits well in any home gym. Constructed from high-quality steel, these dumbbells are designed for durability and long-lasting use. Whether you're looking to build muscle or improve your fitness level, this adjustable dumbbell set is a great choice.",
+    "price": 149.99,
+    "offer_price": 129.99,
+    "key_features": [
+      "Adjustable Weight Range from 5 to 50 lbs",
+      "Quick Adjustment System",
+      "Ergonomic Handle",
+      "Durable Steel Construction"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 150,
+    "shipping_weight": 40,
+    "meta_title": "ProForm Adjustable Dumbbells Set - 5 to 50 lbs | Home Gym Equipment",
+    "meta_description": "Shop the ProForm Adjustable Dumbbells Set with a weight range from 5 to 50 lbs. Perfect for home gyms, with a quick adjustment system and ergonomic handles. Buy now at a discounted price!"
+  },
+  {
+    "title": "Adjustable Dumbbells Set - 10 to 50 lbs",
+    "slug": "adjustable-dumbbells-set-10-to-50-lbs",
+    "sku": "PFDBL100-002",
+    "description": "The ProForm Adjustable Dumbbells Set offers an adjustable weight range from 10 to 50 pounds per dumbbell, catering to all fitness levels. This versatile set is ideal for various strength training exercises including curls, presses, and rows. The quick weight adjustment system and compact design make it a convenient addition to your home gym. Built from high-quality materials, these dumbbells provide the durability and performance needed for an effective workout. Whether you're starting your fitness journey or looking to advance your training, this adjustable dumbbell set has you covered.",
+    "price": 159.99,
+    "offer_price": 139.99,
+    "key_features": [
+      "Adjustable Weight Range from 10 to 50 lbs",
+      "Compact Design",
+      "Quick Adjustment Mechanism",
+      "High-Quality Construction"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 80,
+    "shipping_weight": 42,
+    "meta_title": "ProForm Adjustable Dumbbells Set - 10 to 50 lbs | Fitness Equipment",
+    "meta_description": "Discover the ProForm Adjustable Dumbbells Set with a 10 to 50 lbs weight range. Perfect for home workouts, featuring an adjustable system and durable design. Buy now at a special offer price!"
+  }
+]

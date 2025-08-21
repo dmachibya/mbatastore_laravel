@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Dell XPS 15",
+    "slug": "dell-xps-15",
+    "sku": "XPS7590",
+    "description": "The Dell XPS 15 is a high-performance laptop designed for professionals and enthusiasts. Featuring a stunning 15.6-inch 4K UHD display with InfinityEdge, this laptop provides an immersive visual experience with vibrant colors and sharp details. Powered by the latest Intel Core i7 processor and NVIDIA GeForce GTX 1650 graphics, the XPS 15 handles demanding tasks with ease, from video editing to gaming. It comes with 16GB of RAM and a 512GB SSD for fast performance and ample storage. The premium build quality, with an aluminum chassis and carbon fiber palm rest, ensures durability and comfort. Additional features include a backlit keyboard, Thunderbolt 3 ports, and a fingerprint reader for enhanced security. Whether you're creating content or enjoying multimedia, the Dell XPS 15 delivers exceptional performance and style. The laptop also offers a long battery life, so you can stay productive on the go. With its sleek design and powerful features, the Dell XPS 15 is a top choice for those who demand the best.",
+    "price": 1899.99,
+    "offer_price": 1699.99,
+    "key_features": [
+      "15.6-inch 4K UHD display",
+      "Intel Core i7 processor",
+      "NVIDIA GeForce GTX 1650 graphics",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 20,
+    "shipping_weight": 4.5,
+    "meta_title": "Dell XPS 15 - High-Performance Laptop with 4K Display",
+    "meta_description": "Buy Dell XPS 15. Features a 15.6-inch 4K display, Intel Core i7, 16GB RAM, 512GB SSD. Perfect for professionals and enthusiasts. Order now!"
+  }
+]

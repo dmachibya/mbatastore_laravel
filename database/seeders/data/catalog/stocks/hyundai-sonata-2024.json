@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Hyundai Sonata 2024 SE Sedan",
+    "slug": "hyundai-sonata-2024-se-sedan",
+    "sku": "HS2024SE001",
+    "description": "The 2024 Hyundai Sonata SE Sedan offers a stylish design, advanced safety features, and a smooth driving experience, making it a great choice for everyday commuting.",
+    "price": 24000,
+    "offer_price": 23000,
+    "key_features": [
+      "2.5L GDI 4-Cylinder Engine",
+      "8-Inch Color Touchscreen",
+      "Forward Collision-Avoidance Assist",
+      "Lane Keeping Assist",
+      "16-Inch Alloy Wheels"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 5,
+    "shipping_weight": 3100,
+    "meta_title": "Hyundai Sonata 2024 SE Sedan - Stylish and Safe",
+    "meta_description": "Discover the 2024 Hyundai Sonata SE Sedan with a powerful 2.5L engine, advanced safety features, and modern technology. Ideal for daily commutes."
+  },
+  {
+    "title": "Hyundai Sonata 2024 SEL Sedan",
+    "slug": "hyundai-sonata-2024-sel-sedan",
+    "sku": "HS2024SEL001",
+    "description": "The 2024 Hyundai Sonata SEL Sedan combines performance, comfort, and advanced technology, offering a superior driving experience.",
+    "price": 27000,
+    "offer_price": 26000,
+    "key_features": [
+      "2.5L GDI 4-Cylinder Engine",
+      "10.25-Inch Navigation Display",
+      "Heated Front Seats",
+      "Blind-Spot Collision-Avoidance Assist",
+      "18-Inch Alloy Wheels"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 4,
+    "shipping_weight": 3200,
+    "meta_title": "Hyundai Sonata 2024 SEL Sedan - Performance and Comfort",
+    "meta_description": "Experience the 2024 Hyundai Sonata SEL Sedan with advanced technology, superior comfort, and a powerful 2.5L engine. Perfect for modern drivers."
+  },
+  {
+    "title": "Hyundai Sonata 2024 Limited Sedan",
+    "slug": "hyundai-sonata-2024-limited-sedan",
+    "sku": "HS2024LIMITED001",
+    "description": "The 2024 Hyundai Sonata Limited Sedan offers luxurious features and top-notch performance, providing a premium driving experience.",
+    "price": 33000,
+    "offer_price": 32000,
+    "key_features": [
+      "1.6L Turbocharged GDI 4-Cylinder Engine",
+      "Leather Seats",
+      "Surround View Monitor",
+      "Remote Smart Parking Assist",
+      "19-Inch Alloy Wheels"
+    ],
+    "stock_quantity": 8,
+    "sold_quantity": 2,
+    "shipping_weight": 3300,
+    "meta_title": "Hyundai Sonata 2024 Limited Sedan - Luxury and Performance",
+    "meta_description": "Indulge in luxury with the 2024 Hyundai Sonata Limited Sedan, featuring a turbocharged engine, leather seats, and advanced technology. Ideal for those seeking premium comfort."
+  },
+  {
+    "title": "Hyundai Sonata 2024 Hybrid Blue Sedan",
+    "slug": "hyundai-sonata-2024-hybrid-blue-sedan",
+    "sku": "HS2024HYBRID001",
+    "description": "The 2024 Hyundai Sonata Hybrid Blue Sedan offers exceptional fuel efficiency, advanced safety features, and a comfortable ride, making it an eco-friendly choice.",
+    "price": 28000,
+    "offer_price": 27000,
+    "key_features": [
+      "2.0L GDI 4-Cylinder Hybrid Engine",
+      "Solar Roof System",
+      "Blind-Spot Collision-Avoidance Assist",
+      "12.3-Inch Digital Instrument Cluster",
+      "17-Inch Alloy Wheels"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 3,
+    "shipping_weight": 3250,
+    "meta_title": "Hyundai Sonata 2024 Hybrid Blue Sedan - Efficient and Advanced",
+    "meta_description": "Choose the 2024 Hyundai Sonata Hybrid Blue Sedan for exceptional fuel efficiency, advanced safety features, and modern technology. Perfect for eco-conscious drivers."
+  }
+]

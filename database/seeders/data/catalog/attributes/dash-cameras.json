@@ -1,0 +1,16 @@
+{
+  "Resolution": ["720p", "1080p", "1440p", "4K"],
+  "Mounting Type": [
+    "Windshield Mount",
+    "Rearview Mirror Mount",
+    "Dashboard Mount",
+    "Suction Cup Mount"
+  ],
+  "Features": [
+    "Night Vision",
+    "Loop Recording",
+    "G-Sensor",
+    "Wi-Fi Connectivity"
+  ],
+  "Storage Capacity": ["Up to 32GB", "Up to 64GB", "Up to 128GB", "Up to 256GB"]
+}

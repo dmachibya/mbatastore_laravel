@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MacBook Pro 16-inch",
+    "slug": "macbook-pro-16-inch",
+    "brand": "Apple",
+    "model_number": "MVVJ2LL/A",
+    "mpn": "A2141",
+    "gtin": "0190199286111",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Apple Inc.",
+    "description": "The MacBook Pro 16-inch is Apple's most powerful laptop, designed for professionals who need top performance on the go. It features a stunning 16-inch Retina display with True Tone technology, delivering vibrant colors and incredible detail. Powered by a 9th-generation 8-core Intel Core i9 processor, this MacBook Pro can handle even the most demanding tasks with ease. It comes equipped with 16GB of RAM and a 1TB SSD, providing fast performance and ample storage for all your files. The AMD Radeon Pro 5500M graphics card ensures smooth graphics rendering for video editing, 3D modeling, and gaming. The MacBook Pro also features the new Magic Keyboard with a refined scissor mechanism for a comfortable and responsive typing experience. With up to 11 hours of battery life, you'll stay productive throughout the day. The MacBook Pro 16-inch is the ultimate tool for creative professionals and power users."
+  },
+  {
+    "name": "MacBook Air 13-inch",
+    "slug": "macbook-air-13-inch",
+    "brand": "Apple",
+    "model_number": "MGN73LL/A",
+    "mpn": "A2337",
+    "gtin": "0194252083435",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Apple Inc.",
+    "description": "The MacBook Air 13-inch is Apple's most portable laptop, combining power and portability in a sleek design. It features a 13.3-inch Retina display with True Tone technology, offering a vivid and clear viewing experience. The MacBook Air is powered by Apple's M1 chip, which provides incredible performance and efficiency. With 8GB of RAM and a 256GB SSD, the MacBook Air delivers fast performance and quick access to your files. The M1 chip's integrated 8-core GPU ensures smooth graphics performance for everyday tasks and light creative work. The MacBook Air also features a Magic Keyboard for comfortable typing, a Touch ID sensor for secure authentication, and up to 18 hours of battery life to keep you productive all day long. Weighing just 2.8 pounds, the MacBook Air is perfect for those who need a powerful laptop they can take anywhere."
+  }
+]

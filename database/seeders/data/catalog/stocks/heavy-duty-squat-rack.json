@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Heavy Duty Squat Rack - Standard Version",
+    "slug": "heavy-duty-squat-rack-standard-version",
+    "sku": "TIT-SQR-500-001",
+    "description": "The Titan Fitness Heavy Duty Squat Rack is built for serious strength training. This standard version includes adjustable safety bars, a high weight capacity, and a wide base for stability. Ideal for squats, bench presses, and overhead lifts, this rack supports various exercises and is suitable for both home and commercial gyms. Constructed from heavy gauge steel, it provides a durable and stable workout platform. The rack also features weight plate storage for added convenience, making it a valuable addition to your fitness equipment collection.",
+    "price": 299.99,
+    "offer_price": 279.99,
+    "key_features": [
+      "Heavy Gauge Steel Construction",
+      "Adjustable Safety Bars",
+      "Wide Base for Stability",
+      "Weight Plate Storage"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 50,
+    "shipping_weight": 120,
+    "meta_title": "Titan Fitness Heavy Duty Squat Rack - Standard Version | Strength Training",
+    "meta_description": "Get the Titan Fitness Heavy Duty Squat Rack for your home or commercial gym. Featuring heavy gauge steel construction, adjustable bars, and weight plate storage. Buy now at a discounted price!"
+  },
+  {
+    "title": "Heavy Duty Squat Rack - Deluxe Version",
+    "slug": "heavy-duty-squat-rack-deluxe-version",
+    "sku": "TIT-SQR-500-002",
+    "description": "Upgrade your strength training with the Titan Fitness Heavy Duty Squat Rack Deluxe Version. This advanced model features enhanced stability, additional safety bars, and multiple height settings for a wide range of exercises. Perfect for squats, bench presses, and more, this deluxe version is designed for professional and home gym use. The rack's heavy gauge steel construction ensures durability and a high weight capacity. With built-in weight plate storage and a sturdy design, this squat rack is an excellent investment for serious lifters.",
+    "price": 349.99,
+    "offer_price": 319.99,
+    "key_features": [
+      "Enhanced Stability",
+      "Additional Safety Bars",
+      "Multiple Height Settings",
+      "Heavy Gauge Steel Construction"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 35,
+    "shipping_weight": 130,
+    "meta_title": "Titan Fitness Heavy Duty Squat Rack - Deluxe Version | Professional Strength Training",
+    "meta_description": "Explore the Titan Fitness Heavy Duty Squat Rack Deluxe Version. Perfect for professional and home gyms, featuring enhanced stability, extra safety bars, and multiple settings. Buy now at a special offer price!"
+  }
+]

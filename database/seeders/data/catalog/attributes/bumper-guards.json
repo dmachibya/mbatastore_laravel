@@ -1,0 +1,4 @@
+{
+  "Material": ["rubber", "plastic", "metal", "foam"],
+  "Color": ["black", "grey", "silver", "chrome"]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Garmin DriveSmart 65 with Traffic",
+    "slug": "garmin-drivesmart-65-with-traffic",
+    "brand": "Garmin",
+    "model_number": "DriveSmart 65",
+    "mpn": "010-02036-00",
+    "gtin": "0753759210351",
+    "gtin_type": "EAN",
+    "origin_country": "United States",
+    "manufacturer": "Garmin Ltd.",
+    "description": "The Garmin DriveSmart 65 with Traffic is a high-performance GPS navigation system designed to make every journey safer and more enjoyable. This premium GPS features a large 6.95-inch edge-to-edge display that provides clear and detailed maps with turn-by-turn directions. The DriveSmart 65 includes advanced navigation features such as real-time traffic updates, driver alerts for speed cameras, and built-in voice-activated navigation for hands-free operation. With Garmin’s innovative real-time traffic and weather information, you’ll always be informed of road conditions and potential delays. The device also offers comprehensive points of interest (POI) search, including nearby restaurants, gas stations, and attractions. The GPS system supports smartphone connectivity for live traffic updates and hands-free calling, and it comes with a lifetime map update subscription. Whether you’re on a daily commute or an adventurous road trip, the Garmin DriveSmart 65 is designed to guide you with precision and convenience."
+  },
+  {
+    "name": "TomTom GO 620 World GPS Navigator",
+    "slug": "tomtom-go-620-world-gps-navigator",
+    "brand": "TomTom",
+    "model_number": "GO 620",
+    "mpn": "1RH0.002.01",
+    "gtin": "0636926077396",
+    "gtin_type": "EAN",
+    "origin_country": "Netherlands",
+    "manufacturer": "TomTom International BV",
+    "description": "The TomTom GO 620 World GPS Navigator offers top-of-the-line navigation solutions for drivers who need reliable guidance on their journeys. Equipped with a 6-inch high-resolution touchscreen display, the GO 620 provides clear and vivid maps with intuitive interface controls. This GPS navigator features lifetime world map updates, ensuring you always have the latest road information for over 150 countries. With advanced navigation features including real-time traffic updates, speed camera alerts, and lane guidance, you’ll have all the tools you need to navigate efficiently and safely. The GO 620 also includes TomTom's unique traffic information system, which delivers live updates on traffic conditions to help you avoid congestion. Additional features include hands-free calling through Bluetooth, voice command functionality, and support for Wi-Fi updates. The TomTom GO 620 is the perfect choice for drivers seeking a powerful and user-friendly GPS system for both local and international travel."
+  }
+]

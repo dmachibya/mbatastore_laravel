@@ -1,0 +1,59 @@
+[
+  {
+    "title": "2024 Chevrolet Bolt EV 1LT",
+    "slug": "2024-chevrolet-bolt-ev-1lt",
+    "sku": "CHEVY-BOLT-EV-1LT-2024",
+    "description": "The 2024 Chevrolet Bolt EV 1LT is a compact electric vehicle offering exceptional efficiency and value. With a range of up to 259 miles on a full charge, the Bolt EV 1LT features a spacious interior with a 10.2-inch touchscreen display, Apple CarPlay, Android Auto, and advanced safety features. It's an ideal choice for those looking for an affordable and reliable electric vehicle.",
+    "price": 28995,
+    "offer_price": 27995,
+    "key_features": [
+      "259 miles of range",
+      "10.2-inch touchscreen display",
+      "Apple CarPlay and Android Auto",
+      "Advanced safety features including automatic emergency braking"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 60,
+    "shipping_weight": "3,600 lbs",
+    "meta_title": "2024 Chevrolet Bolt EV 1LT - Affordable Electric Vehicle with 259 Miles Range",
+    "meta_description": "Discover the 2024 Chevrolet Bolt EV 1LT with 259 miles of range, a 10.2-inch touchscreen display, and advanced safety features. A great choice for an affordable and efficient electric car."
+  },
+  {
+    "title": "2024 Chevrolet Bolt EV 2LT",
+    "slug": "2024-chevrolet-bolt-ev-2lt",
+    "sku": "CHEVY-BOLT-EV-2LT-2024",
+    "description": "The 2024 Chevrolet Bolt EV 2LT offers upgraded features and premium options for a more refined electric driving experience. It includes a 10.2-inch touchscreen display, heated front seats, a leather-wrapped steering wheel, and additional advanced driver assistance technologies. With a range of up to 259 miles, it combines efficiency with comfort and convenience.",
+    "price": 31995,
+    "offer_price": 30995,
+    "key_features": [
+      "259 miles of range",
+      "Heated front seats",
+      "Leather-wrapped steering wheel",
+      "Enhanced driver assistance technologies"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 50,
+    "shipping_weight": "3,700 lbs",
+    "meta_title": "2024 Chevrolet Bolt EV 2LT - Premium Features with 259 Miles Range",
+    "meta_description": "Explore the 2024 Chevrolet Bolt EV 2LT with 259 miles of range, heated front seats, a leather-wrapped steering wheel, and advanced driver assistance technologies. A premium electric car option."
+  },
+  {
+    "title": "2024 Chevrolet Bolt EV Premier",
+    "slug": "2024-chevrolet-bolt-ev-premier",
+    "sku": "CHEVY-BOLT-EV-PREM-2024",
+    "description": "The 2024 Chevrolet Bolt EV Premier is the top-tier trim of the Bolt EV lineup, featuring premium amenities and advanced technology. With a range of up to 259 miles, it includes a 10.2-inch touchscreen display, a premium audio system, leather-appointed seating, and additional driver assistance features for a luxurious and enjoyable driving experience.",
+    "price": 36995,
+    "offer_price": 35995,
+    "key_features": [
+      "259 miles of range",
+      "Premium audio system",
+      "Leather-appointed seating",
+      "Advanced driver assistance features"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 30,
+    "shipping_weight": "3,800 lbs",
+    "meta_title": "2024 Chevrolet Bolt EV Premier - Top-Tier Electric Vehicle with Premium Features",
+    "meta_description": "Experience the 2024 Chevrolet Bolt EV Premier with 259 miles of range, premium audio system, leather-appointed seating, and advanced driver assistance features. The top-tier choice for an electric vehicle."
+  }
+]

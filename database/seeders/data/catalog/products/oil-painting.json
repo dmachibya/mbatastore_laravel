@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Starry Night",
+    "slug": "starry-night",
+    "brand": "Vincent Art",
+    "model_number": "VA-SN1889",
+    "mpn": "VA-001",
+    "gtin": "0123456789018",
+    "gtin_type": "EAN",
+    "origin_country": "Netherlands",
+    "manufacturer": "Vincent Studios",
+    "description": "Starry Night is one of the most famous oil paintings by Vincent van Gogh, created in 1889. This masterpiece captures the swirling night sky over the quiet village of Saint-Rémy-de-Provence. The vibrant blues and yellows create a dynamic and emotional portrayal of the night, reflecting van Gogh's unique artistic style. The swirling stars and the bright crescent moon contrast beautifully with the tranquil village below, creating a sense of movement and stillness simultaneously. This painting is a testament to van Gogh's genius and continues to captivate art lovers around the world."
+  },
+  {
+    "name": "Mona Lisa",
+    "slug": "mona-lisa",
+    "brand": "Da Vinci Art",
+    "model_number": "DVA-ML1503",
+    "mpn": "DVA-002",
+    "gtin": "0123456789019",
+    "gtin_type": "EAN",
+    "origin_country": "Italy",
+    "manufacturer": "Da Vinci Studios",
+    "description": "The Mona Lisa is a renowned oil painting by Leonardo da Vinci, completed in 1503. This iconic portrait features a woman with an enigmatic expression, often considered the most famous painting in the world. The subtle details, such as the delicate rendering of the subject's hands and the mysterious landscape background, showcase da Vinci's mastery of oil painting techniques. The painting's composition, the sitter's calm demeanor, and the use of sfumato (a technique of blending colors and tones) create a lifelike and captivating image. The Mona Lisa continues to intrigue and inspire viewers with its timeless beauty and mystery."
+  }
+]

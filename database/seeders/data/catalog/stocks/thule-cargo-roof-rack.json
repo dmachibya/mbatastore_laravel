@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Thule Cargo Roof Rack - Premium Aluminum Roof Rack for All Vehicles",
+    "slug": "thule-cargo-roof-rack-premium-aluminum",
+    "sku": "TH-12345-001",
+    "description": "The Thule Cargo Roof Rack is the ultimate solution for transporting your gear with ease and reliability. Constructed from high-quality aluminum, this premium roof rack offers exceptional strength and durability for all your outdoor adventures. Its aerodynamic design minimizes wind resistance, which helps to improve fuel efficiency while you drive. With a generous load capacity of up to 150 lbs, you can confidently carry bikes, skis, or cargo boxes without worry. The Thule Cargo Roof Rack comes with all necessary hardware for easy installation and is compatible with most vehicles. Whether you’re going on a family trip or a solo adventure, this roof rack will provide the support you need for a successful journey.",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "High-quality aluminum construction",
+      "Aerodynamic design for reduced wind resistance",
+      "Load capacity up to 150 lbs",
+      "Easy to install with included hardware",
+      "Fits most vehicles"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 12,
+    "shipping_weight": "10 kg",
+    "meta_title": "Thule Cargo Roof Rack - Premium Roof Rack for Vehicles",
+    "meta_description": "Buy the Thule Cargo Roof Rack for reliable and efficient gear transportation. Aerodynamic design, high-quality aluminum, 150 lbs load capacity, and easy installation."
+  },
+  {
+    "title": "Thule Cargo Roof Rack - Versatile Roof Rack for All Your Gear",
+    "slug": "thule-cargo-roof-rack-versatile",
+    "sku": "TH-12345-002",
+    "description": "Discover the Thule Cargo Roof Rack, a versatile and durable roof rack designed for easy gear transportation. This high-quality aluminum rack offers a sleek aerodynamic profile that reduces wind drag and improves fuel efficiency. With a robust load capacity of up to 150 lbs, you can transport a wide range of equipment, from bikes to camping gear. The Thule Cargo Roof Rack includes all necessary installation hardware, making it a breeze to set up on most vehicles. Perfect for both adventure seekers and everyday use, this roof rack is built to meet all your transportation needs.",
+    "price": 299.99,
+    "offer_price": 249.99,
+    "key_features": [
+      "Versatile and durable aluminum construction",
+      "Aerodynamic profile for improved fuel efficiency",
+      "Supports up to 150 lbs of gear",
+      "Easy installation with included hardware",
+      "Compatible with most vehicles"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 8,
+    "shipping_weight": "11 kg",
+    "meta_title": "Thule Cargo Roof Rack - Versatile Roof Rack for Gear Transportation",
+    "meta_description": "Shop the Thule Cargo Roof Rack for a versatile and durable solution for gear transportation. Aerodynamic, high-quality aluminum, 150 lbs load capacity, easy to install."
+  }
+]

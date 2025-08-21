@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Adidas Men's Essentials 3-Stripes T-Shirt",
+    "slug": "adidas-mens-essentials-3-stripes-t-shirt",
+    "sku": "TS-AD-2024-02",
+    "description": "The Adidas Men's Essentials 3-Stripes T-Shirt in Grey offers a blend of classic style and modern comfort. Made from soft, breathable cotton, this t-shirt features the iconic 3-Stripes design and a regular fit for everyday comfort. Its ribbed crew neck ensures a snug fit, while the simple yet stylish design makes it versatile for both casual and active wear. This t-shirt is a must-have for anyone looking for quality and comfort in their everyday wardrobe.",
+    "price": 25.0,
+    "offer_price": 22.0,
+    "key_features": [
+      "Soft, breathable cotton fabric",
+      "Iconic 3-Stripes design along shoulders and sleeves",
+      "Regular fit with a ribbed crew neck",
+      "Available in various sizes and colors"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 30,
+    "shipping_weight": 0.18,
+    "meta_title": "Adidas Men's Essentials 3-Stripes T-Shirt",
+    "meta_description": "Get the Adidas Men's Essentials 3-Stripes T-Shirt in Grey for classic style and comfort. Made from soft cotton with the iconic 3-Stripes design, ideal for casual or active wear. Available in Size L."
+  },
+  {
+    "title": "Adidas Men's Essentials 2-Stripes T-Shirt",
+    "slug": "adidas-mens-essentials-2-stripes-t-shirt",
+    "sku": "TS-AD-2024-03",
+    "description": "The Adidas Men's Essentials 3-Stripes T-Shirt in Grey is perfect for both casual and active wear. Made from high-quality cotton, this t-shirt features the classic 3-Stripes design on the shoulders and sleeves. The regular fit and ribbed crew neck provide a comfortable, everyday wear experience. Whether you're heading to the gym or just hanging out, this t-shirt offers both style and comfort with the Adidas signature quality.",
+    "price": 25.0,
+    "offer_price": 23.0,
+    "key_features": [
+      "Soft, breathable cotton fabric",
+      "Classic 3-Stripes design on shoulders and sleeves",
+      "Regular fit with a ribbed crew neck",
+      "Perfect for casual or active use"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 25,
+    "shipping_weight": 0.19,
+    "meta_title": "Adidas Men's Essentials 3-Stripes T-Shirt",
+    "meta_description": "Shop Adidas Men's Essentials 3-Stripes T-Shirt in Grey for classic style and modern comfort. Soft cotton fabric with iconic 3-Stripes design. Ideal for casual or active wear. Size M."
+  }
+]

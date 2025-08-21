@@ -1,0 +1,106 @@
+{
+  "Arts & Crafts": {
+    "slug": "arts-crafts",
+    "description": "Supplies and materials for various art and craft projects.",
+    "subcategories": [
+      {
+        "name": "Painting Supplies",
+        "slug": "painting-supplies",
+        "description": "Brushes, paints, and canvases for all painting techniques."
+      },
+      {
+        "name": "Drawing Materials",
+        "slug": "drawing-materials",
+        "description": "Pencils, sketchbooks, and other materials for drawing."
+      },
+      {
+        "name": "Crafting Kits",
+        "slug": "crafting-kits",
+        "description": "Complete kits for various craft projects."
+      },
+      {
+        "name": "Scrapbooking Supplies",
+        "slug": "scrapbooking-supplies",
+        "description": "Decorative papers, stickers, and tools for scrapbooking."
+      }
+    ]
+  },
+  "DIY Projects": {
+    "slug": "diy-projects",
+    "description": "Ideas and supplies for a variety of do-it-yourself projects.",
+    "subcategories": [
+      {
+        "name": "Craft Project Supplies",
+        "slug": "craft-project-supplies",
+        "description": "Materials and tools for various DIY craft projects."
+      },
+      {
+        "name": "Home Repair Kits",
+        "slug": "home-repair-kits",
+        "description": "Kits for fixing common household issues."
+      },
+      {
+        "name": "Woodworking Tools",
+        "slug": "woodworking-tools",
+        "description": "Tools and supplies for woodworking projects."
+      },
+      {
+        "name": "Upcycling & Repurposing",
+        "slug": "upcycling-repurposing",
+        "description": "Materials and ideas for creative upcycling and repurposing."
+      }
+    ]
+  },
+  "Collectibles": {
+    "slug": "collectibles",
+    "description": "Items for collectors of all kinds.",
+    "subcategories": [
+      {
+        "name": "Coins & Stamps",
+        "slug": "coins-stamps",
+        "description": "Rare coins and stamps for collectors."
+      },
+      {
+        "name": "Sports Memorabilia",
+        "slug": "sports-memorabilia",
+        "description": "Collectible items from various sports."
+      },
+      {
+        "name": "Vintage Toys",
+        "slug": "vintage-toys",
+        "description": "Classic and collectible toys from past decades."
+      },
+      {
+        "name": "Comic Books",
+        "slug": "comic-books",
+        "description": "Comic books for avid readers and collectors."
+      }
+    ]
+  },
+  "Writing & Journaling": {
+    "slug": "writing-journaling",
+    "description": "Supplies for writing, journaling, and creative expression.",
+    "subcategories": [
+      {
+        "name": "Journals & Notebooks",
+        "slug": "journals-notebooks",
+        "description": "Notebooks for writing, planning, and personal thoughts."
+      },
+      {
+        "name": "Pens & Pencils",
+        "slug": "pens-pencils",
+        "description": "High-quality pens and pencils for all writing needs."
+      },
+      {
+        "name": "Calligraphy Supplies",
+        "slug": "calligraphy-supplies",
+        "description": "Tools and materials for beautiful calligraphy."
+      },
+      {
+        "name": "Writing Guides & Books",
+        "slug": "writing-guides-books",
+        "description": "Books and guides for improving writing skills."
+      }
+    ]
+  }
+}

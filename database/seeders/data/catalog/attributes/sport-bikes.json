@@ -1,0 +1,15 @@
+{
+  "Engine Capacity": [
+    "100cc - 200cc",
+    "201cc - 300cc",
+    "301cc - 500cc",
+    "501cc and above"
+  ],
+  "Transmission Type": ["Manual", "Automatic", "Semi-Automatic"],
+  "Top Speed": [
+    "Up to 150 km/h",
+    "151 - 200 km/h",
+    "201 - 250 km/h",
+    "Above 250 km/h"
+  ]
+}

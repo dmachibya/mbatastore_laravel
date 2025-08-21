@@ -1,0 +1,6 @@
+{
+  "Resolution": ["WUXGA", "Full HD", "4K"],
+  "Brightness": ["3000 Lumens", "4000 Lumens", "5000 Lumens"],
+  "Technology": ["3LCD", "DLP"],
+  "Connectivity": ["HDMI", "VGA", "DisplayPort", "USB"]
+}

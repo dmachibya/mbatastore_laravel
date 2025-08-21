@@ -1,0 +1,4 @@
+{
+  "Material": ["Teak", "Oak", "Pine", "Walnut"],
+  "Finish": ["Polished", "Matte", "Distressed", "Natural"]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Modern Metal Twist Sculpture",
+    "slug": "modern-metal-twist-sculpture",
+    "brand": "Urban Artworks",
+    "model_number": "UA-MTS2024",
+    "mpn": "UA-001",
+    "gtin": "0123456789050",
+    "gtin_type": "EAN",
+    "origin_country": "Germany",
+    "manufacturer": "Urban Artworks GmbH",
+    "description": "The Modern Metal Twist Sculpture by Urban Artworks is a striking piece of contemporary art. This sculpture features a sleek, twisting design crafted from high-quality metal, with a polished finish that enhances its modern aesthetic. The intricate twists and turns create a sense of movement and fluidity, making it a dynamic focal point for any space. Perfect for modern and minimalist decor, this sculpture adds a touch of sophistication and elegance. Whether displayed in a living room, office, or gallery, the Modern Metal Twist Sculpture is sure to captivate and inspire."
+  },
+  {
+    "name": "Abstract Metal Wave Sculpture",
+    "slug": "abstract-metal-wave-sculpture",
+    "brand": "Steel Artistry",
+    "model_number": "SA-MWS2024",
+    "mpn": "SA-002",
+    "gtin": "0123456789051",
+    "gtin_type": "EAN",
+    "origin_country": "Italy",
+    "manufacturer": "Steel Artistry S.p.A.",
+    "description": "The Abstract Metal Wave Sculpture by Steel Artistry is an eye-catching piece that embodies the essence of modern art. This sculpture is crafted from high-quality metal and features a flowing wave design that exudes movement and energy. The combination of smooth curves and sharp angles creates a dynamic contrast, making it a visually engaging piece. The polished metal finish adds a touch of elegance, making it perfect for contemporary and eclectic interiors. Display this sculpture in your home or office to add a sophisticated and artistic touch to your decor."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hydrating Daily Moisturizer - Vitamin E & Hyaluronic Acid",
+    "slug": "hydrating-daily-moisturizer-vitamin-e-hyaluronic-acid",
+    "brand": "GlowUp Skincare",
+    "model_number": "GU-M2024",
+    "mpn": "GU-003",
+    "gtin": "0123456789068",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "GlowUp Skincare Inc.",
+    "description": "GlowUp Skincare’s Hydrating Daily Moisturizer is a luxurious facial cream designed to provide intense hydration and restore your skin’s natural glow. Infused with Vitamin E and Hyaluronic Acid, this moisturizer helps to plump and smooth your skin, reducing the appearance of fine lines and wrinkles. The lightweight, non-greasy formula absorbs quickly, leaving your skin feeling soft, refreshed, and deeply hydrated. Perfect for daily use, it is suitable for all skin types, including sensitive skin."
+  },
+  {
+    "name": "Revitalizing Night Cream - Retinol & Green Tea Extract",
+    "slug": "revitalizing-night-cream-retinol-green-tea-extract",
+    "brand": "RenewBeauty",
+    "model_number": "RB-M2024",
+    "mpn": "RB-004",
+    "gtin": "0123456789069",
+    "gtin_type": "EAN",
+    "origin_country": "South Korea",
+    "manufacturer": "RenewBeauty Co.",
+    "description": "The Revitalizing Night Cream by RenewBeauty is a powerful nighttime treatment that combines Retinol and Green Tea Extract for a rejuvenating skincare experience. Retinol promotes cell turnover and reduces the appearance of wrinkles and fine lines, while Green Tea Extract provides antioxidant protection and soothes the skin. This rich, hydrating cream works overnight to restore your skin’s firmness and radiance, leaving you with a refreshed and revitalized complexion each morning. Ideal for mature or aging skin, it’s the perfect addition to your nighttime skincare routine."
+  }
+]

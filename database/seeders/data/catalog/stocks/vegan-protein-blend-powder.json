@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Vegan Protein Blend Powder - Natural Vanilla",
+    "slug": "vegan-protein-blend-powder-natural-vanilla",
+    "sku": "VGA-PB-010-NV",
+    "description": "Vega's Vegan Protein Blend Powder in Natural Vanilla offers a complete plant-based protein source for those who prefer a dairy-free diet. This blend includes pea protein, organic brown rice protein, and sacha inchi protein, delivering 20 grams of protein and 4 grams of fiber per serving. With no gluten, soy, or artificial additives, this powder supports muscle repair, boosts energy, and contributes to overall health. The natural vanilla flavor is perfect for shakes, smoothies, or as an ingredient in your favorite recipes.",
+    "price": 54.99,
+    "offer_price": 44.99,
+    "key_features": [
+      "20g Protein Per Serving",
+      "Plant-Based Protein Blend",
+      "Natural Vanilla Flavor",
+      "Free from Gluten and Soy"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 100,
+    "shipping_weight": 1.1,
+    "meta_title": "Vegan Protein Blend Powder - Natural Vanilla | Vega",
+    "meta_description": "Shop Vega's Vegan Protein Blend Powder in Natural Vanilla. Plant-based protein with 20g protein per serving. Ideal for vegans and vegetarians. Special offer available!"
+  },
+  {
+    "title": "Vegan Protein Blend Powder - Chocolate",
+    "slug": "vegan-protein-blend-powder-chocolate",
+    "sku": "VGA-PB-010-CH",
+    "description": "Vega's Vegan Protein Blend Powder in Chocolate provides a delicious and effective protein source for those following a plant-based diet. This powder combines pea protein, organic brown rice protein, and sacha inchi protein to offer a complete amino acid profile. Each serving delivers 20 grams of protein along with 4 grams of dietary fiber. Free from gluten and soy, this protein powder is perfect for muscle recovery, energy boosting, and maintaining a healthy lifestyle. Enjoy the rich chocolate flavor in shakes, smoothies, or as a recipe ingredient.",
+    "price": 54.99,
+    "offer_price": 44.99,
+    "key_features": [
+      "20g Protein Per Serving",
+      "Complete Plant-Based Protein Blend",
+      "Rich Chocolate Flavor",
+      "Free from Gluten and Soy"
+    ],
+    "stock_quantity": 35,
+    "sold_quantity": 85,
+    "shipping_weight": 1.2,
+    "meta_title": "Vegan Protein Blend Powder - Chocolate | Vega",
+    "meta_description": "Get Vega's Vegan Protein Blend Powder in Chocolate. 20g protein per serving from plant-based sources. Perfect for a healthy, vegan diet. Special discount available!"
+  }
+]

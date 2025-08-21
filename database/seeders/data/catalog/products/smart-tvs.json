@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Samsung 55-Inch QLED Smart TV",
+    "slug": "samsung-55-inch-qled-smart-tv",
+    "brand": "Samsung",
+    "model_number": "QN55Q60TAFXZA",
+    "mpn": "QN55Q60TAFXZA",
+    "gtin": "0887276381532",
+    "gtin_type": "UPC",
+    "origin_country": "South Korea",
+    "manufacturer": "Samsung Electronics",
+    "description": "The Samsung 55-Inch QLED Smart TV offers a stunning viewing experience with its Quantum Dot technology that delivers over a billion shades of color. This TV features 4K resolution for incredibly sharp images and the Quantum Processor 4K that optimizes performance. The Quantum HDR brings out the detail and contrast, while the Dual LED backlighting technology adjusts the color tone to suit the content being watched. This Smart TV also comes with Bixby, Alexa, and Google Assistant built-in for seamless voice control. It supports a wide range of apps and streaming services, providing endless entertainment options. The sleek and slim design of the Samsung QLED TV makes it a stylish addition to any room. It includes multiple HDMI and USB ports for easy connectivity with other devices."
+  },
+  {
+    "name": "LG 65-Inch OLED Smart TV",
+    "slug": "lg-65-inch-oled-smart-tv",
+    "brand": "LG",
+    "model_number": "OLED65CXPUA",
+    "mpn": "OLED65CXPUA",
+    "gtin": "0719192621601",
+    "gtin_type": "UPC",
+    "origin_country": "South Korea",
+    "manufacturer": "LG Electronics",
+    "description": "The LG 65-Inch OLED Smart TV provides a breathtaking viewing experience with its self-lighting OLED pixels that deliver perfect black and infinite contrast. This TV features 4K resolution and the α9 Gen 3 AI Processor 4K, which enhances picture and sound quality. The Dolby Vision IQ and Dolby Atmos bring cinema-quality visuals and sound to your home. This Smart TV supports NVIDIA G-SYNC for a smooth gaming experience and offers various gaming features like low input lag and fast response times. With webOS and ThinQ AI, you can easily access and navigate through your favorite streaming apps and control your smart home devices. The ultra-thin design of the LG OLED TV complements any home decor, and it comes with multiple HDMI and USB ports for versatile connectivity."
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "Finish Type": ["Matte", "Glossy", "Satin", "Eggshell"],
+  "Application Method": ["Brush", "Roller", "Spray", "Pad"],
+  "Paint Base": ["Acrylic", "Oil-Based", "Latex", "Enamel"]
+}

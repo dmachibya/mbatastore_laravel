@@ -1,0 +1,4 @@
+{
+  "Material": ["Cotton", "Silk", "Wool", "Linen"],
+  "Technique": ["Handwoven", "Embroidered", "Printed", "Knitted"]
+}

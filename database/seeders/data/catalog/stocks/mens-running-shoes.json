@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Men's Running Shoes",
+    "slug": "mens-running-shoes",
+    "sku": "SPD-RS-001",
+    "description": "The Men's Running Shoes by Speedster are designed for optimal performance and comfort. Featuring a lightweight and breathable mesh upper, these shoes ensure maximum airflow, keeping your feet cool and dry during intense runs. The cushioned midsole provides exceptional shock absorption, while the durable rubber outsole offers excellent traction on various surfaces. Whether you're training for a marathon or enjoying a morning jog, these running shoes provide the support and durability you need. Proudly made in the USA, they embody quality craftsmanship and advanced athletic technology. These shoes are available in a sleek black and white color scheme, perfect for any workout gear.",
+    "price": 119.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "Lightweight and breathable mesh upper",
+      "Cushioned midsole for shock absorption",
+      "Durable rubber outsole for excellent traction",
+      "Ideal for running and jogging",
+      "Made in the USA"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 25,
+    "shipping_weight": 1.2,
+    "meta_title": "Men's Running Shoes - Speedster",
+    "meta_description": "Shop Men's Running Shoes by Speedster. Lightweight, breathable, and cushioned for optimal performance. Made in the USA. Perfect for running and jogging."
+  }
+]

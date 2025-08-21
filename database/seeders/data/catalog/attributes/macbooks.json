@@ -1,0 +1,5 @@
+{
+  "Processor": ["Apple M1", "Intel Core i9", "Intel Core i7"],
+  "RAM": ["8GB", "16GB", "32GB"],
+  "Storage": ["256GB SSD", "512GB SSD", "1TB SSD"]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "title": "2024 Honda Civic Hatchback LX",
+    "slug": "2024-honda-civic-hatchback-lx",
+    "sku": "CIVIC-HB-LX-2024",
+    "description": "The 2024 Honda Civic Hatchback LX offers a perfect balance of style, technology, and efficiency. Powered by a 2.0L inline-4 engine, it provides a responsive driving experience with excellent fuel efficiency. The LX trim includes a 7-inch touchscreen infotainment system with Apple CarPlay and Android Auto, along with Honda Sensing safety features including collision mitigation braking and lane-keeping assist.",
+    "price": 24000,
+    "offer_price": 23000,
+    "key_features": [
+      "2.0L inline-4 engine",
+      "7-inch touchscreen infotainment",
+      "Apple CarPlay and Android Auto",
+      "Honda Sensing safety suite"
+    ],
+    "stock_quantity": 45,
+    "sold_quantity": 95,
+    "shipping_weight": "3,100 lbs",
+    "meta_title": "2024 Honda Civic Hatchback LX - Style and Efficiency",
+    "meta_description": "Explore the 2024 Honda Civic Hatchback LX with a 2.0L engine, 7-inch touchscreen infotainment, and Honda Sensing safety features. A perfect blend of style, performance, and technology."
+  },
+  {
+    "title": "2024 Honda Civic Hatchback Sport",
+    "slug": "2024-honda-civic-hatchback-sport",
+    "sku": "CIVIC-HB-SPORT-2024",
+    "description": "The 2024 Honda Civic Hatchback Sport brings a sporty edge to the Civic lineup. Featuring a 1.5L turbocharged inline-4 engine, the Sport trim offers a thrilling driving experience with enhanced acceleration. The interior is equipped with a 9-inch touchscreen infotainment system, sport seats, and a center exhaust design. The Sport trim also includes advanced safety features and an aggressive exterior styling.",
+    "price": 27000,
+    "offer_price": 26000,
+    "key_features": [
+      "1.5L turbocharged inline-4 engine",
+      "9-inch touchscreen infotainment",
+      "Sport seats and center exhaust",
+      "Advanced safety features"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 70,
+    "shipping_weight": "3,150 lbs",
+    "meta_title": "2024 Honda Civic Hatchback Sport - Performance and Style",
+    "meta_description": "Get behind the wheel of the 2024 Honda Civic Hatchback Sport with a turbocharged 1.5L engine, 9-inch infotainment system, and sporty design. A perfect choice for performance enthusiasts."
+  },
+  {
+    "title": "2024 Honda Civic Hatchback Touring",
+    "slug": "2024-honda-civic-hatchback-touring",
+    "sku": "CIVIC-HB-TOURING-2024",
+    "description": "The 2024 Honda Civic Hatchback Touring is the ultimate blend of luxury and technology. Equipped with a 1.5L turbocharged inline-4 engine, it delivers both performance and efficiency. The Touring trim features premium amenities including leather-trimmed seats, a 12-speaker premium audio system, and a comprehensive navigation system. This model also includes Honda Sensing safety technologies and an advanced driver-assistance package.",
+    "price": 32000,
+    "offer_price": 31000,
+    "key_features": [
+      "1.5L turbocharged inline-4 engine",
+      "Leather-trimmed seats",
+      "12-speaker premium audio system",
+      "Advanced navigation and safety features"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 40,
+    "shipping_weight": "3,200 lbs",
+    "meta_title": "2024 Honda Civic Hatchback Touring - Luxury and Performance",
+    "meta_description": "Experience the 2024 Honda Civic Hatchback Touring with a turbocharged 1.5L engine, leather seats, and premium audio. A luxurious and high-performance option for those seeking the best."
+  }
+]

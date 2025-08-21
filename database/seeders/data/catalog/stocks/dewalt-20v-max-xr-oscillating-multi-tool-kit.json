@@ -1,0 +1,42 @@
+[
+  {
+    "title": "DEWALT 20V MAX XR Oscillating Multi-Tool Kit - Versatile Woodworking Tool",
+    "slug": "dewalt-20v-max-xr-oscillating-multi-tool-kit-versatile-woodworking-tool",
+    "sku": "DEWALT-DCS356D1-Tool-Kit",
+    "description": "The DEWALT 20V MAX XR Oscillating Multi-Tool Kit is a versatile and powerful tool for any woodworking project. Featuring a brushless motor that provides up to 57% more run time over brushed tools, this kit is designed for durability and efficiency. The quick-change accessory system allows you to change blades and attachments without the need for wrenches, saving you time and effort. The dual-grip variable speed trigger gives you ultimate control over your work, ensuring precision and accuracy. This kit includes the oscillating tool, a 2.0Ah battery, a charger, and a convenient storage bag, making it easy to keep all your tools organized and ready for use.",
+    "price": 199.99,
+    "offer_price": 179.99,
+    "key_features": [
+      "Brushless Motor for Increased Run Time",
+      "Quick-Change Accessory System",
+      "Dual-Grip Variable Speed Trigger",
+      "Includes Battery, Charger, and Storage Bag",
+      "Ideal for Cutting, Sanding, Scraping"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 25,
+    "shipping_weight": 5.5,
+    "meta_title": "DEWALT 20V MAX XR Oscillating Multi-Tool Kit - Versatile Woodworking Tool",
+    "meta_description": "Shop the DEWALT 20V MAX XR Oscillating Multi-Tool Kit, featuring a brushless motor, quick-change accessory system, and variable speed trigger. Perfect for versatile woodworking tasks."
+  },
+  {
+    "title": "DEWALT 20V MAX XR Oscillating Multi-Tool Kit - Ultimate Control and Efficiency",
+    "slug": "dewalt-20v-max-xr-oscillating-multi-tool-kit-ultimate-control-and-efficiency",
+    "sku": "DEWALT-DCS356D1-Control-Efficiency",
+    "description": "The DEWALT 20V MAX XR Oscillating Multi-Tool Kit offers ultimate control and efficiency for your woodworking projects. The powerful brushless motor provides up to 57% more run time over traditional brushed motors, ensuring that you can work longer without interruptions. The quick-change accessory system allows you to switch out blades and attachments quickly and easily, so you can move seamlessly between tasks. The dual-grip variable speed trigger gives you precise control over the tool, allowing you to work with confidence and accuracy. This comprehensive kit includes the oscillating tool, a 2.0Ah battery, a charger, and a storage bag, making it a must-have for any woodworking enthusiast.",
+    "price": 209.99,
+    "offer_price": 189.99,
+    "key_features": [
+      "Powerful Brushless Motor",
+      "Quick-Change Accessory System",
+      "Dual-Grip Variable Speed Trigger",
+      "Includes Battery, Charger, and Storage Bag",
+      "Perfect for a Variety of Woodworking Tasks"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 30,
+    "shipping_weight": 5.8,
+    "meta_title": "DEWALT 20V MAX XR Oscillating Multi-Tool Kit - Ultimate Control and Efficiency",
+    "meta_description": "Discover the DEWALT 20V MAX XR Oscillating Multi-Tool Kit, designed for ultimate control and efficiency with a brushless motor and quick-change accessory system."
+  }
+]

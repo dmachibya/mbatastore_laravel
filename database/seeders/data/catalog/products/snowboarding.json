@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Burton Custom Flying V Snowboard",
+    "slug": "burton-custom-flying-v-snowboard",
+    "brand": "Burton",
+    "model_number": "162771",
+    "mpn": "162771",
+    "gtin": "9009524156375",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Burton",
+    "description": "The Burton Custom Flying V Snowboard is a top-tier all-mountain snowboard designed for riders of all levels. It features a unique Flying V profile that combines rocker and camber for a versatile ride that excels in various conditions. The board’s Super Fly II 700G core ensures a lightweight yet durable performance, while the Dualzone EGD construction enhances edge control and response. With its balanced flex and versatile shape, the Custom Flying V is ideal for everything from powder days to park sessions. Experience top-notch performance and unmatched versatility with this high-quality snowboard from Burton."
+  },
+  {
+    "name": "Jones Mountain Twin Snowboard",
+    "slug": "jones-mountain-twin-snowboard",
+    "brand": "Jones",
+    "model_number": "22MTNSB",
+    "mpn": "22MTNSB",
+    "gtin": "0845634082049",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Jones",
+    "description": "The Jones Mountain Twin Snowboard is designed for advanced riders seeking a high-performance board for all-mountain exploration. This snowboard features a Twin Shape with a versatile CamRock profile that combines traditional camber underfoot with rocker at the tip and tail for a smooth, responsive ride. The Mountain Twin's FSC-certified Super Forest Core and Traction Tech 2.0 sidecut provide exceptional durability and edge hold. Whether you're hitting the backcountry or the terrain park, the Mountain Twin offers the precision and versatility you need for any snow condition."
+  }
+]

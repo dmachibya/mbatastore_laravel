@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ashley Furniture Signature Design - Brashland Dresser - White",
+    "slug": "ashley-furniture-signature-design-brashland-dresser-white",
+    "sku": "ASH-BRASH-WHT",
+    "description": "The Ashley Furniture Signature Design - Brashland Dresser in White is a stunning addition to any bedroom. This dresser combines rustic charm with modern functionality, featuring a white-textured rub-through finish that enhances its elegant look. With seven spacious drawers, it offers ample storage for all your clothing and accessories. The drawers are designed with dovetail construction and ball bearing glides for smooth and easy operation. Crafted from engineered wood and veneers, this dresser is built to last. Its timeless design and practical features make it a perfect choice for any bedroom.",
+    "price": 599.99,
+    "offer_price": 549.99,
+    "key_features": [
+      "White-Textured Rub-Through Finish",
+      "Seven Spacious Drawers",
+      "Dovetail Construction",
+      "Ball Bearing Glides",
+      "Durable Engineered Wood"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 30,
+    "shipping_weight": 150,
+    "meta_title": "Ashley Furniture Signature Design - Brashland Dresser - White",
+    "meta_description": "Purchase the Ashley Furniture Signature Design - Brashland Dresser in White. Enjoy rustic charm, modern functionality, and ample storage. Perfect for any bedroom."
+  },
+  {
+    "title": "Ashley Furniture Signature Design - Brashland Dresser - Black",
+    "slug": "ashley-furniture-signature-design-brashland-dresser-black",
+    "sku": "ASH-BRASH-BLK",
+    "description": "The Ashley Furniture Signature Design - Brashland Dresser in Black is a stylish and functional piece for your bedroom. This dresser features a sleek black finish that adds a touch of sophistication to any space. It includes seven spacious drawers, providing ample storage for clothes and accessories. The drawers are equipped with dovetail construction and ball bearing glides for smooth operation. Made from engineered wood and veneers, this dresser is designed for durability and long-lasting use. Its elegant design and practical storage solutions make it a must-have for any bedroom.",
+    "price": 599.99,
+    "offer_price": 549.99,
+    "key_features": [
+      "Sleek Black Finish",
+      "Seven Spacious Drawers",
+      "Dovetail Construction",
+      "Ball Bearing Glides",
+      "Durable Engineered Wood"
+    ],
+    "stock_quantity": 70,
+    "sold_quantity": 25,
+    "shipping_weight": 150,
+    "meta_title": "Ashley Furniture Signature Design - Brashland Dresser - Black",
+    "meta_description": "Get the Ashley Furniture Signature Design - Brashland Dresser in Black. Enjoy a sleek finish, ample storage, and durable construction. Ideal for modern bedrooms."
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "Material": ["Stainless Steel", "Bronze", "Copper", "Aluminum"],
+  "Finish": ["Polished", "Matte", "Brushed", "Oxidized"]
+}

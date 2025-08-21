@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Yamaha YZF-R1",
+    "slug": "yamaha-yzf-r1",
+    "brand": "Yamaha",
+    "model_number": "YZF-R1",
+    "mpn": "5678901234",
+    "gtin": "5678901234567",
+    "gtin_type": "EAN-13",
+    "origin_country": "Japan",
+    "manufacturer": "Yamaha Motor Co., Ltd.",
+    "description": "The Yamaha YZF-R1 is a high-performance sport bike known for its advanced electronics, powerful 998cc engine, and exceptional handling. It features a full suite of rider aids including traction control, quick shifter, and adjustable suspension for a thrilling and precise riding experience."
+  },
+  {
+    "name": "Kawasaki Ninja ZX-6R",
+    "slug": "kawasaki-ninja-zx-6r",
+    "brand": "Kawasaki",
+    "model_number": "Ninja ZX-6R",
+    "mpn": "6789012345",
+    "gtin": "6789012345678",
+    "gtin_type": "EAN-13",
+    "origin_country": "Japan",
+    "manufacturer": "Kawasaki Heavy Industries Motorcycle & Engine Company",
+    "description": "The Kawasaki Ninja ZX-6R is a sport bike that delivers a blend of performance and agility. With a 636cc inline-four engine, advanced electronics, and aggressive styling, it offers a thrilling riding experience both on the track and on the street."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Ubuntu 22.04 LTS - Desktop Edition",
+    "slug": "ubuntu-22-04-lts-desktop-edition",
+    "sku": "UA22LTS-DE",
+    "description": "Ubuntu 22.04 LTS Desktop Edition provides a stable and user-friendly Linux environment for personal and professional use. Featuring the GNOME 42 desktop environment, this edition offers a modern and intuitive interface for daily computing tasks. Ubuntu 22.04 LTS includes a wide range of pre-installed applications, including a web browser, office suite, and media players, to meet all your desktop needs. Benefit from five years of security updates and support, and explore a vast repository of additional software to customize your system. Ideal for both new users and experienced Linux enthusiasts.",
+    "price": 49.99,
+    "offer_price": 39.99,
+    "key_features": [
+      "GNOME 42 Desktop Environment",
+      "Five Years of Security Updates",
+      "Pre-Installed Applications",
+      "User-Friendly Interface"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 350,
+    "shipping_weight": 0.1,
+    "meta_title": "Ubuntu 22.04 LTS - Desktop Edition | Canonical",
+    "meta_description": "Buy Ubuntu 22.04 LTS - Desktop Edition. Enjoy a stable, user-friendly Linux environment with GNOME 42, five years of support, and a range of pre-installed applications."
+  },
+  {
+    "title": "Ubuntu 22.04 LTS - Server Edition",
+    "slug": "ubuntu-22-04-lts-server-edition",
+    "sku": "UA22LTS-SE",
+    "description": "Ubuntu 22.04 LTS Server Edition is designed for enterprises and advanced users requiring a robust server environment. This edition provides a secure and efficient platform for deploying web servers, databases, and other critical applications. It includes the latest server software and tools, offering features like advanced networking, virtualization, and cloud support. Ubuntu 22.04 LTS Server Edition comes with five years of security updates and support, ensuring reliability and performance for your server infrastructure. Perfect for data centers, cloud environments, and business-critical applications.",
+    "price": 99.99,
+    "offer_price": 89.99,
+    "key_features": [
+      "Server Optimization and Management Tools",
+      "Five Years of Security Updates",
+      "Advanced Networking and Virtualization",
+      "Cloud and Enterprise Support"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 220,
+    "shipping_weight": 0.1,
+    "meta_title": "Ubuntu 22.04 LTS - Server Edition | Canonical",
+    "meta_description": "Purchase Ubuntu 22.04 LTS - Server Edition for a robust and secure server environment. Includes advanced management tools, five years of updates, and cloud support."
+  }
+]

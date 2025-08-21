@@ -1,0 +1,5 @@
+{
+  "Audio Type": ["Single DIN", "Double DIN", "Receiver", "Amplifier"],
+  "Connectivity": ["Bluetooth", "USB", "AUX", "Apple CarPlay/Android Auto"],
+  "Speaker Configuration": ["2-Way", "3-Way", "Coaxial", "Component"]
+}

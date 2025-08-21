@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Moleskine Classic Notebook - Large, Ruled, Black",
+    "slug": "moleskine-classic-notebook-large-ruled-black",
+    "sku": "MOL-NTB-LG-RU-BK",
+    "description": "The Moleskine Classic Notebook in large size is perfect for capturing your thoughts, ideas, and daily notes. Featuring a durable black hardcover with rounded corners, this notebook is designed to withstand daily use. It includes an elastic closure to keep your notes secure and an expandable inner pocket for storing loose papers and notes. The 240 ruled pages are made of high-quality, acid-free paper that provides a smooth writing experience, making it ideal for writers, students, and professionals. The Moleskine Classic Notebook is a timeless tool that combines functionality with elegance, making it a must-have for anyone who values quality stationery.",
+    "price": 24.95,
+    "offer_price": 19.95,
+    "key_features": [
+      "Durable Hardcover with Rounded Corners",
+      "240 Ruled Pages",
+      "Elastic Closure and Expandable Inner Pocket",
+      "High-Quality, Acid-Free Paper",
+      "Perfect for Daily Journaling and Note-Taking"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 75,
+    "shipping_weight": 0.6,
+    "meta_title": "Moleskine Classic Notebook - Large, Ruled, Black",
+    "meta_description": "Shop the Moleskine Classic Notebook in large size with ruled pages. Durable hardcover, elastic closure, and high-quality paper make it perfect for daily journaling."
+  },
+  {
+    "title": "Moleskine Classic Notebook - Large, Ruled, Red",
+    "slug": "moleskine-classic-notebook-large-ruled-red",
+    "sku": "MOL-NTB-LG-RU-RD",
+    "description": "The Moleskine Classic Notebook in large size and red color is a stylish and functional notebook for capturing your thoughts, ideas, and daily notes. It features a durable red hardcover with rounded corners, ensuring it can withstand daily use. The elastic closure keeps your notes secure, and the expandable inner pocket is perfect for storing loose papers and notes. The 240 ruled pages are made of high-quality, acid-free paper, providing a smooth writing experience. Ideal for writers, students, and professionals, the Moleskine Classic Notebook combines elegance with practicality, making it an essential tool for anyone who values quality stationery.",
+    "price": 24.95,
+    "offer_price": 19.95,
+    "key_features": [
+      "Durable Red Hardcover with Rounded Corners",
+      "240 Ruled Pages",
+      "Elastic Closure and Expandable Inner Pocket",
+      "High-Quality, Acid-Free Paper",
+      "Perfect for Daily Journaling and Note-Taking"
+    ],
+    "stock_quantity": 120,
+    "sold_quantity": 60,
+    "shipping_weight": 0.6,
+    "meta_title": "Moleskine Classic Notebook - Large, Ruled, Red",
+    "meta_description": "Discover the Moleskine Classic Notebook in large size with ruled pages and a red cover. Durable design, elastic closure, and high-quality paper for daily journaling."
+  }
+]

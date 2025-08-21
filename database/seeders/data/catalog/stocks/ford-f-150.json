@@ -1,0 +1,60 @@
+[
+  {
+    "title": "2024 Ford F-150 XL",
+    "slug": "2024-ford-f-150-xl",
+    "sku": "FORD-F150-XL-2024",
+    "description": "The 2024 Ford F-150 XL is a versatile and reliable full-size pickup truck. Featuring a 290-hp 3.3L V6 engine, a durable high-strength aluminum-alloy body, and a spacious 8-foot bed, the XL trim is designed for both work and everyday tasks. Standard features include a 8-inch touchscreen infotainment system, rearview camera, and advanced safety technologies.",
+    "price": 35995,
+    "offer_price": 34995,
+    "key_features": [
+      "290-hp 3.3L V6 engine",
+      "High-strength aluminum-alloy body",
+      "8-foot bed for maximum cargo space",
+      "8-inch touchscreen infotainment system",
+      "Rearview camera and advanced safety features"
+    ],
+    "stock_quantity": 35,
+    "sold_quantity": 45,
+    "shipping_weight": "4,800 lbs",
+    "meta_title": "2024 Ford F-150 XL - Reliable Full-Size Pickup Truck with Essential Features",
+    "meta_description": "Discover the 2024 Ford F-150 XL with a 290-hp V6 engine, durable aluminum-alloy body, and an 8-foot bed. Perfect for work and everyday tasks with essential features and advanced safety technologies."
+  },
+  {
+    "title": "2024 Ford F-150 Lariat",
+    "slug": "2024-ford-f-150-lariat",
+    "sku": "FORD-F150-LARIAT-2024",
+    "description": "The 2024 Ford F-150 Lariat offers a blend of luxury and performance. Equipped with a 400-hp 2.7L EcoBoost V6 engine, this trim features premium leather seating, a 12-inch touchscreen infotainment system, and advanced driver assistance features. The Lariat trim provides a comfortable and high-tech driving experience for both work and leisure.",
+    "price": 46995,
+    "offer_price": 45995,
+    "key_features": [
+      "400-hp 2.7L EcoBoost V6 engine",
+      "Premium leather seating",
+      "12-inch touchscreen infotainment system",
+      "Advanced driver assistance technologies"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 30,
+    "shipping_weight": "5,100 lbs",
+    "meta_title": "2024 Ford F-150 Lariat - Luxury and Performance with High-Tech Features",
+    "meta_description": "Explore the 2024 Ford F-150 Lariat with a 400-hp EcoBoost V6 engine, premium leather seating, and a 12-inch touchscreen infotainment system. A luxurious and high-performance pickup truck for every need."
+  },
+  {
+    "title": "2024 Ford F-150 Raptor",
+    "slug": "2024-ford-f-150-raptor",
+    "sku": "FORD-F150-RAPTOR-2024",
+    "description": "The 2024 Ford F-150 Raptor is engineered for off-road adventures and high-performance driving. Featuring a 450-hp 3.5L EcoBoost V6 engine, high-performance Fox shocks, and rugged off-road capabilities, the Raptor trim is designed to tackle tough terrains and deliver exhilarating performance. It also includes advanced off-road technology and premium interior features.",
+    "price": 74995,
+    "offer_price": 73995,
+    "key_features": [
+      "450-hp 3.5L EcoBoost V6 engine",
+      "High-performance Fox shocks",
+      "Off-road capabilities with advanced technology",
+      "Premium interior features"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 20,
+    "shipping_weight": "6,000 lbs",
+    "meta_title": "2024 Ford F-150 Raptor - High-Performance Off-Road Truck with Advanced Capabilities",
+    "meta_description": "Experience the 2024 Ford F-150 Raptor with a 450-hp EcoBoost V6 engine, high-performance shocks, and advanced off-road technology. The ultimate choice for high-performance off-road adventures."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "MacBook Pro 16-inch",
+    "slug": "macbook-pro-16-inch",
+    "sku": "MVVJ2LL/A",
+    "description": "The MacBook Pro 16-inch is Apple's most powerful laptop, designed for professionals who need top performance on the go. It features a stunning 16-inch Retina display with True Tone technology, delivering vibrant colors and incredible detail. Powered by a 9th-generation 8-core Intel Core i9 processor, this MacBook Pro can handle even the most demanding tasks with ease. It comes equipped with 16GB of RAM and a 1TB SSD, providing fast performance and ample storage for all your files. The AMD Radeon Pro 5500M graphics card ensures smooth graphics rendering for video editing, 3D modeling, and gaming. The MacBook Pro also features the new Magic Keyboard with a refined scissor mechanism for a comfortable and responsive typing experience. With up to 11 hours of battery life, you'll stay productive throughout the day. The MacBook Pro 16-inch is the ultimate tool for creative professionals and power users. Additionally, the MacBook Pro includes advanced thermal architecture for better heat management, a six-speaker sound system for immersive audio, and studio-quality microphones for clear voice recordings.",
+    "price": 2399.99,
+    "offer_price": 2199.99,
+    "key_features": [
+      "16-inch Retina display",
+      "9th-generation 8-core Intel Core i9",
+      "16GB RAM",
+      "1TB SSD",
+      "AMD Radeon Pro 5500M graphics"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 10,
+    "shipping_weight": 4.3,
+    "meta_title": "MacBook Pro 16-inch - Ultimate Performance Laptop",
+    "meta_description": "Buy MacBook Pro 16-inch. Features 9th-gen Intel Core i9, 16GB RAM, 1TB SSD. Perfect for professionals. Order now!"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wireless Charging Pad",
+    "slug": "wireless-charging-pad",
+    "brand": "ChargeTech",
+    "model_number": "CT-WCP-100",
+    "mpn": "CT-WCP-2024",
+    "gtin": "0811234567890",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "ChargeTech Inc.",
+    "description": "The ChargeTech Wireless Charging Pad offers a convenient and fast way to charge your Qi-enabled devices. Featuring a sleek and compact design, it fits seamlessly into any environment, whether at home or in the office. The pad delivers up to 10W of power for fast charging, ensuring your devices are charged quickly and efficiently. It comes with built-in safety features, including overcharge protection, temperature control, and foreign object detection. The ChargeTech Wireless Charging Pad is compatible with a wide range of smartphones, including the latest models from Apple, Samsung, and other major brands. Its non-slip surface keeps your device securely in place during charging. Upgrade to a wireless charging experience with this reliable and stylish charging pad."
+  },
+  {
+    "name": "Bluetooth Earbuds",
+    "slug": "bluetooth-earbuds",
+    "brand": "SoundWave",
+    "model_number": "SW-BE-200",
+    "mpn": "SW-BE-2024",
+    "gtin": "0823456789012",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "SoundWave Audio",
+    "description": "Experience superior sound quality with SoundWave Bluetooth Earbuds. These earbuds are designed to deliver an immersive audio experience with rich bass and clear treble. Equipped with the latest Bluetooth 5.0 technology, they offer a stable and fast connection to your devices. The ergonomic design ensures a comfortable and secure fit, making them perfect for all-day wear. With up to 8 hours of playtime on a single charge and an additional 24 hours provided by the charging case, you'll enjoy uninterrupted music and calls. The earbuds also feature touch controls for easy operation, allowing you to manage your music and calls effortlessly. Whether you're working out, commuting, or relaxing at home, SoundWave Bluetooth Earbuds provide the perfect soundtrack to your day."
+  }
+]

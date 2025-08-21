@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Mineral Sunscreen SPF 30 - Zinc Oxide & Aloe Vera by PureSun",
+    "slug": "mineral-sunscreen-spf-30-zinc-oxide-aloe-vera",
+    "sku": "SU-PS-2024-01",
+    "description": "Discover PureSun Mineral Sunscreen SPF 30, a natural sun protection solution enriched with zinc oxide and soothing aloe vera. This mineral-based sunscreen provides broad-spectrum protection against UVA and UVB rays while keeping your skin hydrated and calm. Its lightweight, non-whitening formula is perfect for daily use and outdoor activities. Suitable for sensitive skin, it offers effective sun protection with added skincare benefits.",
+    "price": 34.99,
+    "offer_price": 27.99,
+    "key_features": [
+      "Mineral-based SPF 30 for gentle sun protection",
+      "Contains zinc oxide and aloe vera for soothing hydration",
+      "Non-whitening, lightweight formula for everyday use",
+      "Water-resistant and suitable for sensitive skin"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 8,
+    "shipping_weight": 0.3,
+    "meta_title": "Mineral Sunscreen SPF 30 - Zinc Oxide & Aloe Vera by PureSun",
+    "meta_description": "Buy Mineral Sunscreen SPF 30 by PureSun. This natural sunscreen with zinc oxide and aloe vera provides broad-spectrum protection, hydration, and is suitable for sensitive skin."
+  },
+  {
+    "title": "Mineral Sunscreen SPF 30 - Zinc Oxide & Aloe Vera - Large Size",
+    "slug": "mineral-sunscreen-spf-30-zinc-oxide-aloe-vera-large",
+    "sku": "SU-PS-2024-02",
+    "description": "Get more of PureSun’s Mineral Sunscreen SPF 30 with this large size option. Featuring natural zinc oxide and aloe vera, this sunscreen offers broad-spectrum protection while soothing and hydrating your skin. Ideal for daily use and extended sun exposure, this larger size provides excellent value and is perfect for those who need reliable sun protection for themselves and their family.",
+    "price": 59.99,
+    "offer_price": 47.99,
+    "key_features": [
+      "Large size for extended use",
+      "Mineral-based SPF 30 with zinc oxide and aloe vera",
+      "Non-whitening, lightweight formula for sensitive skin",
+      "Water-resistant for effective sun protection"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 6,
+    "shipping_weight": 0.7,
+    "meta_title": "Mineral Sunscreen SPF 30 - Zinc Oxide & Aloe Vera - Large Size",
+    "meta_description": "Buy the Mineral Sunscreen SPF 30 in large size by PureSun. This mineral sunscreen provides broad-spectrum protection with zinc oxide and aloe vera for hydration and effective sun defense."
+  }
+]

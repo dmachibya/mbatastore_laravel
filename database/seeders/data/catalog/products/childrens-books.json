@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Where the Wild Things Are",
+    "slug": "where-the-wild-things-are",
+    "brand": "HarperCollins",
+    "model_number": "9780060254926",
+    "mpn": "0060254920",
+    "gtin": "9780060254926",
+    "gtin_type": "ISBN-13",
+    "origin_country": "USA",
+    "manufacturer": "HarperCollins",
+    "description": "Maurice Sendak's 'Where the Wild Things Are' is a beloved children's book that has captivated generations of readers. The story follows young Max, who is sent to his room for misbehaving and imagines sailing away to a land inhabited by wild creatures who crown him as their king. With its imaginative narrative and captivating illustrations, 'Where the Wild Things Are' explores themes of creativity, emotions, and the importance of home. This timeless classic continues to enchant children and adults alike with its beautifully crafted story and stunning artwork."
+  },
+  {
+    "name": "The Very Hungry Caterpillar",
+    "slug": "the-very-hungry-caterpillar",
+    "brand": "Philomel Books",
+    "model_number": "9780399226908",
+    "mpn": "0399226907",
+    "gtin": "9780399226908",
+    "gtin_type": "ISBN-13",
+    "origin_country": "USA",
+    "manufacturer": "Penguin Random House",
+    "description": "Eric Carle's 'The Very Hungry Caterpillar' is a beloved classic in children's literature. This beautifully illustrated book tells the story of a tiny caterpillar that eats its way through a variety of foods before transforming into a beautiful butterfly. With its simple, repetitive text and vibrant, colorful illustrations, 'The Very Hungry Caterpillar' teaches children about counting, days of the week, and the life cycle of a butterfly. This enduring story has delighted millions of children worldwide and continues to be a favorite for early learning and bedtime reading."
+  }
+]

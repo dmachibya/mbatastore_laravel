@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Norton 360 Deluxe - 1 Year Subscription for 5 Devices",
+    "slug": "norton-360-deluxe-1-year-subscription-for-5-devices",
+    "sku": "21344-1Y-5D",
+    "description": "Norton 360 Deluxe provides comprehensive protection for up to 5 devices with a 1-year subscription. Enjoy advanced security features including real-time threat protection, a smart firewall, VPN for secure browsing, and a password manager to keep your information safe. This edition also offers cloud backup for your important files and dark web monitoring to alert you of potential threats. Norton 360 Deluxe is ideal for individuals and families seeking robust protection against cyber threats and online dangers.",
+    "price": 89.99,
+    "offer_price": 79.99,
+    "key_features": [
+      "1 Year Subscription for Up to 5 Devices",
+      "Real-Time Threat Protection",
+      "Smart Firewall and VPN",
+      "Password Manager and Cloud Backup"
+    ],
+    "stock_quantity": 300,
+    "sold_quantity": 450,
+    "shipping_weight": 0.1,
+    "meta_title": "Norton 360 Deluxe - 1 Year Subscription for 5 Devices | Norton",
+    "meta_description": "Buy Norton 360 Deluxe - 1 Year Subscription for 5 Devices. Get real-time protection, smart firewall, VPN, and cloud backup for a secure online experience. Discounted price available."
+  },
+  {
+    "title": "Norton 360 Deluxe - 2 Year Subscription for 5 Devices",
+    "slug": "norton-360-deluxe-2-year-subscription-for-5-devices",
+    "sku": "21344-2Y-5D",
+    "description": "Secure your digital life with Norton 360 Deluxe for 2 years, covering up to 5 devices. This subscription includes comprehensive antivirus protection, a secure VPN for anonymous browsing, a password manager for secure credentials, and real-time threat detection. Norton 360 Deluxe also offers 50 GB of cloud backup for your critical files and dark web monitoring to help protect your personal information. Perfect for long-term protection and peace of mind.",
+    "price": 139.99,
+    "offer_price": 119.99,
+    "key_features": [
+      "2 Year Subscription for Up to 5 Devices",
+      "Advanced Antivirus Protection",
+      "Secure VPN and Password Manager",
+      "Cloud Backup and Dark Web Monitoring"
+    ],
+    "stock_quantity": 200,
+    "sold_quantity": 320,
+    "shipping_weight": 0.1,
+    "meta_title": "Norton 360 Deluxe - 2 Year Subscription for 5 Devices | Norton",
+    "meta_description": "Purchase Norton 360 Deluxe - 2 Year Subscription for 5 Devices. Enjoy advanced protection with antivirus, VPN, password manager, and cloud backup. Great deal for long-term security."
+  }
+]

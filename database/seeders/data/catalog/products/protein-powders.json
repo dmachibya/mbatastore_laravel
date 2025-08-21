@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Whey Protein Isolate Powder",
+    "slug": "whey-protein-isolate-powder",
+    "brand": "Optimum Nutrition",
+    "model_number": "ON-WPI-005",
+    "mpn": "ON-WPI-005",
+    "gtin": "7894561230123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Optimum Nutrition Inc.",
+    "description": "Optimum Nutrition's Whey Protein Isolate Powder is a premium protein supplement designed to support muscle growth and recovery. Made from 100% pure whey protein isolate, this powder offers 25 grams of high-quality protein per serving with minimal fat and carbohydrates. The advanced filtration process ensures that each scoop contains less than 1 gram of sugar and low levels of cholesterol. Enriched with essential BCAAs and glutamine, this protein powder is perfect for athletes and fitness enthusiasts who aim to improve their muscle mass and overall performance. Available in a range of delicious flavors, this product is easy to mix and perfect for post-workout nutrition or as a protein boost throughout the day."
+  },
+  {
+    "name": "Vegan Protein Blend Powder",
+    "slug": "vegan-protein-blend-powder",
+    "brand": "Vega",
+    "model_number": "VGA-PB-010",
+    "mpn": "VGA-PB-010",
+    "gtin": "4567891230543",
+    "gtin_type": "UPC",
+    "origin_country": "Canada",
+    "manufacturer": "Vega LLC",
+    "description": "Vega's Vegan Protein Blend Powder is a plant-based protein supplement designed for those seeking a dairy-free alternative. This protein blend combines pea protein, organic brown rice protein, and sacha inchi protein to provide a complete amino acid profile. Each serving delivers 20 grams of protein with 4 grams of dietary fiber and is free from gluten, soy, and artificial additives. Fortified with vitamins and minerals, this powder supports muscle repair, boosts energy, and promotes a healthy lifestyle. Ideal for vegans and vegetarians, it comes in several natural flavors and is perfect for mixing into shakes, smoothies, or recipes."
+  }
+]

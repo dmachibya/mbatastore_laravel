@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Garden Gnome Statue",
+    "slug": "garden-gnome-statue",
+    "brand": "Sunnydaze Decor",
+    "model_number": "GD-114",
+    "mpn": "GD114",
+    "gtin": "819271021147",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Sunnydaze Decor",
+    "description": "The Garden Gnome Statue from Sunnydaze Decor adds a whimsical touch to any garden or outdoor space. Made from durable resin, this gnome is designed to withstand the elements while maintaining its vibrant colors. The intricate detailing and charming expression make it a delightful addition to flower beds, patios, or pathways. Whether used as a single statement piece or part of a larger garden display, this gnome brings a sense of fun and magic to your outdoor decor."
+  },
+  {
+    "name": "Solar-Powered Garden Lights",
+    "slug": "solar-powered-garden-lights",
+    "brand": "GardenBliss",
+    "model_number": "GB-2050",
+    "mpn": "GB2050",
+    "gtin": "697978032050",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "GardenBliss",
+    "description": "Illuminate your garden with the Solar-Powered Garden Lights from GardenBliss. These lights are designed with high-efficiency solar panels that charge during the day and provide up to 8 hours of light at night. Made from weather-resistant materials, they can withstand rain, snow, and heat, making them perfect for year-round use. The set includes 10 lights, each with a bright LED bulb that adds a warm, inviting glow to your outdoor space. Easy to install with no wiring required, these solar lights are an eco-friendly and cost-effective solution for garden lighting."
+  }
+]

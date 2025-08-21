@@ -1,0 +1,40 @@
+[
+  {
+    "title": "2024 Tesla Model 3 Rear-Wheel Drive",
+    "slug": "2024-tesla-model-3-rear-wheel-drive",
+    "sku": "TESLA-M3-RWD-2024",
+    "description": "The 2024 Tesla Model 3 Rear-Wheel Drive offers a more affordable entry into the Tesla lineup with great performance and efficiency. It features a 0-60 mph time of 5.8 seconds, a range of up to 272 miles, and the latest technology including a 15-inch touchscreen display and standard Autopilot features.",
+    "price": 39990,
+    "offer_price": 38990,
+    "key_features": [
+      "272 miles of range",
+      "Rear-Wheel Drive",
+      "0-60 mph in 5.8 seconds",
+      "15-inch touchscreen display"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 90,
+    "shipping_weight": "3,600 lbs",
+    "meta_title": "2024 Tesla Model 3 Rear-Wheel Drive - Affordable Electric Sedan",
+    "meta_description": "Get the 2024 Tesla Model 3 Rear-Wheel Drive with 272 miles of range, 0-60 mph in 5.8 seconds, and the latest Tesla technology. A great entry-level electric sedan option."
+  },
+  {
+    "title": "2024 Tesla Model 3 High Performance",
+    "slug": "2024-tesla-model-3-high-performance",
+    "sku": "TESLA-M3-HP-2024",
+    "description": "The 2024 Tesla Model 3 High Performance edition offers even more power and advanced features for driving enthusiasts. It includes a Dual Motor All-Wheel Drive system, a range of up to 320 miles, and high-performance features such as improved brakes and a lowered suspension.",
+    "price": 69990,
+    "offer_price": 68990,
+    "key_features": [
+      "320 miles of range",
+      "Dual Motor All-Wheel Drive",
+      "Enhanced performance brakes",
+      "Lowered suspension for improved handling"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 20,
+    "shipping_weight": "3,850 lbs",
+    "meta_title": "2024 Tesla Model 3 High Performance - Ultimate Electric Power",
+    "meta_description": "Experience the 2024 Tesla Model 3 High Performance with Dual Motor All-Wheel Drive, 320 miles of range, and enhanced performance features. The ultimate choice for electric car enthusiasts."
+  }
+]

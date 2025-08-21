@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Ford Fusion 2024 S Sedan",
+    "slug": "ford-fusion-2024-s-sedan",
+    "sku": "FF2024S001",
+    "description": "The 2024 Ford Fusion S Sedan offers a smooth ride with advanced technology and safety features, making it a perfect choice for everyday driving.",
+    "price": 23000,
+    "offer_price": 22000,
+    "key_features": [
+      "2.5L iVCT Engine",
+      "Ford Co-Pilot360™",
+      "SYNC® 3",
+      "Rearview Camera",
+      "16-Inch Alloy Wheels"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 6,
+    "shipping_weight": 3200,
+    "meta_title": "Ford Fusion 2024 S Sedan - Reliable and Efficient",
+    "meta_description": "Explore the 2024 Ford Fusion S Sedan, featuring a powerful 2.5L engine, Ford Co-Pilot360™, and advanced safety features. Ideal for daily commutes."
+  },
+  {
+    "title": "Ford Fusion 2024 SE Sedan",
+    "slug": "ford-fusion-2024-se-sedan",
+    "sku": "FF2024SE001",
+    "description": "The 2024 Ford Fusion SE Sedan combines performance and comfort with modern technology, offering an enhanced driving experience.",
+    "price": 26000,
+    "offer_price": 25000,
+    "key_features": [
+      "1.5L EcoBoost® Engine",
+      "Dual-Zone Electronic Automatic Temperature Control",
+      "Power Driver Seat",
+      "18-Inch Alloy Wheels",
+      "LED Signature Lighting"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 4,
+    "shipping_weight": 3300,
+    "meta_title": "Ford Fusion 2024 SE Sedan - Comfort and Performance",
+    "meta_description": "Discover the 2024 Ford Fusion SE Sedan with a 1.5L EcoBoost® engine, advanced technology, and superior comfort. Perfect for modern drivers."
+  },
+  {
+    "title": "Ford Fusion 2024 Titanium Sedan",
+    "slug": "ford-fusion-2024-titanium-sedan",
+    "sku": "FF2024TI001",
+    "description": "The 2024 Ford Fusion Titanium Sedan offers premium features and a powerful engine, delivering a luxurious driving experience.",
+    "price": 31000,
+    "offer_price": 30000,
+    "key_features": [
+      "2.0L EcoBoost® Engine",
+      "Leather-Trimmed Seats",
+      "Sony® 12-Speaker Audio System",
+      "Adaptive Cruise Control",
+      "19-Inch Alloy Wheels"
+    ],
+    "stock_quantity": 7,
+    "sold_quantity": 2,
+    "shipping_weight": 3400,
+    "meta_title": "Ford Fusion 2024 Titanium Sedan - Luxury and Power",
+    "meta_description": "Experience luxury with the 2024 Ford Fusion Titanium Sedan, featuring a 2.0L EcoBoost® engine, leather seats, and advanced technology. Ideal for luxury seekers."
+  },
+  {
+    "title": "Ford Fusion 2024 Hybrid SE Sedan",
+    "slug": "ford-fusion-2024-hybrid-se-sedan",
+    "sku": "FF2024HYBSE001",
+    "description": "The 2024 Ford Fusion Hybrid SE Sedan combines fuel efficiency with advanced features, providing an eco-friendly and enjoyable driving experience.",
+    "price": 28000,
+    "offer_price": 27000,
+    "key_features": [
+      "2.0L iVCT Atkinson-Cycle I-4 Hybrid Engine",
+      "SmartGauge® with EcoGuide",
+      "Regenerative Braking System",
+      "SYNC® 3 with Voice-Activated Navigation",
+      "17-Inch Alloy Wheels"
+    ],
+    "stock_quantity": 8,
+    "sold_quantity": 3,
+    "shipping_weight": 3350,
+    "meta_title": "Ford Fusion 2024 Hybrid SE Sedan - Efficient and Advanced",
+    "meta_description": "Go green with the 2024 Ford Fusion Hybrid SE Sedan, featuring a hybrid engine, regenerative braking, and modern technology. Perfect for eco-conscious drivers."
+  }
+]

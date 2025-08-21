@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Taekwondo Training Uniform",
+    "slug": "taekwondo-training-uniform",
+    "brand": "Elite Martial Arts",
+    "model_number": "ETA-001",
+    "mpn": "ETA-001",
+    "gtin": "1234567890123",
+    "gtin_type": "UPC",
+    "origin_country": "South Korea",
+    "manufacturer": "Elite Martial Arts Co.",
+    "description": "The Taekwondo Training Uniform by Elite Martial Arts is designed for practitioners of all levels. Made from high-quality, breathable cotton fabric, this uniform offers both comfort and durability during training sessions. The traditional white gi features reinforced stitching on the jacket and pants, ensuring that it withstands rigorous practice. The uniform includes a belt and is available in various sizes to accommodate practitioners of all ages. Ideal for beginners and advanced students alike, this uniform meets the standards set by Taekwondo organizations and provides a professional appearance on the mat."
+  },
+  {
+    "name": "Taekwondo Black Belt",
+    "slug": "taekwondo-black-belt",
+    "brand": "Victory Taekwondo",
+    "model_number": "VTB-002",
+    "mpn": "VTB-002",
+    "gtin": "0987654321098",
+    "gtin_type": "UPC",
+    "origin_country": "South Korea",
+    "manufacturer": "Victory Taekwondo Inc.",
+    "description": "The Taekwondo Black Belt from Victory Taekwondo represents the pinnacle of achievement in Taekwondo. Crafted from premium, durable polyester, this belt is designed to last through intense training and competitions. The belt features high-quality stitching and a traditional black color symbolizing mastery and perseverance. It is available in different lengths to match various waist sizes, and the subtle gold embroidery on the end signifies excellence in Taekwondo practice. A perfect reward for reaching the black belt rank or as a prestigious gift for Taekwondo practitioners."
+  }
+]

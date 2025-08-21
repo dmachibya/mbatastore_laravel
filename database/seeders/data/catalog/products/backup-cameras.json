@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Wireless Backup Camera for Cars",
+    "slug": "wireless-backup-camera-cars",
+    "brand": "AutoCam",
+    "model_number": "AC-BC1000",
+    "mpn": "AC-BC1000",
+    "gtin": "850002610222",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "AutoCam",
+    "description": "This Wireless Backup Camera from AutoCam offers a high-definition 1080p video feed with a 170-degree field of view. Ideal for easy installation and excellent rear visibility. The camera connects wirelessly to the included monitor and offers a seamless driving experience.",
+    "price": 129.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "Wireless Connection",
+      "1080p HD Resolution",
+      "170 Degrees Field of View",
+      "Easy Installation"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 15,
+    "shipping_weight": 1.2,
+    "meta_title": "Wireless Backup Camera for Cars | AutoCam 1080p HD",
+    "meta_description": "Buy the AutoCam Wireless Backup Camera for Cars. Features 1080p HD resolution, 170-degree field of view, and easy installation. Get yours now at a discounted price!"
+  },
+  {
+    "name": "License Plate Mounted Backup Camera",
+    "slug": "license-plate-mounted-backup-camera",
+    "brand": "SafeDrive",
+    "model_number": "SD-PLM2022",
+    "mpn": "SD-PLM2022",
+    "gtin": "840123456789",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "SafeDrive",
+    "description": "The SafeDrive License Plate Mounted Backup Camera offers high-resolution 720p video with a 150-degree field of view. It is designed for easy installation on your vehicle's license plate for optimal rearview safety. Equipped with a wide-angle lens for improved visibility.",
+    "price": 89.99,
+    "offer_price": 74.99,
+    "key_features": [
+      "License Plate Mounting",
+      "720p HD Resolution",
+      "150 Degrees Field of View",
+      "Wide-Angle Lens"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 12,
+    "shipping_weight": 0.8,
+    "meta_title": "License Plate Mounted Backup Camera | SafeDrive 720p HD",
+    "meta_description": "Get the SafeDrive License Plate Mounted Backup Camera. Features 720p HD resolution, 150-degree field of view, and wide-angle lens. Perfect for improved rear visibility at a great price!"
+  },
+  {
+    "name": "Garmin BC 30 Wireless Backup Camera",
+    "slug": "garmin-bc-30-wireless-backup-camera",
+    "brand": "Garmin",
+    "model_number": "010-12241-00",
+    "mpn": "010-12241-00",
+    "gtin": "0753759117600",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Garmin",
+    "description": "The Garmin BC 30 Wireless Backup Camera offers high-quality video and ease of installation for your vehicle. This advanced camera features a wireless design that connects seamlessly to your compatible Garmin GPS device, providing a clear and wide-angle view of the area behind your vehicle. The BC 30 is equipped with a high-resolution camera that delivers sharp, detailed images, even in low-light conditions. It includes a durable mounting bracket and an easy-to-install wireless transmitter, ensuring a hassle-free setup. The camera's wide-angle lens offers a broad field of view, while the built-in infrared LEDs enhance visibility in darkness. Perfect for improving safety while reversing, this backup camera is a reliable choice for any driver looking to add extra security to their vehicle."
+  },
+  {
+    "name": "Pioneer ND-BC8 Backup Camera",
+    "slug": "pioneer-nd-bc8-backup-camera",
+    "brand": "Pioneer",
+    "model_number": "ND-BC8",
+    "mpn": "ND-BC8",
+    "gtin": "0012562544899",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Pioneer",
+    "description": "The Pioneer ND-BC8 Backup Camera provides superior safety and convenience for drivers by offering a clear and comprehensive view of the rear of your vehicle. This high-definition camera is designed for easy installation and integration with Pioneer in-dash receivers. Featuring a wide 180-degree viewing angle, the ND-BC8 ensures you have complete visibility of the area behind your vehicle. The camera's high-resolution image sensor delivers crisp and detailed images, even in low-light conditions. Built to withstand harsh weather conditions, the ND-BC8 is durable and reliable, making it an excellent choice for enhancing your vehicle's safety. Its compact design and adjustable mounting bracket allow for flexible installation options."
+  }
+]

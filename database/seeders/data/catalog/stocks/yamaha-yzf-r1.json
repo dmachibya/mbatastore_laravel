@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Yamaha YZF-R1 2024 Model",
+    "slug": "yamaha-yzf-r1-2024-model",
+    "sku": "YZF-R1-2024-001",
+    "description": "The 2024 Yamaha YZF-R1 is a high-performance sport bike designed for both track and street use. Featuring a 998cc engine with advanced electronics, it offers exceptional handling and power.",
+    "price": 17499,
+    "offer_price": 15999,
+    "key_features": [
+      "998cc liquid-cooled inline-four engine",
+      "Advanced electronic rider aids",
+      "Quickshifter for smooth gear changes",
+      "Fully adjustable suspension",
+      "Full LED lighting"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 25,
+    "shipping_weight": 210,
+    "meta_title": "Yamaha YZF-R1 2024 Model - High Performance Sport Bike",
+    "meta_description": "Discover the 2024 Yamaha YZF-R1, a top-tier sport bike with a 998cc engine, advanced electronics, and exceptional handling. Available now at a special price!"
+  },
+  {
+    "title": "Yamaha YZF-R1 2023 Limited Edition",
+    "slug": "yamaha-yzf-r1-2023-limited-edition",
+    "sku": "YZF-R1-2023-002",
+    "description": "The 2023 Yamaha YZF-R1 Limited Edition offers the same great performance as the standard model but with exclusive features and a unique color scheme. Perfect for collectors and enthusiasts.",
+    "price": 18999,
+    "offer_price": 17999,
+    "key_features": [
+      "998cc liquid-cooled inline-four engine",
+      "Limited edition color scheme",
+      "Advanced rider aids and electronics",
+      "Premium suspension components",
+      "Exclusive styling and graphics"
+    ],
+    "stock_quantity": 5,
+    "sold_quantity": 18,
+    "shipping_weight": 210,
+    "meta_title": "Yamaha YZF-R1 2023 Limited Edition - Exclusive Sport Bike",
+    "meta_description": "Get the 2023 Yamaha YZF-R1 Limited Edition with exclusive features and a unique color scheme. This high-performance sport bike is perfect for collectors. Order now!"
+  },
+  {
+    "title": "Yamaha YZF-R1 2022 Standard Model",
+    "slug": "yamaha-yzf-r1-2022-standard-model",
+    "sku": "YZF-R1-2022-003",
+    "description": "The 2022 Yamaha YZF-R1 offers a thrilling ride with its 998cc engine and advanced electronics. Ideal for both track days and everyday riding.",
+    "price": 16999,
+    "offer_price": 15499,
+    "key_features": [
+      "998cc liquid-cooled inline-four engine",
+      "Traction control and ride modes",
+      "Quickshifter for seamless gear changes",
+      "Adjustable suspension for fine-tuning",
+      "Modern LED lighting"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 30,
+    "shipping_weight": 210,
+    "meta_title": "Yamaha YZF-R1 2022 Standard Model - High-Performance Sport Bike",
+    "meta_description": "Check out the 2022 Yamaha YZF-R1 Standard Model, featuring a 998cc engine, advanced electronics, and high performance. Get it now at a special offer price!"
+  },
+  {
+    "title": "Yamaha YZF-R1 2024 Track Edition",
+    "slug": "yamaha-yzf-r1-2024-track-edition",
+    "sku": "YZF-R1-2024-004",
+    "description": "The 2024 Yamaha YZF-R1 Track Edition is designed for track enthusiasts who seek ultimate performance. With enhanced features and fine-tuned components, this edition delivers an unparalleled riding experience.",
+    "price": 19999,
+    "offer_price": 18999,
+    "key_features": [
+      "998cc liquid-cooled inline-four engine",
+      "Track-focused suspension settings",
+      "Enhanced electronic rider aids",
+      "Special track-oriented accessories",
+      "Aggressive design and livery"
+    ],
+    "stock_quantity": 8,
+    "sold_quantity": 12,
+    "shipping_weight": 220,
+    "meta_title": "Yamaha YZF-R1 2024 Track Edition - Ultimate Performance Sport Bike",
+    "meta_description": "Experience the 2024 Yamaha YZF-R1 Track Edition, optimized for track performance with advanced features and a track-focused design. Available now at a special price!"
+  }
+]

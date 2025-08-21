@@ -1,0 +1,26 @@
+[
+  {
+    "name": "JetBrains IntelliJ IDEA 2024 Ultimate",
+    "slug": "jetbrains-intellij-idea-2024-ultimate",
+    "brand": "JetBrains",
+    "model_number": "IJ-U2024",
+    "mpn": "IJ-U2024",
+    "gtin": "617037267881",
+    "gtin_type": "UPC",
+    "origin_country": "Czech Republic",
+    "manufacturer": "JetBrains s.r.o.",
+    "description": "JetBrains IntelliJ IDEA 2024 Ultimate is a leading integrated development environment (IDE) for Java and other JVM languages. This advanced version offers a comprehensive set of tools for professional developers, including intelligent code assistance, advanced debugging, and support for a wide range of programming languages and frameworks. IntelliJ IDEA 2024 Ultimate includes features such as intelligent code completion, advanced refactoring, a built-in database tool, and integrated version control. With enhanced performance and support for modern development practices, it is ideal for complex enterprise projects and software development."
+  },
+  {
+    "name": "Microsoft Visual Studio 2024 Professional",
+    "slug": "microsoft-visual-studio-2024-professional",
+    "brand": "Microsoft",
+    "model_number": "VS2024-PRO",
+    "mpn": "VS2024-PRO",
+    "gtin": "889842832838",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Microsoft Corporation",
+    "description": "Microsoft Visual Studio 2024 Professional is a powerful IDE designed for developers working on a variety of software projects. This version provides a comprehensive suite of tools for coding, debugging, and deploying applications across multiple platforms. Visual Studio 2024 Professional offers features such as advanced code editing, integrated debugging tools, support for multiple languages including C#, VB.NET, and C++, and enhanced performance for large-scale applications. The IDE includes collaboration features, cloud integration, and support for modern development workflows, making it an excellent choice for professional developers and teams."
+  }
+]

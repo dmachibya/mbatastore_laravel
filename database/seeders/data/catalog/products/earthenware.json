@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Earthenware Tea Set - Classic Floral Design",
+    "slug": "earthenware-tea-set-classic-floral-design",
+    "brand": "Heritage Ceramics",
+    "model_number": "HC-TS2024",
+    "mpn": "HC-001",
+    "gtin": "0123456789064",
+    "gtin_type": "EAN",
+    "origin_country": "Morocco",
+    "manufacturer": "Heritage Ceramics Ltd.",
+    "description": "The Handcrafted Earthenware Tea Set - Classic Floral Design by Heritage Ceramics is a beautiful and functional addition to your tea time ritual. This tea set features a classic floral design with intricate hand-painted details on durable earthenware. Each piece is crafted by skilled artisans using traditional techniques, resulting in a unique and high-quality tea set that brings elegance to any table setting. Perfect for afternoon tea or special occasions, this set includes a teapot, cups, saucers, and a sugar bowl."
+  },
+  {
+    "name": "Rustic Earthenware Flower Pot - Mediterranean Style",
+    "slug": "rustic-earthenware-flower-pot-mediterranean-style",
+    "brand": "Mediterranean Arts",
+    "model_number": "MA-FP2024",
+    "mpn": "MA-002",
+    "gtin": "0123456789065",
+    "gtin_type": "EAN",
+    "origin_country": "Spain",
+    "manufacturer": "Mediterranean Arts Co.",
+    "description": "The Rustic Handcrafted Earthenware Flower Pot - Mediterranean Style by Mediterranean Arts is a charming addition to your garden or home. This flower pot features a classic Mediterranean design with a rustic finish that adds character and elegance to any space. Handcrafted from high-quality earthenware, it is perfect for growing your favorite plants or as a decorative element for your home. Each pot is made by experienced artisans, ensuring durability and a unique, timeless appeal."
+  }
+]

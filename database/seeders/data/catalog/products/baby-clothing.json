@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Organic Cotton Baby Onesie",
+    "slug": "organic-cotton-baby-onesie",
+    "brand": "BabyWear",
+    "model_number": "BW-001",
+    "mpn": "BW-ONESIE-001",
+    "gtin": "1122334455667",
+    "gtin_type": "EAN",
+    "origin_country": "Bangladesh",
+    "manufacturer": "BabyWear Ltd.",
+    "description": "The Organic Cotton Baby Onesie is crafted from 100% organic cotton, providing a soft and gentle touch for your baby’s delicate skin. This onesie features a simple yet adorable design with snap closures at the bottom for easy diaper changes. It is designed to keep your baby comfortable throughout the day and night. The fabric is breathable, hypoallergenic, and free from harmful chemicals, making it an excellent choice for everyday wear. The onesie is available in a variety of sizes to ensure a perfect fit as your baby grows."
+  },
+  {
+    "name": "Cute Baby Pajama Set",
+    "slug": "cute-baby-pajama-set",
+    "brand": "BabyWear",
+    "model_number": "BW-002",
+    "mpn": "BW-PJ-002",
+    "gtin": "2233445566778",
+    "gtin_type": "UPC",
+    "origin_country": "Bangladesh",
+    "manufacturer": "BabyWear Ltd.",
+    "description": "The Cute Baby Pajama Set is perfect for keeping your little one cozy during bedtime. Made from soft, high-quality cotton fabric, this pajama set includes a comfortable top and matching pants with an elastic waistband. The playful design and vibrant colors make it a fun choice for bedtime or lounging around the house. The cotton material is breathable and gentle on the skin, ensuring your baby stays comfortable all night long. The set comes in various sizes to accommodate babies of different ages."
+  }
+]

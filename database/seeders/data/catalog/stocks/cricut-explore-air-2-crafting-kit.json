@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Cricut Explore Air 2 Crafting Kit - Ultimate DIY Tool",
+    "slug": "cricut-explore-air-2-crafting-kit-ultimate-diy-tool",
+    "sku": "Cricut-Air-2-Ultimate",
+    "description": "The Cricut Explore Air 2 Crafting Kit is the ultimate tool for DIY enthusiasts. It includes the Cricut Explore Air 2 machine, which can cut over 100 different materials with ease and precision. Whether you're working with cardstock, vinyl, iron-on, or specialty materials like glitter paper and bonded fabric, this machine can handle it all. The kit also comes with a variety of tools and accessories, including a fine-point blade, a premium fine-point blade housing, a light grip mat, and a black pen. With Bluetooth wireless technology, you can design on your computer or mobile device using Cricut's free design software. Perfect for home decor, custom apparel, paper crafting, and more, the Cricut Explore Air 2 Crafting Kit allows you to create beautiful, professional-quality projects right at home.",
+    "price": 249.99,
+    "offer_price": 229.99,
+    "key_features": [
+      "Cuts Over 100 Different Materials",
+      "Includes Fine-Point Blade and Premium Housing",
+      "Light Grip Mat and Black Pen Included",
+      "Bluetooth Wireless Technology",
+      "Free Design Software",
+      "Perfect for Home Decor, Custom Apparel, and More"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 15,
+    "shipping_weight": 12,
+    "meta_title": "Cricut Explore Air 2 Crafting Kit - Ultimate DIY Tool",
+    "meta_description": "Get the Cricut Explore Air 2 Crafting Kit, the ultimate tool for DIY projects. Includes machine, tools, and accessories. Create professional-quality projects at home."
+  },
+  {
+    "title": "Cricut Explore Air 2 Crafting Kit - All-In-One",
+    "slug": "cricut-explore-air-2-crafting-kit-all-in-one",
+    "sku": "Cricut-Air-2-All-In-One",
+    "description": "Discover the Cricut Explore Air 2 Crafting Kit, an all-in-one tool for DIY projects. This kit features the Cricut Explore Air 2 machine, which cuts over 100 different materials with precision. Ideal for working with cardstock, vinyl, iron-on, glitter paper, and bonded fabric, this machine meets all your crafting needs. Included are a fine-point blade, premium fine-point blade housing, light grip mat, and black pen. Bluetooth wireless technology allows for easy design on your computer or mobile device with Cricut's free design software. Perfect for home decor, custom apparel, paper crafting, and more, this crafting kit is your gateway to professional-quality projects.",
+    "price": 259.99,
+    "offer_price": 239.99,
+    "key_features": [
+      "Cuts Over 100 Materials with Precision",
+      "Includes Essential Tools and Accessories",
+      "Bluetooth Wireless Technology",
+      "Free Design Software",
+      "Perfect for Various Crafting Projects"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 10,
+    "shipping_weight": 12.5,
+    "meta_title": "Cricut Explore Air 2 Crafting Kit - All-In-One",
+    "meta_description": "Shop the Cricut Explore Air 2 Crafting Kit, an all-in-one tool for DIY enthusiasts. Includes machine, essential tools, and accessories for professional-quality projects."
+  }
+]

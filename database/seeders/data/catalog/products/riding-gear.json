@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Alpinestars Tech-7 Enduro Motorcycle Boots",
+    "slug": "alpinestars-tech-7-enduro-motorcycle-boots",
+    "brand": "Alpinestars",
+    "model_number": "TECH-7-ENDURO-BLK-9",
+    "mpn": "3406021-10-9",
+    "gtin": "8033637595513",
+    "gtin_type": "UPC",
+    "origin_country": "Italy",
+    "manufacturer": "Alpinestars",
+    "description": "The Alpinestars Tech-7 Enduro Motorcycle Boots are engineered for high performance and durability in extreme conditions. Constructed with a lightweight, advanced polymer compound, these boots offer superior protection with a protective shin plate, reinforced toe caps, and a contoured calf area. The innovative buckle system ensures a secure fit, while the advanced sole design provides excellent grip and stability. The Tech-7 boots feature a breathable mesh lining and a dual-density insole for comfort during long rides. These boots are ideal for off-road enthusiasts who demand both protection and performance from their riding gear.",
+    "price": 349.95,
+    "offer_price": 329.95,
+    "key_features": [
+      "Advanced Polymer Compound Construction",
+      "Protective Shin Plate and Reinforced Toe Caps",
+      "Contoured Calf Area for Better Fit",
+      "Innovative Buckle Closure System",
+      "Breathable Mesh Lining",
+      "Dual-Density Insole for Comfort"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 5,
+    "shipping_weight": 4.0,
+    "meta_title": "Alpinestars Tech-7 Enduro Motorcycle Boots | High-Performance Riding Gear",
+    "meta_description": "Shop Alpinestars Tech-7 Enduro Motorcycle Boots for ultimate protection and comfort. Lightweight, durable construction with advanced features. Perfect for off-road adventures. Buy now!"
+  },
+  {
+    "name": "Dainese D-Core Long Sleeve Shirt",
+    "slug": "dainese-d-core-long-sleeve-shirt",
+    "brand": "Dainese",
+    "model_number": "DAI-DC-LONG-BLK-M",
+    "mpn": "2018100-001-M",
+    "gtin": "8052644739041",
+    "gtin_type": "UPC",
+    "origin_country": "Italy",
+    "manufacturer": "Dainese",
+    "description": "The Dainese D-Core Long Sleeve Shirt is designed to offer exceptional comfort and performance for riders. Made from advanced Dainese D-Core fabric, this shirt features excellent moisture-wicking properties to keep you dry and comfortable. The long sleeve design provides added coverage and protection, while the ergonomic fit ensures freedom of movement. Ideal for layering under your riding gear or as a standalone piece, the D-Core shirt is perfect for all types of riding conditions. It offers a sleek, stylish look while providing practical features for serious riders.",
+    "price": 89.95,
+    "offer_price": 79.95,
+    "key_features": [
+      "Advanced D-Core Fabric for Moisture-Wicking",
+      "Long Sleeve Design for Added Coverage",
+      "Ergonomic Fit for Freedom of Movement",
+      "Ideal for Layering Under Riding Gear",
+      "Sleek and Stylish Look"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 8,
+    "shipping_weight": 0.5,
+    "meta_title": "Dainese D-Core Long Sleeve Shirt | High-Performance Riding Gear",
+    "meta_description": "Discover the Dainese D-Core Long Sleeve Shirt for superior comfort and performance. Moisture-wicking fabric, ergonomic fit, and stylish design. Perfect for layering or solo use. Shop now for great deals!"
+  }
+]

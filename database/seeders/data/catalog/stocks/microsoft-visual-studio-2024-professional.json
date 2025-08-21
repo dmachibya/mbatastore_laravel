@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Microsoft Visual Studio 2024 Professional - 1 Year Subscription",
+    "slug": "microsoft-visual-studio-2024-professional-1-year-subscription",
+    "sku": "VS2024-PRO-1Y",
+    "description": "Microsoft Visual Studio 2024 Professional - 1 Year Subscription provides access to the latest features and tools for a full year. This subscription includes advanced coding, debugging, and project management capabilities for professional software development. With support for multiple programming languages, cloud integration, and collaboration features, Visual Studio 2024 Professional is designed for developers working on a variety of software projects. Ideal for individuals and teams seeking a robust development environment with access to the latest updates and features.",
+    "price": 229.99,
+    "offer_price": 209.99,
+    "key_features": [
+      "1 Year Subscription to Visual Studio 2024 Professional",
+      "Advanced Code Editing and Debugging Tools",
+      "Support for Multiple Languages and Platforms",
+      "Cloud Integration and Collaboration Features"
+    ],
+    "stock_quantity": 250,
+    "sold_quantity": 350,
+    "shipping_weight": 0.0,
+    "meta_title": "Microsoft Visual Studio 2024 Professional - 1 Year Subscription | Microsoft",
+    "meta_description": "Subscribe to Microsoft Visual Studio 2024 Professional for 1 year. Access advanced IDE tools, code editing, debugging features, and cloud integration for your development projects."
+  }
+]

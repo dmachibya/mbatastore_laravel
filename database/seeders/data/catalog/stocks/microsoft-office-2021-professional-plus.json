@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Microsoft Office 2021 Professional Plus - Full Version",
+    "slug": "microsoft-office-2021-professional-plus-full-version",
+    "sku": "T5D-03574-FV",
+    "description": "Microsoft Office 2021 Professional Plus - Full Version offers a complete set of office productivity tools for professionals and businesses. This edition includes the latest versions of Word, Excel, PowerPoint, Outlook, Publisher, and Access, designed to meet all your office needs. With advanced features for document creation, data analysis, and presentation design, Office 2021 Professional Plus is perfect for users requiring a robust suite of applications for their daily tasks. Benefit from new features and improvements for enhanced productivity and efficiency. This version is a one-time purchase with no subscription required.",
+    "price": 439.99,
+    "offer_price": 399.99,
+    "key_features": [
+      "Includes Word, Excel, PowerPoint, Outlook, Publisher, Access",
+      "One-Time Purchase License",
+      "Advanced Productivity and Collaboration Tools",
+      "Modern User Interface and Enhanced Features"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 250,
+    "shipping_weight": 0.1,
+    "meta_title": "Microsoft Office 2021 Professional Plus - Full Version | Microsoft",
+    "meta_description": "Buy Microsoft Office 2021 Professional Plus - Full Version. Complete office suite with Word, Excel, PowerPoint, and more. One-time purchase with advanced features and productivity tools."
+  },
+  {
+    "title": "Microsoft Office 2021 Professional Plus - Digital Download",
+    "slug": "microsoft-office-2021-professional-plus-digital-download",
+    "sku": "T5D-03574-DD",
+    "description": "Get Microsoft Office 2021 Professional Plus instantly with this digital download version. This comprehensive office suite includes the latest editions of Word, Excel, PowerPoint, Outlook, Publisher, and Access. Ideal for professionals and businesses, this version provides advanced features for document creation, data analysis, and presentations. Enjoy the convenience of digital delivery and start using Office 2021 Professional Plus immediately. This version offers the same powerful features and tools as the physical edition with the added benefit of instant access.",
+    "price": 429.99,
+    "offer_price": 389.99,
+    "key_features": [
+      "Instant Digital Download",
+      "Includes Word, Excel, PowerPoint, Outlook, Publisher, Access",
+      "Advanced Productivity and Collaboration Features",
+      "Modern and Intuitive User Interface"
+    ],
+    "stock_quantity": 180,
+    "sold_quantity": 300,
+    "shipping_weight": 0.0,
+    "meta_title": "Microsoft Office 2021 Professional Plus - Digital Download | Microsoft",
+    "meta_description": "Purchase Microsoft Office 2021 Professional Plus - Digital Download. Get the latest office suite with advanced features for document creation, data analysis, and more. Instant access."
+  }
+]

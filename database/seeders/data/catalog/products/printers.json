@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HP OfficeJet Pro 9015e All-in-One Printer",
+    "slug": "hp-officejet-pro-9015e-all-in-one-printer",
+    "brand": "HP",
+    "model_number": "OfficeJet Pro 9015e",
+    "mpn": "1L0H3A#B1H",
+    "gtin": "194850002722",
+    "gtin_type": "UPC",
+    "origin_country": "China",
+    "manufacturer": "Hewlett-Packard",
+    "description": "The HP OfficeJet Pro 9015e All-in-One Printer is a high-performance solution for all your office printing needs. This versatile all-in-one printer offers printing, scanning, copying, and faxing capabilities, making it an ideal choice for small to medium-sized businesses. It features a high-resolution print capability of up to 4800 x 1200 dpi, ensuring sharp and professional-quality documents. The OfficeJet Pro 9015e supports fast print speeds of up to 22 pages per minute (ppm) for black-and-white documents and 20 ppm for color documents. It comes with a 250-sheet paper tray and a 100-sheet output tray, plus a 35-sheet automatic document feeder for efficient multi-page scanning and copying. The printer also supports wireless printing via Wi-Fi and mobile printing options through HP Smart App and Apple AirPrint. The built-in touchscreen control panel offers an intuitive user experience, and the printer's sleek design fits seamlessly into any office environment."
+  },
+  {
+    "name": "Brother MFC-L2750DW XL Monochrome Laser All-in-One Printer",
+    "slug": "brother-mfc-l2750dw-xl-monochrome-laser-all-in-one-printer",
+    "brand": "Brother",
+    "model_number": "MFC-L2750DW XL",
+    "mpn": "MFC-L2750DW XL",
+    "gtin": "012502652728",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Brother Industries",
+    "description": "The Brother MFC-L2750DW XL Monochrome Laser All-in-One Printer is designed for busy office environments requiring reliable and efficient document handling. This monochrome laser printer offers comprehensive printing, copying, scanning, and faxing capabilities. It features high-quality print resolutions of up to 2400 x 1200 dpi for crisp text and clear graphics. With a print speed of up to 36 pages per minute, it delivers fast and professional results. The MFC-L2750DW XL includes a 250-sheet paper tray, a 50-sheet automatic document feeder, and a 150-sheet output tray, making it well-suited for high-volume printing tasks. It supports wireless printing via Wi-Fi, mobile printing through Brother iPrint&Scan, and is compatible with Google Cloud Print and Apple AirPrint. The printer’s intuitive 2.7-inch color touchscreen allows for easy navigation of settings and functions. Built for efficiency and productivity, the MFC-L2750DW XL also offers high-capacity toner options for lower cost-per-page printing."
+  }
+]

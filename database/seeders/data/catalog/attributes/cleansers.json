@@ -1,0 +1,9 @@
+{
+  "Type": [
+    "Foaming Cleanser",
+    "Gel Cleanser",
+    "Cream Cleanser",
+    "Micellar Water"
+  ],
+  "Skin Type": ["Sensitive", "Oily", "Combination", "Dry"]
+}

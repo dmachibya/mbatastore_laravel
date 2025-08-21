@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Toyota Camry 2024",
+    "slug": "toyota-camry-2024",
+    "brand": "Toyota",
+    "model_number": "CAM2024",
+    "mpn": "CAM2024-TY",
+    "gtin": "0885074075653",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Toyota Motor Corporation",
+    "description": "The 2024 Toyota Camry is a reliable and stylish sedan that offers a comfortable ride, fuel efficiency, and advanced safety features. With a spacious interior, intuitive infotainment system, and a choice of powerful yet economical engines, the Camry is perfect for both city driving and long road trips. It features Toyota Safety Sense, which includes pre-collision warning, adaptive cruise control, and lane-keeping assist to ensure a safe and smooth driving experience."
+  },
+  {
+    "name": "Honda Accord 2024",
+    "slug": "honda-accord-2024",
+    "brand": "Honda",
+    "model_number": "ACD2024",
+    "mpn": "ACD2024-HN",
+    "gtin": "0191924420231",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Honda Motor Co., Ltd.",
+    "description": "The 2024 Honda Accord combines elegance, performance, and technology in a stunning package. With a redesigned exterior, the Accord stands out with its bold and sophisticated look. Inside, the cabin is spacious and refined, offering the latest in comfort and connectivity. The Accord is powered by efficient turbocharged engines and comes equipped with Honda Sensing, a suite of safety and driver-assist technologies that include collision mitigation braking, road departure mitigation, and traffic sign recognition."
+  },
+  {
+    "name": "Nissan Altima 2024",
+    "slug": "nissan-altima-2024",
+    "brand": "Nissan",
+    "model_number": "ALT2024",
+    "mpn": "ALT2024-NS",
+    "gtin": "0180325500124",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Nissan Motor Co., Ltd.",
+    "description": "The 2024 Nissan Altima offers a perfect blend of performance, comfort, and advanced technology. Featuring a sleek design, the Altima stands out with its sporty profile and modern aesthetics. The interior is designed to provide maximum comfort with premium materials and advanced connectivity options. The Altima is equipped with Nissan's ProPILOT Assist, which helps maintain a set speed and distance from the car ahead, and can even bring the car to a complete stop and back up to speed when traffic starts moving again."
+  },
+  {
+    "name": "Hyundai Sonata 2024",
+    "slug": "hyundai-sonata-2024",
+    "brand": "Hyundai",
+    "model_number": "SON2024",
+    "mpn": "SON2024-HY",
+    "gtin": "0880999123456",
+    "gtin_type": "EAN",
+    "origin_country": "South Korea",
+    "manufacturer": "Hyundai Motor Company",
+    "description": "The 2024 Hyundai Sonata is a mid-size sedan that boasts a striking design, advanced technology, and impressive performance. With its bold grille, sweeping lines, and LED lighting, the Sonata makes a statement on the road. Inside, it offers a high-quality, spacious interior with the latest in infotainment and connectivity features. The Sonata is also equipped with Hyundai SmartSense, a suite of safety features including forward collision-avoidance assist, blind-spot collision-avoidance assist, and rear cross-traffic collision-avoidance assist."
+  },
+  {
+    "name": "Ford Fusion 2024",
+    "slug": "ford-fusion-2024",
+    "brand": "Ford",
+    "model_number": "FUS2024",
+    "mpn": "FUS2024-FD",
+    "gtin": "0026087243986",
+    "gtin_type": "EAN",
+    "origin_country": "United States",
+    "manufacturer": "Ford Motor Company",
+    "description": "The 2024 Ford Fusion is a dynamic and stylish sedan that delivers a blend of power, efficiency, and advanced technology. With a bold exterior and a refined, spacious interior, the Fusion offers a driving experience that's both enjoyable and practical. It features Ford Co-Pilot360, a comprehensive suite of driver-assist technologies including automatic emergency braking, lane-keeping system, and rear view camera. The Fusion's advanced infotainment system ensures you stay connected and entertained on every journey."
+  }
+]

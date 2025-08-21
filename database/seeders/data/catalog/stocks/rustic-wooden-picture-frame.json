@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Rustic Wooden Picture Frame by Heritage Home Decor - 8x10",
+    "slug": "rustic-wooden-picture-frame-8x10",
+    "sku": "WPF-HH-2024-01",
+    "description": "The Rustic Wooden Picture Frame by Heritage Home Decor adds a touch of rustic charm to your home. Crafted from reclaimed wood, this 8x10 picture frame has a unique and authentic look. The distressed finish adds character and warmth, making it perfect for displaying cherished memories. Suitable for both modern and traditional interiors, this picture frame is an ideal addition to your living room, bedroom, or office. Showcase your favorite photographs and create a cozy, inviting atmosphere with this beautifully crafted frame.",
+    "price": 24.99,
+    "offer_price": 19.99,
+    "key_features": [
+      "Reclaimed wood",
+      "Unique and authentic look",
+      "Distressed finish",
+      "Fits 8x10 photos"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 12,
+    "shipping_weight": 1.0,
+    "meta_title": "Rustic Wooden Picture Frame - 8x10 by Heritage Home Decor",
+    "meta_description": "Buy the Rustic Wooden Picture Frame by Heritage Home Decor. This 8x10 frame is crafted from reclaimed wood with a distressed finish."
+  },
+  {
+    "title": "Rustic Wooden Picture Frame by Heritage Home Decor - 5x7",
+    "slug": "rustic-wooden-picture-frame-5x7",
+    "sku": "WPF-HH-2024-02",
+    "description": "Enhance your home decor with the Rustic Wooden Picture Frame by Heritage Home Decor. This 5x7 picture frame is crafted from reclaimed wood, giving it a unique and authentic look. The distressed finish adds character and warmth, making it perfect for displaying your cherished memories. Suitable for both modern and traditional interiors, this picture frame is an ideal addition to your living room, bedroom, or office. Showcase your favorite photographs and create a cozy, inviting atmosphere with this beautifully crafted frame.",
+    "price": 19.99,
+    "offer_price": 14.99,
+    "key_features": [
+      "Reclaimed wood",
+      "Unique and authentic look",
+      "Distressed finish",
+      "Fits 5x7 photos"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 20,
+    "shipping_weight": 0.8,
+    "meta_title": "Rustic Wooden Picture Frame - 5x7 by Heritage Home Decor",
+    "meta_description": "Shop the Rustic Wooden Picture Frame by Heritage Home Decor. This 5x7 frame is crafted from reclaimed wood with a distressed finish."
+  }
+]

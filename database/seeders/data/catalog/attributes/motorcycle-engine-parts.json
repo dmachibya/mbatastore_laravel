@@ -1,0 +1,9 @@
+{
+  "Material": ["Aluminum", "Steel", "Cast Iron", "Titanium"],
+  "Compatibility": [
+    "Honda CBR600RR",
+    "Yamaha YZF-R1",
+    "Kawasaki Ninja ZX-6R",
+    "Suzuki GSX-R1000"
+  ]
+}

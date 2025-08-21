@@ -1,0 +1,44 @@
+[
+  {
+    "title": "We R Memory Keepers All-In-One Tool Kit - Essential Set",
+    "slug": "we-r-memory-keepers-all-in-one-tool-kit-essential-set",
+    "sku": "WeR-All-In-One-Essential",
+    "description": "The We R Memory Keepers All-In-One Tool Kit is an essential set for every crafter. This comprehensive kit includes a variety of tools designed to make your crafting projects easier and more enjoyable. The kit features a precision cutting knife, a self-healing cutting mat, a bone folder, a scoring board, a corner rounder, and a hole punch. Each tool is made with high-quality materials and designed for precision and durability. The cutting knife has an ergonomic handle for comfortable use, and the self-healing cutting mat protects your work surface while providing a smooth cutting experience. The bone folder and scoring board are perfect for creating crisp, clean folds in paper and cardstock, while the corner rounder and hole punch add professional finishing touches to your projects. Whether you're making cards, scrapbooks, or home decor, the We R Memory Keepers All-In-One Tool Kit has everything you need to get started.",
+    "price": 49.99,
+    "offer_price": 44.99,
+    "key_features": [
+      "Precision Cutting Knife",
+      "Self-Healing Cutting Mat",
+      "Bone Folder and Scoring Board",
+      "Corner Rounder and Hole Punch",
+      "High-Quality Materials",
+      "Ergonomic Handle for Comfort"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 20,
+    "shipping_weight": 5,
+    "meta_title": "We R Memory Keepers All-In-One Tool Kit - Essential Set",
+    "meta_description": "Get the We R Memory Keepers All-In-One Tool Kit, an essential set for crafters. Includes precision tools for making cards, scrapbooks, and home decor."
+  },
+  {
+    "title": "We R Memory Keepers All-In-One Tool Kit - Complete Crafting Solution",
+    "slug": "we-r-memory-keepers-all-in-one-tool-kit-complete-crafting-solution",
+    "sku": "WeR-All-In-One-Complete",
+    "description": "The We R Memory Keepers All-In-One Tool Kit is a complete crafting solution. This kit includes essential tools such as a precision cutting knife, a self-healing cutting mat, a bone folder, a scoring board, a corner rounder, and a hole punch. Made with high-quality materials, these tools are designed for precision and durability. The ergonomic handle of the cutting knife ensures comfortable use, while the self-healing cutting mat protects your work surface. Perfect for creating crisp folds, the bone folder and scoring board are ideal for paper crafting, and the corner rounder and hole punch add professional touches. This kit is perfect for making cards, scrapbooks, and home decor projects.",
+    "price": 54.99,
+    "offer_price": 49.99,
+    "key_features": [
+      "Complete Crafting Tool Kit",
+      "Precision Cutting Knife with Ergonomic Handle",
+      "Self-Healing Cutting Mat",
+      "Bone Folder and Scoring Board",
+      "Corner Rounder and Hole Punch",
+      "High-Quality, Durable Materials"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 15,
+    "shipping_weight": 5.5,
+    "meta_title": "We R Memory Keepers All-In-One Tool Kit - Complete Crafting Solution",
+    "meta_description": "Discover the We R Memory Keepers All-In-One Tool Kit, a complete crafting solution with essential tools for making cards, scrapbooks, and home decor."
+  }
+]

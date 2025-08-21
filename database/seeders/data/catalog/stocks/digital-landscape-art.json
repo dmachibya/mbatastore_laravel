@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Digital Landscape Art by Pixel Masters - Digital Download",
+    "slug": "digital-landscape-art-digital-download",
+    "sku": "DLA-PM-2024-01",
+    "description": "Immerse yourself in the serene beauty of 'Digital Landscape Art' by Pixel Masters with this high-quality digital download. This artwork captures a breathtaking natural scene with lush greenery, rolling hills, and a crystal-clear lake reflecting the sky. Created using advanced digital tools, the drawing features dynamic lighting and realistic textures that bring the landscape to life. Perfect for display on digital frames, wallpapers, or as prints, this piece offers a modern take on traditional landscape paintings. The tranquil atmosphere and vibrant colors make it a captivating addition to any digital art collection.",
+    "price": 49.99,
+    "offer_price": 29.99,
+    "key_features": [
+      "High-quality digital download",
+      "Vibrant colors and realistic textures",
+      "Dynamic lighting",
+      "Modern take on traditional landscapes"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 50,
+    "shipping_weight": 0.0,
+    "meta_title": "Digital Landscape Art - Digital Download by Pixel Masters",
+    "meta_description": "Download 'Digital Landscape Art' by Pixel Masters. This high-quality digital artwork features a stunning landscape with vibrant colors and realistic textures."
+  },
+  {
+    "title": "Digital Landscape Art by Pixel Masters - Canvas Print",
+    "slug": "digital-landscape-art-canvas-print",
+    "sku": "DLA-PM-2024-02",
+    "description": "Bring the beauty of 'Digital Landscape Art' by Pixel Masters into your home with this high-quality canvas print. This artwork captures a stunning natural scene with lush greenery, rolling hills, and a crystal-clear lake reflecting the sky. The vibrant colors and realistic textures are faithfully reproduced on canvas, creating a dynamic and captivating piece of art. The artist's use of advanced digital tools is evident in the intricate details and dynamic lighting. Ready to hang and enjoy, this canvas print offers a modern take on traditional landscape paintings, making it a perfect addition to any room.",
+    "price": 129.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "High-quality canvas print",
+      "Vibrant colors and realistic textures",
+      "Dynamic lighting",
+      "Ready to hang"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 15,
+    "shipping_weight": 2.0,
+    "meta_title": "Digital Landscape Art - Canvas Print by Pixel Masters",
+    "meta_description": "Shop for a canvas print of 'Digital Landscape Art' by Pixel Masters. This high-quality print features vibrant colors and realistic textures."
+  }
+]

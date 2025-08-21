@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Pre-Workout Powder - Fruit Punch - 30 Servings",
+    "slug": "pre-workout-powder-fruit-punch-30-servings",
+    "sku": "CC-PW-001-30S",
+    "description": "Cellucor's Pre-Workout Powder in Fruit Punch flavor offers a potent formula for enhancing workout performance. Each 30-serving container provides 200 mg of caffeine per scoop, along with beta-alanine and citrulline malate for improved endurance, strength, and focus. The Fruit Punch flavor delivers a refreshing and enjoyable taste experience. Mix one scoop with water 30 minutes before your workout for an effective energy boost and enhanced exercise performance. Ideal for athletes and fitness enthusiasts looking to take their training to the next level.",
+    "price": 39.99,
+    "offer_price": 34.99,
+    "key_features": [
+      "200 mg Caffeine Per Serving",
+      "Beta-Alanine and Citrulline Malate",
+      "Fruit Punch Flavor",
+      "30 Servings Per Container"
+    ],
+    "stock_quantity": 40,
+    "sold_quantity": 120,
+    "shipping_weight": 0.8,
+    "meta_title": "Pre-Workout Powder - Fruit Punch - 30 Servings | Cellucor",
+    "meta_description": "Get Cellucor's Pre-Workout Powder in Fruit Punch flavor. 200 mg caffeine per serving, beta-alanine, and citrulline malate for enhanced performance. Special discount available now!"
+  },
+  {
+    "title": "Pre-Workout Powder - Fruit Punch - 60 Servings",
+    "slug": "pre-workout-powder-fruit-punch-60-servings",
+    "sku": "CC-PW-001-60S",
+    "description": "Cellucor's Pre-Workout Powder in Fruit Punch flavor comes in a 60-serving container, providing a high-quality supplement for your workout needs. Each scoop contains 200 mg of caffeine, combined with beta-alanine and citrulline malate to boost your energy, endurance, and focus. The delicious Fruit Punch flavor ensures that you enjoy every workout. Mix one scoop with water before exercise for a powerful pre-workout boost. Perfect for those who want to stay energized and perform at their best during every training session.",
+    "price": 69.99,
+    "offer_price": 59.99,
+    "key_features": [
+      "200 mg Caffeine Per Serving",
+      "Beta-Alanine and Citrulline Malate",
+      "Fruit Punch Flavor",
+      "60 Servings Per Container"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 90,
+    "shipping_weight": 1.5,
+    "meta_title": "Pre-Workout Powder - Fruit Punch - 60 Servings | Cellucor",
+    "meta_description": "Shop Cellucor's Pre-Workout Powder in Fruit Punch flavor. 200 mg caffeine per serving, beta-alanine, and citrulline malate. 60 servings for extended use. Special offer available now!"
+  }
+]

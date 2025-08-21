@@ -1,0 +1,40 @@
+[
+  {
+    "title": "MAC Lipstick - Ruby Woo - Classic Red Matte Lipstick - 3g",
+    "slug": "mac-lipstick-ruby-woo-classic-red-matte-lipstick-3g",
+    "sku": "LP-MAC-2024-01",
+    "description": "MAC Lipstick in Ruby Woo offers a classic red matte finish with intense pigmentation. This iconic shade provides full coverage with a single swipe, and its comfortable matte texture ensures a long-lasting look. Launched in 1999, Ruby Woo is perfect for creating bold, statement looks or classic elegance. With its creamy texture and rich color payoff, it’s a must-have for any lipstick collection. Ideal for any occasion, this lipstick will make your lips stand out with confidence.",
+    "price": 22.0,
+    "offer_price": 19.99,
+    "key_features": [
+      "Iconic classic red shade with a matte finish",
+      "Intense pigmentation for bold, full-coverage color",
+      "Long-lasting formula with comfortable wear",
+      "Creamy texture that glides on smoothly"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 25,
+    "shipping_weight": 0.1,
+    "meta_title": "MAC Lipstick - Ruby Woo - Classic Red Matte Lipstick - 3g",
+    "meta_description": "Shop MAC Lipstick in Ruby Woo for a classic red matte look. Iconic shade with intense pigmentation and long-lasting wear. Perfect for bold, statement looks. 3g."
+  },
+  {
+    "title": "MAC Lipstick - Ruby Woo - Classic Red Matte Lipstick - 3g - Limited Edition",
+    "slug": "mac-lipstick-ruby-woo-classic-red-matte-lipstick-3g-limited-edition",
+    "sku": "LP-MAC-2024-02",
+    "description": "Discover the MAC Lipstick in Ruby Woo, a classic red matte lipstick that has been a favorite since 1999. This limited edition 3g lipstick offers a rich, creamy texture and intense pigmentation for bold, statement-making lips. The matte finish and long-lasting formula ensure your look stays fresh all day. Perfect for creating both dramatic and elegant eye-catching looks, this iconic shade is a must-have for any beauty enthusiast.",
+    "price": 24.0,
+    "offer_price": 21.0,
+    "key_features": [
+      "Limited edition classic red shade with matte finish",
+      "Intense pigmentation for bold, full-coverage color",
+      "Rich, creamy texture with long-lasting wear",
+      "Ideal for creating dramatic or elegant lip looks"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 15,
+    "shipping_weight": 0.11,
+    "meta_title": "MAC Lipstick - Ruby Woo - Classic Red Matte Lipstick - 3g - Limited Edition",
+    "meta_description": "Get the MAC Lipstick in Ruby Woo - Limited Edition. Classic red matte lipstick with intense pigmentation and long-lasting wear. Perfect for bold, statement looks. 3g."
+  }
+]

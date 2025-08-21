@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nike Women's Dri-FIT Running Tights",
+    "slug": "nike-womens-dri-fit-running-tights",
+    "brand": "Nike",
+    "model_number": "NK-DRI-TIGHTS-2024",
+    "mpn": "NK-TG-DRI-2024",
+    "gtin": "0193151942420",
+    "gtin_type": "UPC",
+    "origin_country": "Vietnam",
+    "manufacturer": "Nike Inc.",
+    "description": "The Nike Women's Dri-FIT Running Tights offer exceptional comfort and support for your workouts. Made from Nike's signature Dri-FIT fabric, these tights wick away sweat to keep you dry and comfortable during intense training sessions. The high-rise waistband provides a secure and flattering fit, while the ergonomic seams enhance mobility and reduce irritation. With a sleek, form-fitting design, these running tights are perfect for running, yoga, and other athletic activities. The tights also feature a hidden pocket for convenient storage of small items like keys or cards."
+  },
+  {
+    "name": "Adidas Women's Alphaskin Sport Bra",
+    "slug": "adidas-womens-alphaskin-sport-bra",
+    "brand": "Adidas",
+    "model_number": "AD-ALPHA-BRA-2024",
+    "mpn": "AD-BRA-ALPHA-2024",
+    "gtin": "4059807283952",
+    "gtin_type": "EAN",
+    "origin_country": "China",
+    "manufacturer": "Adidas AG",
+    "description": "The Adidas Women's Alphaskin Sport Bra is designed to provide maximum support and comfort during high-impact activities. Made with moisture-wicking fabric, this bra keeps you cool and dry even during the most intense workouts. The Alphaskin construction offers a locked-in feel, while the racerback design ensures a full range of motion. The bra also features a compression fit that reduces bounce and provides excellent support. With its stylish design and functional features, the Alphaskin Sport Bra is perfect for running, gym workouts, and other high-intensity sports."
+  }
+]

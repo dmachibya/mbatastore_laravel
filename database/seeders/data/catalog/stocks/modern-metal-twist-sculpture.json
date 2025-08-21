@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Modern Metal Twist Sculpture by Urban Artworks - Large",
+    "slug": "modern-metal-twist-sculpture-large",
+    "sku": "MTS-UA-2024-01",
+    "description": "Enhance your modern decor with the Modern Metal Twist Sculpture by Urban Artworks. This large sculpture features a sleek, twisting design crafted from high-quality metal. The polished finish enhances its contemporary aesthetic, while the intricate twists and turns create a sense of movement and fluidity. Perfect for living rooms, offices, or galleries, this sculpture adds a touch of sophistication and elegance. Its dynamic form makes it a captivating focal point that inspires and captivates.",
+    "price": 599.99,
+    "offer_price": 499.99,
+    "key_features": [
+      "Sleek twisting design",
+      "High-quality metal",
+      "Polished finish",
+      "Large size"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 3,
+    "shipping_weight": 10.0,
+    "meta_title": "Modern Metal Twist Sculpture - Large by Urban Artworks",
+    "meta_description": "Shop the large Modern Metal Twist Sculpture by Urban Artworks. This contemporary sculpture features a sleek, twisting design with a polished finish."
+  },
+  {
+    "title": "Modern Metal Twist Sculpture by Urban Artworks - Medium",
+    "slug": "modern-metal-twist-sculpture-medium",
+    "sku": "MTS-UA-2024-02",
+    "description": "Bring a touch of modern elegance to your space with the Modern Metal Twist Sculpture by Urban Artworks. This medium-sized sculpture features a sleek, twisting design crafted from high-quality metal. The polished finish enhances its contemporary look, while the intricate twists and turns create a sense of movement and fluidity. Ideal for living rooms, offices, or galleries, this sculpture adds a sophisticated and elegant touch to any decor. Its dynamic form makes it a captivating focal point that draws attention and admiration.",
+    "price": 399.99,
+    "offer_price": 349.99,
+    "key_features": [
+      "Sleek twisting design",
+      "High-quality metal",
+      "Polished finish",
+      "Medium size"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 8,
+    "shipping_weight": 7.0,
+    "meta_title": "Modern Metal Twist Sculpture - Medium by Urban Artworks",
+    "meta_description": "Shop the medium Modern Metal Twist Sculpture by Urban Artworks. This contemporary sculpture features a sleek, twisting design with a polished finish."
+  }
+]

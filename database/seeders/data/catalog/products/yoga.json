@@ -1,0 +1,26 @@
+[
+  {
+    "name": "High-Density Yoga Foam Roller",
+    "slug": "high-density-yoga-foam-roller",
+    "brand": "Liforme",
+    "model_number": "LYFR-200",
+    "mpn": "LY-FR-200",
+    "gtin": "0234567890123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Liforme",
+    "description": "The Liforme High-Density Yoga Foam Roller is designed to enhance your yoga practice and support your recovery routines. Made from high-density foam, this roller provides deep tissue massage and helps to alleviate muscle soreness and stiffness. Its durable construction ensures consistent performance, making it suitable for both personal and professional use. Ideal for stretching, warm-ups, and cool-downs, the foam roller features a textured surface to target specific muscle groups and improve flexibility. Lightweight and portable, it’s an excellent tool for yoga practitioners looking to enhance their sessions and maintain muscle health."
+  },
+  {
+    "name": "Eco-Friendly Yoga Mat",
+    "slug": "eco-friendly-yoga-mat",
+    "brand": "Manduka",
+    "model_number": "MAYM-150",
+    "mpn": "MA-YM-150",
+    "gtin": "0987654323456",
+    "gtin_type": "UPC",
+    "origin_country": "Germany",
+    "manufacturer": "Manduka",
+    "description": "The Manduka Eco-Friendly Yoga Mat combines performance and sustainability for the ideal yoga experience. Made from natural, eco-friendly materials, this mat provides excellent cushioning and grip for all types of yoga practice. Its non-toxic, closed-cell PVC material resists moisture and bacteria, ensuring a clean and hygienic workout surface. The mat features a textured, non-slip surface for stability and comfort during your practice, whether you’re doing gentle stretches or intense flows. With a durable design and environmentally friendly construction, the Manduka Yoga Mat supports your commitment to both personal health and environmental sustainability."
+  }
+]

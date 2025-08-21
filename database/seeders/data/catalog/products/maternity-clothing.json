@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Comfortable Maternity Dress",
+    "slug": "comfortable-maternity-dress",
+    "brand": "MaternityWear",
+    "model_number": "MW-001",
+    "mpn": "MWD-001",
+    "gtin": "1234567890123",
+    "gtin_type": "EAN",
+    "origin_country": "Bangladesh",
+    "manufacturer": "MaternityWear Ltd.",
+    "description": "This Comfortable Maternity Dress is designed with the comfort and style of expecting mothers in mind. Made from high-quality, breathable cotton fabric, it offers a relaxed fit that adapts to your changing body. The dress features a stylish design with adjustable straps and a flattering cut that provides room for growth throughout your pregnancy. Its soft material and elegant design make it perfect for both casual outings and special occasions. Available in a range of sizes and colors to suit every preference."
+  },
+  {
+    "name": "Elegant Maternity Maxi Dress",
+    "slug": "elegant-maternity-maxi-dress",
+    "brand": "MaternityWear",
+    "model_number": "MW-002",
+    "mpn": "MWD-002",
+    "gtin": "9876543210987",
+    "gtin_type": "UPC",
+    "origin_country": "Bangladesh",
+    "manufacturer": "MaternityWear Ltd.",
+    "description": "The Elegant Maternity Maxi Dress combines elegance and comfort for expectant mothers. Crafted from luxurious, lightweight fabric, this maxi dress features a flowy silhouette that drapes beautifully over your bump. The design includes a high empire waist, which is both flattering and accommodating as your pregnancy progresses. Perfect for formal events or a night out, this dress offers a chic look with its classic design and high-quality material. Available in various colors and sizes to meet your maternity fashion needs."
+  }
+]

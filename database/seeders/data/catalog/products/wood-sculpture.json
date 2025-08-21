@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hand-Carved Wooden Eagle",
+    "slug": "hand-carved-wooden-eagle",
+    "brand": "Nature's Sculptures",
+    "model_number": "NS-HE2024",
+    "mpn": "NS-001",
+    "gtin": "0123456789040",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Nature's Sculptures Inc.",
+    "description": "The Hand-Carved Wooden Eagle by Nature's Sculptures is a magnificent representation of wildlife art. This detailed sculpture showcases an eagle in mid-flight, its wings spread wide and talons extended. Expertly crafted from high-quality wood, the sculpture features intricate detailing, from the feathers to the fierce expression on the eagle's face. The natural grain of the wood adds to the beauty of the piece, making each sculpture unique. This artwork is perfect for nature enthusiasts and collectors, offering a stunning focal point for any room. Whether displayed on a mantel, shelf, or desk, this hand-carved eagle brings the majesty of the outdoors into your home."
+  },
+  {
+    "name": "Abstract Wooden Sculpture",
+    "slug": "abstract-wooden-sculpture",
+    "brand": "Artisan Woodworks",
+    "model_number": "AW-AS2024",
+    "mpn": "AW-002",
+    "gtin": "0123456789041",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Artisan Woodworks Ltd.",
+    "description": "The Abstract Wooden Sculpture by Artisan Woodworks is a captivating piece of modern art. Crafted from premium wood, this sculpture features an abstract design with smooth curves and flowing lines. The artist has skillfully manipulated the wood to create a sense of movement and fluidity, resulting in a dynamic and engaging piece. The natural color and texture of the wood enhance the sculpture's organic feel, while the abstract form adds a contemporary touch. This sculpture is ideal for those who appreciate modern and abstract art, making it a striking addition to any home or office decor. Whether placed on a pedestal, shelf, or table, this abstract wooden sculpture is sure to draw attention and admiration."
+  }
+]

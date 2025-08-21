@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Maus: A Survivor's Tale - Hardcover Edition",
+    "slug": "maus-a-survivors-tale-hardcover-edition",
+    "sku": "MAUS-HC",
+    "description": "'Maus: A Survivor's Tale' by Art Spiegelman is a profound graphic novel presented here in a high-quality hardcover edition. This Pulitzer Prize-winning work uses a powerful metaphor of mice and cats to recount the author's father's experiences during the Holocaust. With its stark black-and-white illustrations and deeply emotional narrative, this edition offers readers a chance to explore the historical and personal dimensions of this tragic period. The hardcover format provides a durable and elegant way to experience this groundbreaking work.",
+    "price": 25.99,
+    "offer_price": 21.99,
+    "key_features": [
+      "Pulitzer Prize-Winning Graphic Novel",
+      "Hardcover Edition",
+      "Historical and Personal Narrative",
+      "Impactful Illustrations"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 50,
+    "shipping_weight": 1.4,
+    "meta_title": "Maus: A Survivor's Tale - Hardcover Edition",
+    "meta_description": "Buy 'Maus: A Survivor's Tale' in hardcover. Art Spiegelman's Pulitzer Prize-winning graphic novel with a profound narrative and impactful illustrations."
+  },
+  {
+    "title": "Maus: A Survivor's Tale - Paperback Edition",
+    "slug": "maus-a-survivors-tale-paperback-edition",
+    "sku": "MAUS-PB",
+    "description": "'Maus: A Survivor's Tale' by Art Spiegelman is available in this accessible paperback edition. This groundbreaking graphic novel explores the Holocaust through the eyes of a survivor and his son, using a unique artistic approach with mice and cats to symbolize Jews and Nazis. The paperback edition includes the complete story, offering readers a chance to engage with a powerful historical narrative and explore themes of memory, trauma, and resilience. This version is perfect for both new readers and those revisiting this important work.",
+    "price": 14.99,
+    "offer_price": 12.99,
+    "key_features": [
+      "Pulitzer Prize-Winning Graphic Novel",
+      "Paperback Edition",
+      "Complete Story Included",
+      "Historical and Emotional Exploration"
+    ],
+    "stock_quantity": 180,
+    "sold_quantity": 85,
+    "shipping_weight": 1.0,
+    "meta_title": "Maus: A Survivor's Tale - Paperback Edition",
+    "meta_description": "Order 'Maus: A Survivor's Tale' in paperback. Art Spiegelman's influential graphic novel exploring the Holocaust through powerful storytelling and unique illustrations."
+  }
+]

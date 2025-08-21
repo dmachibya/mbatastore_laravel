@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Garmin BC 30 Wireless Backup Camera - High-Resolution, Wide-Angle View",
+    "slug": "garmin-bc-30-wireless-backup-camera-high-resolution",
+    "sku": "GAR-BC30",
+    "description": "Enhance your driving safety with the Garmin BC 30 Wireless Backup Camera. Designed for seamless integration with compatible Garmin GPS devices, this high-resolution camera offers a wide-angle view of the area behind your vehicle. The BC 30 features advanced wireless technology for easy installation and reliable performance. Its wide field of view, combined with high-definition video quality and infrared night vision, ensures you have the best possible view of your surroundings when reversing. Built to withstand the elements, this backup camera includes a durable mounting bracket and a wireless transmitter for a straightforward setup. Perfect for adding an extra layer of safety to your driving experience, the Garmin BC 30 is your go-to solution for effective rearview monitoring.",
+    "price": 149.99,
+    "offer_price": 129.99,
+    "key_features": [
+      "High-resolution video with wide-angle view",
+      "Wireless connection to Garmin GPS devices",
+      "Infrared night vision for low-light conditions",
+      "Durable construction with weather-resistant design",
+      "Includes mounting bracket and wireless transmitter",
+      "Easy installation and setup"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 10,
+    "shipping_weight": "0.5 kg",
+    "meta_title": "Garmin BC 30 Wireless Backup Camera - High-Resolution, Wide-Angle View",
+    "meta_description": "Upgrade your vehicle’s safety with the Garmin BC 30 Wireless Backup Camera. High-resolution video, wide-angle view, and easy installation make it perfect for reversing. Shop now for a reliable and advanced backup camera solution."
+  },
+  {
+    "title": "Garmin BC 30 Wireless Backup Camera - Advanced Backup Solution for Your Vehicle",
+    "slug": "garmin-bc-30-wireless-backup-camera-advanced-solution",
+    "sku": "GAR-BC30-2",
+    "description": "Ensure maximum safety with the Garmin BC 30 Wireless Backup Camera. This advanced camera system provides high-resolution video and a wide-angle view of the area behind your vehicle, making it easier to reverse safely. Designed to connect wirelessly to compatible Garmin GPS devices, the BC 30 offers a convenient and high-quality rearview monitoring solution. The camera features a durable, weather-resistant design and includes a wireless transmitter for a simple installation process. Its high-definition video feed and infrared night vision capabilities ensure clear visibility at all times. The Garmin BC 30 is an essential tool for any driver looking to enhance their vehicle’s safety features.",
+    "price": 159.99,
+    "offer_price": 139.99,
+    "key_features": [
+      "High-definition video with wide-angle view",
+      "Wireless integration with Garmin GPS devices",
+      "Infrared night vision for improved visibility",
+      "Weather-resistant design for durability",
+      "Includes easy-to-install mounting bracket and transmitter",
+      "High-quality rearview monitoring solution"
+    ],
+    "stock_quantity": 18,
+    "sold_quantity": 8,
+    "shipping_weight": "0.5 kg",
+    "meta_title": "Garmin BC 30 Wireless Backup Camera - Advanced Backup Solution for Your Vehicle",
+    "meta_description": "Get the Garmin BC 30 Wireless Backup Camera for superior rearview visibility. High-definition video, wide-angle lens, and easy setup make it ideal for enhancing vehicle safety. Buy now for a top-notch backup camera experience."
+  }
+]

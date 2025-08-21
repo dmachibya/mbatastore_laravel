@@ -1,0 +1,22 @@
+[
+  {
+    "title": "HP Spectre x360",
+    "slug": "hp-spectre-x360",
+    "sku": "13t-aw200",
+    "description": "The HP Spectre x360 is a versatile and powerful 2-in-1 laptop that adapts to your needs. With a 13.3-inch FHD touchscreen display, it offers crisp and clear visuals, perfect for both work and entertainment. The 360-degree hinge allows you to use it as a laptop, tablet, or in tent mode for presentations. Powered by the Intel Core i7 processor and Intel Iris Xe graphics, the Spectre x360 delivers excellent performance for multitasking, creative work, and casual gaming. It includes 16GB of RAM and a 1TB SSD for quick boot times and ample storage space. The sleek, gem-cut design and durable aluminum body make it a stylish companion. Key features include a backlit keyboard, Bang & Olufsen speakers, and long battery life to keep you productive throughout the day. The HP Spectre x360 is the perfect blend of performance, portability, and flexibility. Additionally, it offers advanced security features such as a fingerprint reader and facial recognition, ensuring your data remains protected.",
+    "price": 1599.99,
+    "offer_price": 1399.99,
+    "key_features": [
+      "13.3-inch FHD touchscreen display",
+      "Intel Core i7 processor",
+      "Intel Iris Xe graphics",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "stock_quantity": 60,
+    "sold_quantity": 30,
+    "shipping_weight": 2.9,
+    "meta_title": "HP Spectre x360 - Versatile 2-in-1 Laptop",
+    "meta_description": "Buy HP Spectre x360. 13.3-inch FHD touchscreen, Intel Core i7, 16GB RAM, 1TB SSD. Perfect for work and entertainment. Order now!"
+  }
+]

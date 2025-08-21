@@ -1,0 +1,21 @@
+{
+  "Brightness": [
+    "2000 Lumens",
+    "3000 Lumens",
+    "5000 Lumens",
+    "7000 Lumens",
+    "9000 Lumens",
+    "10000 Lumens",
+    "12000 Lumens"
+  ],
+  "Color Temperature": [
+    "2500K (Yellow)",
+    "3000K (Warm White)",
+    "4000K (Neutral White)",
+    "6000K (Cool White)",
+    "7000K (Ice Blue)",
+    "8000K (Blue White)",
+    "10000K (Deep Blue)"
+  ],
+  "Bulb Type": ["H1", "H4", "H7", "H11", "H13", "9005", "9006"]
+}

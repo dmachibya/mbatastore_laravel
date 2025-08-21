@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ceramic Vase - Modern Art Design",
+    "slug": "ceramic-vase-modern-art-design",
+    "brand": "Elegant Ceramics",
+    "model_number": "EC-V2024",
+    "mpn": "EC-001",
+    "gtin": "0123456789062",
+    "gtin_type": "EAN",
+    "origin_country": "Japan",
+    "manufacturer": "Elegant Ceramics Co.",
+    "description": "The Handcrafted Ceramic Vase - Modern Art Design by Elegant Ceramics is a stunning piece of modern art for your home decor. This vase features a contemporary design with smooth, flowing curves and a minimalist color palette that complements any interior. Each vase is handcrafted by skilled artisans using high-quality ceramic materials and traditional techniques, ensuring a unique and durable piece. Perfect for displaying fresh flowers or as a stand-alone decorative accent, this vase brings sophistication and elegance to your living space."
+  },
+  {
+    "name": "Vintag Pottery Planter - Rustic Farmhouse Style",
+    "slug": "vintag-pottery-planter-rustic-farmhouse-style",
+    "brand": "Rustic Pots",
+    "model_number": "RP-P2024",
+    "mpn": "RP-002",
+    "gtin": "0123456789063",
+    "gtin_type": "EAN",
+    "origin_country": "Italy",
+    "manufacturer": "Rustic Pots Ltd.",
+    "description": "The Vintage Handcrafted Pottery Planter - Rustic Farmhouse Style by Rustic Pots is a charming addition to your home or garden. This planter features a rustic farmhouse style with a classic, earthy design and weathered finish. Handcrafted from high-quality ceramic materials, this planter is perfect for holding your favorite plants and adding a touch of vintage charm to your space. Each piece is made by experienced artisans, ensuring both beauty and durability for years of enjoyment."
+  }
+]

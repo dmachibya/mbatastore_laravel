@@ -1,0 +1,62 @@
+[
+  {
+    "title": "2024 Ford Explorer XLT",
+    "slug": "2024-ford-explorer-xlt",
+    "sku": "FORDEXP-XLT-2024",
+    "description": "The 2024 Ford Explorer XLT is a full-size SUV that combines powerful performance with a comfortable, tech-savvy interior. Featuring a turbocharged engine, the Explorer XLT delivers strong acceleration and towing capabilities.",
+    "price": 40000,
+    "offer_price": 38000,
+    "key_features": [
+      "Turbocharged 2.3L EcoBoost Engine",
+      "10.1-inch Touchscreen with SYNC 3",
+      "Blind-Spot Monitoring",
+      "Rear Cross-Traffic Alert",
+      "Pre-Collision Assist"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 5,
+    "shipping_weight": "4500 lbs",
+    "meta_title": "2024 Ford Explorer XLT - Powerful Performance and Comfort",
+    "meta_description": "Discover the 2024 Ford Explorer XLT, a full-size SUV offering powerful performance, advanced technology, and top-notch safety features. Ideal for families and adventurers."
+  },
+  {
+    "title": "2024 Ford Explorer Limited",
+    "slug": "2024-ford-explorer-limited",
+    "sku": "FORDEXP-LTD-2024",
+    "description": "The 2024 Ford Explorer Limited is a luxurious full-size SUV with advanced features and premium comfort. Its turbocharged engine provides excellent performance while the interior offers top-tier amenities.",
+    "price": 45000,
+    "offer_price": 43000,
+    "key_features": [
+      "Turbocharged 2.3L EcoBoost Engine",
+      "Leather-Trimmed Seats",
+      "12.3-inch Digital Instrument Cluster",
+      "Bang & Olufsen Sound System",
+      "Adaptive Cruise Control"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 3,
+    "shipping_weight": "4600 lbs",
+    "meta_title": "2024 Ford Explorer Limited - Luxury and Performance",
+    "meta_description": "Explore the 2024 Ford Explorer Limited, a luxurious SUV offering advanced technology, premium comfort, and powerful performance. Perfect for discerning drivers seeking the best."
+  },
+  {
+    "title": "2024 Ford Explorer Platinum",
+    "slug": "2024-ford-explorer-platinum",
+    "sku": "FORDEXP-PLAT-2024",
+    "description": "The 2024 Ford Explorer Platinum is the pinnacle of the Explorer lineup, offering top-of-the-line features, unmatched luxury, and powerful performance. This full-size SUV is designed for those who demand the best.",
+    "price": 55000,
+    "offer_price": 53000,
+    "key_features": [
+      "Twin-Turbocharged 3.0L EcoBoost V6 Engine",
+      "20-inch Polished Aluminum Wheels",
+      "Heated and Ventilated Front Seats",
+      "Tri-Diamond Perforated Leather Seats",
+      "360-Degree Camera"
+    ],
+    "stock_quantity": 8,
+    "sold_quantity": 2,
+    "shipping_weight": "4800 lbs",
+    "meta_title": "2024 Ford Explorer Platinum - Ultimate Luxury and Performance",
+    "meta_description": "Experience the 2024 Ford Explorer Platinum, the ultimate SUV with top-of-the-line features, unparalleled luxury, and powerful performance. Perfect for those who demand excellence."
+  }
+]

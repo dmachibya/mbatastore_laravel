@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Norton 360 Deluxe",
+    "slug": "norton-360-deluxe",
+    "brand": "Norton",
+    "model_number": "21344",
+    "mpn": "21344",
+    "gtin": "037648042080",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "NortonLifeLock Inc.",
+    "description": "Norton 360 Deluxe offers advanced protection against online threats and cyber-attacks with comprehensive security features. This powerful antivirus software provides real-time protection for up to 5 devices, including PCs, Macs, smartphones, and tablets. It includes features such as a smart firewall, VPN for secure browsing, password manager, and dark web monitoring to keep your personal information safe. Norton 360 Deluxe also includes cloud backup for your important files and 24/7 customer support. Its advanced threat detection technology uses AI and machine learning to protect against the latest threats and vulnerabilities."
+  },
+  {
+    "name": "Bitdefender Total Security 2024",
+    "slug": "bitdefender-total-security-2024",
+    "brand": "Bitdefender",
+    "model_number": "BSTSB24C1",
+    "mpn": "BSTSB24C1",
+    "gtin": "810048394645",
+    "gtin_type": "UPC",
+    "origin_country": "Romania",
+    "manufacturer": "Bitdefender LLC",
+    "description": "Bitdefender Total Security 2024 provides all-in-one protection for your devices with a suite of advanced security features. This comprehensive antivirus solution covers up to 10 devices, including Windows, macOS, iOS, and Android platforms. It offers real-time threat protection, ransomware defense, VPN for privacy, a secure file shredder, and advanced parental controls. Bitdefender Total Security 2024 uses cutting-edge technology to detect and neutralize threats, safeguard your online activities, and optimize your system performance. The software also includes multi-layered ransomware protection and automatic updates to ensure you stay protected from emerging threats."
+  }
+]

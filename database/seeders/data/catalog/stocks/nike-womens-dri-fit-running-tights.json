@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Nike Women's Dri-FIT Running Tights - Black - Size M",
+    "slug": "nike-womens-dri-fit-running-tights-black-size-m",
+    "sku": "NK-DRI-TIGHTS-2024-BK-M",
+    "description": "The Nike Women's Dri-FIT Running Tights in Black are designed for optimal performance and comfort. Featuring Nike's Dri-FIT technology, these tights wick away sweat to keep you dry and comfortable throughout your run. The high-rise waistband offers a secure and flattering fit, while ergonomic seams enhance mobility and reduce irritation. The sleek, form-fitting design ensures these tights stay in place during any activity, making them ideal for running, yoga, or gym workouts. Additionally, the tights come with a hidden pocket for storing small essentials.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "Dri-FIT technology for moisture-wicking and comfort",
+      "High-rise waistband for a secure fit",
+      "Ergonomic seams for enhanced mobility",
+      "Hidden pocket for small essentials"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 12,
+    "shipping_weight": 0.4,
+    "meta_title": "Nike Women's Dri-FIT Running Tights - Black - Size M",
+    "meta_description": "Shop the Nike Women's Dri-FIT Running Tights in Black. Featuring moisture-wicking Dri-FIT technology, a high-rise waistband, and ergonomic seams for comfort and mobility. Ideal for running, yoga, and gym workouts. Size M available."
+  },
+  {
+    "title": "Nike Women's Dri-FIT Running Tights - Blue - Size S",
+    "slug": "nike-womens-dri-fit-running-tights-blue-size-s",
+    "sku": "NK-DRI-TIGHTS-2024-BL-S",
+    "description": "The Nike Women's Dri-FIT Running Tights in Blue are designed to enhance your running performance. Made with Dri-FIT technology, these tights wick away sweat, keeping you dry and comfortable during your run. The high-rise waistband provides a secure and flattering fit, while ergonomic seams reduce irritation and enhance mobility. The form-fitting design ensures these tights stay in place, making them ideal for a variety of athletic activities. Additionally, the tights include a hidden pocket for convenient storage of small items.",
+    "price": 79.99,
+    "offer_price": 69.99,
+    "key_features": [
+      "Dri-FIT technology for moisture-wicking",
+      "High-rise waistband for secure fit",
+      "Ergonomic seams for reduced irritation",
+      "Hidden pocket for small items"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 10,
+    "shipping_weight": 0.4,
+    "meta_title": "Nike Women's Dri-FIT Running Tights - Blue - Size S",
+    "meta_description": "Shop the Nike Women's Dri-FIT Running Tights in Blue. Featuring Dri-FIT technology, a high-rise waistband, and ergonomic seams for enhanced mobility and comfort. Ideal for running and other athletic activities. Size S available."
+  }
+]

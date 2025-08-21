@@ -1,0 +1,22 @@
+[
+  {
+    "title": "iPhone 13 Pro Max",
+    "slug": "iphone-13-pro-max",
+    "sku": "A2643",
+    "description": "The iPhone 13 Pro Max represents the pinnacle of Apple's smartphone technology. It features a 6.7-inch Super Retina XDR display with ProMotion technology, offering a refresh rate of up to 120Hz for incredibly smooth visuals. The A15 Bionic chip powers the device, providing exceptional performance and efficiency. The Pro camera system includes a 12MP ultra-wide, wide, and telephoto lens, along with advanced computational photography features, enabling you to take professional-quality photos and videos. With 5G capability, longer battery life, and up to 1TB of storage, the iPhone 13 Pro Max is designed for those who demand the best in mobile technology. Its sleek design, robust build, and premium features make it a standout choice for any smartphone user. It also boasts enhanced privacy and security features, such as Face ID and encrypted messaging. With an impressive battery that supports fast and wireless charging, the iPhone 13 Pro Max ensures you stay connected and productive throughout the day.",
+    "price": 1399.99,
+    "offer_price": 1299.99,
+    "key_features": [
+      "6.7-inch Super Retina XDR display with ProMotion",
+      "A15 Bionic chip",
+      "Pro camera system with 12MP ultra-wide, wide, and telephoto lenses",
+      "5G capability",
+      "Up to 1TB of storage"
+    ],
+    "stock_quantity": 80,
+    "sold_quantity": 30,
+    "shipping_weight": 0.45,
+    "meta_title": "Apple iPhone 13 Pro Max - Advanced Smartphone",
+    "meta_description": "Shop the iPhone 13 Pro Max. A15 Bionic chip, Pro camera system, 6.7-inch XDR display, and 5G. Experience the best in mobile technology."
+  }
+]

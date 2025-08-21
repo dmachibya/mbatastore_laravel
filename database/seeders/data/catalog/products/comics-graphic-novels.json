@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Watchmen",
+    "slug": "watchmen",
+    "brand": "DC Comics",
+    "model_number": "9780930289232",
+    "mpn": "0930289234",
+    "gtin": "9780930289232",
+    "gtin_type": "ISBN-13",
+    "origin_country": "USA",
+    "manufacturer": "DC Comics",
+    "description": "Alan Moore's 'Watchmen' is a groundbreaking graphic novel that redefined the superhero genre. Set in an alternate history where superheroes emerged in the 1940s, the story explores themes of power, justice, and morality through a complex narrative filled with richly developed characters. With its intricate plot and mature themes, 'Watchmen' dives into the political and philosophical ramifications of vigilante justice. This graphic novel's stunning artwork by Dave Gibbons and thought-provoking story have made it a seminal work in the world of comics, appealing to both new readers and long-time fans alike."
+  },
+  {
+    "name": "Maus: A Survivor's Tale",
+    "slug": "maus-a-survivors-tale",
+    "brand": "Pantheon Books",
+    "model_number": "9780394747231",
+    "mpn": "0394747232",
+    "gtin": "9780394747231",
+    "gtin_type": "ISBN-13",
+    "origin_country": "USA",
+    "manufacturer": "Pantheon Books",
+    "description": "'Maus: A Survivor's Tale' by Art Spiegelman is a Pulitzer Prize-winning graphic novel that provides a powerful account of the Holocaust through the lens of a son interviewing his father. The story uses the metaphor of mice and cats to represent Jews and Nazis, respectively, creating a unique and impactful narrative that combines personal memoir with historical exploration. Spiegelman's stark black-and-white illustrations and deeply moving storytelling offer a profound examination of trauma, memory, and the effects of history on future generations. This essential work is celebrated for its innovation in the genre and its emotional depth."
+  }
+]

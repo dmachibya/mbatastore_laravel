@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Rosetta Stone Language Learning 2024 - 1 Year Subscription",
+    "slug": "rosetta-stone-language-learning-2024-1-year-subscription",
+    "sku": "RS-2024-1Y",
+    "description": "Rosetta Stone Language Learning 2024 - 1 Year Subscription offers access to Rosetta Stone’s renowned language learning platform for one year. This subscription includes interactive lessons, speech recognition technology, and a choice of multiple languages. The program is designed to help learners build language skills through engaging exercises and real-life practice scenarios. With features like live tutoring sessions and progress tracking, this subscription is ideal for those looking to improve their language abilities over a full year of study.",
+    "price": 179.99,
+    "offer_price": 159.99,
+    "key_features": [
+      "1 Year Subscription to Rosetta Stone Language Learning 2024",
+      "Interactive Lessons and Speech Recognition",
+      "Choice of Multiple Languages",
+      "Live Tutoring Sessions and Progress Tracking"
+    ],
+    "stock_quantity": 500,
+    "sold_quantity": 700,
+    "shipping_weight": 0.0,
+    "meta_title": "Rosetta Stone Language Learning 2024 - 1 Year Subscription | Rosetta Stone",
+    "meta_description": "Get a 1-year subscription to Rosetta Stone Language Learning 2024. Access interactive lessons, speech recognition, and live tutoring sessions for effective language learning. Ideal for building language skills."
+  },
+  {
+    "title": "Rosetta Stone Language Learning 2024 - Lifetime Access",
+    "slug": "rosetta-stone-language-learning-2024-lifetime-access",
+    "sku": "RS-2024-LA",
+    "description": "Rosetta Stone Language Learning 2024 - Lifetime Access provides unlimited access to the latest version of Rosetta Stone’s language learning software. This lifetime plan includes all current and future updates, interactive lessons, and access to a variety of languages. Features include speech recognition, live tutoring, and a comprehensive learning experience designed for long-term language development. Perfect for learners seeking a complete and enduring solution for language acquisition.",
+    "price": 299.99,
+    "offer_price": 279.99,
+    "key_features": [
+      "Lifetime Access to Rosetta Stone Language Learning 2024",
+      "All Current and Future Updates",
+      "Interactive Lessons and Speech Recognition",
+      "Access to a Wide Range of Languages"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 200,
+    "shipping_weight": 0.0,
+    "meta_title": "Rosetta Stone Language Learning 2024 - Lifetime Access | Rosetta Stone",
+    "meta_description": "Purchase lifetime access to Rosetta Stone Language Learning 2024. Get all updates, interactive lessons, and speech recognition features for unlimited language learning opportunities."
+  }
+]

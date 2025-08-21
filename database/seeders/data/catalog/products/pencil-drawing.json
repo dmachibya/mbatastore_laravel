@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Portrait of a Lady",
+    "slug": "portrait-of-a-lady",
+    "brand": "Classic Drawings",
+    "model_number": "CD-PL2023",
+    "mpn": "CD-001",
+    "gtin": "0123456789020",
+    "gtin_type": "EAN",
+    "origin_country": "France",
+    "manufacturer": "Classic Art Studios",
+    "description": "Portrait of a Lady is an exquisite pencil drawing by the renowned brand Classic Drawings. This detailed artwork captures the elegance and grace of a noblewoman, showcasing the artist's mastery of shading and fine lines. The drawing features delicate facial features, intricate details in the hair and clothing, and a soft background that enhances the subject's serene expression. Created with precision and skill, this portrait is a timeless piece that reflects the beauty and sophistication of classic art, making it a perfect addition to any collection."
+  },
+  {
+    "name": "Majestic Horse",
+    "slug": "majestic-horse",
+    "brand": "Wildlife Art",
+    "model_number": "WA-MH2023",
+    "mpn": "WA-002",
+    "gtin": "0123456789021",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Wildlife Studios",
+    "description": "Majestic Horse is a stunning pencil drawing that captures the strength and beauty of a horse in motion. Created by the acclaimed brand Wildlife Art, this piece showcases the artist's exceptional ability to depict the dynamic movement and intricate details of the animal. The drawing features strong, defined lines that highlight the horse's powerful muscles and flowing mane, while the background provides a sense of depth and motion. Perfect for animal lovers and art enthusiasts, this drawing is a striking representation of the grace and majesty of horses, making it a standout piece in any collection."
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "Flavor": ["Chocolate", "Vanilla", "Strawberry", "Unflavored"],
+  "Protein Type": [
+    "Whey Protein",
+    "Vegan Protein",
+    "Casein Protein",
+    "Blended Protein"
+  ],
+  "Serving Size": ["30g", "40g", "50g", "60g"]
+}

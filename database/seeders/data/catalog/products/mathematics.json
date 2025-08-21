@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mathematica 14 by Wolfram Research",
+    "slug": "mathematica-14-by-wolfram-research",
+    "brand": "Wolfram Research",
+    "model_number": "MAT-14",
+    "mpn": "MAT-14",
+    "gtin": "883150040017",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Wolfram Research, Inc.",
+    "description": "Mathematica 14 by Wolfram Research is the latest version of the industry-leading computational software for advanced mathematics, engineering, and scientific computing. It provides a powerful and versatile environment for mathematical computation, visualization, and programming. Mathematica 14 offers advanced features for symbolic computation, numerical analysis, data visualization, and algorithm development. The software includes an updated user interface, enhanced performance, and support for a wide range of mathematical functions and applications. Ideal for researchers, educators, and professionals who require a robust tool for complex mathematical modeling and problem-solving."
+  },
+  {
+    "name": "MATLAB R2024 by MathWorks",
+    "slug": "matlab-r2024-by-mathworks",
+    "brand": "MathWorks",
+    "model_number": "MATLAB-R2024",
+    "mpn": "MATLAB-R2024",
+    "gtin": "784276210758",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "MathWorks, Inc.",
+    "description": "MATLAB R2024 by MathWorks is a comprehensive software environment for numerical computing, data analysis, and algorithm development. It provides a wide range of tools for mathematical modeling, simulation, and visualization across various scientific and engineering disciplines. MATLAB R2024 includes features such as advanced computational algorithms, integrated development environments for programming, and extensive support for data analysis and visualization tasks. It is designed for professionals, researchers, and engineers who need a powerful platform for complex mathematical computations and applications."
+  }
+]

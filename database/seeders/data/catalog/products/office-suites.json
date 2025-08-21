@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Microsoft Office 2021 Professional Plus",
+    "slug": "microsoft-office-2021-professional-plus",
+    "brand": "Microsoft",
+    "model_number": "T5D-03574",
+    "mpn": "T5D-03574",
+    "gtin": "889842664934",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Microsoft Corporation",
+    "description": "Microsoft Office 2021 Professional Plus is a comprehensive office suite designed for businesses and professionals who require advanced productivity tools. This edition includes the latest versions of Word, Excel, PowerPoint, Outlook, Publisher, and Access, offering a complete set of applications for creating documents, analyzing data, delivering presentations, and managing information. Office 2021 Professional Plus introduces new features and improvements over previous versions, including enhanced collaboration tools, advanced data analysis capabilities, and a modern, intuitive user interface. Ideal for professionals and organizations seeking a robust and feature-rich office suite for their daily tasks and projects."
+  },
+  {
+    "name": "Office 365 Home",
+    "slug": "office-365-home",
+    "brand": "Microsoft",
+    "model_number": "6GQ-00573",
+    "mpn": "6GQ-00573",
+    "gtin": "889842466135",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Microsoft Corporation",
+    "description": "Office 365 Home is a subscription-based office suite that provides access to the latest versions of Office applications along with additional cloud-based features and services. This plan includes Word, Excel, PowerPoint, Outlook, OneNote, and Publisher for up to six users, each with their own account. Office 365 Home offers regular updates, new features, and premium support throughout the subscription period. It also includes 1TB of OneDrive cloud storage per user, making it a perfect solution for families and individuals who need versatile productivity tools and additional cloud storage for their documents and files."
+  }
+]

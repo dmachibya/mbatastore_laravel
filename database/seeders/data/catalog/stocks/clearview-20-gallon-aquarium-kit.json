@@ -1,0 +1,40 @@
+[
+  {
+    "title": "ClearView 20-Gallon Aquarium Kit - Complete Set",
+    "slug": "clearview-20-gallon-aquarium-kit-complete-set",
+    "sku": "AW-10020-C",
+    "description": "The ClearView 20-Gallon Aquarium Kit from AquaWorld is an all-in-one solution for creating a beautiful aquatic environment. This complete set includes a high-quality glass tank, a powerful filter for crystal-clear water, an adjustable heater for maintaining optimal temperatures, and an energy-efficient LED light to highlight your fish and plants. Perfect for beginners and seasoned aquarists alike, this kit provides everything you need to set up a thriving aquarium. The sleek design and comprehensive features make it an excellent choice for any home or office.",
+    "price": 89.99,
+    "offer_price": 79.99,
+    "key_features": [
+      "Includes Tank, Filter, Heater, and LED Light",
+      "Crystal-Clear Glass Tank",
+      "Effective Mechanical, Chemical, and Biological Filtration",
+      "Adjustable Heater for Optimal Temperature"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 150,
+    "shipping_weight": 18.0,
+    "meta_title": "ClearView 20-Gallon Aquarium Kit - Complete Set | AquaWorld",
+    "meta_description": "Shop the ClearView 20-Gallon Aquarium Kit - Complete Set from AquaWorld. Includes tank, filter, heater, and LED light for a complete and easy aquarium setup."
+  },
+  {
+    "title": "ClearView 20-Gallon Aquarium Kit - Tank Only",
+    "slug": "clearview-20-gallon-aquarium-kit-tank-only",
+    "sku": "AW-10020-T",
+    "description": "The ClearView 20-Gallon Aquarium Kit - Tank Only offers a high-quality glass tank for your aquatic setup. Ideal for creating your own custom aquarium, this tank features a sleek, modern design and is made from durable, crystal-clear glass. Whether you’re setting up a new tank or replacing an old one, this tank provides the perfect foundation for a beautiful and healthy aquatic environment. Pair it with your favorite accessories and equipment to create the perfect home for your fish and plants.",
+    "price": 49.99,
+    "offer_price": 39.99,
+    "key_features": [
+      "High-Quality Crystal-Clear Glass",
+      "Sleek and Modern Design",
+      "Ideal for Custom Aquariums",
+      "Durable and Long-Lasting"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 75,
+    "shipping_weight": 12.0,
+    "meta_title": "ClearView 20-Gallon Aquarium Kit - Tank Only | AquaWorld",
+    "meta_description": "Buy the ClearView 20-Gallon Aquarium Kit - Tank Only from AquaWorld. High-quality glass tank perfect for setting up your own custom aquarium."
+  }
+]

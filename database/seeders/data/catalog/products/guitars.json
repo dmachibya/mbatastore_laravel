@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fender American Professional II Stratocaster",
+    "slug": "fender-american-professional-ii-stratocaster",
+    "brand": "Fender",
+    "model_number": "019-2320-706",
+    "mpn": "019-2320-706",
+    "gtin": "885978829820",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Fender Musical Instruments Corporation",
+    "description": "The Fender American Professional II Stratocaster is a top-of-the-line electric guitar designed for modern players who demand the highest quality. This iconic Stratocaster features a contoured alder body, a deep C-shaped neck profile, and a 22-vintage tall frets for exceptional playability. Equipped with three V-Mod II single-coil pickups, it delivers a wide range of classic Strat tones from sparkling cleans to gritty overdrives. The updated treble bleed circuit ensures clarity even at lower volumes, while the new Fender molded hardshell case offers superior protection. Perfect for genres ranging from blues to rock, this guitar is a versatile tool for both live performances and studio recordings."
+  },
+  {
+    "name": "Gibson Les Paul Standard '50s",
+    "slug": "gibson-les-paul-standard-50s",
+    "brand": "Gibson",
+    "model_number": "LPS5SGH1",
+    "mpn": "LPS5SGH1",
+    "gtin": "711106028992",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Gibson Guitar Corp.",
+    "description": "The Gibson Les Paul Standard '50s is a premium electric guitar that captures the essence of the classic 1950s Les Paul models. This model features a solid mahogany body with a carved maple top, providing a rich, warm tone with exceptional sustain. The 50s neck profile is reminiscent of the vintage originals, offering a comfortable playing experience for those who appreciate a chunkier neck. The Burstbucker 1 and 2 pickups deliver authentic PAF-style sounds, from creamy blues to powerful rock tones. The Historic Reissue Truss Rod Cover and vintage-style tuners add to the classic look and feel of this instrument. A true staple for any serious guitarist looking for a vintage sound and feel."
+  }
+]

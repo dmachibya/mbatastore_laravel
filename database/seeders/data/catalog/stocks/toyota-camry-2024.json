@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Toyota Camry 2024 LE Sedan (New)",
+    "slug": "toyota-camry-2024-le-sedan",
+    "sku": "CAMRY24LE",
+    "description": "Experience luxury and efficiency with the all-new 2024 Toyota Camry LE Sedan. This feature-packed sedan boasts a fuel-efficient engine, a spacious interior, and advanced safety features.  **Available Colors:** White, Black, Silver",
+    "price": 25995,
+    "offer_price": 24995,
+    "key_features": [
+      "Fuel-efficient engine",
+      "Spacious and comfortable interior",
+      "Advanced safety features",
+      "Available touchscreen infotainment system",
+      "Blind Spot Monitoring (BSM) with Rear Cross Traffic Alert (RCTA)"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 0,
+    "shipping_weight": 3500,
+    "meta_title": "Toyota Camry 2024 LE Sedan | New Model | Great Price",
+    "meta_description": "The all-new 2024 Toyota Camry LE Sedan offers luxury, efficiency, and advanced features. Shop our extensive inventory and find yours today!"
+  },
+  {
+    "title": "Toyota Camry 2024 XLE Sedan (New)",
+    "slug": "toyota-camry-2024-xle-sedan",
+    "sku": "CAMRY24XLE",
+    "description": "Take luxury to the next level with the 2024 Toyota Camry XLE Sedan. This premium sedan boasts a powerful engine, a refined interior with premium materials, and top-of-the-line technology features. **Available Colors:** Black, Gray, Pearl White",
+    "price": 32495,
+    "offer_price": null,
+    "key_features": [
+      "Powerful engine",
+      "Premium interior with leather seats",
+      "Advanced technology features like sunroof and head-up display",
+      "Heated and ventilated seats",
+      "Driver-assist features like Lane Departure Alert and Adaptive Cruise Control"
+    ],
+    "stock_quantity": 5,
+    "sold_quantity": 0,
+    "shipping_weight": 3600,
+    "meta_title": "Toyota Camry 2024 XLE Sedan | Luxury & Technology | Shop Now",
+    "meta_description": "Experience unparalleled luxury and technology in the 2024 Toyota Camry XLE Sedan. Visit us today for a test drive!"
+  },
+  {
+    "title": "Toyota Camry 2024 TRD Hybrid (New)",
+    "slug": "toyota-camry-2024-trd-hybrid",
+    "sku": "CAMRY24TRD",
+    "description": "Unleash the thrill of performance and efficiency with the 2024 Toyota Camry TRD Hybrid. This sporty sedan combines a powerful hybrid engine with a dynamic handling experience. **Available Colors:** Red, Blue, Black",
+    "price": 34995,
+    "offer_price": null,
+    "key_features": [
+      "Hybrid engine for exceptional fuel economy and performance",
+      "Sporty suspension for a dynamic driving experience",
+      "Unique TRD styling elements",
+      "Paddle shifters for a more engaging driving experience",
+      "Advanced safety features"
+    ],
+    "stock_quantity": 3,
+    "sold_quantity": 0,
+    "shipping_weight": 3700,
+    "meta_title": "Toyota Camry 2024 TRD Hybrid | Performance & Efficiency | Limited Stock",
+    "meta_description": "Own the road with the all-new 2024 Toyota Camry TRD Hybrid. Experience exhilarating performance and impressive fuel economy. Don't miss out, limited quantities available!"
+  }
+]

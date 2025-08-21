@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Organic Fruit Puree Variety Pack",
+    "slug": "organic-fruit-puree-variety-pack",
+    "brand": "HappyBaby",
+    "model_number": "HB-OFP-03",
+    "mpn": "HB-OFP-003",
+    "gtin": "1122334455667",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "HappyBaby Foods",
+    "description": "The Organic Fruit Puree Variety Pack from HappyBaby offers a delicious and nutritious meal option for your baby. This pack includes six different fruit purees made from 100% organic fruits with no added sugars or preservatives. Each pouch contains a blend of fruits such as apples, pears, bananas, and peaches, providing a wholesome source of vitamins and nutrients for your little one. The purees are smooth in texture and easy to digest, making them perfect for introducing solid foods to your baby. The convenient, resealable pouches are ideal for on-the-go feeding and make mealtime easy and enjoyable for both parents and babies."
+  },
+  {
+    "name": "Toddler Nutritional Meal Kit",
+    "slug": "toddler-nutritional-meal-kit",
+    "brand": "Gerber",
+    "model_number": "GB-TNM-05",
+    "mpn": "GB-TNM-005",
+    "gtin": "6677889900223",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Gerber Products Company",
+    "description": "The Toddler Nutritional Meal Kit from Gerber is designed to provide balanced nutrition for your growing child. This meal kit includes a selection of easy-to-prepare meals and snacks that are rich in essential vitamins and minerals. Each kit contains six different meal options including organic oatmeal, vegetable soups, and fruit snacks. The meals are made with high-quality, natural ingredients and are free from artificial flavors and colors. The kit is perfect for busy parents who want to ensure their toddlers receive healthy, nutritious meals without the hassle of cooking from scratch."
+  }
+]

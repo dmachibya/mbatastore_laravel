@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Deluxe Camping Sleeping Bag - 3-Season Comfort",
+    "slug": "deluxe-camping-sleeping-bag-3-season-comfort",
+    "sku": "REI-SB-DELUXE-001",
+    "description": "The REI Deluxe Camping Sleeping Bag offers exceptional comfort for three-season camping. Featuring a soft, insulating fill and a contoured design with a draft collar and adjustable hood, this sleeping bag ensures warmth and comfort during your outdoor adventures. Its lightweight construction makes it easy to carry, while the durable, water-resistant shell protects against moisture. Suitable for spring, summer, and fall, this sleeping bag is ideal for camping trips and outdoor excursions. Experience a restful and cozy sleep with the REI Deluxe Sleeping Bag.",
+    "price": 119.99,
+    "offer_price": 99.99,
+    "key_features": [
+      "Three-Season Comfort",
+      "Soft Insulating Fill",
+      "Contoured Design with Draft Collar",
+      "Water-Resistant Shell"
+    ],
+    "stock_quantity": 30,
+    "sold_quantity": 80,
+    "shipping_weight": 3,
+    "meta_title": "REI Deluxe Camping Sleeping Bag - 3-Season Comfort for Outdoor Adventures",
+    "meta_description": "Shop the REI Deluxe Camping Sleeping Bag for three-season comfort on your outdoor adventures. Soft, insulating fill with a water-resistant shell. Buy now at a discounted price!"
+  },
+  {
+    "title": "Deluxe Camping Sleeping Bag - High-Performance Insulation",
+    "slug": "deluxe-camping-sleeping-bag-high-performance-insulation",
+    "sku": "REI-SB-DELUXE-002",
+    "description": "The REI Deluxe Camping Sleeping Bag provides high-performance insulation for a comfortable outdoor experience. Designed for spring, summer, and fall camping, this sleeping bag features a high-quality insulating fill that retains warmth while remaining lightweight. The contoured design includes a draft collar and adjustable hood to keep the cold at bay. The water-resistant shell and spacious interior ensure a dry and comfortable sleep. Perfect for camping trips, this sleeping bag offers a blend of comfort, durability, and convenience for outdoor enthusiasts.",
+    "price": 129.99,
+    "offer_price": 109.99,
+    "key_features": [
+      "High-Performance Insulation",
+      "Draft Collar and Adjustable Hood",
+      "Water-Resistant Shell",
+      "Spacious and Comfortable"
+    ],
+    "stock_quantity": 25,
+    "sold_quantity": 50,
+    "shipping_weight": 3.5,
+    "meta_title": "REI Deluxe Camping Sleeping Bag - High-Performance Insulation for Comfort",
+    "meta_description": "Discover the REI Deluxe Camping Sleeping Bag with high-performance insulation for a cozy camping experience. Perfect for three-season use. Get it now at a special offer price!"
+  }
+]

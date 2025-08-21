@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Nike Men's Dri-FIT Legend Training T-Shirt - Black - Size M",
+    "slug": "nike-mens-dri-fit-legend-training-t-shirt-black-size-m",
+    "sku": "TS-NK-2024-01-BK-M",
+    "description": "The Nike Men's Dri-FIT Legend Training T-Shirt in Black is engineered for optimal performance during workouts and for casual wear. Featuring Nike's Dri-FIT technology, this t-shirt efficiently wicks away sweat to keep you dry and comfortable. Its lightweight and breathable fabric, coupled with a classic fit and ribbed crew neck, ensures a comfortable experience whether you are training or simply lounging. Ideal for those who seek both style and functionality in their athletic wear.",
+    "price": 30.0,
+    "offer_price": 27.0,
+    "key_features": [
+      "Dri-FIT technology for sweat-wicking performance",
+      "Lightweight, breathable fabric for comfort",
+      "Classic fit with a ribbed crew neck",
+      "Available in multiple colors"
+    ],
+    "stock_quantity": 100,
+    "sold_quantity": 45,
+    "shipping_weight": 0.2,
+    "meta_title": "Nike Men's Dri-FIT Legend Training T-Shirt - Black - Size M",
+    "meta_description": "Shop Nike Men's Dri-FIT Legend Training T-Shirt in Black for superior performance and comfort. Featuring sweat-wicking Dri-FIT technology and a classic fit, perfect for workouts and casual wear. Available in Size M."
+  },
+  {
+    "title": "Nike Men's Dri-FIT Legend Training T-Shirt - Black - Size L",
+    "slug": "nike-mens-dri-fit-legend-training-t-shirt-black-size-l",
+    "sku": "TS-NK-2024-01-BK-L",
+    "description": "The Nike Men's Dri-FIT Legend Training T-Shirt in Black is designed for superior performance and comfort. Utilizing Dri-FIT technology, this t-shirt keeps you dry by wicking away sweat during workouts or for casual wear. The lightweight, breathable fabric and classic fit ensure a comfortable experience, whether you're training hard or relaxing. The simple yet effective design makes it a versatile addition to your athletic wear collection.",
+    "price": 30.0,
+    "offer_price": 28.0,
+    "key_features": [
+      "Dri-FIT technology for sweat-wicking performance",
+      "Breathable, lightweight fabric for comfort",
+      "Classic fit with a ribbed crew neck",
+      "Available in multiple colors"
+    ],
+    "stock_quantity": 70,
+    "sold_quantity": 35,
+    "shipping_weight": 0.21,
+    "meta_title": "Nike Men's Dri-FIT Legend Training T-Shirt - Black - Size L",
+    "meta_description": "Explore Nike Men's Dri-FIT Legend Training T-Shirt in Black. Features sweat-wicking Dri-FIT technology and a classic fit, perfect for workouts or casual wear. Available in Size L."
+  }
+]

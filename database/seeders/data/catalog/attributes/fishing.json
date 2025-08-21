@@ -1,0 +1,9 @@
+{
+  "Material": ["Graphite", "Fiberglass", "Plastic", "Aluminum"],
+  "Capacity": [
+    "Single Rod",
+    "Multiple Lures",
+    "Medium Tackle Box",
+    "Large Tackle Box"
+  ]
+}

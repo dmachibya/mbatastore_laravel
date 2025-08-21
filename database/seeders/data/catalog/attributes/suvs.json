@@ -1,0 +1,15 @@
+{
+  "Drivetrain": ["AWD", "4WD", "FWD", "RWD"],
+  "Cargo Space": [
+    "Up to 30 cu ft",
+    "30-40 cu ft",
+    "40-50 cu ft",
+    "Over 50 cu ft"
+  ],
+  "Safety Features": [
+    "Adaptive Cruise Control",
+    "Lane-Keeping Assist",
+    "Automatic Emergency Braking",
+    "Blind-Spot Monitoring"
+  ]
+}

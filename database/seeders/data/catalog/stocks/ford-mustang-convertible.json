@@ -1,0 +1,40 @@
+[
+  {
+    "title": "2024 Ford Mustang Convertible Shelby GT500",
+    "slug": "2024-ford-mustang-convertible-shelby-gt500",
+    "sku": "MUSTANG-CVT-SHELBY-2024",
+    "description": "The 2024 Ford Mustang Convertible Shelby GT500 delivers unparalleled performance with a 5.2L Supercharged V8 engine. This high-performance convertible features advanced aerodynamics, a 7-speed dual-clutch transmission, and track-ready suspension for the ultimate driving experience.",
+    "price": 75000,
+    "offer_price": 74000,
+    "key_features": [
+      "5.2L Supercharged V8 engine",
+      "7-speed dual-clutch transmission",
+      "Advanced aerodynamics package",
+      "Track-ready suspension and brakes"
+    ],
+    "stock_quantity": 10,
+    "sold_quantity": 20,
+    "shipping_weight": "4,000 lbs",
+    "meta_title": "2024 Ford Mustang Convertible Shelby GT500 - Ultimate Performance",
+    "meta_description": "Experience the 2024 Ford Mustang Convertible Shelby GT500 with a 5.2L Supercharged V8 engine and advanced track-ready features. The pinnacle of Mustang performance and luxury."
+  },
+  {
+    "title": "2024 Ford Mustang Convertible Bullitt",
+    "slug": "2024-ford-mustang-convertible-bullitt",
+    "sku": "MUSTANG-CVT-BULLITT-2024",
+    "description": "The 2024 Ford Mustang Convertible Bullitt is a tribute to the iconic film with a 480-hp 5.0L V8 engine and unique styling elements. The Bullitt features green paint, retro wheels, and performance upgrades to offer a blend of nostalgia and modern performance.",
+    "price": 55000,
+    "offer_price": 54000,
+    "key_features": [
+      "5.0L V8 engine with 480 horsepower",
+      "Exclusive Bullitt Green paint",
+      "Retro-style wheels and interior accents",
+      "High-performance brakes and suspension"
+    ],
+    "stock_quantity": 12,
+    "sold_quantity": 25,
+    "shipping_weight": "3,750 lbs",
+    "meta_title": "2024 Ford Mustang Convertible Bullitt - Classic Performance",
+    "meta_description": "Drive the 2024 Ford Mustang Convertible Bullitt with a 5.0L V8 engine, exclusive Bullitt Green paint, and retro styling. A perfect blend of classic performance and modern technology."
+  }
+]

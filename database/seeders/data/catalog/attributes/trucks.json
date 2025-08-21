@@ -1,0 +1,10 @@
+{
+  "Engine Type": ["V6", "V8", "Turbo-Diesel", "Electric"],
+  "Towing Capacity": [
+    "Up to 7,000 lbs",
+    "7,000 - 10,000 lbs",
+    "10,000 - 13,000 lbs",
+    "Over 13,000 lbs"
+  ],
+  "Cab Size": ["Regular Cab", "Extended Cab", "Crew Cab", "Mega Cab"]
+}

@@ -1,0 +1,30 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@erbelion/vite-plugin-laravel-purgecss": "^0.2.5",
+        "axios": "^1.7.7",
+        "font-awesome": "^4.7.0",
+        "laravel-vite-plugin": "^1.0.5",
+        "lightningcss": "^1.27.0",
+        "lodash": "^4.17.21",
+        "postcss": "^8.2.8",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.80.3",
+        "sass-loader": "^16.0.2",
+        "vite": "^5.4.9",
+        "vue-template-compiler": "^2.6.14"
+    },
+    "dependencies": {
+        "browserslist": "^4.24.2",
+        "font-awesome": "^4.7.0",
+        "laravel-echo": "^1.16.1",
+        "npm": "^10",
+        "pusher-js": "^8.4.0-rc2",
+        "socket.io-client": "^4.8.0"
+    }
+}

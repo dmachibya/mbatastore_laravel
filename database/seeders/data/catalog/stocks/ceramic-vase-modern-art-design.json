@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Ceramic Vase - Modern Art Design by Elegant Ceramics",
+    "slug": "ceramic-vase-modern-art-design",
+    "sku": "V-EC-2024-01",
+    "description": "Introducing the Handcrafted Ceramic Vase - Modern Art Design by Elegant Ceramics. This exquisite vase features a sleek and modern design with smooth curves and a minimalist color palette. Crafted from high-quality ceramic materials, it is perfect for displaying fresh flowers or as a decorative accent. Each vase is handcrafted by skilled artisans, ensuring a unique and elegant piece that enhances any interior space. Ideal for modern home decor or as a thoughtful gift for art enthusiasts.",
+    "price": 149.99,
+    "offer_price": 119.99,
+    "key_features": [
+      "Contemporary modern art design",
+      "High-quality ceramic construction",
+      "Handcrafted by skilled artisans",
+      "Elegant and versatile for home decor"
+    ],
+    "stock_quantity": 15,
+    "sold_quantity": 6,
+    "shipping_weight": 1.2,
+    "meta_title": "Handcrafted Ceramic Vase - Modern Art Design by Elegant Ceramics",
+    "meta_description": "Shop the Handcrafted Ceramic Vase - Modern Art Design by Elegant Ceramics. This elegant vase features a sleek, modern design and is handcrafted from high-quality ceramic materials."
+  },
+  {
+    "title": "Ceramic Vase - Modern Art Design - Small Size",
+    "slug": "ceramic-vase-modern-art-design-small",
+    "sku": "V-EC-2024-02",
+    "description": "Introducing the Handcrafted Ceramic Vase - Modern Art Design in a smaller size by Elegant Ceramics. This elegant vase features a contemporary modern design with smooth curves and a minimalist aesthetic. Crafted from high-quality ceramic, it is perfect for fresh flowers or as a decorative piece. Handcrafted by skilled artisans, this small-sized vase offers a touch of sophistication for any space, making it a versatile addition to your home decor or a thoughtful gift for art lovers.",
+    "price": 99.99,
+    "offer_price": 79.99,
+    "key_features": [
+      "Modern art design in a small size",
+      "High-quality ceramic material",
+      "Handcrafted with attention to detail",
+      "Elegant and versatile for home decor"
+    ],
+    "stock_quantity": 20,
+    "sold_quantity": 8,
+    "shipping_weight": 0.9,
+    "meta_title": "Handcrafted Ceramic Vase - Modern Art Design - Small Size",
+    "meta_description": "Buy the Handcrafted Ceramic Vase - Modern Art Design in a smaller size. This elegant vase features a contemporary design and is handcrafted from high-quality ceramic materials."
+  }
+]

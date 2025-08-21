@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Gourmet Salmon Cat Food",
+    "slug": "gourmet-salmon-cat-food",
+    "brand": "Feline Feast",
+    "model_number": "FF-11122",
+    "mpn": "FF11122",
+    "gtin": "3216549870123",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Feline Feast Inc.",
+    "description": "Gourmet Salmon Cat Food from Feline Feast is a premium choice for your feline friend. Made with real salmon as the first ingredient, this cat food provides high-quality protein that supports lean muscle growth and overall health. Our recipe includes omega-3 and omega-6 fatty acids for a healthy, shiny coat and added vitamins and minerals to support your cat’s immune system and digestive health. We use only natural ingredients with no artificial colors, flavors, or preservatives. Perfect for cats of all ages, this gourmet food is crafted to satisfy even the pickiest eaters while promoting their well-being and longevity."
+  },
+  {
+    "name": "Chicken & Turkey Cat Food",
+    "slug": "chicken-turkey-cat-food",
+    "brand": "Paws & Whiskers",
+    "model_number": "PW-22334",
+    "mpn": "PW22334",
+    "gtin": "9876543210987",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Paws & Whiskers Pet Foods",
+    "description": "Chicken & Turkey Cat Food by Paws & Whiskers offers a delicious and nutritious meal for your cat. Made with real chicken and turkey, this food provides a high-quality protein source that supports muscle maintenance and overall health. The formula includes essential vitamins, minerals, and antioxidants to boost your cat’s immune system and promote a healthy coat. Free from artificial additives, this food uses only natural ingredients to ensure your cat receives a balanced diet. Suitable for cats at all life stages, this chicken and turkey blend is designed to keep your feline companion happy and healthy."
+  }
+]

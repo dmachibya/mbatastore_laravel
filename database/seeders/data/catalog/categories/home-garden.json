@@ -1,0 +1,138 @@
+{
+  "Furniture": {
+    "slug": "furniture",
+    "description": "Various types of furniture for home and garden use.",
+    "subcategories": [
+      {
+        "name": "Living Room Furniture",
+        "slug": "living-room-furniture",
+        "description": "Furniture for the living room."
+      },
+      {
+        "name": "Bedroom Furniture",
+        "slug": "bedroom-furniture",
+        "description": "Furniture for the bedroom."
+      },
+      {
+        "name": "Outdoor Furniture",
+        "slug": "outdoor-furniture",
+        "description": "Furniture for outdoor use."
+      }
+    ]
+  },
+  "Gardening": {
+    "slug": "gardening",
+    "description": "Products and tools for gardening.",
+    "subcategories": [
+      {
+        "name": "Plants & Seeds",
+        "slug": "plants-seeds",
+        "description": "Various plants and seeds for gardening."
+      },
+      {
+        "name": "Garden Decorations",
+        "slug": "garden-decorations",
+        "description": "Items to enhance the beauty of your garden."
+      },
+      {
+        "name": "Pots & Planters",
+        "slug": "pots-planters",
+        "description": "Containers for planting flowers, herbs, and vegetables."
+      },
+      {
+        "name": "Gardening Tools",
+        "slug": "gardening-tools",
+        "description": "Tools for gardening tasks."
+      }
+    ]
+  },
+  "Home Decor": {
+    "slug": "home-decor",
+    "description": "Decorative items for the home.",
+    "subcategories": [
+      {
+        "name": "Lighting",
+        "slug": "lighting",
+        "description": "Various types of lighting for the home."
+      },
+      {
+        "name": "Elegant Wall Art",
+        "slug": "elegant-wall-art",
+        "description": "Transform your living space with our Elegant Wall Art collection. Featuring a range of sophisticated designs and high-quality prints, this collection adds a touch of class to any room. Perfect for modern and traditional interiors alike, our wall art is available in various sizes and styles to fit your decor needs."
+      },
+      {
+        "name": "Cozy Throw Blankets",
+        "slug": "cozy-throw-blankets",
+        "description": "Add warmth and comfort to your home with our Cozy Throw Blankets. Made from soft, high-quality materials, these throws are perfect for draping over your sofa or bed. Available in a variety of colors and patterns, they are ideal for creating a cozy and inviting atmosphere in any room."
+      },
+      {
+        "name": "Modern Decorative Pillows",
+        "slug": "modern-decorative-pillows",
+        "description": "Elevate your home decor with our Modern Decorative Pillows. Featuring contemporary designs and stylish patterns, these pillows are perfect for adding a pop of color and texture to your sofa, bed, or armchair. Made with premium fabrics for both comfort and durability."
+      }
+    ]
+  },
+  "Kitchen & Dining": {
+    "slug": "kitchen-dining",
+    "description": "Products for the kitchen and dining areas.",
+    "subcategories": [
+      {
+        "name": "Cookware",
+        "slug": "cookware",
+        "description": "Pots and pans for cooking."
+      },
+      {
+        "name": "Tableware",
+        "slug": "tableware",
+        "description": "Items used for setting a table."
+      },
+      {
+        "name": "Kitchen Appliances",
+        "slug": "kitchen-appliances",
+        "description": "Appliances used in the kitchen."
+      }
+    ]
+  },
+  "Home Improvement": {
+    "slug": "home-improvement",
+    "description": "Products and tools for home improvement.",
+    "subcategories": [
+      {
+        "name": "Tools & Hardware",
+        "slug": "tools-hardware",
+        "description": "Basic and advanced tools for home repairs and projects."
+      },
+      {
+        "name": "Paint & Supplies",
+        "slug": "paint-supplies",
+        "description": "Paints, brushes, and supplies for home improvement projects."
+      },
+      {
+        "name": "Building Materials",
+        "slug": "building-materials",
+        "description": "Materials for construction and renovation tasks."
+      },
+      {
+        "name": "Home Decor",
+        "slug": "home-decor",
+        "description": "Decorative items to enhance your living space."
+      }
+    ]
+  },
+  "Outdoor & Garden": {
+    "slug": "outdoor-garden",
+    "description": "Products for outdoor and garden use.",
+    "subcategories": [
+      {
+        "name": "Grills & Outdoor Cooking",
+        "slug": "grills-outdoor-cooking",
+        "description": "Equipment for outdoor cooking."
+      },
+      {
+        "name": "Garden Tools",
+        "slug": "garden-tools",
+        "description": "Tools for maintaining gardens."
+      }
+    ]
+  }
+}

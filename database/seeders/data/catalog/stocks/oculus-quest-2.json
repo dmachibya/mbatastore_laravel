@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Oculus Quest 2 - 128GB Standalone VR Headset",
+    "slug": "oculus-quest-2-128gb",
+    "sku": "OQ2-128GB",
+    "description": "The Oculus Quest 2 is the latest standalone VR headset that delivers high-quality virtual reality experiences without the need for a PC or external sensors. Equipped with a high-resolution 1832 x 1920 pixels per eye display and powered by the Qualcomm Snapdragon XR2 platform, the Quest 2 offers crisp visuals and smooth performance. The 128GB version provides ample storage for your favorite VR games and apps, while the advanced Oculus Touch controllers offer intuitive and responsive controls. With over 350 games and experiences available on the Oculus Store, the Quest 2 is perfect for both new and experienced VR users. Enjoy immersive experiences with built-in 3D spatial audio and a comfortable, adjustable fit for extended play sessions. The Quest 2 also supports a range of accessories to enhance your VR setup.",
+    "price": 299.0,
+    "offer_price": 279.0,
+    "key_features": [
+      "1832 x 1920 pixels per eye resolution",
+      "Qualcomm Snapdragon XR2 platform",
+      "128GB storage capacity",
+      "6GB RAM for smooth performance",
+      "Intuitive Oculus Touch controllers",
+      "Built-in 3D spatial audio",
+      "Over 350 games and experiences"
+    ],
+    "stock_quantity": 75,
+    "sold_quantity": 30,
+    "shipping_weight": 1.1,
+    "meta_title": "Oculus Quest 2 - 128GB Standalone VR Headset",
+    "meta_description": "Buy the Oculus Quest 2 - 128GB Standalone VR Headset. Experience high-resolution VR with the Snapdragon XR2 platform, 128GB storage, and over 350 games. Ideal for immersive gaming."
+  },
+  {
+    "title": "Oculus Quest 2 - 256GB Standalone VR Headset",
+    "slug": "oculus-quest-2-256gb",
+    "sku": "OQ2-256GB",
+    "description": "Discover the ultimate virtual reality experience with the Oculus Quest 2 - 256GB Standalone VR Headset. Featuring a high-resolution 1832 x 1920 pixels per eye display and powered by the Snapdragon XR2 platform, the Quest 2 delivers exceptional visuals and performance. The 256GB model offers expanded storage for your extensive library of VR games and apps. The intuitive Oculus Touch controllers provide precise controls, and the headset's built-in 3D spatial audio creates an immersive sound environment. With a comfortable and adjustable design, the Quest 2 is perfect for extended play sessions. Explore over 350 games and experiences available on the Oculus Store, from action-packed adventures to relaxing virtual worlds. Enhance your VR setup with a range of compatible accessories.",
+    "price": 399.0,
+    "offer_price": 379.0,
+    "key_features": [
+      "1832 x 1920 pixels per eye resolution",
+      "Qualcomm Snapdragon XR2 platform",
+      "256GB storage capacity",
+      "6GB RAM for smooth performance",
+      "Intuitive Oculus Touch controllers",
+      "Built-in 3D spatial audio",
+      "Over 350 games and experiences"
+    ],
+    "stock_quantity": 50,
+    "sold_quantity": 18,
+    "shipping_weight": 1.2,
+    "meta_title": "Oculus Quest 2 - 256GB Standalone VR Headset",
+    "meta_description": "Buy the Oculus Quest 2 - 256GB Standalone VR Headset. Features high-resolution VR display, Snapdragon XR2 platform, and 256GB storage. Enjoy 350+ games and immersive experiences."
+  }
+]

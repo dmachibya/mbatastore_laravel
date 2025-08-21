@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tough Rubber Chew Toy",
+    "slug": "tough-rubber-chew-toy",
+    "brand": "Paws & Play",
+    "model_number": "PP-54321",
+    "mpn": "PP54321",
+    "gtin": "6543210987654",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Paws & Play Toys Inc.",
+    "description": "The Tough Rubber Chew Toy from Paws & Play is designed for the most enthusiastic chewers. Made from durable, high-quality rubber, this chew toy can withstand rigorous play and help clean your dog's teeth while they chew. Its textured surface massages gums and helps to reduce plaque buildup. Ideal for dogs of all sizes, the toy also features a bouncy design that makes playtime even more fun. Whether you’re looking for a toy to keep your dog entertained or to satisfy their chewing instincts, this tough rubber toy is a great choice. It’s also non-toxic and safe for your pet to chew on for hours."
+  },
+  {
+    "name": "Interactive Tug-of-War Rope Toy",
+    "slug": "interactive-tug-of-war-rope-toy",
+    "brand": "Bark & Play",
+    "model_number": "BP-67890",
+    "mpn": "BP67890",
+    "gtin": "0987654321098",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Bark & Play Pet Products",
+    "description": "The Interactive Tug-of-War Rope Toy from Bark & Play is perfect for engaging playtime with your dog. Made from durable cotton rope, this toy is designed for tug-of-war games, fetch, and other interactive activities. Its sturdy construction ensures it can withstand vigorous pulling and chewing, while the multiple knots and handles provide a fun and challenging play experience. The rope is also gentle on your dog's teeth and gums, making it a great option for both puppies and adult dogs. This toy is great for bonding with your pet and keeping them active and entertained."
+  }
+]

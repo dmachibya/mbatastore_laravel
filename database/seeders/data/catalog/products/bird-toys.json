@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wooden Parrot Chew Toy",
+    "slug": "wooden-parrot-chew-toy",
+    "brand": "Feathered Friends",
+    "model_number": "FF-23456",
+    "mpn": "FF23456",
+    "gtin": "6789012345678",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Feathered Friends Pet Products",
+    "description": "The Wooden Parrot Chew Toy from Feathered Friends is designed to keep your parrot entertained and active. Made from natural, non-toxic wood, this toy features a variety of textures and colors to stimulate your bird’s natural chewing instincts. The durable wood construction is perfect for beak health, and the toy also includes hanging hardware for easy installation in your bird's cage. With vibrant colors and a fun design, this chew toy is ideal for parrots and other large birds who need mental and physical stimulation."
+  },
+  {
+    "name": "Birdie Play Gym with Swing",
+    "slug": "birdie-play-gym-with-swing",
+    "brand": "Happy Beaks",
+    "model_number": "HB-34567",
+    "mpn": "HB34567",
+    "gtin": "7890123456789",
+    "gtin_type": "EAN",
+    "origin_country": "Australia",
+    "manufacturer": "Happy Beaks Bird Supplies",
+    "description": "The Birdie Play Gym with Swing from Happy Beaks offers an engaging play environment for your feathered friend. This multi-level play gym features a swing, perches, and climbing elements to encourage exercise and exploration. Constructed from safe, non-toxic materials, the play gym is designed to be durable and enjoyable for a variety of bird species. The bright colors and different textures provide sensory stimulation and help to keep your bird active and entertained. Ideal for indoor use, this play gym is a great addition to your bird's habitat."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Men’s Waterproof Hiking Boots",
+    "slug": "mens-waterproof-hiking-boots",
+    "brand": "Merrell",
+    "model_number": "MOAB-2-MID-WP",
+    "mpn": "MRL-HB-WP-MID",
+    "gtin": "0442147509195",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Merrell",
+    "description": "The Merrell Men’s Waterproof Hiking Boots are designed for serious hikers who need reliable, high-performance footwear for rugged trails. Featuring a waterproof, breathable membrane, these boots keep your feet dry while allowing moisture to escape. The durable leather and mesh upper provides both protection and ventilation, while the Vibram outsole offers superior traction on varied terrain. The boots come with a cushioned insole and an EVA midsole for all-day comfort and shock absorption. Perfect for long hikes, backcountry adventures, or day trips, these boots combine durability, comfort, and support for all your hiking needs."
+  },
+  {
+    "name": "Ultralight Hiking Backpack",
+    "slug": "ultralight-hiking-backpack",
+    "brand": "Osprey",
+    "model_number": "OSPRY-EXOS-48",
+    "mpn": "OSP-BP-EXOS48",
+    "gtin": "0845136053297",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Osprey",
+    "description": "The Osprey Ultralight Hiking Backpack is designed for backpackers seeking a lightweight yet functional pack for extended adventures. With a 48-liter capacity, it provides ample space for gear while remaining lightweight. The backpack features a streamlined design with a high-strength nylon fabric and a minimalist frame that balances durability with weight savings. The adjustable harness and hip belt ensure a comfortable and secure fit, while the mesh back panel improves ventilation to keep you cool. Equipped with multiple compartments, it offers organized storage for your essentials, making it ideal for multi-day hikes, long-distance treks, and outdoor expeditions."
+  }
+]

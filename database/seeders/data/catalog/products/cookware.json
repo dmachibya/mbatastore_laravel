@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Non-Stick Aluminum Fry Pan",
+    "slug": "non-stick-aluminum-fry-pan",
+    "brand": "Gourmet Kitchen",
+    "model_number": "GK-FP200",
+    "mpn": "GKFP200",
+    "gtin": "8712345678901",
+    "gtin_type": "EAN",
+    "origin_country": "China",
+    "manufacturer": "Gourmet Kitchen Co.",
+    "description": "The Non-Stick Aluminum Fry Pan by Gourmet Kitchen is designed for easy and efficient cooking. Featuring a durable non-stick coating, this fry pan ensures that food releases easily and clean-up is a breeze. The aluminum construction provides even heat distribution, reducing the risk of hot spots and ensuring your food is cooked perfectly every time. With its comfortable handle and sleek design, this fry pan is a must-have for any modern kitchen. Suitable for all stovetops, including induction."
+  },
+  {
+    "name": "Stainless Steel Cookware Set",
+    "slug": "stainless-steel-cookware-set",
+    "brand": "Chef's Choice",
+    "model_number": "CC-SS500",
+    "mpn": "CCSS500",
+    "gtin": "8712345678918",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "Chef's Choice Inc.",
+    "description": "The Stainless Steel Cookware Set by Chef's Choice includes all the essential pots and pans you need for a well-equipped kitchen. Made from high-quality stainless steel, this set is durable, resistant to rust and corrosion, and easy to clean. Each piece features a heat-resistant handle and a thick base for even heat distribution. The set includes a variety of sizes and types of cookware, making it perfect for everything from everyday meals to elaborate dinners. Compatible with all stovetops, including induction."
+  }
+]

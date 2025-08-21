@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Men's Classic Leather Oxford Shoes",
+    "slug": "mens-classic-leather-oxford-shoes",
+    "brand": "Elegant Steps",
+    "model_number": "ES-OX-001",
+    "mpn": "ES-OX-2024",
+    "gtin": "0810324045678",
+    "gtin_type": "UPC",
+    "origin_country": "Italy",
+    "manufacturer": "Elegant Steps Co.",
+    "description": "Men's Classic Leather Oxford Shoes by Elegant Steps are the epitome of sophistication and style. Crafted from high-quality leather, these shoes feature a timeless Oxford design with a sleek finish. The cushioned insole and sturdy outsole provide comfort and durability, making them perfect for formal occasions and everyday wear. Handmade in Italy, these shoes reflect exquisite craftsmanship and attention to detail. Whether you're dressing up for a business meeting or a special event, these Oxford shoes will elevate your style and ensure a polished look."
+  },
+  {
+    "name": "Men's Casual Suede Loafers",
+    "slug": "mens-casual-suede-loafers",
+    "brand": "Urban Walk",
+    "model_number": "UW-LF-305",
+    "mpn": "UW-LF-2024",
+    "gtin": "0738294154321",
+    "gtin_type": "UPC",
+    "origin_country": "Spain",
+    "manufacturer": "Urban Walk Ltd.",
+    "description": "Men's Casual Suede Loafers by Urban Walk are designed for comfort and style. These loafers are made from premium suede leather, offering a soft and luxurious feel. The slip-on design with elastic inserts ensures a perfect fit, while the cushioned footbed and rubber sole provide all-day comfort. Ideal for casual outings and relaxed settings, these loafers combine practicality with elegance. Handcrafted in Spain, they showcase exceptional quality and craftsmanship. Pair them with your favorite jeans or chinos for a sophisticated yet laid-back look."
+  }
+]

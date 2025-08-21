@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Michelin Pilot Sport 4S All-Season Tire",
+    "slug": "michelin-pilot-sport-4s-all-season-tire",
+    "brand": "Michelin",
+    "model_number": "PILOT-4S",
+    "mpn": "39446",
+    "gtin": "086699394468",
+    "gtin_type": "UPC",
+    "origin_country": "France",
+    "manufacturer": "Michelin",
+    "description": "The Michelin Pilot Sport 4S All-Season Tire is a high-performance tire designed for sports cars and high-end vehicles. It offers exceptional grip on both wet and dry roads, with a tread pattern engineered for maximum performance and safety. The Pilot Sport 4S combines Michelin's latest tire technology to deliver outstanding handling, steering precision, and braking performance. Its advanced rubber compound ensures durability and longevity while providing a smooth and comfortable ride. The tire features a dynamic tread design that enhances traction and stability in all driving conditions, making it ideal for both everyday use and spirited driving. Whether you're navigating city streets or tackling challenging roads, the Michelin Pilot Sport 4S delivers top-tier performance and reliability."
+  },
+  {
+    "name": "Bridgestone Potenza RE-71R Ultra High Performance Tire",
+    "slug": "bridgestone-potenza-re-71r-ultra-high-performance-tire",
+    "brand": "Bridgestone",
+    "model_number": "RE71R",
+    "mpn": "0908",
+    "gtin": "092971090820",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Bridgestone",
+    "description": "The Bridgestone Potenza RE-71R Ultra High Performance Tire is engineered for enthusiasts who demand the ultimate in performance and control. This tire features a high-grip compound and aggressive tread pattern designed to provide superior traction and handling in both dry and wet conditions. The Potenza RE-71R is built for maximum cornering capability, quick response, and a thrilling driving experience. Its innovative construction and tread design ensure exceptional grip on the track and on the street, making it a favorite among racers and performance drivers alike. The tire’s reinforced sidewalls offer increased stability and durability, while the advanced rubber formulation delivers excellent wear resistance and a smooth ride."
+  }
+]

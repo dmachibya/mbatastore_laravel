@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mazda MX-5 Miata",
+    "slug": "mazda-mx-5-miata",
+    "brand": "Mazda",
+    "model_number": "ND",
+    "mpn": "ND-MX5-2024",
+    "gtin": "0490800482835",
+    "gtin_type": "UPC",
+    "origin_country": "Japan",
+    "manufacturer": "Mazda Motor Corporation",
+    "description": "The Mazda MX-5 Miata is the quintessential roadster, blending lightweight design with dynamic performance. The 2024 model continues this legacy with a Skyactiv-G 2.0L engine delivering 181 horsepower, ensuring an exhilarating driving experience. The MX-5 Miata features a soft top that can be easily lowered to enjoy open-air driving. Its well-crafted interior boasts supportive seats, a user-friendly infotainment system with Apple CarPlay and Android Auto, and advanced safety features such as lane departure warning and blind-spot monitoring. Perfect for driving enthusiasts, the MX-5 Miata offers unparalleled agility and a thrilling ride."
+  },
+  {
+    "name": "Ford Mustang Convertible",
+    "slug": "ford-mustang-convertible",
+    "brand": "Ford",
+    "model_number": "FM6",
+    "mpn": "FM6-MUST-2024",
+    "gtin": "0038567880980",
+    "gtin_type": "UPC",
+    "origin_country": "USA",
+    "manufacturer": "Ford Motor Company",
+    "description": "The Ford Mustang Convertible combines iconic style with modern performance, making it a standout in the convertible segment. The 2024 Mustang Convertible is available with a 2.3L EcoBoost engine or a powerful 5.0L V8, both offering impressive performance and efficiency. Its fully automatic soft top allows for easy conversion between open-air and closed-roof driving. Inside, the Mustang features a sophisticated interior with premium materials, a 12-inch digital cluster, and the latest SYNC 4 infotainment system with voice-activated navigation. Advanced safety features, including adaptive cruise control and pre-collision assist, ensure a secure driving experience. The Mustang Convertible is perfect for those who crave the thrill of open-road driving."
+  },
+  {
+    "name": "BMW Z4 Roadster",
+    "slug": "bmw-z4-roadster",
+    "brand": "BMW",
+    "model_number": "G29",
+    "mpn": "G29-Z4-2024",
+    "gtin": "0762543838009",
+    "gtin_type": "UPC",
+    "origin_country": "Germany",
+    "manufacturer": "BMW AG",
+    "description": "The BMW Z4 Roadster is a luxury convertible that offers a perfect blend of sporty performance and elegant design. The 2024 Z4 is equipped with a turbocharged 2.0L inline-4 engine or an available 3.0L inline-6, delivering exhilarating acceleration and agile handling. Its retractable soft top can be opened or closed in just 10 seconds, providing a seamless transition between open and closed driving. The Z4's interior is meticulously crafted with high-quality materials, featuring a 10.25-inch infotainment display with BMW's iDrive system, a premium Harman Kardon sound system, and a suite of driver assistance technologies. Whether cruising on the highway or navigating winding roads, the BMW Z4 Roadster offers a thrilling and luxurious driving experience."
+  }
+]

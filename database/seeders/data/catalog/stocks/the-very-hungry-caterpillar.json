@@ -1,0 +1,40 @@
+[
+  {
+    "title": "The Very Hungry Caterpillar - Hardcover",
+    "slug": "the-very-hungry-caterpillar-hardcover",
+    "sku": "TVHC-HC",
+    "description": "Eric Carle's 'The Very Hungry Caterpillar' is a beloved classic in children's literature, now available in a durable hardcover edition. This beautifully illustrated book follows the journey of a tiny caterpillar that eats its way through a variety of foods before transforming into a beautiful butterfly. With simple, repetitive text and vibrant, colorful illustrations, this book teaches children about counting, days of the week, and the life cycle of a butterfly. This hardcover edition is perfect for both young readers and collectors, providing a high-quality format for this enduring and delightful story.",
+    "price": 21.99,
+    "offer_price": 19.99,
+    "key_features": [
+      "Beloved Classic",
+      "Beautiful Illustrations",
+      "Hardcover Edition",
+      "Educational Themes"
+    ],
+    "stock_quantity": 150,
+    "sold_quantity": 70,
+    "shipping_weight": 1.1,
+    "meta_title": "The Very Hungry Caterpillar - Hardcover",
+    "meta_description": "Buy 'The Very Hungry Caterpillar' in hardcover. Eric Carle's classic children's book with beautiful illustrations and educational themes."
+  },
+  {
+    "title": "The Very Hungry Caterpillar - Board Book",
+    "slug": "the-very-hungry-caterpillar-board-book",
+    "sku": "TVHC-BB",
+    "description": "Eric Carle's 'The Very Hungry Caterpillar' is a timeless favorite, now available in a durable board book edition perfect for little hands. This beautifully illustrated book tells the story of a tiny caterpillar that eats its way through a variety of foods before becoming a beautiful butterfly. With simple, repetitive text and vibrant, colorful illustrations, this board book teaches children about counting, days of the week, and the life cycle of a butterfly. The sturdy pages of the board book format make it ideal for young readers and ensure that this delightful story can be enjoyed over and over again.",
+    "price": 10.99,
+    "offer_price": 9.99,
+    "key_features": [
+      "Beloved Classic",
+      "Durable Board Book Format",
+      "Beautiful Illustrations",
+      "Educational Themes"
+    ],
+    "stock_quantity": 250,
+    "sold_quantity": 90,
+    "shipping_weight": 0.9,
+    "meta_title": "The Very Hungry Caterpillar - Board Book",
+    "meta_description": "Order 'The Very Hungry Caterpillar' in a durable board book format. Eric Carle's timeless story, perfect for young readers."
+  }
+]

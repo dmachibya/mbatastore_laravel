@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MSR Evo Snowshoes",
+    "slug": "msr-evo-snowshoes",
+    "brand": "MSR",
+    "model_number": "200000275",
+    "mpn": "200000275",
+    "gtin": "0040818105672",
+    "gtin_type": "EAN",
+    "origin_country": "USA",
+    "manufacturer": "MSR",
+    "description": "The MSR Evo Snowshoes are designed for all-around winter adventures. Featuring a rugged, durable construction, these snowshoes are perfect for hiking through snow-covered terrain. The Evo's unique deck design offers excellent flotation and stability on deep snow, while the steel traction rails provide reliable grip on icy surfaces. With a lightweight and easy-to-use design, the MSR Evo Snowshoes are ideal for both beginners and experienced snowshoers looking for a dependable and versatile snowshoe for various winter activities."
+  },
+  {
+    "name": "Tubbs Wilderness Snowshoes",
+    "slug": "tubbs-wilderness-snowshoes",
+    "brand": "Tubbs",
+    "model_number": "X13010070170",
+    "mpn": "X13010070170",
+    "gtin": "0010155458626",
+    "gtin_type": "EAN",
+    "origin_country": "Canada",
+    "manufacturer": "Tubbs",
+    "description": "The Tubbs Wilderness Snowshoes are designed for off-trail exploration and backcountry adventures. With a rugged, durable construction and advanced features, these snowshoes offer exceptional performance in various snow conditions. The Wilderness model features an ergonomic, lightweight design with a V-Shaped frame for enhanced stability and flotation. The advanced traction system includes a combination of front and rear crampons for superior grip on icy and uneven terrain. Perfect for serious snowshoers seeking a reliable and high-performing snowshoe for challenging winter conditions."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Honda Activa 6G",
+    "slug": "honda-activa-6g",
+    "brand": "Honda",
+    "model_number": "Activa 6G",
+    "mpn": "1234567890",
+    "gtin": "1234567890123",
+    "gtin_type": "EAN-13",
+    "origin_country": "Japan",
+    "manufacturer": "Honda Motor Co., Ltd.",
+    "description": "The Honda Activa 6G is a popular scooter known for its reliable performance and comfortable ride. It features a 109.51cc engine, improved suspension, and enhanced fuel efficiency. With a stylish design and convenient features like a spacious under-seat storage and easy handling, the Activa 6G is ideal for daily commuting and city rides."
+  },
+  {
+    "name": "Vespa GTS Super 300",
+    "slug": "vespa-gts-super-300",
+    "brand": "Vespa",
+    "model_number": "GTS Super 300",
+    "mpn": "0987654321",
+    "gtin": "0987654321098",
+    "gtin_type": "EAN-13",
+    "origin_country": "Italy",
+    "manufacturer": "Piaggio & C. SpA",
+    "description": "The Vespa GTS Super 300 combines high performance with classic Vespa elegance. It features a 278cc engine, advanced ABS braking system, and a comfortable ride. With its sleek design, modern technology, and ample storage, the GTS Super 300 is perfect for both urban commuting and longer journeys."
+  }
+]

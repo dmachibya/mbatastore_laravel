@@ -41,7 +41,8 @@ class CreateShopForMerchant
         }
 
         if (is_subscription_enabled() && (bool) config('system_settings.trial_days')) {
-            $trial_ends_at = now()->addDays(config('system_settings.trial_days'));
+            $trial_ends_at = now()->addDays((int) config('system_settings.trial_days'));
+            // $trial_ends_at = now()->addDays(config('system_settings.trial_days'));
         }
 
         if (is_incevio_package_loaded('smartForm') && isset($request['extra_info']['file_paths'])) {

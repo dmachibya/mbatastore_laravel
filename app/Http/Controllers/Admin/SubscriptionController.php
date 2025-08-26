@@ -38,6 +38,7 @@ class SubscriptionController extends Controller
      */
     public function subscribe(Request $request, $plan, $merchant = null)
     {
+        // return "test";
         if (config('app.demo') == true && $request->user()->merchantId() <= config('system.demo.shops', 1)) {
             return redirect()->route('admin.account.billing')
                 ->with('warning', trans('messages.demo_restriction'));
@@ -52,12 +53,14 @@ class SubscriptionController extends Controller
 
         // create the subscription
         try {
+            // return "here top";
             $subscription = SubscriptionPlan::findOrFail($plan);
 
             // If the merchant already has any subscription then just swap to new plan
             $currentPlan = $merchant->getCurrentPlan();
 
             if ($currentPlan) {
+                // return "here";
                 if (!$this->validateSubscriptionSwap($subscription)) {
                     $msg = trans('messages.using_more_resource', ['plan' => $subscription->name]);
 

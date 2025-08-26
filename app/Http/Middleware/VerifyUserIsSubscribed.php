@@ -22,9 +22,10 @@ class VerifyUserIsSubscribed
             $request->user()->isFromPlatform() ||
             $request->user()->isSubscribed()
         ) {
+            return "here";
             return $next($request);
         }
-
+        return "here";
         return $request->ajax() || $request->wantsJson() ?
             response('Subscription required to access this page.', 402)
             : redirect()->route('admin.account.billing');

@@ -14,7 +14,7 @@ class CreateMerchantRequest extends Request
      */
     public function authorize()
     {
-        incevioAutoloadHelpers(getMysqliConnection());
+        // incevioAutoloadHelpers(getMysqliConnection());
         return Request::user()->isFromPlatform();
     }
 

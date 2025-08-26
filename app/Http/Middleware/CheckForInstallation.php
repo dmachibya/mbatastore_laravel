@@ -20,5 +20,6 @@ class CheckForInstallation
         }
 
         return redirect()->to('/install');
+        // return $next($request);
     }
 }

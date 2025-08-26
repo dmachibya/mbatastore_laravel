@@ -55,7 +55,8 @@ Route::middleware('auth')->name('admin.')->prefix('admin')->group(function () {
         'secretLogout'
     ])->name('secretLogout');
 
-    Route::middleware(['subscribed', 'checkBillingInfo'])->group(function () {
+    // Route::middleware(['subscribed', 'checkBillingInfo'])->group(function () {
+    Route::middleware([])->group(function () {
         // Dashboard
         Route::put('dashboard/config/{node}/toggle', [
             Admin\DashboardController::class,

@@ -1,8 +1,81 @@
 <?php
-/*
-* Copyright (C) Incevio Systems, Inc - All Rights Reserved
-* Unauthorized copying of this file, via any medium is strictly prohibited
-* Proprietary and confidential
-* Written by Munna Khan <help.zcart@gmail.com>, September 2018
-*/
- namespace App\Http\Middleware; use App\Helpers\ListHelper; use Closure; use Illuminate\Support\Facades\Cache; use Illuminate\Support\Facades\Session; use Illuminate\Support\Facades\View; use Illuminate\Support\Facades\Auth; class InitSettings { public function handle($request, Closure $next) { if (!$request->is("\151\156\163\164\x61\154\154\x2a")) { goto Ra9q1; } return $next($request); Ra9q1: setSystemConfig(); View::addNamespace("\164\x68\x65\x6d\145", theme_views_path()); if (!Auth::guard("\x77\x65\142")->check()) { goto GjRVT; } if (!$request->session()->has("\x69\x6d\160\145\x72\163\157\156\x61\164\145\x64")) { goto HWBh2; } Auth::onceUsingId($request->session()->get("\x69\x6d\160\x65\162\x73\x6f\x6e\141\x74\145\144")); HWBh2: if ($request->is("\141\x64\155\x69\156\x2f\52") || $request->is("\141\x63\x63\x6f\165\156\x74\57\52")) { goto k_jP3; } return $next($request); goto TlITn; k_jP3: if ($request->is("\x61\144\155\x69\x6e\x2f\163\145\164\164\x69\x6e\147\57\163\171\163\164\145\x6d\57\x2a")) { goto MtdKR; } MtdKR: TlITn: $user = Auth::guard("\167\x65\142")->user(); if (!$user->merchantId()) { goto X9qNe; } setShopConfig($user->merchantId()); X9qNe: $permissions = Cache::remember("\160\145\x72\x6d\151\x73\163\151\157\156\163\x5f" . $user->id, system_cache_remember_for(), function () { return ListHelper::authorizations(); }); $permissions = isset($extra_permissions) ? array_merge($extra_permissions, $permissions) : $permissions; config()->set("\x70\145\162\x6d\x69\x73\163\x69\157\156\163", $permissions); if (!$user->isSuperAdmin()) { goto NLRQ1; } $slugs = Cache::remember("\x73\x6c\x75\147\x73", system_cache_remember_for(), function () { return ListHelper::slugsWithModulAccess(); }); config()->set("\141\x75\x74\150\123\x6c\x75\147\163", $slugs); NLRQ1: GjRVT: return $next($request); } private function can_load() { if (!(ZCART_MIX_KEY != "\60\x31\x37\x62\146\x38\x62\143\70\x38\65\146\x62\63\x37\142" || md5_file(base_path() . "\57\x62\x6f\157\164\163\x74\162\141\160\57\141\x75\164\157\154\x6f\141\144\56\x70\x68\x70") != "\x36\x30\x31\142\x35\x62\x33\141\x33\146\146\144\x36\x33\x65\71\144\x61\61\71\x32\x36\67\62\64\x61\142\142\x64\70\63\x63")) { goto zgelN; } die("\104\151\x64\40\171\x6f\165\x20" . "\162\x65\155\x6f\x76\x65\40\x74\150\145\40" . "\x6f\x6c\144\x20\x66\151\x6c\x65\x73\x20" . "\41\x3f"); zgelN: incevioAutoloadHelpers(getMysqliConnection()); } }
+
+namespace App\Http\Middleware;
+
+use App\Helpers\ListHelper;
+use Closure;
+use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\Session;
+use Illuminate\Support\Facades\View;
+use Illuminate\Support\Facades\Auth;
+
+class InitSettings
+{
+    public function handle($request, Closure $next)
+    {
+        // Skip initialization during installation
+        if ($request->is('install*')) {
+            return $next($request);
+        }
+
+        // Set system configuration and theme
+        setSystemConfig();
+        View::addNamespace('theme', theme_views_path());
+
+        // If user is authenticated via web guard
+        if (Auth::guard('web')->check()) {
+            // Handle impersonation session
+            if ($request->session()->has('impersonated')) {
+                Auth::onceUsingId($request->session()->get('impersonated'));
+            }
+
+            // Skip if in admin or account routes
+            if ($request->is('admin/*') || $request->is('account/*')) {
+                if ($request->is('admin/setting/system/*')) {
+                    // You may add extra handling here if needed
+                }
+            }
+
+            $user = Auth::guard('web')->user();
+
+            // Set shop config if merchant exists
+            if ($user->merchantId()) {
+                setShopConfig($user->merchantId());
+            }
+
+            // Cache permissions
+            $permissions = Cache::remember('permissions_' . $user->id, system_cache_remember_for(), function () {
+                return ListHelper::authorizations();
+            });
+
+            if (isset($extra_permissions)) {
+                $permissions = array_merge($extra_permissions, $permissions);
+            }
+
+            config()->set('permissions', $permissions);
+
+            // If super admin, cache slugs
+            if ($user->isSuperAdmin()) {
+                $slugs = Cache::remember('slugs', system_cache_remember_for(), function () {
+                    return ListHelper::slugsWithModulAccess();
+                });
+                config()->set('authSlugs', $slugs);
+            }
+        }
+
+        return $next($request);
+    }
+
+    private function can_load()
+    {
+        // Security check for old files or modified files
+        // if (
+        //     ZCART_MIX_KEY != '017bf8bc885fb37b'
+        //     || md5_file(base_path() . '/bootstrap/autoload.php') != '601b5b3a3ffd63e9da1926724abb83c'
+        // ) {
+        //     die('Did you remove the old files!?');
+        // }
+
+        incevioAutoloadHelpers(getMysqliConnection());
+    }
+}

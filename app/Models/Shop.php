@@ -522,21 +522,22 @@ class Shop extends ShopWallet
      *
      * @return bool
      */
-    public function canAddMoreInventory()
+    public function canAddMoreInventory() // removed subscription check too //a
     {
-        if (!is_subscription_enabled()) {
-            return true;
-        }
+        return true;
+        // if (!is_subscription_enabled()) {
+        //     return true;
+        // }
 
-        if ($this->current_billing_plan) {
-            $plan = SubscriptionPlan::findOrFail($this->current_billing_plan);
+        // if ($this->current_billing_plan) {
+        //     $plan = SubscriptionPlan::findOrFail($this->current_billing_plan);
 
-            if (Statistics::shop_inventories_count() < $plan->inventory_limit) {
-                return true;
-            }
-        }
+        //     if (Statistics::shop_inventories_count() < $plan->inventory_limit) {
+        //         return true;
+        //     }
+        // }
 
-        return false;
+        // return false;
     }
 
     /**

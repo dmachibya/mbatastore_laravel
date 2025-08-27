@@ -49,6 +49,7 @@ class PaymentMethodController extends Controller
         $config = $this->checkPermission($request);
         $paymentMethod = PaymentMethod::findOrFail($id);
 
+
         $config->paymentMethods()->syncWithoutDetaching($id);
 
         if (!vendor_get_paid_directly()) {

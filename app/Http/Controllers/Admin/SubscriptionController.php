@@ -59,6 +59,8 @@ class SubscriptionController extends Controller
             // If the merchant already has any subscription then just swap to new plan
             $currentPlan = $merchant->getCurrentPlan();
 
+            // return $currentPlan;
+
             if ($currentPlan) {
                 // return "here";
                 if (!$this->validateSubscriptionSwap($subscription)) {
@@ -74,6 +76,7 @@ class SubscriptionController extends Controller
                 ])->save();
             } else {
                 // Subscribe the merchant to the given plan
+                // return "here";
                 SubscribeShopToNewPlan::dispatchSync($merchant, $plan);
             }
         } catch (\Exception $e) {

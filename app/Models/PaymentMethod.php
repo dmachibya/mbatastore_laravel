@@ -48,7 +48,7 @@ class PaymentMethod extends BaseModel
         'description',
         'instructions',
         'admin_description',
-        'enabled',
+        'en abled',
         'order',
     ];
 

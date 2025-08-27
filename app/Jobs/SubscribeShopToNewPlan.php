@@ -2,11 +2,13 @@
 
 namespace App\Jobs;
 
+use App\Models\PaymentMethod;
 use App\Models\User;
 use App\Models\SubscriptionPlan;
 use Illuminate\Foundation\Bus\Dispatchable;
 use Laravel\Cashier\Exceptions\IncompletePayment;
 use Carbon\Carbon;
+use Illuminate\Support\Facades\Log;
 
 class SubscribeShopToNewPlan
 {
@@ -38,10 +40,13 @@ class SubscribeShopToNewPlan
      */
     public function handle()
     {
+        // return "top level";
         $shop = $this->merchant->owns;
 
         // Create subscription intance
         $subscriptionPlan = SubscriptionPlan::findOrFail($this->plan);
+
+        // return $subscriptionPlan;
 
         $subscription = $shop->newSubscription($subscriptionPlan);
 
@@ -59,11 +64,24 @@ class SubscribeShopToNewPlan
             $subscription->skipTrial();
         }
 
+
+        // dd($subscription);
+
+        if (!$this->merchant->hasBillingToken()) {
+            // dd('No payment method available for merchant.');
+        }
+
+        $payment_method = PaymentMethod::find(5);
+
         // Create subscription
+        // dd($this->merchant->email);
+        Log::info("subscription about to be created: ", ['payment_method' => $payment_method, 'subscription' => $subscription]);
         try {
-            $subscription = $subscription->create($this->payment_method, [
+            Log::info('hereee DispatchSync reaching here: ', []);
+            $subscription = $subscription->create($payment_method, [
                 'email' => $this->merchant->email,
             ]);
+            Log::info('Subscription Created: ', ['subscription' => $subscription]);
 
             // Update shop model
             $shop->forceFill([
